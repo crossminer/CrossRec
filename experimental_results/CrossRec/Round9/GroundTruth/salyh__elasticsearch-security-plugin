@@ -1,0 +1,11 @@
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#org.elasticsearch:elasticsearch
+14	#DEP#net.sourceforge.spnego:spnego
+15	#DEP#org.apache.directory.server:apacheds-all
+16	#DEP#log4j:log4j
+17	#DEP#com.jayway.jsonpath:json-path
+18	#DEP#org.apache.tomcat:tomcat-jsp-api
+19	#DEP#org.apache.httpcomponents:httpcore
+20	#DEP#org.apache.httpcomponents:fluent-hc
+21	#DEP#junit:junit
+22	#DEP#com.github.tlrx:elasticsearch-test

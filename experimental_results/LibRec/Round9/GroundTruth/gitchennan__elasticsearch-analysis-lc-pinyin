@@ -1,0 +1,5 @@
+1	#DEP#nl.jqno.equalsverifier:equalsverifier
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.elasticsearch:elasticsearch

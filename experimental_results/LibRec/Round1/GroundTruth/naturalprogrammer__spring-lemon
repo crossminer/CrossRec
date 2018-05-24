@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security

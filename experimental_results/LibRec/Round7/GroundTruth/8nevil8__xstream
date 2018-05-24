@@ -1,0 +1,16 @@
+1	#DEP#${project.groupId}:xstream
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#commons-io:commons-io
+1	#DEP#xom:xom
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#net.sf.kxml:kxml2
+1	#DEP#oro:oro
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.codehaus.woodstox:wstx-asl
+1	#DEP#xml-apis:xml-apis
+1	#DEP#dom4j:dom4j
+1	#DEP#com.megginson.sax:xml-writer
+1	#DEP#${project.groupId}:xstream-hibernate
+1	#DEP#xerces:xercesImpl

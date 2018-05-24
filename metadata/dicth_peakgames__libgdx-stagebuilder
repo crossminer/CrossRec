@@ -1,0 +1,17 @@
+1	git://github.com/peakgames/libgdx-stagebuilder.git
+2	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+3	#DEP#com.google.android:android
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#net.sf.kxml:kxml2
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.badlogicgames.gdx:gdx-backend-gwt
+8	#DEP#net.peakgames.libgdx:stagebuilder-core
+9	#DEP#com.badlogicgames.gdx:gdx
+10	#DEP#com.google.gwt:gwt-servlet
+11	#DEP#com.badlogicgames.gdx:gdx-platform
+12	#DEP#com.badlogic.gdx:gdx-backend-ios
+13	#DEP#com.binarytweed:quarantining-test-runner
+14	#DEP#com.badlogicgames.gdx:gdx-backend-lwjgl
+15	#DEP#com.badlogicgames.gdx:gdx-backend-android
+16	#DEP#junit:junit
+17	#DEP#net.peakgames.libgdx:stagebuilder-extensions

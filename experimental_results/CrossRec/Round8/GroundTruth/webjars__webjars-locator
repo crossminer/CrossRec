@@ -1,0 +1,7 @@
+9	#DEP#org.webjars:bootstrap
+10	#DEP#org.webjars.bower:angular-schema-form
+11	#DEP#org.webjars.npm:object-assign
+12	#DEP#org.webjars:jquery
+13	#DEP#org.webjars.bower:angular-bootstrap
+14	#DEP#junit:junit
+15	#DEP#org.webjars:when-node

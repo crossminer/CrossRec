@@ -1,0 +1,7 @@
+8	#DEP#commons-codec:commons-codec
+9	#DEP#log4j:log4j
+10	#DEP#net.sf.json-lib:json-lib
+11	#DEP#commons-collections:commons-collections
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.apache.httpcomponents:httpcore
+14	#DEP#junit:junit

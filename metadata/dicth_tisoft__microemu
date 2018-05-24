@@ -1,0 +1,17 @@
+1	git://github.com/tisoft/microemu.git
+2	#DEP#org.microemu:bytecode-test-app
+3	#DEP#org.xmlvm.xmlvm2objc:compat-lib
+4	#DEP#org.microemu:bytecode-asm
+5	#DEP#org.microemu:microemu-injected
+6	#DEP#swt:swt
+7	#DEP#org.microemu:microemu-jsr-75
+8	#DEP#asm:asm
+9	#DEP#net.sf.jour:jour-instrument
+10	#DEP#org.microemu:microemu-javase-swing
+11	#DEP#org.microemu:cldcapi11
+12	#DEP#com.android:android
+13	#DEP#org.microemu:microemu-javase
+14	#DEP#org.microemu:microemu-demo
+15	#DEP#org.microemu:microemu-midp
+16	#DEP#junit:junit
+17	#DEP#org.microemu:microemu-cldc

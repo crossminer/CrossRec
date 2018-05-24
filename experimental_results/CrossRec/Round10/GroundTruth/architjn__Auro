@@ -1,0 +1,5 @@
+7	#DEP#org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.cocosw:bottomsheet

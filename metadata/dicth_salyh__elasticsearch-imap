@@ -1,0 +1,13 @@
+1	git://github.com/salyh/elasticsearch-imap.git
+2	#DEP#org.elasticsearch.plugin:mapper-attachments
+3	#DEP#commons-io:commons-io
+4	#DEP#de.saly:javamail-mock2-halfmock
+5	#DEP#com.beetstra.jutf7:jutf7
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.elasticsearch:elasticsearch
+10	#DEP#org.quartz-scheduler:quartz
+11	#DEP#log4j:log4j
+12	#DEP#junit:junit
+13	#DEP#com.sun.mail:javax.mail

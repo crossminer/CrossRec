@@ -1,0 +1,7 @@
+1	#DEP#org.apache.hbase:hbase-client
+1	#DEP#org.elasticsearch:elasticsearch
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-aspects
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#junit:junit

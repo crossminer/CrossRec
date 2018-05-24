@@ -1,0 +1,6 @@
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#com.bluelinelabs:logansquare
+12	#DEP#com.google.testing.compile:compile-testing
+13	#DEP#junit:junit

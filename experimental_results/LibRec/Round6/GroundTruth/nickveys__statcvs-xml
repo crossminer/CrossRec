@@ -1,0 +1,8 @@
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl
+1	#DEP#commons-jexl:commons-jexl
+1	#DEP#org.apache.maven.scm:maven-scm-api
+1	#DEP#jdom:jdom
+1	#DEP#jcommon:jcommon
+1	#DEP#statcvs:statcvs-xml
+1	#DEP#junit:junit
+1	#DEP#jfreechart:jfreechart

@@ -1,0 +1,7 @@
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.jsoup:jsoup
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#com.jolira:onejar-maven-plugin
+12	#DEP#log4j:log4j
+13	#DEP#com.intellij:forms_rt
+14	#DEP#com.beautyeye:beautyeye-lnf

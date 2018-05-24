@@ -1,0 +1,15 @@
+1	git://github.com/apache/tomcat80.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#com.jcraft:jzlib
+4	#DEP#asm:asm
+5	#DEP#org.apache.tomcat:jasper
+6	#DEP#org.apache.tomcat:juli
+7	#DEP#asm:asm-tree
+8	#DEP#org.apache.tomcat:tomcat-dbcp
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.apache.tomcat:coyote
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.apache.tomcat:jasper-el
+13	#DEP#junit:junit
+14	#DEP#org.apache.tomcat:jasper-jdt
+15	#DEP#com.h2database:h2

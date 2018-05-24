@@ -1,0 +1,8 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.easytesting:fest-assert-core
+1	#DEP#org.timepedia.exporter:gwtexporter
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.openstreetmap.osmosis:osmosis-osm-binary
+1	#DEP#junit:junit
+1	#DEP#ru.finam:slf4j-gwt

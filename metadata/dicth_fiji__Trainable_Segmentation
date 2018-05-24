@@ -1,0 +1,14 @@
+1	git://github.com/fiji/Trainable_Segmentation.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#nz.ac.waikato.cms.weka:weka-dev
+4	#DEP#sc.fiji:Anisotropic_Diffusion_2D
+5	#DEP#org.scijava:vecmath
+6	#DEP#net.imglib2:imglib2-ij
+7	#DEP#sc.fiji:fiji-lib
+8	#DEP#sc.fiji:imagescience
+9	#DEP#net.imglib2:imglib2
+10	#DEP#org.scijava:pom-scijava
+11	#DEP#net.imglib2:imglib2-algorithm-gpl
+12	#DEP#sc.fiji:VIB-lib
+13	#DEP#net.imagej:ij
+14	#DEP#junit:junit

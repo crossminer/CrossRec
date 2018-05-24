@@ -1,0 +1,8 @@
+1	#DEP#org.pac4j:pac4j-openid
+1	#DEP#org.pac4j:pac4j-jwt
+1	#DEP#org.pac4j:pac4j-oauth
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.pac4j:pac4j-sql
+1	#DEP#org.pac4j:pac4j-kerberos
+1	#DEP#org.pac4j:pac4j-saml
+1	#DEP#org.pac4j:pac4j-mongo

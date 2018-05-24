@@ -1,0 +1,13 @@
+1	git://github.com/williewheeler/kite.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.springframework:spring-beans
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.springframework.security:spring-security-core
+8	#DEP#org.springframework:spring-core
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.springframework.security:spring-security-config
+13	#DEP#junit:junit

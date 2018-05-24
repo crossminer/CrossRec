@@ -1,0 +1,15 @@
+17	#DEP#org.apache.httpcomponents:httpclient
+18	#DEP#com.jayway.restassured:rest-assured
+19	#DEP#com.fasterxml.jackson.core:jackson-databind
+20	#DEP#org.apache.deltaspike.cdictrl:deltaspike-cdictrl-api
+21	#DEP#org.springframework.boot:spring-boot-starter-web
+22	#DEP#com.jayway.restassured:json-schema-validator
+23	#DEP#javax:javaee-api
+24	#DEP#io.zipkin.brave:brave-apache-http-interceptors
+25	#DEP#com.google.inject:guice
+26	#DEP#org.apache.deltaspike.core:deltaspike-core-impl
+27	#DEP#org.apache.deltaspike.modules:deltaspike-test-control-module-api
+28	#DEP#junit:junit
+29	#DEP#org.apache.deltaspike.cdictrl:deltaspike-cdictrl-weld
+30	#DEP#com.h2database:h2
+31	#DEP#com.moowork.gradle:gradle-node-plugin

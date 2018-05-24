@@ -1,0 +1,10 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#${project.groupId}:zoie-core
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.yammer.metrics:metrics-core
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.json:json
+1	#DEP#junit:junit

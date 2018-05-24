@@ -1,0 +1,6 @@
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#com.google.protobuf:protobuf-java
+11	#DEP#com.google.truth:truth
+12	#DEP#org.slf4j:slf4j-jdk14

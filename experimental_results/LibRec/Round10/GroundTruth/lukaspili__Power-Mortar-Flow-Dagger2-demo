@@ -1,0 +1,7 @@
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#com.github.lukaspili.autodagger2:autodagger2
+1	#DEP#com.squareup.flow:flow-path
+1	#DEP#com.squareup.mortar:mortar
+1	#DEP#com.github.lukaspili.autodagger2:autodagger2-compiler

@@ -1,0 +1,9 @@
+1	#DEP#com.adobe.flex.framework:flex-framework
+1	#DEP#com.google.inject:guice
+1	#DEP#com.samskivert:depot
+1	#DEP#com.threerings:aspirin
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#com.adobe:as3corelib
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.samskivert:jmustache

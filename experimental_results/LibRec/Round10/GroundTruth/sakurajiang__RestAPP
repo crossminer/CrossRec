@@ -1,0 +1,8 @@
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#io.reactivex:rxandroid

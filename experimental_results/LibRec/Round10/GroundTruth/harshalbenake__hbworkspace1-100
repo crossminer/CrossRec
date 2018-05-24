@@ -1,0 +1,5 @@
+1	#DEP#com.google.android:android
+1	#DEP#${project.groupId}:extra-viewpager
+1	#DEP#com.squareup:fest-android
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:extra-listfragment

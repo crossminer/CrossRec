@@ -1,0 +1,10 @@
+1	git://github.com/Anchormen/sql4es.git
+2	#DEP#org.elasticsearch.plugin:shield
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.facebook.presto:presto-parser
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#joda-time:joda-time
+9	#DEP#org.apache.lucene:lucene-test-framework
+10	#DEP#org.elasticsearch:elasticsearch

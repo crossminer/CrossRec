@@ -1,0 +1,8 @@
+9	#DEP#org.eclipse.jetty:jetty-server
+10	#DEP#org.openrdf.sesame:sesame-repository-sail
+11	#DEP#com.tinkerpop.blueprints:blueprints-graph-sail
+12	#DEP#junit:junit
+13	#DEP#org.openrdf.sesame:sesame-queryparser-sparql
+14	#DEP#org.slf4j:slf4j-jdk14
+15	#DEP#org.eclipse.jetty:jetty-servlet
+16	#DEP#org.eclipse.jetty:jetty-websocket

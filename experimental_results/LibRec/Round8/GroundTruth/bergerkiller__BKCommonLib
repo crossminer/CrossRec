@@ -1,0 +1,6 @@
+1	#DEP#regalowl.hyperconomy:hyperconomy
+1	#DEP#org.objenesis:objenesis
+1	#DEP#com.comphenix.protocol:ProtocolLib
+1	#DEP#junit:junit
+1	#DEP#com.kellerkindt:ShowCaseStandalone
+1	#DEP#net.milkbowl.vault:Vault

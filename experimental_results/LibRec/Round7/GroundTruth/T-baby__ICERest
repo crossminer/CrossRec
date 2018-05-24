@@ -1,0 +1,5 @@
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#com.cybermkd:MongodbPlugin
+1	#DEP#org.fusesource.jansi:jansi

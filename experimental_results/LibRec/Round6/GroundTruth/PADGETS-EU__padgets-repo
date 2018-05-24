@@ -1,0 +1,13 @@
+1	#DEP#com.sun.jersey:jersey-client
+1	#DEP#javax:javaee-web-api
+1	#DEP#org.icepush:icepush
+1	#DEP#de.fhg.fokus:PadgetsREST-ejb
+1	#DEP#org.icefaces:icefaces
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#org.icefaces:icefaces-ace
+1	#DEP#org.eclipse.persistence:eclipselink
+1	#DEP#de.fhg.fokus:PadgetsREST-web
+1	#DEP#org.icefaces:icefaces-compat
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#de.fhg.fokus:SurveyMaven2-ejb
+1	#DEP#com.sun.jersey:jersey-server

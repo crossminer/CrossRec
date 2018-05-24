@@ -1,0 +1,11 @@
+1	git://github.com/Esri/spatial-framework-for-hadoop.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.esri.geometry:esri-geometry-api
+5	#DEP#org.apache.hadoop:hadoop-client
+6	#DEP#org.apache.hive:hive-serde
+7	#DEP#javax.jdo:jdo2-api
+8	#DEP#commons-logging:commons-logging
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#com.esri.hadoop:spatial-sdk-json

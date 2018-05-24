@@ -1,0 +1,8 @@
+1	git://github.com/SonarSource/sonarqube.git
+2	#DEP#org.sonarsource.sonarqube.tests:test-base-plugin
+3	#DEP#commons-email:commons-email
+4	#DEP#org.sonarsource.sonarqube:sonar-plugin-api
+5	#DEP#commons-daemon:commons-daemon
+6	#DEP#org.codehaus.sonar:sonar-plugin-api
+7	#DEP#junit:junit
+8	#DEP#org.sonarsource.sonarqube.tests:base-plugin

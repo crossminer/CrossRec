@@ -1,0 +1,11 @@
+1	git://github.com/igniterealtime/Smack.git
+2	#DEP#org.reflections:reflections
+3	#DEP#javax.media:jmf
+4	#DEP#com.jcraft:jzlib
+5	#DEP#eu.geekplace.javapinning:java-pinning-java7
+6	#DEP#org.igniterealtime.jbosh:jbosh
+7	#DEP#de.measite.minidns:minidns-hla
+8	#DEP#org.whispersystems:signal-protocol-java
+9	#DEP#dnsjava:dnsjava
+10	#DEP#org.bouncycastle:bcprov-jdk15on
+11	#DEP#org.slf4j:slf4j-api

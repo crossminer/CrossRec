@@ -1,0 +1,11 @@
+12	#DEP#org.eclipse.tycho:tycho-compiler-jdt
+13	#DEP#org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared
+14	#DEP#org.eclipse.tycho:org.eclipse.jdt.core
+15	#DEP#org.codehaus.plexus:plexus-compiler-api
+16	#DEP#org.eclipse.tycho:sisu-equinox-api
+17	#DEP#org.apache.maven:maven-plugin-api
+18	#DEP#org.mockito:mockito-core
+19	#DEP#org.apache.maven:maven-compat
+20	#DEP#org.codehaus.plexus:plexus-compiler-manager
+21	#DEP#junit:junit
+22	#DEP#bcel:bcel

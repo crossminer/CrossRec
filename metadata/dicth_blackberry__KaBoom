@@ -1,0 +1,14 @@
+1	git://github.com/blackberry/KaBoom.git
+2	#DEP#org.apache.curator:curator-recipes
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.blackberry.bdp.common:bdp-common
+5	#DEP#org.codehaus.jackson:jackson-mapper-asl
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.apache.kafka:kafka_2.9.2
+8	#DEP#com.blackberry.bdp.kaboom:kaboom-api
+9	#DEP#args4j:args4j
+10	#DEP#log4j:log4j
+11	#DEP#org.apache.hadoop:hadoop-client
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit
+14	#DEP#com.blackberry.bdp.krackle:krackle

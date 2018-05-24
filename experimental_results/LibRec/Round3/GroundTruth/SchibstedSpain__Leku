@@ -1,0 +1,6 @@
+1	#DEP#nl.littlerobots.rxlint:rxlint
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.android.support.test.espresso:espresso-core

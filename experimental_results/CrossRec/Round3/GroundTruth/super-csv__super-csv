@@ -1,0 +1,6 @@
+8	#DEP#net.sf.supercsv:super-csv
+9	#DEP#net.sf.supercsv:super-csv-joda
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#junit:junit
+12	#DEP#com.carrotsearch:junit-benchmarks
+13	#DEP#com.h2database:h2

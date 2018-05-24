@@ -1,0 +1,11 @@
+1	git://github.com/T-baby/ICERest.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.eclipse.jetty:jetty-io
+4	#DEP#javax.servlet:javax.servlet-api
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#com.alibaba:fastjson
+8	#DEP#org.eclipse.jetty:jetty-webapp
+9	#DEP#junit:junit
+10	#DEP#com.cybermkd:MongodbPlugin
+11	#DEP#org.fusesource.jansi:jansi

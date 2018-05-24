@@ -1,0 +1,5 @@
+7	#DEP#org.apache.hive:hive-serde
+8	#DEP#org.apache.avro:avro
+9	#DEP#com.force.api:force-wsc
+10	#DEP#org.mockito:mockito-all
+11	#DEP#junit:junit

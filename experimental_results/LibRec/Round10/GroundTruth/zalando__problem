@@ -1,0 +1,6 @@
+1	#DEP#org.junit.platform:junit-platform-launcher
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#com.google.gag:gag
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.hamcrest:java-hamcrest
+1	#DEP#org.zalando:problem

@@ -1,0 +1,9 @@
+1	#DEP#jp.co.cyberagent.android.gpuimage:gpuimage-library
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.readystatesoftware.systembartint:systembartint
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.github.bumptech.glide:okhttp-integration
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.squareup.retrofit:converter-moshi
+1	#DEP#com.orhanobut:hawk

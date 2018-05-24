@@ -1,0 +1,12 @@
+1	#DEP#args4j:args4j
+1	#DEP#com.google.protobuf:protobuf-java-util
+1	#DEP#com.google.guava:guava
+1	#DEP#org.json:json
+1	#DEP#com.amazonaws:aws-java-sdk-core
+1	#DEP#com.google.api-client:google-api-client
+1	#DEP#com.google.protobuf:protobuf-lite
+1	#DEP#com.amazonaws:aws-java-sdk-kms
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.google.crypto.tink:tink
+1	#DEP#com.google.crypto.tink:tink-android

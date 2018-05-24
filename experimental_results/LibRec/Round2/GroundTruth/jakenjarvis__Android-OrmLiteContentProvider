@@ -1,0 +1,5 @@
+1	#DEP#com.google.android:android-test
+1	#DEP#${project.groupId}:ormlite-content-provider-library
+1	#DEP#junit:junit
+1	#DEP#com.j256.ormlite:ormlite-core
+1	#DEP#org.springframework:spring-core

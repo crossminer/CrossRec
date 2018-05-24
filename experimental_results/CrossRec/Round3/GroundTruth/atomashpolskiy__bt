@@ -1,0 +1,10 @@
+12	#DEP#com.google.inject:guice
+13	#DEP#com.github.atomashpolskiy:bt-http-tracker-client
+14	#DEP#mldht.core:libmldht
+15	#DEP#com.googlecode.lanterna:lanterna
+16	#DEP#net.i2p.crypto:eddsa
+17	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+18	#DEP#junit:junit
+19	#DEP#com.github.atomashpolskiy:bt-tests
+20	#DEP#com.github.atomashpolskiy:bt-core
+21	#DEP#com.google.inject.extensions:guice-multibindings

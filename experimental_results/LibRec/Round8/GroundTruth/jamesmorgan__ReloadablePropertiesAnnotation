@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jmock:jmock
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit

@@ -1,0 +1,14 @@
+16	#DEP#org.mortbay.jetty:jetty
+17	#DEP#commons-cli:commons-cli
+18	#DEP#org.codehaus.jackson:jackson-core-asl
+19	#DEP#commons-logging:commons-logging
+20	#DEP#org.codehaus.jackson:jackson-mapper-asl
+21	#DEP#org.apache.hadoop:hadoop-nfs
+22	#DEP#org.slf4j:slf4j-log4j12
+23	#DEP#log4j:log4j
+24	#DEP#javax.servlet:servlet-api
+25	#DEP#org.apache.hadoop:hadoop-common
+26	#DEP#xmlenc:xmlenc
+27	#DEP#org.apache.hadoop:hadoop-auth
+28	#DEP#junit:junit
+29	#DEP#com.sun.jersey:jersey-server

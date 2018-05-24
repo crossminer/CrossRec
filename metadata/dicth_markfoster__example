@@ -1,0 +1,16 @@
+1	git://github.com/markfoster/example.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-commons-annotations
+4	#DEP#org.hibernate:hibernate-entitymanager
+5	#DEP#org.hibernate:hibernate-annotations
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.hibernate:hibernate-core
+8	#DEP#org.jboss.logging:jboss-logging
+9	#DEP#com.google.code.cli-parser:cli
+10	#DEP#javax.validation:validation-api
+11	#DEP#dom4j:dom4j
+12	#DEP#commons-logging:commons-logging
+13	#DEP#org.slf4j:slf4j-log4j12
+14	#DEP#commons-collections:commons-collections
+15	#DEP#junit:junit
+16	#DEP#cglib:cglib

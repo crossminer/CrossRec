@@ -1,0 +1,17 @@
+1	#DEP#jahspotify:jahspotify-web-common
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#jahspotify:jahspotify-api
+1	#DEP#jahspotify:jahspotify-native-jar
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#jahspotify:jahspotify-storage
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#jahspotify:libjahspotify
+1	#DEP#cglib:cglib

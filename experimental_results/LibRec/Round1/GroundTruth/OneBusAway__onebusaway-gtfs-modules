@@ -1,0 +1,9 @@
+1	#DEP#org.onebusaway:onebusaway
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.onebusaway:onebusaway-gtfs-hibernate
+1	#DEP#org.onebusaway:onebusaway-gtfs-transformer
+1	#DEP#org.json:json
+1	#DEP#org.onebusaway:onebusaway-gtfs
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

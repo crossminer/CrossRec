@@ -1,0 +1,12 @@
+1	git://github.com/nmoskalenko/RxFirebase.git
+2	#DEP#com.google.firebase:firebase-auth
+3	#DEP#org.assertj:assertj-core
+4	#DEP#com.android.support:support-annotations
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.google.firebase:firebase-config
+7	#DEP#com.google.firebase:firebase-storage
+8	#DEP#com.google.firebase:firebase-database
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

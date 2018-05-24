@@ -1,0 +1,14 @@
+1	git://github.com/android-Infoedge/randomizer.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#org.powermock:powermock-api-mockito
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#junit:junit
+14	#DEP#com.infoedge:jrandomizer

@@ -1,0 +1,9 @@
+10	#DEP#com.google.truth:truth
+11	#DEP#com.google.dagger:dagger
+12	#DEP#com.google.dagger:dagger-compiler
+13	#DEP#com.squareup.okhttp3:logging-interceptor
+14	#DEP#org.mockito:mockito-core
+15	#DEP#com.squareup.retrofit2:retrofit
+16	#DEP#junit:junit
+17	#DEP#io.reactivex:rxjava
+18	#DEP#io.reactivex:rxandroid

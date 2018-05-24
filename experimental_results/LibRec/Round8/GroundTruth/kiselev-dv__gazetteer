@@ -1,0 +1,14 @@
+1	#DEP#net.sourceforge.argparse4j:argparse4j
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#me.osm.gazetteer:ExternalSorting
+1	#DEP#com.strategicgains:RestExpress
+1	#DEP#joda-time:joda-time
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#com.google.inject:guice
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.strategicgains.plugin-express:RoutesMetadataPlugin
+1	#DEP#org.json:json
+1	#DEP#me.osm.osm-doc:osm-doc-java
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator

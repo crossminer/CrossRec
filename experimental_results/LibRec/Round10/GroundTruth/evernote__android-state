@@ -1,0 +1,6 @@
+1	#DEP#com.squareup.assertj:assertj-android
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

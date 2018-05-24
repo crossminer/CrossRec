@@ -1,0 +1,6 @@
+1	#DEP#com.orhanobut:logger
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.vladsch.flexmark:flexmark-ext-abbreviation
+1	#DEP#junit:junit
+1	#DEP#com.vladsch.flexmark:flexmark-ext-tables
+1	#DEP#com.vladsch.flexmark:flexmark-ext-autolink

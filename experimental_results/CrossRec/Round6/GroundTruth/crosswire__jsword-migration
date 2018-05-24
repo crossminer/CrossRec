@@ -1,0 +1,10 @@
+12	#DEP#org.apache.httpcomponents:httpclient
+13	#DEP#commons-logging:commons-logging
+14	#DEP#org.apache.lucene:lucene-analyzers
+15	#DEP#commons-net:commons-net
+16	#DEP#com.sun:jlfgr
+17	#DEP#log4j:log4j
+18	#DEP#org.crosswire:jsword-common-swing
+19	#DEP#org.crosswire:jsword
+20	#DEP#junit:junit
+21	#DEP#javancss:ccl

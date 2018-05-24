@@ -1,0 +1,10 @@
+1	#DEP#org.reflections:reflections
+1	#DEP#args4j:args4j
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#org.btrplace:scheduler-choco
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#net.minidev:json-smart
+1	#DEP#org.antlr:antlr
+1	#DEP#org.antlr:antlr4-maven-plugin
+1	#DEP#org.btrplace:btrpsl
+1	#DEP#org.antlr:antlr4-runtime

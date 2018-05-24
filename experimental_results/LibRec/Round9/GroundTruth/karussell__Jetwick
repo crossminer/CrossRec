@@ -1,0 +1,10 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.odlabs.wiquery:wiquery
+1	#DEP#log4j:log4j
+1	#DEP#org.mpg.yago:yago2utils
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#junit:junit
+1	#DEP#org.wicketstuff:wicketstuff-rome
+1	#DEP#org.apache.solr:solr-solrj

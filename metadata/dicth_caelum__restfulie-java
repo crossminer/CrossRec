@@ -1,0 +1,13 @@
+1	git://github.com/caelum/restfulie-java.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#com.thoughtworks.xstream:xstream
+4	#DEP#javassist:javassist
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.mockito:mockito-all
+7	#DEP#org.codehaus.jettison:jettison
+8	#DEP#net.java.dev.inflector:inflector
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#stax:stax
+11	#DEP#log4j:log4j
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#junit:junit

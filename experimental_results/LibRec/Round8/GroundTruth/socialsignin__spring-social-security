@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.social:spring-social-security
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework:spring-orm

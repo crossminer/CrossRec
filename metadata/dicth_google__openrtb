@@ -1,0 +1,12 @@
+1	git://github.com/google/openrtb.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.codahale.metrics:metrics-core
+5	#DEP#com.google.code.findbugs:jsr305
+6	#DEP#com.google.guava:guava
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#com.google.protobuf:protobuf-java
+11	#DEP#com.google.truth:truth
+12	#DEP#org.slf4j:slf4j-jdk14

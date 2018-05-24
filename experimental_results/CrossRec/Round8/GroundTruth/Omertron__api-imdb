@@ -1,0 +1,5 @@
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#junit:junit
+8	#DEP#org.yamj:api-common
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.slf4j:slf4j-jdk14

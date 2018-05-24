@@ -1,0 +1,6 @@
+7	#DEP#org.codehaus.jackson:jackson-jaxrs
+8	#DEP#org.apache.hadoop:hadoop-common
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#junit:junit
+11	#DEP#org.apache.mrunit:mrunit
+12	#DEP#org.apache.hadoop:hadoop-hdfs

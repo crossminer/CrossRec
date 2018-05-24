@@ -1,0 +1,5 @@
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#org.zalando.stups.build:stups-parent
+11	#DEP#org.slf4j:slf4j-log4j12

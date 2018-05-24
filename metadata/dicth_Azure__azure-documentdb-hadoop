@@ -1,0 +1,17 @@
+1	git://github.com/Azure/azure-documentdb-hadoop.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.hadoop:hadoop-mapreduce
+6	#DEP#org.apache.hive:hive-metastore
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.hadoop:hadoop-mapreduce-client-shuffle
+9	#DEP#org.apache.pig:pig
+10	#DEP#org.apache.hive:hive-serde
+11	#DEP#com.google.guava:guava
+12	#DEP#org.apache.hadoop:hadoop-common
+13	#DEP#org.apache.httpcomponents:httpcore
+14	#DEP#org.openx.data:json-serde-parent
+15	#DEP#org.apache.hadoop:hadoop-hdfs
+16	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+17	#DEP#com.microsoft.azure:azure-documentdb

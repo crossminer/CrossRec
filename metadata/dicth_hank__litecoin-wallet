@@ -1,0 +1,11 @@
+1	git://github.com/hank/litecoin-wallet.git
+2	#DEP#com.google.android:support-v4
+3	#DEP#com.google.zxing:android-integration
+4	#DEP#com.google.android:android
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.android:annotations
+8	#DEP#com.google:litecoinj
+9	#DEP#com.google.zxing:core
+10	#DEP#com.actionbarsherlock:library
+11	#DEP#de.schildbach.wallet.litecoin:integration-android

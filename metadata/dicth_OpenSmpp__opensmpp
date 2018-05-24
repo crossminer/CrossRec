@@ -1,0 +1,13 @@
+1	git://github.com/OpenSmpp/opensmpp.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.opensmpp:opensmpp-core
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.opensmpp:opensmpp-client
+6	#DEP#org.opensmpp:opensmpp-sim
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#org.opensmpp:opensmpp-parent
+10	#DEP#${project.groupId}:opensmpp-core
+11	#DEP#${project.groupId}:opensmpp-charset
+12	#DEP#junit:junit
+13	#DEP#org.opensmpp:opensmpp-charset

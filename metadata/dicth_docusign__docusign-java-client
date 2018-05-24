@@ -1,0 +1,15 @@
+1	git://github.com/docusign/docusign-java-client.git
+2	#DEP#com.brsanthu:migbase64
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.sun.jersey:jersey-client
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+7	#DEP#com.sun.jersey.contribs:jersey-multipart
+8	#DEP#joda-time:joda-time
+9	#DEP#com.auth0:java-jwt
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#com.fasterxml.jackson.core:jackson-core
+12	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.client
+13	#DEP#io.swagger:swagger-annotations
+14	#DEP#junit:junit
+15	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

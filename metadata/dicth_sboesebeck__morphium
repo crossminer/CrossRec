@@ -1,0 +1,10 @@
+1	git://github.com/sboesebeck/morphium.git
+2	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+3	#DEP#javax.validation:validation-api
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#org.hibernate:hibernate-validator
+6	#DEP#org.mongodb:mongodb-driver
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#junit:junit
+9	#DEP#org.openjdk.jmh:jmh-core
+10	#DEP#cglib:cglib

@@ -1,0 +1,14 @@
+15	#DEP#be.maximvdw:MVdWPlaceholderAPI
+16	#DEP#me.clip.deluxechat:DeluxeChatPlaceholderAPI
+17	#DEP#com.boydti:fawe-api
+18	#DEP#uSkyBlock:uSkyBlock-AWE321
+19	#DEP#dk.lockfuglsang.minecraft:bukkit-utils
+20	#DEP#org.hamcrest:hamcrest-library
+21	#DEP#dk.lockfuglsang.minecraft:po-utils
+22	#DEP#com.github.rlf:uSkyBlock-API
+23	#DEP#uSkyBlock:uSkyBlock-Core
+24	#DEP#io.puharesource.mc:TitleManager
+25	#DEP#junit:junit
+26	#DEP#net.milkbowl.vault:VaultAPI
+27	#DEP#com.connorlinfoot.actionbarapi:ActionBarAPI
+28	#DEP#uSkyBlock:uSkyBlock-FAWE

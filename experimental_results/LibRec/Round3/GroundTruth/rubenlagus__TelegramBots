@@ -1,0 +1,11 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#org.glassfish.jersey.test-framework:jersey-test-framework-core
+1	#DEP#org.glassfish.jersey.core:jersey-server
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.mapdb:mapdb
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+1	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

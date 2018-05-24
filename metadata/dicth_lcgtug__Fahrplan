@@ -1,0 +1,14 @@
+1	git://github.com/lcgtug/Fahrplan.git
+2	#DEP#org.neo4j:neo4j-spatial
+3	#DEP#org.neo4j:neo4j-lucene-index
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.geotools:gt-render
+6	#DEP#net.sf.kxml:kxml2
+7	#DEP#org.geotools:gt-main
+8	#DEP#org.neo4j:neo4j-kernel
+9	#DEP#org.scala-lang:scala-compiler
+10	#DEP#org.neo4j:neo4j-shell
+11	#DEP#org.scala-lang:scala-library
+12	#DEP#org.json:json
+13	#DEP#org.neo4j:neo4j-graph-algo
+14	#DEP#org.geotools:gt-shapefile

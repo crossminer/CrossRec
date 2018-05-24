@@ -1,0 +1,15 @@
+1	#DEP#junit:junit
+1	#DEP#org.netbeans.api:org-openide-explorer
+1	#DEP#org.swinglabs:swingx-core
+1	#DEP#com.github.kayak:Kayak-core
+1	#DEP#org.netbeans.api:org-netbeans-modules-options-api
+1	#DEP#com.github.kayak:Kayak-ui
+1	#DEP#org.netbeans.api:org-openide-modules
+1	#DEP#org.netbeans.api:org-openide-io
+1	#DEP#org.netbeans.api:org-openide-filesystems
+1	#DEP#${project.groupId}:Kayak-ui
+1	#DEP#eu.hansolo:SteelSeries
+1	#DEP#org.netbeans.api:org-openide-util-lookup
+1	#DEP#org.netbeans.api:org-openide-util
+1	#DEP#org.netbeans.api:org-netbeans-modules-settings
+1	#DEP#org.swinglabs:swingx-ws

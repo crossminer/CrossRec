@@ -1,0 +1,14 @@
+1	#DEP#org.apache.lucene:lucene-queries
+1	#DEP#easymock:easymock
+1	#DEP#org.codehaus.jettison:jettison
+1	#DEP#org.apache.lucene:lucene-analyzers
+1	#DEP#rhino:js
+1	#DEP#log4j:log4j
+1	#DEP#com.sleepycat:je
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.apache.lucene:lucene-spatial
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#org.apache.activemq:activemq-core

@@ -1,0 +1,12 @@
+1	#DEP#com.helger:ph-commons
+1	#DEP#com.helger:ph-xml
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#com.helger:ph-servlet
+1	#DEP#com.helger:as2-servlet
+1	#DEP#com.helger:ph-web-parent-pom
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#com.helger:as2-partnership-mongodb
+1	#DEP#junit:junit
+1	#DEP#com.helger:as2-lib-parent-pom

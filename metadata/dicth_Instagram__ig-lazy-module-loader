@@ -1,0 +1,10 @@
+1	git://github.com/Instagram/ig-lazy-module-loader.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#org.powermock:powermock-classloading-xstream
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit

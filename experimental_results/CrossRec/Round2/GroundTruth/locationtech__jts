@@ -1,0 +1,5 @@
+7	#DEP#org.locationtech.jts:jts-tests
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#com.esri:jsde_sdk
+10	#DEP#junit:junit
+11	#DEP#org.locationtech.jts:jts-core

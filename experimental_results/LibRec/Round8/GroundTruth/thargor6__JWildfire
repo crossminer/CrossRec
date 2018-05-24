@@ -1,0 +1,5 @@
+1	#DEP#commons-io:commons-io
+1	#DEP#colt:colt
+1	#DEP#javazoom:jlayer
+1	#DEP#com.kitfox.svg:svg-salamander
+1	#DEP#org.scijava:jep

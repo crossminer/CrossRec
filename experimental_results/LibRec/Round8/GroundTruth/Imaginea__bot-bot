@@ -1,0 +1,8 @@
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-signature
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#com.h2database:h2

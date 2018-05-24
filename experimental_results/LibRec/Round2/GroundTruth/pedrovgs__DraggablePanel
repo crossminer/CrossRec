@@ -1,0 +1,5 @@
+1	#DEP#com.squareup.dagger:dagger
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.nineoldandroids:library
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.android.gms:play-services

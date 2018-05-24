@@ -1,0 +1,15 @@
+17	#DEP#org.eclipse.jetty:jetty-server
+18	#DEP#dom4j:dom4j
+19	#DEP#org.slf4j:log4j-over-slf4j
+20	#DEP#org.subethamail:subethasmtp
+21	#DEP#org.fusesource.jansi:jansi
+22	#DEP#postgresql:postgresql
+23	#DEP#org.codehaus.janino:janino
+24	#DEP#ch.qos.logback:logback-core
+25	#DEP#org.mockito:mockito-core
+26	#DEP#log4j:log4j
+27	#DEP#javax.servlet:javax.servlet-api
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#ch.qos.cal10n.plugins:maven-cal10n-plugin
+30	#DEP#org.apache.felix:org.apache.felix.main
+31	#DEP#org.hsqldb:hsqldb

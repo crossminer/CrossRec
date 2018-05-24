@@ -1,0 +1,6 @@
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#com.google.inject.extensions:guice-multibindings
+12	#DEP#com.google.truth:truth

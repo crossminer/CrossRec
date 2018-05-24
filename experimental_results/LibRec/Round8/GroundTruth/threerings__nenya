@@ -1,0 +1,11 @@
+1	#DEP#com.threerings:nenya-tools
+1	#DEP#org.lwjgl.lwjgl:lwjgl_util
+1	#DEP#com.threerings:nenya
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.adobe.flex.framework:flex-framework
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#com.threerings:naryalib
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-digester:commons-digester
+1	#DEP#junit:junit
+1	#DEP#org.jcraft:jorbis

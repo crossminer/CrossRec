@@ -1,0 +1,5 @@
+7	#DEP#nl.jqno.equalsverifier:equalsverifier
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#org.freemarker:freemarker

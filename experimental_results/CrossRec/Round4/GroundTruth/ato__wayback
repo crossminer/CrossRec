@@ -1,0 +1,8 @@
+10	#DEP#org.apache:hadoop
+11	#DEP#org.archive.wayback:wayback-mapreduce
+12	#DEP#org.archive.wayback:wayback-core
+13	#DEP#log4j:log4j
+14	#DEP#org.archive.access-control:access-control
+15	#DEP#javax.servlet:servlet-api
+16	#DEP#org.mozilla:juniversalchardet
+17	#DEP#junit:junit

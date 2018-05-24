@@ -1,0 +1,8 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.firebase:firebase-core
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.google.firebase:firebase-appindexing

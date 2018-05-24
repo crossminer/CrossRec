@@ -1,0 +1,5 @@
+7	#DEP#net.sourceforge.jwebunit:jwebunit-core
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin
+11	#DEP#org.mortbay.jetty:jsp-2.1

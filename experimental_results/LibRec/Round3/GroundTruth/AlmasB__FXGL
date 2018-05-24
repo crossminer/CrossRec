@@ -1,0 +1,5 @@
+1	#DEP#org.jetbrains.kotlinx:kotlinx-coroutines-core
+1	#DEP#io.github.lukehutch:fast-classpath-scanner
+1	#DEP#com.github.almasb:fxgl
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.module:jackson-module-kotlin

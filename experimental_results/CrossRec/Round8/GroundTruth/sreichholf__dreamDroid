@@ -1,0 +1,9 @@
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#com.android.support:leanback-v17
+12	#DEP#com.android.support:design
+13	#DEP#org.piwik.sdk:piwik-sdk
+14	#DEP#com.android.support:preference-v7
+15	#DEP#com.android.support:preference-v14
+16	#DEP#com.android.support:cardview-v7
+17	#DEP#com.squareup.picasso:picasso
+18	#DEP#com.android.support:support-v4

@@ -1,0 +1,12 @@
+1	git://github.com/bazaarvoice/jolt.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.bazaarvoice.jolt:jolt-complete
+5	#DEP#com.google.inject:guice
+6	#DEP#com.bazaarvoice.jolt:jolt-core
+7	#DEP#net.sourceforge.argparse4j:argparse4j
+8	#DEP#org.testng:testng
+9	#DEP#com.google.guava:guava
+10	#DEP#org.apache.commons:commons-lang3
+11	#DEP#com.bazaarvoice.jolt:json-utils
+12	#DEP#com.fasterxml.jackson.core:jackson-databind

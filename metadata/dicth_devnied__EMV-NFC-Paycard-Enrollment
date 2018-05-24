@@ -1,0 +1,15 @@
+1	git://github.com/devnied/EMV-NFC-Paycard-Enrollment.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#commons-io:commons-io
+4	#DEP#com.github.devnied.emvnfccard:library
+5	#DEP#com.android.support:v4
+6	#DEP#com.google.android:android
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.readystatesoftware.systembartint:systembartint
+9	#DEP#com.github.devnied:bit-lib4j
+10	#DEP#org.easytesting:fest-assert
+11	#DEP#org.apache.commons:commons-collections4
+12	#DEP#de.keyboardsurfer.android.widget:crouton
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#junit:junit
+15	#DEP#cglib:cglib

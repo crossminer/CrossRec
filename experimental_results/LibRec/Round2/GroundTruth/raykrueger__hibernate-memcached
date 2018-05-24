@@ -1,0 +1,5 @@
+1	#DEP#org.hibernate:hibernate-annotations
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-log4j12

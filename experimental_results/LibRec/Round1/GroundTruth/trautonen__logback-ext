@@ -1,0 +1,13 @@
+1	#DEP#org.eluder.logback:logback-ext-sqs-appender
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.eluder.logback:logback-ext-dynamodb-appender
+1	#DEP#org.eluder.logback:logback-ext-jackson
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.amazonaws:aws-java-sdk-core
+1	#DEP#junit:junit
+1	#DEP#org.eluder.logback:logback-ext-aws-core
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.eluder.logback:logback-ext-lmax-appender
+1	#DEP#com.amazonaws:aws-java-sdk-sqs

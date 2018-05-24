@@ -1,0 +1,7 @@
+1	#DEP#org.jmock:jmock-testjar
+1	#DEP#org.jmock:jmock-parent
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.jmock:jmock
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib
+1	#DEP#com.thoughtworks.qdox:qdox

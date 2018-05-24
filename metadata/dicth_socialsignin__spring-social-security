@@ -1,0 +1,10 @@
+1	git://github.com/socialsignin/spring-social-security.git
+2	#DEP#org.springframework.social:spring-social-core
+3	#DEP#org.springframework.social:spring-social-config
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.springframework.social:spring-social-web
+6	#DEP#org.springframework.social:spring-social-security
+7	#DEP#org.springframework.security:spring-security-web
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.springframework:spring-beans
+10	#DEP#org.springframework:spring-orm

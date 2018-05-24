@@ -1,0 +1,10 @@
+1	#DEP#io.vertx:vertx-core
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#io.vertx:vertx-sql-common
+1	#DEP#com.github.mauricio:postgresql-async_2.12
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#com.jayway.awaitility:awaitility

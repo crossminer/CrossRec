@@ -1,0 +1,10 @@
+12	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+13	#DEP#com.google.code.findbugs:annotations
+14	#DEP#cz.habarta.typescript-generator:typescript-generator-core
+15	#DEP#org.gradle:gradle-base-services-groovy
+16	#DEP#org.gradle:gradle-base-services
+17	#DEP#org.gradle:gradle-core
+18	#DEP#io.swagger:swagger-annotations
+19	#DEP#junit:junit
+20	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+21	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

@@ -1,0 +1,5 @@
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.github.MKergall:osmbonuspack
+10	#DEP#com.cocoahero.android:geojson

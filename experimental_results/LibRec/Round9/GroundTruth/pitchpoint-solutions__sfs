@@ -1,0 +1,10 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.microsoft.azure:azure-keyvault-core
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.microsoft.azure:azure-keyvault-extensions
+1	#DEP#com.amazonaws:aws-java-sdk-kms
+1	#DEP#junit:junit
+1	#DEP#com.microsoft.azure:azure-keyvault
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.reactivex:rxjava

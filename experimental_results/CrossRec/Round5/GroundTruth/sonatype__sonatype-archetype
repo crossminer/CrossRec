@@ -1,0 +1,11 @@
+12	#DEP#org.codehaus.plexus:plexus-velocity
+13	#DEP#com.company.proficio:proficio-api
+14	#DEP#com.company.proficio:proficio-store-memory
+15	#DEP#dom4j:dom4j
+16	#DEP#org.sonatype.maven.archetype:archetype-common
+17	#DEP#com.company.proficio:proficio-model
+18	#DEP#org.apache.maven:maven-plugin-api
+19	#DEP#org.apache.maven:maven-compat
+20	#DEP#commons-collections:commons-collections
+21	#DEP#jdom:jdom
+22	#DEP#junit:junit

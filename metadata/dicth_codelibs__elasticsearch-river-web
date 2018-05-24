@@ -1,0 +1,15 @@
+1	git://github.com/codelibs/elasticsearch-river-web.git
+2	#DEP#javax.transaction:javax.transaction-api
+3	#DEP#org.codelibs.fess:fess-crawler-lasta
+4	#DEP#org.slf4j:slf4j-log4j12
+5	#DEP#org.dbflute.utflute:utflute-lasta-di
+6	#DEP#org.elasticsearch:elasticsearch
+7	#DEP#org.jsoup:jsoup
+8	#DEP#org.slf4j:jcl-over-slf4j
+9	#DEP#org.codelibs:elasticsearch-cluster-runner
+10	#DEP#args4j:args4j
+11	#DEP#org.lastaflute:lasta-di
+12	#DEP#org.codelibs:corelib
+13	#DEP#junit:junit
+14	#DEP#org.codelibs.fess:fess-crawler-es
+15	#DEP#org.codelibs.fess:fess-crawler-webdriver

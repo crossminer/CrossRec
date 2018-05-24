@@ -1,0 +1,5 @@
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#org.apache.avro:avro
+1	#DEP#com.force.api:force-wsc
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit

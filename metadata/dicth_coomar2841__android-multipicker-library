@@ -1,0 +1,10 @@
+1	git://github.com/coomar2841/android-multipicker-library.git
+2	#DEP#net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.google.android.gms:play-services-ads
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#:app
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.google.android.gms:play-services-base

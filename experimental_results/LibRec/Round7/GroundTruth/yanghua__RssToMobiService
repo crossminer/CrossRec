@@ -1,0 +1,6 @@
+1	#DEP#redis.clients:jedis
+1	#DEP#rome:rome
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.freemarker:freemarker
+1	#DEP#org.aspectj:aspectjweaver

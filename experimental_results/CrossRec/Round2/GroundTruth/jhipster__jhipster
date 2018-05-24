@@ -1,0 +1,17 @@
+18	#DEP#org.springframework.boot:spring-boot-test
+19	#DEP#org.springframework.boot:spring-boot-starter-mail
+20	#DEP#io.springfox:springfox-bean-validators
+21	#DEP#javax.cache:cache-api
+22	#DEP#org.springframework.boot:spring-boot-configuration-processor
+23	#DEP#org.springframework.boot:spring-boot-starter-web
+24	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+25	#DEP#org.springframework.boot:spring-boot-loader-tools
+26	#DEP#org.springframework.cloud:spring-cloud-starter-ribbon
+27	#DEP#org.springframework.boot:spring-boot-starter-logging
+28	#DEP#org.springframework:spring-context-support
+29	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+30	#DEP#org.springframework.boot:spring-boot-autoconfigure
+31	#DEP#org.hibernate:hibernate-jcache
+32	#DEP#org.springframework.boot:spring-boot-starter-aop
+33	#DEP#org.springframework.security:spring-security-data
+34	#DEP#io.dropwizard.metrics:metrics-graphite

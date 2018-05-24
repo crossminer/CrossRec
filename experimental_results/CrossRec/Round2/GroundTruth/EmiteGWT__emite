@@ -1,0 +1,7 @@
+8	#DEP#com.google.inject:guice
+9	#DEP#com.google.inject.extensions:guice-assistedinject
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.google.guiceberry:guiceberry
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#com.google.gwt.inject:gin
+14	#DEP#junit:junit

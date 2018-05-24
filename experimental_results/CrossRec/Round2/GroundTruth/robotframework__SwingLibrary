@@ -1,0 +1,8 @@
+10	#DEP#commons-collections:commons-collections
+11	#DEP#com.thoughtworks.paranamer:paranamer
+12	#DEP#jdom:jdom
+13	#DEP#org.robotframework:swinglibrary
+14	#DEP#junit:junit
+15	#DEP#org.robotframework:javatools-test
+16	#DEP#gnu-regexp:gnu-regexp
+17	#DEP#this.does.not.matter:ThisAlsoIsIgnored

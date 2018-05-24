@@ -1,0 +1,6 @@
+8	#DEP#org.mockito:mockito-core
+9	#DEP#com.android.support:support-v4
+10	#DEP#com.google.firebase:firebase-database
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

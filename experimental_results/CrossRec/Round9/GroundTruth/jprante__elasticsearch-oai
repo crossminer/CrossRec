@@ -1,0 +1,6 @@
+8	#DEP#org.xbib.elasticsearch.plugin:elasticsearch-helper
+9	#DEP#org.xbib:xbib-oai
+10	#DEP#xerces:xercesImpl
+11	#DEP#org.xbib:xbib-time
+12	#DEP#org.xbib:xbib-datastructures-forkjoin
+13	#DEP#org.apache.logging.log4j:log4j-slf4j-impl

@@ -1,0 +1,12 @@
+1	#DEP#org.beanshell:bsh
+1	#DEP#amf:flex-messaging-core
+1	#DEP#org.apache.santuario:xmlsec
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.openid4java:openid4java-nodeps
+1	#DEP#log4j:log4j
+1	#DEP#jfree:jfreechart
+1	#DEP#chardet:chardet
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#junit:junit

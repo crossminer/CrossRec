@@ -1,0 +1,12 @@
+1	git://github.com/igor-petruk/protobuf-maven-plugin.git
+2	#DEP#org.apache.maven:maven-artifact-manager
+3	#DEP#org.apache.maven:maven-repository-metadata
+4	#DEP#org.codehaus.plexus:plexus-utils
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.sonatype.plexus:plexus-build-api
+7	#DEP#org.apache.maven:maven-model
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven:maven-artifact
+11	#DEP#org.apache.maven:maven-core
+12	#DEP#org.apache.maven.shared:maven-dependency-tree

@@ -1,0 +1,10 @@
+1	#DEP#com.sksamuel.jqm4gwt:jqm4gwt
+1	#DEP#${project.groupId}:jqm4gwt-iscroll
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#net.kindleit:gae-runtime
+1	#DEP#${project.groupId}:jqm4gwt-datebox
+1	#DEP#${project.groupId}:jqm4gwt-library
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing

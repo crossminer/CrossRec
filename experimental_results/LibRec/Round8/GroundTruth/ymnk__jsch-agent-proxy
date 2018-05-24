@@ -1,0 +1,8 @@
+1	#DEP#com.jcraft:jsch.agentproxy.jsch
+1	#DEP#com.jcraft:jsch.agentproxy.connector-factory
+1	#DEP#net.schmizz:sshj
+1	#DEP#com.jcraft:jsch.agentproxy.usocket-jna
+1	#DEP#com.jcraft:jsch.agentproxy.sshj
+1	#DEP#org.newsclub:junixsocket
+1	#DEP#com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2
+1	#DEP#com.jcraft:jsch.agentproxy.core

@@ -1,0 +1,14 @@
+1	git://github.com/mapsforge/mapsforge.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#com.jayway.android.robotium:robotium-solo
+4	#DEP#commons-io:commons-io
+5	#DEP#com.vividsolutions:jts-core
+6	#DEP#com.caverock:androidsvg
+7	#DEP#net.sf.kxml:kxml2
+8	#DEP#org.xerial:sqlite-jdbc
+9	#DEP#com.android.support:support-fragment
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.openstreetmap.osmosis:osmosis-core
+12	#DEP#com.metsci.ext.com.kitfox.svg:svg-salamander
+13	#DEP#net.sf.trove4j:trove4j
+14	#DEP#com.google.guava:guava

@@ -1,0 +1,11 @@
+1	git://github.com/enix12enix/sikuli-remote-control.git
+2	#DEP#org.sikuli.script:sikuli-script-mac
+3	#DEP#org.mortbay.jetty:jetty
+4	#DEP#org.python:jython
+5	#DEP#org.sikuli.script:sikuli-script-windows
+6	#DEP#log4j:log4j
+7	#DEP#org.easymock:easymock
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-lang:commons-lang

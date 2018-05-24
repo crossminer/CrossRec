@@ -1,0 +1,6 @@
+1	#DEP#com.github.VictorAlbertos.Jolyglot:gson
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.github.VictorAlbertos.Jolyglot:moshi
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service

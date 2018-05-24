@@ -1,0 +1,13 @@
+1	git://github.com/fedefernandez/MyAppList.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#com.google.android:android
+4	#DEP#com.nineoldandroids:library
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.github.manuelpeinado.multichoiceadapter:multichoiceadapter
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.google.android.gms:play-services
+9	#DEP#com.google.android:support-v4
+10	#DEP#:dependencies
+11	#DEP#de.keyboardsurfer.android.widget:crouton
+12	#DEP#com.android.support:support-v4
+13	#DEP#junit:junit

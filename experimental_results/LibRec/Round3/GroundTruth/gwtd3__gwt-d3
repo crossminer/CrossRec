@@ -1,0 +1,6 @@
+1	#DEP#com.google.guava:guava-gwt
+1	#DEP#com.github.gwtbootstrap:gwt-bootstrap
+1	#DEP#com.github.gwtd3:gwt-d3-api
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#junit:junit

@@ -1,0 +1,5 @@
+6	#DEP#com.sleepycat:je
+7	#DEP#org.apache.hadoop:hadoop-common
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-hdfs
+10	#DEP#org.htmlparser:htmlparser

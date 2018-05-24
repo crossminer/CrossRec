@@ -1,0 +1,12 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+1	#DEP#org.javassist:javassist
+1	#DEP#org.jenkins-ci.plugins:mailer
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins:config-file-provider
+1	#DEP#junit:junit
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

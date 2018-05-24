@@ -1,0 +1,6 @@
+1	#DEP#org.clojure:clojure-contrib
+1	#DEP#org.testng:testng
+1	#DEP#storm:storm
+1	#DEP#redis.clients:jedis
+1	#DEP#org.clojure:clojure
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl

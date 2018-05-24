@@ -1,0 +1,17 @@
+18	#DEP#net.sf.ehcache:ehcache-web
+19	#DEP#javax.jcr:jcr
+20	#DEP#org.springframework:spring
+21	#DEP#net.sf.ehcache:ehcache-core
+22	#DEP#javax.annotation:jsr250-api
+23	#DEP#javax.transaction:jta
+24	#DEP#hsqldb:hsqldb
+25	#DEP#javax.persistence:persistence-api
+26	#DEP#org.beanshell:bsh
+27	#DEP#commons-jxpath:commons-jxpath
+28	#DEP#org.apache.poi:poi
+29	#DEP#jdom:jdom
+30	#DEP#javax.ejb:ejb
+31	#DEP#commons-collections:commons-collections
+32	#DEP#commons-fileupload:commons-fileupload
+33	#DEP#jug:jug
+34	#DEP#junit:junit

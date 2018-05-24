@@ -1,0 +1,11 @@
+1	git://github.com/alexnederlof/Jasper-report-maven-plugin.git
+2	#DEP#net.sf.jasperreports:jasperreports-fonts
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#javax.servlet:javax.servlet-api
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.codehaus.plexus:plexus-compiler-api
+7	#DEP#junit:junit
+8	#DEP#net.sf.jasperreports:jasperreports
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+11	#DEP#commons-lang:commons-lang

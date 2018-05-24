@@ -1,0 +1,5 @@
+7	#DEP#de.measite.minidns:minidns-hla
+8	#DEP#org.whispersystems:signal-protocol-java
+9	#DEP#dnsjava:dnsjava
+10	#DEP#org.bouncycastle:bcprov-jdk15on
+11	#DEP#org.slf4j:slf4j-api

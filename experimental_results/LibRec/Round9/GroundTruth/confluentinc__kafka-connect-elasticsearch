@@ -1,0 +1,5 @@
+1	#DEP#org.apache.lucene:lucene-expressions
+1	#DEP#junit:junit
+1	#DEP#io.searchbox:jest
+1	#DEP#org.apache.lucene:lucene-test-framework
+1	#DEP#org.elasticsearch:elasticsearch

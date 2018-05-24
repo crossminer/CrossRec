@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework.boot:spring-boot-actuator
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework.cloud:spring-cloud-starter-consul-discovery
+1	#DEP#org.asynchttpclient:async-http-client
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

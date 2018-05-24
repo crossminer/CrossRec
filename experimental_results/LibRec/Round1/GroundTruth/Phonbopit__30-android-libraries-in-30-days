@@ -1,0 +1,15 @@
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#de.greenrobot:greendao
+1	#DEP#com.nhaarman.listviewanimations:library
+1	#DEP#com.survivingwithandroid:weatherlib
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.etsy.android.grid:library
+1	#DEP#com.github.blackfizz:eazegraph
+1	#DEP#com.loopj.android:android-async-http
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.mobsandgeeks:adapter-kit
+1	#DEP#com.github.manuelpeinado.fadingactionbar:fadingactionbar-abc
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.github.eluleci:flatui
+1	#DEP#com.daimajia.easing:library

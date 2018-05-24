@@ -1,0 +1,12 @@
+1	#DEP#com.threerings:tripleplay-java-lwjgl2
+1	#DEP#io.playn:playn-android
+1	#DEP#com.threerings:tripleplay
+1	#DEP#io.playn:playn-java-swt
+1	#DEP#io.playn:playn-ios
+1	#DEP#com.google.android:android
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.threerings:tripleplay-demo-core
+1	#DEP#com.threerings:tripleplay-ios
+1	#DEP#com.threerings:tripleplay-tools
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#${project.groupId}:tripleplay

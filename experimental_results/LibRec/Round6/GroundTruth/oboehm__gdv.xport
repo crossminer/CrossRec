@@ -1,0 +1,6 @@
+1	#DEP#org.patterntesting:patterntesting-check-ct
+1	#DEP#org.patterntesting:patterntesting-concurrent
+1	#DEP#net.sf.oval:oval
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api

@@ -1,0 +1,14 @@
+1	git://github.com/shtao/shtaobatis.git
+2	#DEP#microsoft:sqljdbc
+3	#DEP#commons-logging:commons-logging
+4	#DEP#commons-dbcp:commons-dbcp
+5	#DEP#asm:asm
+6	#DEP#javax.transaction:jta
+7	#DEP#org.springframework:spring-orm
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#com.danga:memcached
+10	#DEP#org.springframework:spring-test
+11	#DEP#log4j:log4j
+12	#DEP#opensymphony:oscache
+13	#DEP#junit:junit
+14	#DEP#cglib:cglib

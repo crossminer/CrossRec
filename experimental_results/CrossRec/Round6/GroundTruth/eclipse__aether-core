@@ -1,0 +1,11 @@
+13	#DEP#org.slf4j:jcl-over-slf4j
+14	#DEP#org.eclipse.aether:aether-impl
+15	#DEP#junit:junit
+16	#DEP#org.codehaus.plexus:plexus-classworlds
+17	#DEP#org.sonatype.sisu:sisu-guice
+18	#DEP#org.eclipse.jetty:jetty-server
+19	#DEP#org.eclipse.sisu:org.eclipse.sisu.plexus
+20	#DEP#javax.inject:javax.inject
+21	#DEP#org.apache.httpcomponents:httpclient
+22	#DEP#ch.qos.logback:logback-classic
+23	#DEP#org.eclipse.aether:aether-api

@@ -1,0 +1,5 @@
+1	#DEP#edu.usf.cutr.android.xml:jackson-dataformat-xml-android
+1	#DEP#edu.usf.cutr.android.xml:stax-api-android
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#edu.usf.cutr.android.xml:stax2-api-android
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

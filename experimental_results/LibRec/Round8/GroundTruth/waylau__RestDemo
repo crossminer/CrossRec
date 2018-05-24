@@ -1,0 +1,15 @@
+1	#DEP#org.glassfish.jersey:jersey-bom
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.apache.tomcat:tomcat-jdbc
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.glassfish.jersey.containers:jersey-container-servlet-core
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-external
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+1	#DEP#junit:junit

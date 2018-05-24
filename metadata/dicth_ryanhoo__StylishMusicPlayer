@@ -1,0 +1,10 @@
+1	git://github.com/ryanhoo/StylishMusicPlayer.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#junit:junit
+6	#DEP#com.android.support:design
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#uk.co.chrisjenx:calligraphy
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

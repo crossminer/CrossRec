@@ -1,0 +1,10 @@
+1	#DEP#org.apache.maven:maven-model
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.awaitility:awaitility
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.aether:aether-api
+1	#DEP#org.apache.maven:maven-artifact

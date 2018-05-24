@@ -1,0 +1,10 @@
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.codahale.metrics:metrics-graphite
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.codahale.metrics:metrics-core
+1	#DEP#colt:colt
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

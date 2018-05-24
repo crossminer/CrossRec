@@ -1,0 +1,14 @@
+1	#DEP#org.mockito:org.mockito
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.jclouds:jclouds-compute
+1	#DEP#org.jclouds:jclouds-scriptbuilder
+1	#DEP#commons-io:commons-io
+1	#DEP#org.jclouds:jclouds-aws
+1	#DEP#org.jclouds:jclouds-jsch
+1	#DEP#org.jclouds:org.jclouds
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#${project.groupId}:whirr-zookeeper
+1	#DEP#${project.groupId}:whirr-hadoop
+1	#DEP#org.jclouds:jclouds-core
+1	#DEP#${project.groupId}:whirr-cassandra

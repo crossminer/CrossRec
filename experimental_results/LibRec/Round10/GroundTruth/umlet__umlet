@@ -1,0 +1,15 @@
+1	#DEP#com.umlet:umlet-elements
+1	#DEP#org.apache.xmlgraphics:batik-dom
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#com.github.javaparser:javaparser-core
+1	#DEP#com.fifesoft:autocomplete
+1	#DEP#org.eclipse.jdt.core.compiler:ecj
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.vectomatic:lib-gwt-file
+1	#DEP#org.apache.xmlgraphics:batik-awt-util
+1	#DEP#com.umlet:umlet-swing
+1	#DEP#junit:junit
+1	#DEP#org.sourceforge.jlibeps:jlibeps
+1	#DEP#com.sun.mail:javax.mail
+1	#DEP#org.apache.bcel:bcel

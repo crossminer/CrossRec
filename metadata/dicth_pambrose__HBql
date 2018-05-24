@@ -1,0 +1,12 @@
+1	git://github.com/pambrose/HBql.git
+2	#DEP#org.apache:hbase-trx
+3	#DEP#org.apache.hbase:hbase
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#jline:jline
+6	#DEP#log4j:log4j
+7	#DEP#com.sun.jmx:jmxri
+8	#DEP#commons-logging:commons-logging
+9	#DEP#com.google.guava:guava
+10	#DEP#org.antlr:antlr-runtime
+11	#DEP#junit:junit
+12	#DEP#org.apache.hadoop:zookeeper

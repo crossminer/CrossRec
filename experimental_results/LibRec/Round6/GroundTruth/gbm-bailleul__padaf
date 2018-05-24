@@ -1,0 +1,7 @@
+1	#DEP#org.pdfa:isartor
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.pdfbox:fontbox
+1	#DEP#org.apache.pdfbox:pdfbox
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#net.padaf:xmpbox-jdk15

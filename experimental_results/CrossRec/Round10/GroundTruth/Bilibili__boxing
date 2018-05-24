@@ -1,0 +1,6 @@
+7	#DEP#org.powermock:powermock-classloading-xstream
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design
+12	#DEP#com.android.support.test:runner

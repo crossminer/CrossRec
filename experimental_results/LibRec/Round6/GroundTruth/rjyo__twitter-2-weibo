@@ -1,0 +1,8 @@
+1	#DEP#com.rosaloves:bitlyj
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.apache.velocity:velocity-tools
+1	#DEP#h2weibo:core
+1	#DEP#junit:junit
+1	#DEP#commons-httpclient:commons-httpclient

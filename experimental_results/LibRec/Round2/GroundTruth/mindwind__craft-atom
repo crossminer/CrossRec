@@ -1,0 +1,8 @@
+1	#DEP#log4j:log4j
+1	#DEP#com.esotericsoftware:reflectasm
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.projectlombok:lombok
+1	#DEP#${project.groupId}:craft-atom-protocol
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:craft-atom-protocol-rpc
+1	#DEP#${project.groupId}:craft-atom-util

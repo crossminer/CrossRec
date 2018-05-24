@@ -1,0 +1,13 @@
+1	git://github.com/thymeleaf/thymeleafexamples-springmail.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.thymeleaf:thymeleaf-spring4
+4	#DEP#commons-io:commons-io
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.thymeleaf:thymeleaf
+8	#DEP#javax.mail:mail
+9	#DEP#org.springframework:spring-context-support
+10	#DEP#javax.servlet:javax.servlet-api
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#log4j:log4j
+13	#DEP#commons-fileupload:commons-fileupload

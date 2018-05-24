@@ -1,0 +1,5 @@
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#:app
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.google.android.gms:play-services-base

@@ -1,0 +1,12 @@
+1	git://github.com/kohlschutter/junixsocket.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.kohlschutter.junixsocket:junixsocket-native-common
+4	#DEP#com.kohlschutter.junixsocket:junixsocket-rmi
+5	#DEP#log4j:log4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.kohlschutter.junixsocket:junixsocket-common
+8	#DEP#com.kohlschutter.junixsocket:junixsocket-native
+9	#DEP#junit:junit
+10	#DEP#com.kohlschutter.junixsocket:junixsocket-mysql
+11	#DEP#org.scijava:native-lib-loader
+12	#DEP#org.slf4j:slf4j-log4j12

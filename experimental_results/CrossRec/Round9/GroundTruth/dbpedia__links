@@ -1,0 +1,7 @@
+9	#DEP#org.aksw.jena-sparql-api:jena-sparql-api-cache-h2
+10	#DEP#org.dbpedia.data:redirects
+11	#DEP#org.apache.commons:commons-compress
+12	#DEP#org.aksw.rdfunit:rdfunit-io
+13	#DEP#org.scala-lang:scala-library
+14	#DEP#junit:junit
+15	#DEP#org.mapdb:mapdb

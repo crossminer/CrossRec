@@ -1,0 +1,17 @@
+1	git://github.com/MegafonWebLab/histone-java.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.mockito:mockito-all
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.eclipse.jetty.aggregate:jetty-server
+12	#DEP#org.reflections:reflections
+13	#DEP#org.slf4j:jcl-over-slf4j
+14	#DEP#javax.servlet:javax.servlet-api
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#commons-collections:commons-collections
+17	#DEP#junit:junit

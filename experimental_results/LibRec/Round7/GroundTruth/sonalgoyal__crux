@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#commons-pool:commons-pool
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#com.google.code:struts2-fullhibernatecore-plugin
+1	#DEP#junit:junit

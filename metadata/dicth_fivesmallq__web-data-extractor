@@ -1,0 +1,12 @@
+1	git://github.com/fivesmallq/web-data-extractor.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#jaxen:jaxen
+4	#DEP#org.jdom:jdom2
+5	#DEP#log4j:log4j
+6	#DEP#com.jayway.jsonpath:json-path
+7	#DEP#org.jboss:jboss-vfs
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#com.google.guava:guava
+11	#DEP#junit:junit
+12	#DEP#org.slf4j:slf4j-log4j12

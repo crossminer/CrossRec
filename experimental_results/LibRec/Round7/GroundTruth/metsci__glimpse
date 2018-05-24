@@ -1,0 +1,14 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#gov.nasa:worldwindx
+1	#DEP#com.metsci.glimpse:glimpse-util
+1	#DEP#com.metsci.glimpse:glimpse-extras-dspl
+1	#DEP#joda-time:joda-time
+1	#DEP#com.miglayout:miglayout-swing
+1	#DEP#com.miglayout:miglayout-core
+1	#DEP#com.metsci.glimpse:glimpse-extras-examples
+1	#DEP#com.metsci.glimpse:glimpse-extras-charts
+1	#DEP#com.metsci.glimpse:glimpse-text
+1	#DEP#com.metsci.glimpse:glimpse-core-examples
+1	#DEP#com.metsci.glimpse:glimpse-extras-swt
+1	#DEP#org.swinglabs.swingx:swingx-core
+1	#DEP#org.jogamp.jogl:jogl-all-main

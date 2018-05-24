@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.aranea-apps.android.libs:android-rest-additions
+1	#DEP#com.aranea-apps.android.libs:android-logger
+1	#DEP#com.aranea-apps.android.libs:android-rest
+1	#DEP#com.aranea-apps.android.libs:android-async-runners
+1	#DEP#junit:junit

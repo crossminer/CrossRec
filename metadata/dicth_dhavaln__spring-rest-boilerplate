@@ -1,0 +1,13 @@
+1	git://github.com/dhavaln/spring-rest-boilerplate.git
+2	#DEP#org.springframework:spring-aop
+3	#DEP#org.springframework.security:spring-security-web
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.codehaus.jackson:jackson-mapper-asl
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.aspectj:aspectjweaver
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#javax.servlet:servlet-api
+10	#DEP#org.springframework.security:spring-security-config
+11	#DEP#junit:junit
+12	#DEP#org.aspectj:aspectjrt
+13	#DEP#cglib:cglib

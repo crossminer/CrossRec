@@ -1,0 +1,16 @@
+1	#DEP#com.thoughtworks.qdox:com.thoughtworks.qdox
+1	#DEP#org.jibx:org.jibx
+1	#DEP#dom4j:dom4j
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.bcel:org.apache.bcel
+1	#DEP#joda-time:joda-time
+1	#DEP#${project.groupId}:jibx-run
+1	#DEP#org.jibx.config.3rdparty.org.eclipse:org.eclipse.jdt.core
+1	#DEP#${project.groupId}:jibx-schema
+1	#DEP#${project.groupId}:jibx-bind
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework:org.springframework
+1	#DEP#junit:junit
+1	#DEP#org.apache.bcel:bcel
+1	#DEP#org.jibx.config.3rdparty.org.eclipse:org.eclipse.osgi
+1	#DEP#cglib:cglib

@@ -1,0 +1,7 @@
+9	#DEP#de.ruedigermoeller:fst
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.hive2hive:org.hive2hive.processframework
+13	#DEP#net.tomp2p:tomp2p-replication
+14	#DEP#junit:junit
+15	#DEP#net.tomp2p:tomp2p-android

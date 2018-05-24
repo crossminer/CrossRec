@@ -1,0 +1,13 @@
+1	#DEP#com.google.http-client:google-http-client-jackson
+1	#DEP#com.google.appengine:appengine-testing
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#org.datanucleus:datanucleus-rdbms
+1	#DEP#com.google.oauth-client:google-oauth-client-servlet
+1	#DEP#com.google.oauth-client:google-oauth-client
+1	#DEP#com.google.http-client:google-http-client-jdo
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#com.google.oauth-client:google-oauth-client-appengine
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#com.google.http-client:google-http-client

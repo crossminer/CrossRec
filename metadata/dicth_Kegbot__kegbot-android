@@ -1,0 +1,17 @@
+1	git://github.com/Kegbot/kegbot-android.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.jayway.android.robotium:robotium-solo
+4	#DEP#com.google.android.gms:play-services-gcm
+5	#DEP#com.google.dexmaker:dexmaker
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#joda-time:joda-time
+11	#DEP#com.google.protobuf:protobuf-java
+12	#DEP#com.hoho.android:usbserial
+13	#DEP#com.google.dexmaker:dexmaker-mockito
+14	#DEP#com.github.kevinsawicki:http-request
+15	#DEP#org.mockito:mockito-core
+16	#DEP#com.squareup:otto
+17	#DEP#com.google.guava:guava

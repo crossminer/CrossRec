@@ -1,0 +1,15 @@
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#javax.servlet:jsp-api
+1	#DEP#com.rabbitmq:amqp-client
+1	#DEP#org.hibernate:hibernate-search
+1	#DEP#org.dspace:oclc-harvester2
+1	#DEP#org.apache.struts:org.apache.struts
+1	#DEP#commons-net:commons-net
+1	#DEP#c3p0:c3p0
+1	#DEP#postgresql:postgresql
+1	#DEP#javax:javaee-api
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#org.apache.struts:struts2-convention-plugin
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.sun.xsom:xsom

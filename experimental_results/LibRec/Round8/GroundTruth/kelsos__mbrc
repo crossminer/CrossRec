@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.github.gabrielemariotti.changeloglib:changelog
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#uk.co.chrisjenx:calligraphy
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

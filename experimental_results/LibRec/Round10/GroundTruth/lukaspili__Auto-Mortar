@@ -1,0 +1,6 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup:javapoet
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.jakewharton:butterknife

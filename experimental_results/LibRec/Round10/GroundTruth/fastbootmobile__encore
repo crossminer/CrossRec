@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:mediarouter-v7
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:leanback-v17
+1	#DEP#com.google.android.gms:play-services-cast

@@ -1,0 +1,13 @@
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#com.sparkpost:apps
+1	#DEP#com.yepher.jsondoc:annotations
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.sparkpost:sparkpost-lib
+1	#DEP#log4j:log4j
+1	#DEP#nl.jqno.equalsverifier:equalsverifier
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#com.sun.mail:javax.mail

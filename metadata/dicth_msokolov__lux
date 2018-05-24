@@ -1,0 +1,13 @@
+1	git://github.com/msokolov/lux.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#org.codehaus.woodstox:woodstox-core-asl
+4	#DEP#httpunit:httpunit
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.apache.solr:solr-test-framework
+7	#DEP#net.sf.saxon:Saxon-HE
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#nu.validator.htmlparser:htmlparser
+10	#DEP#log4j:log4j
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#xerces:xercesImpl
+13	#DEP#junit:junit

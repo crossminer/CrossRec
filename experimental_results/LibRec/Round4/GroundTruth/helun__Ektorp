@@ -1,0 +1,11 @@
+1	#DEP#com.google.android:android
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#joda-time:joda-time
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#net.sourceforge.findbugs:annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

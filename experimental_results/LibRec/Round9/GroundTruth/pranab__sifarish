@@ -1,0 +1,9 @@
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.lucene:lucene-analyzers-morfologik
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#mawazo:hoidla
+1	#DEP#mawazo:chombo
+1	#DEP#log4j:log4j
+1	#DEP#org.clojure:clojure-contrib
+1	#DEP#storm:storm
+1	#DEP#com.google.guava:guava

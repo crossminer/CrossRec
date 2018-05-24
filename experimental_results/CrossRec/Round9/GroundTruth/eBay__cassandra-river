@@ -1,0 +1,8 @@
+10	#DEP#org.elasticsearch:elasticsearch
+11	#DEP#commons-lang:commons-lang
+12	#DEP#commons-pool:commons-pool
+13	#DEP#org.apache.cassandra:cassandra-all
+14	#DEP#log4j:log4j
+15	#DEP#com.google.guava:guava
+16	#DEP#org.apache.httpcomponents:httpmime
+17	#DEP#org.apache.thrift:libthrift

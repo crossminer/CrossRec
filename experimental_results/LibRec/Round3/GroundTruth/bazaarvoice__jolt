@@ -1,0 +1,6 @@
+1	#DEP#net.sourceforge.argparse4j:argparse4j
+1	#DEP#org.testng:testng
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.bazaarvoice.jolt:json-utils
+1	#DEP#com.fasterxml.jackson.core:jackson-databind

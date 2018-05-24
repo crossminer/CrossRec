@@ -1,0 +1,9 @@
+11	#DEP#${project.groupId}:javamoney-data
+12	#DEP#org.slf4j:slf4j-api
+13	#DEP#org.javamoney:javamoney-parent
+14	#DEP#org.javamoney:moneta-bp
+15	#DEP#${project.groupId}:javamoney-cldr-data
+16	#DEP#javax.money:money-api
+17	#DEP#junit:junit
+18	#DEP#com.ibm.icu:icu4j
+19	#DEP#${project.groupId}:javamoney-validity

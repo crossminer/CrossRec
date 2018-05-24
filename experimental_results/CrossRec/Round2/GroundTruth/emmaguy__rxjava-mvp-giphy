@@ -1,0 +1,11 @@
+13	#DEP#com.squareup.assertj:assertj-android
+14	#DEP#com.github.bumptech.glide:glide
+15	#DEP#com.squareup.retrofit2:converter-moshi
+16	#DEP#org.mockito:mockito-core
+17	#DEP#com.github.bumptech.glide:compiler
+18	#DEP#com.jakewharton.rxrelay2:rxrelay
+19	#DEP#com.jakewharton.rxbinding2:rxbinding-kotlin
+20	#DEP#com.android.support.constraint:constraint-layout
+21	#DEP#com.squareup.retrofit2:retrofit
+22	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+23	#DEP#junit:junit

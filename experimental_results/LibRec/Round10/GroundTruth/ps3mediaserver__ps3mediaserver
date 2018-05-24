@@ -1,0 +1,15 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.jgoodies:jgoodies-forms
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.jgoodies:jgoodies-looks
+1	#DEP#jwbroek.cuelib:cuelib
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org:jaudiotagger
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#commons-collections:commons-collections
+1	#DEP#xmlwise:xmlwise
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

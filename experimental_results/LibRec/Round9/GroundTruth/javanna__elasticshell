@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.testng:testng
+1	#DEP#com.spatial4j:spatial4j
+1	#DEP#org.fusesource.jansi:jansi
+1	#DEP#org.elasticsearch:elasticsearch

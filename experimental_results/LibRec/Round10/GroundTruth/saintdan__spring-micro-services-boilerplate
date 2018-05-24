@@ -1,0 +1,10 @@
+1	#DEP#de.codecentric:spring-boot-admin-starter-client
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#de.codecentric:spring-boot-admin-server
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#de.codecentric:spring-boot-admin-server-ui
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

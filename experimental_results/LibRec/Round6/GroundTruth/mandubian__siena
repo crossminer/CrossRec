@@ -1,0 +1,10 @@
+1	#DEP#com.google.appengine:appengine-api-1.0-sdk
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#com.amazonaws:aws-java-sdk
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#org.drizzle.jdbc:drizzle-jdbc
+1	#DEP#dbunit:dbunit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing
+1	#DEP#com.h2database:h2

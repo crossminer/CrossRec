@@ -1,0 +1,7 @@
+1	#DEP#org.deeplearning4j:deeplearning4j-nlp
+1	#DEP#org.deeplearning4j:deeplearning4j-zoo
+1	#DEP#com.google.guava:guava
+1	#DEP#org.bytedeco:javacpp
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14

@@ -1,0 +1,13 @@
+1	#DEP#com.willowtreeapps:oak-sectionlistview
+1	#DEP#com.google.guava:guava
+1	#DEP#com.willowtreeapps:oak-library
+1	#DEP#com.google.android:android
+1	#DEP#com.google.android:android-test
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.roboguice:roboguice
+1	#DEP#com.squareup.dagger:dagger-compiler
+1	#DEP#com.android.support:support-v4
+1	#DEP#junit:junit
+1	#DEP#com.willowtreeapps:oak-aspectratioview
+1	#DEP#com.actionbarsherlock:library

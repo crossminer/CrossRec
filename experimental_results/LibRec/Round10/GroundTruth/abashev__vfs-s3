@@ -1,0 +1,17 @@
+1	#DEP#com.github:vfs-s3
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.ftpserver:ftpserver-core
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.amazonaws:aws-java-sdk-s3
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.jcraft:jsch
+1	#DEP#commons-net:commons-net
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#com.google.inject:guice
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.apache.jackrabbit:jackrabbit-standalone
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.httpcomponents:httpcore-nio
+1	#DEP#junit:junit

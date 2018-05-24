@@ -1,0 +1,17 @@
+1	git://github.com/ahmetaa/zemberek-nlp.git
+2	#DEP#zemberek-nlp:zemberek-experiment
+3	#DEP#zemberek-nlp:zemberek-tokenization
+4	#DEP#zemberek-nlp:zemberek-normalization
+5	#DEP#org.mockito:mockito-all
+6	#DEP#com.google.protobuf:protobuf-java
+7	#DEP#org.jsoup:jsoup
+8	#DEP#args4j:args4j
+9	#DEP#zemberek-nlp:zemberek-lm
+10	#DEP#zemberek-nlp:zemberek-core
+11	#DEP#zemberek-nlp:zemberek-morphology
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#com.google.guava:guava
+14	#DEP#org.apache.opennlp:opennlp-tools
+15	#DEP#junit:junit
+16	#DEP#zemberek-nlp:zemberek-lang-id
+17	#DEP#org.antlr:antlr4-runtime

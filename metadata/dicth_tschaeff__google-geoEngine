@@ -1,0 +1,11 @@
+1	git://github.com/tschaeff/google-geoEngine.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.google.appengine:appengine-api-stubs
+4	#DEP#com.google.appengine:appengine-api-1.0-sdk
+5	#DEP#com.google.appengine:appengine-endpoints
+6	#DEP#com.vividsolutions:jts
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit
+11	#DEP#com.google.appengine:appengine-testing

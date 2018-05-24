@@ -1,0 +1,16 @@
+17	#DEP#junit:junit
+18	#DEP#org.apache.cassandra:cassandra-thrift
+19	#DEP#org.hectorclient:hector-test
+20	#DEP#commons-lang:commons-lang
+21	#DEP#org.apache.openejb:openejb-core
+22	#DEP#org.osgi:osgi_R4_core
+23	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec
+24	#DEP#org.xerial.snappy:snappy-java
+25	#DEP#org.springframework:spring-context
+26	#DEP#org.springframework:spring-beans
+27	#DEP#org.mortbay.jetty:servlet-api
+28	#DEP#org.slf4j:slf4j-log4j12
+29	#DEP#com.yammer.metrics:metrics-core
+30	#DEP#commons-pool:commons-pool
+31	#DEP#log4j:log4j
+32	#DEP#org.osgi:osgi_R4_compendium

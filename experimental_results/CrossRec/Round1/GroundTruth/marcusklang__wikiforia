@@ -1,0 +1,6 @@
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+9	#DEP#org.sweble.wikitext:swc-engine
+10	#DEP#junit:junit
+11	#DEP#org.apache.logging.log4j:log4j-api
+12	#DEP#org.codehaus.woodstox:stax2-api

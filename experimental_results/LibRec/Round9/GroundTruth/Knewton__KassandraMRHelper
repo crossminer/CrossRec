@@ -1,0 +1,9 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-beanutils:commons-beanutils-core
+1	#DEP#org.apache.cassandra:cassandra-all
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.apache.thrift:libthrift

@@ -1,0 +1,7 @@
+1	#DEP#com.google.appengine:appengine-api-1.0-sdk
+1	#DEP#org.jvnet.wagon-svn:wagon-svn
+1	#DEP#com.google.code.jqwicket:jqwicket
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.wicket:wicket-util
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs

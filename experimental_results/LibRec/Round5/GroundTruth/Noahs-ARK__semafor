@@ -1,0 +1,6 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#danbikel:wordnet
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander
+1	#DEP#uk.ac.susx:informatics

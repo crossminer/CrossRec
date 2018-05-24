@@ -1,0 +1,12 @@
+1	git://github.com/dropbox/dropbox-sdk-java.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.eclipse.jetty.aggregate:jetty-server
+4	#DEP#com.squareup.picasso:picasso
+5	#DEP#com.squareup.okhttp3:okhttp
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#javax.servlet:javax.servlet-api
+8	#DEP#com.squareup.okhttp:okhttp
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#com.android.support:appcompat-v7
+12	#DEP#com.android.support:design

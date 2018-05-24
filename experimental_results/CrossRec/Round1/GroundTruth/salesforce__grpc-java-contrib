@@ -1,0 +1,14 @@
+16	#DEP#com.salesforce.servicelibs:rxgrpc
+17	#DEP#org.springframework.boot:spring-boot
+18	#DEP#com.google.code.gson:gson
+19	#DEP#com.github.spullara.mustache.java:compiler
+20	#DEP#org.awaitility:awaitility
+21	#DEP#org.springframework.boot:spring-boot-starter-logging
+22	#DEP#com.salesforce.servicelibs:grpc-contrib-parent
+23	#DEP#org.mockito:mockito-core
+24	#DEP#com.salesforce.servicelibs:grpc-java-contrib-demo
+25	#DEP#org.springframework.boot:spring-boot-autoconfigure
+26	#DEP#javax.servlet:servlet-api
+27	#DEP#io.grpc:grpc-context
+28	#DEP#junit:junit
+29	#DEP#com.salesforce.servicelibs:grpc-contrib

@@ -1,0 +1,9 @@
+1	#DEP#org.clojure:clojure
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.springframework:spring-web
+1	#DEP#cglib:cglib-nodep
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#net.minidev:json-smart
+1	#DEP#junit:junit

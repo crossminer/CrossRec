@@ -1,0 +1,8 @@
+1	git://github.com/zhuchunlai/crabs.git
+2	#DEP#org.codefamily:crabs-core
+3	#DEP#org.codefamily:crabs-common
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.elasticsearch:elasticsearch
+6	#DEP#org.codefamily:crabs-jdbc
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#junit:junit

@@ -1,0 +1,13 @@
+1	git://github.com/hceylan/guava.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.junit.contrib:truth
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#org.easymock:easymock
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#${project.groupId}:guava-testlib
+8	#DEP#com.google.guava:guava-parent
+9	#DEP#${project.groupId}:guava
+10	#DEP#com.google.guava:guava
+11	#DEP#com.google.gwt:gwt-dev
+12	#DEP#junit:junit
+13	#DEP#${project.groupId}:guava-bootstrap

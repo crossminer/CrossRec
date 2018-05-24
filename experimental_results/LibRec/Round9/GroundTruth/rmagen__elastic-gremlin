@@ -1,0 +1,5 @@
+1	#DEP#org.json:json
+1	#DEP#com.spatial4j:spatial4j
+1	#DEP#org.apache.tinkerpop:gremlin-groovy-test
+1	#DEP#com.github.stephenc.eaio-uuid:uuid
+1	#DEP#org.elasticsearch:elasticsearch

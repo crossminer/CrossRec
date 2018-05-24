@@ -1,0 +1,6 @@
+8	#DEP#com.google.android.gms:play-services
+9	#DEP#com.google.android:support-v4
+10	#DEP#:dependencies
+11	#DEP#de.keyboardsurfer.android.widget:crouton
+12	#DEP#com.android.support:support-v4
+13	#DEP#junit:junit

@@ -1,0 +1,9 @@
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#me.zhanghai.android.materialprogressbar:library
+12	#DEP#org.greenrobot:greendao
+13	#DEP#net.zetetic:android-database-sqlcipher
+14	#DEP#com.xujl.widgetlibrary:WidgetLibrary
+15	#DEP#com.github.GrenderG:Toasty
+16	#DEP#com.android.support:multidex
+17	#DEP#com.squareup.retrofit2:retrofit
+18	#DEP#me.yokeyword:fragmentation-swipeback

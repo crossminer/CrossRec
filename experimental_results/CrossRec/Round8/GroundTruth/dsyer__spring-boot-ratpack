@@ -1,0 +1,12 @@
+13	#DEP#org.apache.tomcat:tomcat-jasper-el
+14	#DEP#io.ratpack:ratpack-newrelic
+15	#DEP#org.springframework.boot:spring-boot-ratpack
+16	#DEP#io.ratpack:ratpack-thymeleaf
+17	#DEP#org.springframework.boot:spring-boot-actuator
+18	#DEP#io.ratpack:ratpack-session-redis
+19	#DEP#org.springframework.boot:spring-boot-starter-test
+20	#DEP#org.springframework.boot:spring-boot-starter-logging
+21	#DEP#io.ratpack:ratpack-guice
+22	#DEP#org.springframework.boot:spring-boot-autoconfigure
+23	#DEP#io.ratpack:ratpack-spring-boot
+24	#DEP#io.ratpack:ratpack-rx

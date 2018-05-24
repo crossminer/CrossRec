@@ -1,0 +1,16 @@
+1	git://github.com/rwinch/spring-modern-templating.git
+2	#DEP#com.sun.jersey:com.sun.jersey
+3	#DEP#org.scalatest:org.scalatest
+4	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api
+5	#DEP#org.fusesource.scalate:scalate-spring-mvc
+6	#DEP#org.markdownj:org.markdownj
+7	#DEP#org.osgi:org.osgi
+8	#DEP#org.seleniumhq.selenium:org.seleniumhq.selenium
+9	#DEP#org.springframework:spring-webmvc
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#javax.servlet:javax.servlet
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#org.slf4j:org.slf4j
+14	#DEP#junit:junit
+15	#DEP#ch.qos.logback:ch.qos.logback
+16	#DEP#com.samskivert:jmustache

@@ -1,0 +1,8 @@
+10	#DEP#joda-time:joda-time
+11	#DEP#com.google.protobuf:protobuf-java
+12	#DEP#com.hoho.android:usbserial
+13	#DEP#com.google.dexmaker:dexmaker-mockito
+14	#DEP#com.github.kevinsawicki:http-request
+15	#DEP#org.mockito:mockito-core
+16	#DEP#com.squareup:otto
+17	#DEP#com.google.guava:guava

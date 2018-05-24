@@ -1,0 +1,5 @@
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#io.reactivex:rxandroid
+10	#DEP#com.google.truth:truth

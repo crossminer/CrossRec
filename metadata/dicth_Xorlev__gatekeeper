@@ -1,0 +1,16 @@
+1	git://github.com/Xorlev/gatekeeper.git
+2	#DEP#com.xorlev.gatekeeper:gatekeeper-core
+3	#DEP#com.xorlev.gatekeeper:${discovery.package}
+4	#DEP#org.apache.curator:curator-x-discovery
+5	#DEP#org.easymock:easymock
+6	#DEP#com.github.spullara.mustache.java:compiler
+7	#DEP#com.google.inject:guice
+8	#DEP#ch.qos.logback:logback-core
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#com.google.guava:guava
+11	#DEP#org.projectlombok:lombok
+12	#DEP#junit:junit
+13	#DEP#com.netflix.archaius:archaius-core
+14	#DEP#com.beust:jcommander
+15	#DEP#org.weakref:jmxutils
+16	#DEP#com.google.inject.extensions:guice-multibindings

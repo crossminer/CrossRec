@@ -1,0 +1,6 @@
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#com.infstory:proguard-annotations
+1	#DEP#com.squareup.retrofit:converter-jackson
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.squareup.okhttp:okhttp-urlconnection

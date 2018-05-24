@@ -1,0 +1,11 @@
+1	git://github.com/yazeed44/MultiImagePicker.git
+2	#DEP#com.melnykov:floatingactionbutton
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.commonsware.cwac:cam2
+7	#DEP#com.github.chrisbanes.photoview:library
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#de.greenrobot:eventbus
+11	#DEP#com.octo.android.robospice:robospice

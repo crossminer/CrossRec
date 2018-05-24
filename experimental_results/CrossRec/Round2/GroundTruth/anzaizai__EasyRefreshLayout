@@ -1,0 +1,5 @@
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.bigkoo:convenientbanner
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

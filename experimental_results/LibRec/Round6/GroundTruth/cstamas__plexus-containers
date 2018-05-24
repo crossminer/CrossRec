@@ -1,0 +1,12 @@
+1	#DEP#asm:asm
+1	#DEP#org.codehaus.plexus.components:component-c
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.codehaus.plexus:plexus-cli
+1	#DEP#plexus:plexus-testFodder-componentWithPlexusXml
+1	#DEP#org.codehaus.plexus.components:component-b
+1	#DEP#org.codehaus.plexus:plexus-component-metadata
+1	#DEP#org.codehaus.plexus.components:component-a
+1	#DEP#jdom:jdom
+1	#DEP#xerces:xercesImpl
+1	#DEP#junit:junit
+1	#DEP#org.apache.xbean:xbean-reflect

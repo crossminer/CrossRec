@@ -1,0 +1,7 @@
+9	#DEP#com.google.code.ksoap2-android:ksoap2-samples
+10	#DEP#com.google.code.ksoap2-android:ksoap2-base
+11	#DEP#com.google.code.ksoap2-android:ksoap2-parent
+12	#DEP#net.sourceforge.kobjects:kobjects-j2me
+13	#DEP#junit:junit
+14	#DEP#com.google.code.ksoap2-android:ksoap2-midp
+15	#DEP#com.google.code.ksoap2-android:ksoap2-servlet

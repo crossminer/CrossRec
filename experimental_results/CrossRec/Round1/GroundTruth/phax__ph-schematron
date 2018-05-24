@@ -1,0 +1,13 @@
+15	#DEP#org.apache.ant:ant
+16	#DEP#com.helger:ph-commons
+17	#DEP#com.helger:ph-schematron-testfiles
+18	#DEP#com.helger:ph-xml
+19	#DEP#org.sonatype.plexus:plexus-build-api
+20	#DEP#net.sf.saxon:Saxon-HE
+21	#DEP#org.apache.maven:maven-plugin-api
+22	#DEP#com.helger.maven:ph-schematron-ant-task
+23	#DEP#com.helger.maven:ph-sch2xslt-maven-plugin
+24	#DEP#com.helger:ph-schematron-parent-pom
+25	#DEP#junit:junit
+26	#DEP#com.thaiopensource:trang
+27	#DEP#com.helger:ph-jaxb

@@ -1,0 +1,7 @@
+1	#DEP#io.vertx:vertx-service-factory
+1	#DEP#org.elasticsearch:elasticsearch
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#com.englishtown.vertx:vertx-guice
+1	#DEP#junit:junit
+1	#DEP#org.apache.lucene:lucene-test-framework

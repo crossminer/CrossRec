@@ -1,0 +1,4 @@
+1	#DEP#org.elasticsearch:elasticsearch
+1	#DEP#org.codefamily:crabs-jdbc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit

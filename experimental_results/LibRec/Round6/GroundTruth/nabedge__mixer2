@@ -1,0 +1,7 @@
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

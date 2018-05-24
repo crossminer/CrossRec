@@ -1,0 +1,10 @@
+1	#DEP#org.fcrepo:berkeley-dbxml
+1	#DEP#dom4j:dom4j
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.fcrepo:fcrepo-generate
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.fcrepo:saxon
+1	#DEP#org.fcrepo:berkeley-db
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.fcrepo:mulgara-core
+1	#DEP#org.fcrepo:xmldb-exist

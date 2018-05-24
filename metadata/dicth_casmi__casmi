@@ -1,0 +1,6 @@
+1	git://github.com/casmi/casmi.git
+2	#DEP#org.jogamp.jogl:jogl
+3	#DEP#org.jogamp.gluegen:gluegen-rt
+4	#DEP#org.jogamp.gluegen:gluegen
+5	#DEP#org.jogamp.jogl:jogl-all
+6	#DEP#junit:junit

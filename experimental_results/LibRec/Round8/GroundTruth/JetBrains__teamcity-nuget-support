@@ -1,0 +1,10 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.jmock:jmock
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#org.core4j:core4j
+1	#DEP#com.sun.jersey:jersey-server

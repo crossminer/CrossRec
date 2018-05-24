@@ -1,0 +1,16 @@
+1	#DEP#com.h2database:h2
+1	#DEP#commons-io:commons-io
+1	#DEP#org.apache.mahout.commons:commons-cli
+1	#DEP#net.java.dev.jna:jna
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.apache.commons:commons-vfs2
+1	#DEP#jrexx:jrexx
+1	#DEP#net.wimpi.modbus:jamod
+1	#DEP#modbus.control:modctrl-api
+1	#DEP#org.krypsis:gwt-client-storage
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#log4j:log4j
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#jetaforms:com.jeta

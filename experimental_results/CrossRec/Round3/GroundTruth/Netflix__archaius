@@ -1,0 +1,12 @@
+14	#DEP#com.amazonaws:aws-java-sdk-s3
+15	#DEP#com.fasterxml.jackson.core:jackson-databind
+16	#DEP#com.fasterxml.jackson.core:jackson-annotations
+17	#DEP#org.apache.curator:curator-client
+18	#DEP#com.fasterxml.jackson.core:jackson-core
+19	#DEP#log4j:log4j
+20	#DEP#org.scala-lang:scala-library
+21	#DEP#org.scalatest:scalatest_2.10.0
+22	#DEP#io.fastjson:etcd-client
+23	#DEP#org.apache.derby:derby
+24	#DEP#com.amazonaws:aws-java-sdk-core
+25	#DEP#junit:junit

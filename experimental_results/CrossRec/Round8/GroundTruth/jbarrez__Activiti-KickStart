@@ -1,0 +1,11 @@
+13	#DEP#org.springframework:spring-web
+14	#DEP#com.vaadin:vaadin
+15	#DEP#javax.servlet:servlet-api
+16	#DEP#org.activiti:activiti-kickstart-java
+17	#DEP#com.sun.xml.bind:jaxb-impl
+18	#DEP#commons-fileupload:commons-fileupload
+19	#DEP#org.restlet.jee:org.restlet.ext.servlet
+20	#DEP#org.apache.chemistry.opencmis:chemistry-opencmis-client-impl
+21	#DEP#commons-httpclient:commons-httpclient
+22	#DEP#junit:junit
+23	#DEP#com.h2database:h2

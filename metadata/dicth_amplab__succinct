@@ -1,0 +1,10 @@
+1	git://github.com/amplab/succinct.git
+2	#DEP#org.apache.spark:spark-sql_2.11
+3	#DEP#org.scala-lang:scala-library
+4	#DEP#org.apache.spark:spark-core_2.11
+5	#DEP#org.scalatest:scalatest_2.11
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#amplab:succinct-core
+8	#DEP#junit:junit
+9	#DEP#amplab:succinct-serde
+10	#DEP#amplab:succinct-spark

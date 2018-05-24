@@ -1,0 +1,5 @@
+1	#DEP#io.netty:netty-transport-native-epoll
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.luaj:luaj-jse
+1	#DEP#org.mindrot:jbcrypt

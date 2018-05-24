@@ -1,0 +1,9 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#com.github.sarxos:webcam-capture
+1	#DEP#net.jodah:concurrentunit
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#net.sf.bluecove:bluecove
+1	#DEP#com.android.support:support-v4
+1	#DEP#javax.jmdns:jmdns
+1	#DEP#junit:junit
+1	#DEP#com.joanzapata.android:android-iconify

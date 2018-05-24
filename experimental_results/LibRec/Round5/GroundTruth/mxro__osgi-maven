@@ -1,0 +1,16 @@
+1	#DEP#jaxen:jaxen
+1	#DEP#mysql:mysql-connector-java
+1	#DEP#org.netbeans.spi.wizard:wizard
+1	#DEP#javax.mail:mail
+1	#DEP#pull-parser:pull-parser
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#de.mxro.thrd.netty3:thrdNetty3
+1	#DEP#dom4j:dom4j
+1	#DEP#com.sun:tools
+1	#DEP#de.mxro.thrd.gwtuser24:thrdGWTUser24
+1	#DEP#msv:relaxngDatatype
+1	#DEP#org.w3c.tidy:jtidy
+1	#DEP#com.seanchenxi.gwt:gwt-storage
+1	#DEP#log4j:log4j

@@ -1,0 +1,14 @@
+1	#DEP#javax.xml.bind:jsr173_api
+1	#DEP#org.openehr.java-libs:openehr-rm-domain
+1	#DEP#org.openehr.java-libs:rm-builder
+1	#DEP#org.openehr.java-libs:adl-parser
+1	#DEP#org.openehr.java-libs:dadl-binding
+1	#DEP#org.openehr.java-libs:dadl-parser
+1	#DEP#commons-jxpath:commons-jxpath
+1	#DEP#joda-time:joda-time
+1	#DEP#org.openehr.java-libs:openehr-aom
+1	#DEP#org.openehr.java-libs:openehr-rm-core
+1	#DEP#org.apache.xmlbeans:xmlbeans
+1	#DEP#log4j:log4j
+1	#DEP#jdom:jdom
+1	#DEP#junit:junit

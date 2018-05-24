@@ -1,0 +1,6 @@
+1	#DEP#com.segment.analytics.android:analytics
+1	#DEP#io.particle:cloudsdk
+1	#DEP#net.orfjackal.retrolambda:retrolambda
+1	#DEP#junit:junit
+1	#DEP#uk.co.chrisjenx:calligraphy
+1	#DEP#com.squareup.okio:okio

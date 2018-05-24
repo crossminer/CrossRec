@@ -1,0 +1,10 @@
+1	git://github.com/flipkart-incubator/hbase-object-mapper.git
+2	#DEP#org.apache.hbase:hbase-server
+3	#DEP#com.fasterxml.jackson.core:jackson-databind
+4	#DEP#org.projectlombok:lombok
+5	#DEP#org.apache.hbase:hbase-testing-util
+6	#DEP#junit:junit
+7	#DEP#org.apache.mrunit:mrunit
+8	#DEP#org.apache.hbase:hbase-client
+9	#DEP#org.javatuples:javatuples
+10	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

@@ -1,0 +1,11 @@
+1	#DEP#org.jdbi:jdbi
+1	#DEP#org.springframework.boot:spring-boot-starter-jta-bitronix
+1	#DEP#org.seasar.container:s2-tiger
+1	#DEP#org.sql2o:sql2o
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.avaje.composite:avaje-composite-testing-ebean
+1	#DEP#org.springframework.boot:spring-boot-starter-jooq
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#com.gitblit.iciql:iciql
+1	#DEP#com.h2database:h2

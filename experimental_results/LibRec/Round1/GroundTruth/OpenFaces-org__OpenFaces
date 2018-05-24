@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.uwyn:jhighlight
+1	#DEP#org.richfaces.framework:richfaces-api
+1	#DEP#org.richfaces.ui:richfaces-ui
+1	#DEP#commons-collections:commons-collections
+1	#DEP#jfree:jfreechart
+1	#DEP#javax.servlet:jstl
+1	#DEP#commons-digester:commons-digester
+1	#DEP#org.openfaces:openfaces

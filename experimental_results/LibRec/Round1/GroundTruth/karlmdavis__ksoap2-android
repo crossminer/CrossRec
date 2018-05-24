@@ -1,0 +1,7 @@
+1	#DEP#com.google.code.ksoap2-android:ksoap2-samples
+1	#DEP#com.google.code.ksoap2-android:ksoap2-base
+1	#DEP#com.google.code.ksoap2-android:ksoap2-parent
+1	#DEP#net.sourceforge.kobjects:kobjects-j2me
+1	#DEP#junit:junit
+1	#DEP#com.google.code.ksoap2-android:ksoap2-midp
+1	#DEP#com.google.code.ksoap2-android:ksoap2-servlet

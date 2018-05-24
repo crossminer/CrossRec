@@ -1,0 +1,10 @@
+1	git://github.com/spotify/java-hamcrest.git
+2	#DEP#com.spotify:hamcrest-util
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.spotify:foss-root
+5	#DEP#org.hamcrest:hamcrest-junit
+6	#DEP#com.google.auto.value:auto-value
+7	#DEP#com.google.guava:guava
+8	#DEP#com.spotify:hamcrest
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit

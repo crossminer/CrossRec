@@ -1,0 +1,6 @@
+8	#DEP#com.github.bumptech.glide:glide
+9	#DEP#org.mockito:mockito-core
+10	#DEP#com.google.android.exoplayer:exoplayer
+11	#DEP#com.android.support.test:rules
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test:runner

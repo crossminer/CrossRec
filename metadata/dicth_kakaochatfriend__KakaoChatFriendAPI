@@ -1,0 +1,11 @@
+1	git://github.com/kakaochatfriend/KakaoChatFriendAPI.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#log4j:log4j
+5	#DEP#org.mybatis:mybatis
+6	#DEP#io.netty:netty
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.jboss.netty:netty
+9	#DEP#junit:junit
+10	#DEP#org.mongodb:bson
+11	#DEP#org.slf4j:slf4j-log4j12

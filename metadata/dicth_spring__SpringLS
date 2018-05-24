@@ -1,0 +1,14 @@
+1	git://github.com/spring/SpringLS.git
+2	#DEP#net.iharder:base64
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#javax.transaction:jta
+8	#DEP#org.apache.felix:org.apache.felix.framework
+9	#DEP#commons-configuration:commons-configuration
+10	#DEP#org.osgi:org.osgi
+11	#DEP#commons-pool:commons-pool
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit
+14	#DEP#org.osgi:org.osgi.core

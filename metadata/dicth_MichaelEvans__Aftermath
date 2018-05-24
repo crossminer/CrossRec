@@ -1,0 +1,15 @@
+1	git://github.com/MichaelEvans/Aftermath.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.google.android:android
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#org.mockito:mockito-core
+9	#DEP#com.google.testing.compile:compile-testing
+10	#DEP#com.android.support.test:rules
+11	#DEP#com.google.auto.service:auto-service
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.android.support.test.espresso:espresso-core

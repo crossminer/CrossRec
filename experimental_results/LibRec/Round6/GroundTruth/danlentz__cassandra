@@ -1,0 +1,8 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#jsonsimple:jsonsimple
+1	#DEP#jline:jline
+1	#DEP#log4j:log4j
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#flexjson:flexjson
+1	#DEP#junit:junit

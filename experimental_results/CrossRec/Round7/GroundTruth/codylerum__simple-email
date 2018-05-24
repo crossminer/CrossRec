@@ -1,0 +1,5 @@
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.guava:guava
+8	#DEP#junit:junit
+9	#DEP#org.freemarker:freemarker
+10	#DEP#com.sun.mail:javax.mail

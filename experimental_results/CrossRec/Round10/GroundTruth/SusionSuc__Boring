@@ -1,0 +1,6 @@
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

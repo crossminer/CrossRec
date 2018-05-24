@@ -1,0 +1,7 @@
+1	#DEP#org.axonframework:axon-core
+1	#DEP#org.springframework.data:spring-data-elasticsearch
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.springframework.data:spring-data-commons
+1	#DEP#org.hsqldb:hsqldb

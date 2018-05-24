@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.json:json
+1	#DEP#junit:junit

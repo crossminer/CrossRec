@@ -1,0 +1,11 @@
+1	git://github.com/optimaize/language-detector.git
+2	#DEP#com.intellij:annotations
+3	#DEP#junit:junit-dep
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#net.arnx:jsonic
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.testng:testng
+8	#DEP#com.google.guava:guava
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.mockito:mockito-all
+11	#DEP#org.hamcrest:hamcrest-core

@@ -1,0 +1,6 @@
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#org.elasticsearch:elasticsearch
+10	#DEP#org.elasticsearch.test:framework
+11	#DEP#junit:junit
+12	#DEP#org.apache.lucene:lucene-test-framework
+13	#DEP#org.apache.logging.log4j:log4j-api

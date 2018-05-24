@@ -1,0 +1,13 @@
+1	git://github.com/jprante/elasticsearch-oai.git
+2	#DEP#xalan:xalan
+3	#DEP#org.codehaus.woodstox:woodstox-core-asl
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#xalan:serializer
+6	#DEP#org.testng:testng
+7	#DEP#org.elasticsearch:elasticsearch
+8	#DEP#org.xbib.elasticsearch.plugin:elasticsearch-helper
+9	#DEP#org.xbib:xbib-oai
+10	#DEP#xerces:xercesImpl
+11	#DEP#org.xbib:xbib-time
+12	#DEP#org.xbib:xbib-datastructures-forkjoin
+13	#DEP#org.apache.logging.log4j:log4j-slf4j-impl

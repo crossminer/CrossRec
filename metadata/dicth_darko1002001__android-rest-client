@@ -1,0 +1,13 @@
+1	git://github.com/darko1002001/android-rest-client.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.google.android:android
+4	#DEP#com.squareup.okhttp:okhttp
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#com.fasterxml.jackson.core:jackson-annotations
+7	#DEP#com.squareup.okhttp:okhttp-apache
+8	#DEP#com.fasterxml.jackson.core:jackson-core
+9	#DEP#com.aranea-apps.android.libs:android-rest-additions
+10	#DEP#com.aranea-apps.android.libs:android-logger
+11	#DEP#com.aranea-apps.android.libs:android-rest
+12	#DEP#com.aranea-apps.android.libs:android-async-runners
+13	#DEP#junit:junit

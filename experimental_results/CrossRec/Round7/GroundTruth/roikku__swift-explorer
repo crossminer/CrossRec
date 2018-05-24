@@ -1,0 +1,9 @@
+11	#DEP#junit:junit-dep
+12	#DEP#org.mockito:mockito-core
+13	#DEP#log4j:log4j
+14	#DEP#commons-collections:commons-collections
+15	#DEP#org.javaswift:joss
+16	#DEP#com.google.guava:guava
+17	#DEP#org.imgscalr:imgscalr-lib
+18	#DEP#com.ibm.icu:icu4j
+19	#DEP#com.beust:jcommander

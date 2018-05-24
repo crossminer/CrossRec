@@ -1,0 +1,16 @@
+1	git://github.com/Imaginea/bot-bot.git
+2	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-client
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#com.sun.jersey:jersey-client
+5	#DEP#org.eclipse.persistence:eclipselink
+6	#DEP#com.sun.jersey.contribs:jersey-multipart
+7	#DEP#com.sun.jersey:jersey-json
+8	#DEP#javax.servlet.jsp:jsp-api
+9	#DEP#javax.ws.rs:jsr311-api
+10	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-signature
+11	#DEP#org.eclipse.persistence:javax.persistence
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#junit:junit
+14	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor
+15	#DEP#com.sun.jersey:jersey-server
+16	#DEP#com.h2database:h2

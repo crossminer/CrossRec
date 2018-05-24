@@ -1,0 +1,6 @@
+1	#DEP#com.lzy.net:okgo
+1	#DEP#com.qianwen:okhttp-utils
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

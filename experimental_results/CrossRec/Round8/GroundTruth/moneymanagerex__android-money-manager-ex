@@ -1,0 +1,8 @@
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#org.hamcrest:hamcrest-core
+12	#DEP#org.parceler:parceler-api
+13	#DEP#com.google.dagger:dagger
+14	#DEP#com.google.dagger:dagger-compiler
+15	#DEP#commons-collections:commons-collections
+16	#DEP#com.google.guava:guava
+17	#DEP#junit:junit

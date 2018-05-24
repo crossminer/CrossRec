@@ -1,0 +1,9 @@
+10	#DEP#org.netbeans.api:org-openide-loaders
+11	#DEP#org.jdesktop:beansbinding
+12	#DEP#org.netbeans.api:org-openide-util-lookup
+13	#DEP#org.netbeans.api:org-netbeans-modules-editor-lib
+14	#DEP#org.netbeans.api:org-netbeans-modules-editor-lib2
+15	#DEP#org.netbeans.api:org-openide-util
+16	#DEP#org.netbeans.api:org-netbeans-api-annotations-common
+17	#DEP#org.netbeans.api:org-netbeans-modules-projectuiapi
+18	#DEP#org.netbeans.api:org-netbeans-modules-javahelp

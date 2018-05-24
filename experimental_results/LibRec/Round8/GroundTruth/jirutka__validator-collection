@@ -1,0 +1,6 @@
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.groovy:org.codehaus.groovy
+1	#DEP#javax.el:javax.el-api
+1	#DEP#org.spockframework:org.spockframework

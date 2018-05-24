@@ -1,0 +1,14 @@
+1	#DEP#org.apache.directory.studio:org.apache.commons.io
+1	#DEP#commons-cli:commons-cli
+1	#DEP#edu.neu.ccs.pyramid:pyramid-root
+1	#DEP#org.jpmml:jpmml-converter
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.jpmml:pmml-evaluator
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.jpmml:pmml-evaluator-test
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.ojalgo:ojalgo
+1	#DEP#edu.stanford.nlp:stanford-corenlp
+1	#DEP#org.elasticsearch.client:transport
+1	#DEP#junit:junit

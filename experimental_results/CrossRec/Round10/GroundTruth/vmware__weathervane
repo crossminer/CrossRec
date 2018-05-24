@@ -1,0 +1,5 @@
+7	#DEP#com.jcabi:jcabi-ssh
+8	#DEP#org.apache.commons:commons-math
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.apache.tomcat:tomcat-servlet-api
+11	#DEP#org.json:json

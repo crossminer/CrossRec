@@ -1,0 +1,6 @@
+1	#DEP#com.kohlschutter.junixsocket:junixsocket-common
+1	#DEP#com.kohlschutter.junixsocket:junixsocket-native
+1	#DEP#junit:junit
+1	#DEP#com.kohlschutter.junixsocket:junixsocket-mysql
+1	#DEP#org.scijava:native-lib-loader
+1	#DEP#org.slf4j:slf4j-log4j12

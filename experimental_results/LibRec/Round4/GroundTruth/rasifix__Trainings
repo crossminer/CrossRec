@@ -1,0 +1,16 @@
+1	#DEP#org.apache.felix:org.apache.felix.log
+1	#DEP#org.geotools:gt-coverage
+1	#DEP#com.github.rasifix:osgi-application
+1	#DEP#org.geotools:gt-referencing
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#org.apache.felix:org.apache.felix.framework
+1	#DEP#com.github.rasifix.osgi:osgi-shell
+1	#DEP#org.geotools:gt-cql
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#com.github.rasifix:osgi-shell
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.geotools:gt-api
+1	#DEP#org.osgi:core
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.github.rasifix.trainings:trainings-json

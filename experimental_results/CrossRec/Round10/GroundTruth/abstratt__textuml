@@ -1,0 +1,6 @@
+8	#DEP#org.eclipse.equinox:registry
+9	#DEP#org.eclipse.emf:query
+10	#DEP#org.eclipse.core:runtime
+11	#DEP#com.abstratt.mdd.core:tests
+12	#DEP#junit:junit
+13	#DEP#org.eclipse:osgi

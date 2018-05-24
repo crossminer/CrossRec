@@ -1,0 +1,7 @@
+1	#DEP#org.greenrobot:eventbus
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.github.tony19:logback-android-classic
+1	#DEP#org.greenrobot:eventbus-annotation-processor
+1	#DEP#com.android.support:support-v4

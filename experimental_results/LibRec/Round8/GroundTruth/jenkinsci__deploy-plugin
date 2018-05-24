@@ -1,0 +1,9 @@
+1	#DEP#org.codehaus.cargo:cargo-core-container-jboss
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#org.codehaus.cargo:cargo-core-container-jetty
+1	#DEP#org.codehaus.cargo:cargo-core-container-weblogic
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.codehaus.cargo:cargo-core-container-wildfly
+1	#DEP#org.codehaus.cargo:cargo-core-api-generic
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

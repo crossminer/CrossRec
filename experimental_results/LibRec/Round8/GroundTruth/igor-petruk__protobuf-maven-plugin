@@ -1,0 +1,6 @@
+1	#DEP#org.apache.maven:maven-model
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.apache.maven.shared:maven-dependency-tree

@@ -1,0 +1,10 @@
+1	git://github.com/tzaeschke/ode4j.git
+2	#DEP#${project.parent.groupId}:core
+3	#DEP#org.ode4j:parent
+4	#DEP#${project.parent.groupId}:core-cpp
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.lwjgl.lwjgl:lwjgl_util
+9	#DEP#${project.parent.groupId}:demo
+10	#DEP#org.slf4j:slf4j-jdk14

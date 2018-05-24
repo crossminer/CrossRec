@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#edu.washington.cs.knowitall:opennlp-postag-models
+1	#DEP#edu.washington.cs.knowitall:opennlp-chunk-models
+1	#DEP#edu.washington.cs.knowitall:reverb-models
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#edu.washington.cs.knowitall:openregex
+1	#DEP#junit:junit

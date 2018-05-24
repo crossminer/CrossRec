@@ -1,0 +1,6 @@
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

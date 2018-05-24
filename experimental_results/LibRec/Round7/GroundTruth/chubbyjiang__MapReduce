@@ -1,0 +1,5 @@
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.hadoop:hadoop-auth
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+1	#DEP#org.apache.mahout:mahout-integration

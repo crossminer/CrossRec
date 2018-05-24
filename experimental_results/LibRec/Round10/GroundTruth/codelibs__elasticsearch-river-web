@@ -1,0 +1,7 @@
+1	#DEP#org.codelibs:elasticsearch-cluster-runner
+1	#DEP#args4j:args4j
+1	#DEP#org.lastaflute:lasta-di
+1	#DEP#org.codelibs:corelib
+1	#DEP#junit:junit
+1	#DEP#org.codelibs.fess:fess-crawler-es
+1	#DEP#org.codelibs.fess:fess-crawler-webdriver

@@ -1,0 +1,6 @@
+1	#DEP#com.anthonycr.progress:animated-progress
+1	#DEP#com.anthonycr.bonsai:bonsai
+1	#DEP#junit:junit
+1	#DEP#com.google.firebase:firebase-messaging
+1	#DEP#net.i2p.android:client
+1	#DEP#com.google.firebase:firebase-core

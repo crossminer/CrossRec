@@ -1,0 +1,12 @@
+1	#DEP#org.drools:org.drools.eclipse
+1	#DEP#org.drools:org.drools.updatesite
+1	#DEP#org.kie:kie-internal
+1	#DEP#org.jbpm:jbpm-flow-builder
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#org.jbpm:jbpm-test
+1	#DEP#org.drools:drools-core
+1	#DEP#org.drools:drools-templates
+1	#DEP#org.drools:org.guvnor.tools
+1	#DEP#org.jbpm:org.jbpm.eclipse
+1	#DEP#org.jbpm:jbpm-audit
+1	#DEP#org.drools:drools-bom

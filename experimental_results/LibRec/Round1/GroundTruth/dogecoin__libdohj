@@ -1,0 +1,7 @@
+1	#DEP#org.libdohj:libdohj-core
+1	#DEP#org.bitcoinj:bitcoinj-core
+1	#DEP#org.fusesource.leveldbjni:leveldbjni-all
+1	#DEP#com.lambdaworks:scrypt
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#com.h2database:h2

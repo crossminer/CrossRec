@@ -1,0 +1,15 @@
+1	git://github.com/Waikato/wekaDeeplearning4j.git
+2	#DEP#org.nd4j:nd4j-jackson
+3	#DEP#org.nd4j:nd4j-native-api
+4	#DEP#org.deeplearning4j:deeplearning4j-core
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#nz.ac.waikato.cms.weka:weka-stable
+7	#DEP#edu.cmu.cs:ark-tweet-nlp
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.deeplearning4j:deeplearning4j-nlp
+10	#DEP#org.deeplearning4j:deeplearning4j-zoo
+11	#DEP#com.google.guava:guava
+12	#DEP#org.bytedeco:javacpp
+13	#DEP#org.projectlombok:lombok
+14	#DEP#junit:junit
+15	#DEP#org.slf4j:slf4j-jdk14

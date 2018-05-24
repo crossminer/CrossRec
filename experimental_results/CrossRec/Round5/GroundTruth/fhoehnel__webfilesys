@@ -1,0 +1,9 @@
+11	#DEP#commons-net:commons-net
+12	#DEP#javax.mail:mail
+13	#DEP#log4j:log4j
+14	#DEP#com.ice.tar:javatar
+15	#DEP#net.sf.javamusictag:jid3lib
+16	#DEP#javax.activation:activation
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#com.drew:metadata-extractor
+19	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#javax:javaee-api
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.jmockit:jmockit
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#junit:junit
+1	#DEP#com.sun.el:el-ri
+1	#DEP#org.hsqldb:hsqldb

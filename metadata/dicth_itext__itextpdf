@@ -1,0 +1,10 @@
+1	git://github.com/itext/itextpdf.git
+2	#DEP#com.itextpdf:itext-parent
+3	#DEP#commons-io:commons-io
+4	#DEP#com.itextpdf:itextpdf
+5	#DEP#org.bouncycastle:bcprov-jdk15on
+6	#DEP#org.apache.commons:commons-imaging
+7	#DEP#org.bouncycastle:bcpkix-jdk15on
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#org.apache.santuario:xmlsec

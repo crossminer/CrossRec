@@ -1,0 +1,12 @@
+1	#DEP#org.scala-lang:jline
+1	#DEP#org.scala-lang:scala-compiler
+1	#DEP#org.apache.avro:avro-mapred
+1	#DEP#org.apache.hadoop:hadoop-minicluster
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.codehaus.jackson:jackson-smile
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.avro:avro

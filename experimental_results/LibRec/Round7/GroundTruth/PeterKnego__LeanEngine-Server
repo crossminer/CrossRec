@@ -1,0 +1,6 @@
+1	#DEP#org.mozilla:rhino
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.appengine:appengine-tools-sdk
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing

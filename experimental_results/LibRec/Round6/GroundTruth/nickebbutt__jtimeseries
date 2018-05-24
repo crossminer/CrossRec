@@ -1,0 +1,10 @@
+1	#DEP#com.jidesoft:jide-components
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.jmock:jmock-junit4
+1	#DEP#od:od-configutil
+1	#DEP#com.sun.jdmk:jmxtools
+1	#DEP#com.jgoodies:forms
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.jidesoft:jide-common
+1	#DEP#junit:junit

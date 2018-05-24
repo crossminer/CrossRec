@@ -1,0 +1,6 @@
+7	#DEP#org.clojure:clojure-contrib
+8	#DEP#org.testng:testng
+9	#DEP#storm:storm
+10	#DEP#redis.clients:jedis
+11	#DEP#org.clojure:clojure
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl

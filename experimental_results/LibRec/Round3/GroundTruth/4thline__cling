@@ -1,0 +1,12 @@
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#javax.ejb:ejb-api
+1	#DEP#org.javassist:javassist
+1	#DEP#com.google.android:android
+1	#DEP#com.googlecode.gstreamer-java:gstreamer-java
+1	#DEP#org.seamless:seamless-swing
+1	#DEP#org.fourthline.cling:cling-workbench
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.seamless:seamless-xml
+1	#DEP#org.seamless:seamless-util
+1	#DEP#org.fourthline.cling:cling-core
+1	#DEP#org.eclipse.jetty:jetty-client

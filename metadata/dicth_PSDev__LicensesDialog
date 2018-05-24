@@ -1,0 +1,10 @@
+1	git://github.com/PSDev/LicensesDialog.git
+2	#DEP#de.psdev.licensesdialog:licensesdialog
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.google.android:android
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#de.psdev.licensesdialog:parent
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit

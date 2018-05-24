@@ -1,0 +1,11 @@
+1	git://github.com/sonalgoyal/hiho.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.hive:hive-common
+4	#DEP#com.force.api:force-partner-api
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.apache.pig:pig
+7	#DEP#org.apache.hive:hive-serde
+8	#DEP#org.apache.avro:avro
+9	#DEP#com.force.api:force-wsc
+10	#DEP#org.mockito:mockito-all
+11	#DEP#junit:junit

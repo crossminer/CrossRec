@@ -1,0 +1,11 @@
+1	#DEP#org.neo4j:neo4j-shell
+1	#DEP#org.neo4j:remote-neo
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.neo4j:neo4j-remote-graphdb
+1	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+1	#DEP#org.neo4j:neo4j-kernel-ha
+1	#DEP#org.neo4j:index-util
+1	#DEP#org.neo4j:neo4j-commons
+1	#DEP#org.neo4j:neo4j-graph-algo
+1	#DEP#org.neo4j:shell
+1	#DEP#org.neo4j:neo4j-index

@@ -1,0 +1,5 @@
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time

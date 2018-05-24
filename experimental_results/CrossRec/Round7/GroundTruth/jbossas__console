@@ -1,0 +1,12 @@
+13	#DEP#org.jboss.as:jboss-as-console-bom
+14	#DEP#junit:junit
+15	#DEP#org.jboss.as:jboss-as-console-core
+16	#DEP#com.gwtplatform:gwtp-mvp-client
+17	#DEP#com.google.gwt:gwt-dev
+18	#DEP#javax.validation:validation-api
+19	#DEP#org.jboss.as:jboss-as-console-dmr
+20	#DEP#org.jboss.ballroom:widgets
+21	#DEP#com.google.gwt:gwt-servlet
+22	#DEP#org.jboss.as:jboss-as-console-flow
+23	#DEP#org.jboss.as:diagnostics
+24	#DEP#log4j:log4j

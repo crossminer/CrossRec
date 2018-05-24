@@ -1,0 +1,13 @@
+1	git://github.com/google/google-auth-library-java.git
+2	#DEP#com.google.http-client:com.google.http-client
+3	#DEP#com.google.guava:com.google.guava
+4	#DEP#com.google.appengine:appengine-api-1.0-sdk
+5	#DEP#com.google.http-client:google-http-client-jackson2
+6	#DEP#com.google.auth:com.google.auth
+7	#DEP#com.google.appengine:com.google.appengine
+8	#DEP#com.google.auth:google-auth-library-credentials
+9	#DEP#com.google.guava:guava
+10	#DEP#com.google.auth:google-auth-library-oauth2-http
+11	#DEP#junit:junit
+12	#DEP#com.google.http-client:google-http-client
+13	#DEP#com.google.auth:google-auth-library-cloudshell

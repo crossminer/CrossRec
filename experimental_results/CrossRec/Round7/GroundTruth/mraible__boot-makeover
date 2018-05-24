@@ -1,0 +1,6 @@
+7	#DEP#joda-time:joda-time
+8	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.boot:spring-boot-starter-security
+11	#DEP#org.springframework.boot:spring-boot-starter-actuator
+12	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

@@ -1,0 +1,9 @@
+1	#DEP#:integration
+1	#DEP#com.google.errorprone:error_prone_annotations
+1	#DEP#com.google.android:support-v4
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,9 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.lucene:lucene-highlighter
+1	#DEP#log4j:log4j
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.google.guava:guava
+1	#DEP#com.ghosthack:turismo
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr
+1	#DEP#org.eclipse.jetty:jetty-servlet

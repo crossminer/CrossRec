@@ -1,0 +1,7 @@
+1	#DEP#net.encomendaz:encomendaz-services-core
+1	#DEP#org.jboss.resteasy:resteasy-jaxrs
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#net.encomendaz:encomendaz-services-client
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#junit:junit

@@ -1,0 +1,8 @@
+1	#DEP#org.swinglabs:swingx
+1	#DEP#commons-codec:commons-codec
+1	#DEP#net.sf.jung:jung-algorithms
+1	#DEP#com.github.insubstantial:substance
+1	#DEP#com.miglayout:miglayout
+1	#DEP#net.sf.jung:jung-graph-impl
+1	#DEP#com.jogamp:joal
+1	#DEP#junit:junit

@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#io.beanmother:beanmother
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time

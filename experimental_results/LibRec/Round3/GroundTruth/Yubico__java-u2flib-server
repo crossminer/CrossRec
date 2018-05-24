@@ -1,0 +1,8 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.yubico:u2flib-server-attestation
+1	#DEP#io.dropwizard:dropwizard-assets
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#com.yubico:u2flib-server-core
+1	#DEP#io.dropwizard:dropwizard-core

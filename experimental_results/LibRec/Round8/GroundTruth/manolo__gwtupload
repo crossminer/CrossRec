@@ -1,0 +1,16 @@
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#${groupId}:jsupload
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_3.0_spec
+1	#DEP#javax.validation:validation-api
+1	#DEP#${groupId}:gwtupload-gae
+1	#DEP#org.datanucleus:datanucleus-jpa
+1	#DEP#com.google.appengine.orm:datanucleus-appengine
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit

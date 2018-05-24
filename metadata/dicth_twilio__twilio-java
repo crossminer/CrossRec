@@ -1,0 +1,12 @@
+1	git://github.com/twilio/twilio-java.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#javax.xml.bind:jaxb-api
+5	#DEP#org.jmockit:jmockit
+6	#DEP#com.google.guava:guava
+7	#DEP#org.apache.httpcomponents:httpcore
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#io.jsonwebtoken:jjwt
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

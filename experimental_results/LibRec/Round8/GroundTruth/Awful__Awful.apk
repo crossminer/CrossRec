@@ -1,0 +1,10 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.github.samkirton:android-volley
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#com.github.rubensousa:BottomSheetBuilder
+1	#DEP#com.samskivert:jmustache
+1	#DEP#com.github.chrisbanes:PhotoView

@@ -1,0 +1,15 @@
+1	git://github.com/Pi4J/pi4j.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.apache.ant:ant-jsch
+4	#DEP#com.jcraft:jsch
+5	#DEP#org.mockito:mockito-all
+6	#DEP#com.pi4j:pi4j-gpio-extension
+7	#DEP#com.pi4j:pi4j-native
+8	#DEP#org.jmockit:jmockit
+9	#DEP#org.powermock:powermock-api-mockito
+10	#DEP#com.pi4j:pi4j-core
+11	#DEP#com.pi4j:pi4j-example
+12	#DEP#ant-contrib:ant-contrib
+13	#DEP#junit:junit
+14	#DEP#com.pi4j:pi4j-device
+15	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,7 @@
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.scala-lang:scala-compiler
+1	#DEP#org.neo4j:neo4j-shell
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.json:json
+1	#DEP#org.neo4j:neo4j-graph-algo
+1	#DEP#org.geotools:gt-shapefile

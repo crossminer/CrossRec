@@ -1,0 +1,5 @@
+7	#DEP#com.github.chrisbanes.photoview:library
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#de.greenrobot:eventbus
+11	#DEP#com.octo.android.robospice:robospice

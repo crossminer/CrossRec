@@ -1,0 +1,11 @@
+1	git://github.com/orangesignal/orangesignal-csv.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#org.springframework:spring-context
+4	#DEP#net.sf.supercsv:super-csv
+5	#DEP#org.seasar.container:s2-tiger
+6	#DEP#org.springframework:spring-test
+7	#DEP#log4j:log4j
+8	#DEP#org.apache.geronimo.specs:geronimo-j2ee_1.4_spec
+9	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+10	#DEP#junit:junit
+11	#DEP#com.carrotsearch:junit-benchmarks

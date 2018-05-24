@@ -1,0 +1,5 @@
+1	#DEP#org.apache.commons:commons-imaging
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.apache.santuario:xmlsec

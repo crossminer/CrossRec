@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.mortbay.jetty:jetty-servlet-tester
+1	#DEP#net.oauth.v2:oauth2provider
+1	#DEP#org.mortbay.jetty:jsp-2.1

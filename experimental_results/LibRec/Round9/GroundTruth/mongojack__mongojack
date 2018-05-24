@@ -1,0 +1,5 @@
+1	#DEP#de.undercouch:bson4jackson
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit

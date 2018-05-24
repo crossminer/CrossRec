@@ -1,0 +1,15 @@
+1	git://github.com/yandex-qatools/postgresql-embedded.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.slf4j:jul-to-slf4j
+4	#DEP#de.flapdoodle.embed:de.flapdoodle.embed.process
+5	#DEP#org.postgresql:postgresql
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.springframework:spring-core
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.kubek2k:springockito
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.springframework:spring-test
+12	#DEP#org.mockito:mockito-core
+13	#DEP#log4j:log4j
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	#DEP#org.springframework.data:spring-data-commons-core
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.springframework.data:spring-data-mongodb
+1	#DEP#org.hibernate:hibernate-validator-annotation-processor
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.jboss.resteasy:jaxrs-api
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-jms
+1	#DEP#org.springframework:spring-instrument-tomcat
+1	#DEP#aopalliance:aopalliance
+1	#DEP#junit:junit

@@ -1,0 +1,7 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.epam.gepard:gepard-core
+1	#DEP#com.sun.xml.fastinfoset:FastInfoset
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.json:json
+1	#DEP#org.jacoco:org.jacoco.ant
+1	#DEP#commons-httpclient:commons-httpclient

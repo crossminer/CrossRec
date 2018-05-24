@@ -1,0 +1,12 @@
+1	git://github.com/FINRAOS/JTAF-ExtWebDriver.git
+2	#DEP#org.ccil.cowan.tagsoup:tagsoup
+3	#DEP#commons-configuration:commons-configuration
+4	#DEP#xml-apis:xml-apis
+5	#DEP#org.seleniumhq.selenium:selenium-support
+6	#DEP#org.seleniumhq.selenium:selenium-server
+7	#DEP#log4j:log4j
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.seleniumhq.selenium:selenium-leg-rc
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#commons-lang:commons-lang

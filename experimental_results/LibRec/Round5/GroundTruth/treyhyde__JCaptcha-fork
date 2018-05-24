@@ -1,0 +1,13 @@
+1	#DEP#com.sun.speech.freetts:freetts
+1	#DEP#jboss:jboss-cache
+1	#DEP#velocity:velocity
+1	#DEP#struts:struts
+1	#DEP#commons-pool:commons-pool
+1	#DEP#jgroups:jgroups
+1	#DEP#org.roller:rollerweb
+1	#DEP#com.octo.captcha:jcaptcha-common-test
+1	#DEP#com.jhlabs:imaging
+1	#DEP#org.roller:rollerbeans
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit

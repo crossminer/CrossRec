@@ -1,0 +1,12 @@
+13	#DEP#javax.mail:javax.mail-api
+14	#DEP#org.apache.poi:poi-scratchpad
+15	#DEP#org.springframework:spring-test
+16	#DEP#org.springframework:spring-jms
+17	#DEP#org.springframework:spring-context-support
+18	#DEP#log4j:log4j
+19	#DEP#org.apache.poi:poi
+20	#DEP#org.rxtx:rxtx
+21	#DEP#javax.servlet:servlet-api
+22	#DEP#org.subethamail:subethasmtp-wiser
+23	#DEP#org.apache.poi:poi-ooxml
+24	#DEP#junit:junit

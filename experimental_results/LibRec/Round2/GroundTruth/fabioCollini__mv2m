@@ -1,0 +1,10 @@
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.github.fabioCollini:twowaydatabinding
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core
+1	#DEP#io.reactivex:rxandroid

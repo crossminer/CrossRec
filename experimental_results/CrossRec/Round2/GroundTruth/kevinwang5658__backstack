@@ -1,0 +1,6 @@
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:support-compat
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.daimajia.androidanimations:library
+12	#DEP#junit:junit
+13	#DEP#com.daimajia.easing:library

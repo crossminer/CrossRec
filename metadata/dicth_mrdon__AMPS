@@ -1,0 +1,12 @@
+1	git://github.com/mrdon/AMPS.git
+2	#DEP#com.atlassian.confluence.plugin:func-test
+3	#DEP#net.sf.json-lib:json-lib
+4	#DEP#org.apache.httpcomponents:httpcore
+5	#DEP#com.atlassian.maven.archetypes:crowd-plugin-archetype
+6	#DEP#commons-httpclient:commons-httpclient
+7	#DEP#org.apache.httpcomponents:httpclient
+8	#DEP#com.atlassian.maven.archetypes:confluence-plugin-archetype
+9	#DEP#com.atlassian.maven.archetypes:bamboo-plugin-archetype
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#junit:junit
+12	#DEP#org.codehaus.groovy:http-builder

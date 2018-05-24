@@ -1,0 +1,16 @@
+1	git://github.com/ymnk/jsch-agent-proxy.git
+2	#DEP#com.jcraft:jsch.agentproxy.usocket-nc
+3	#DEP#net.java.dev.jna:jna-platform
+4	#DEP#com.jcraft:jsch.agentproxy.pageant
+5	#DEP#net.java.dev.jna:jna
+6	#DEP#com.jcraft:jsch.agentproxy.sshagent
+7	#DEP#com.jcraft:jsch
+8	#DEP#com.trilead:trilead-ssh2
+9	#DEP#com.jcraft:jsch.agentproxy.jsch
+10	#DEP#com.jcraft:jsch.agentproxy.connector-factory
+11	#DEP#net.schmizz:sshj
+12	#DEP#com.jcraft:jsch.agentproxy.usocket-jna
+13	#DEP#com.jcraft:jsch.agentproxy.sshj
+14	#DEP#org.newsclub:junixsocket
+15	#DEP#com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2
+16	#DEP#com.jcraft:jsch.agentproxy.core

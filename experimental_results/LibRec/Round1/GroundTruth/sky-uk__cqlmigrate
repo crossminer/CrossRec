@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.awaitility:awaitility
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

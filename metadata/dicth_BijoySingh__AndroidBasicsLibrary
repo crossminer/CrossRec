@@ -1,0 +1,11 @@
+1	git://github.com/BijoySingh/AndroidBasicsLibrary.git
+2	#DEP#net.danlew:android.joda
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.mcxiaoke.volley:library
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support.test:runner
+10	#DEP#com.android.support:design
+11	#DEP#com.android.support.test.espresso:espresso-core

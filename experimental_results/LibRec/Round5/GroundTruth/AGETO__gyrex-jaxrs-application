@@ -1,0 +1,15 @@
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.codehaus.jettison:jettison
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.sun.xml.bind:com.sun.xml.bind
+1	#DEP#com.sun.net.httpserver:http
+1	#DEP#org.jboss.weld:weld-osgi-bundle
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#jdom:jdom
+1	#DEP#com.sun.xml.fastinfoset:FastInfoset
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#rome:rome
+1	#DEP#org.glassfish:javax.ejb
+1	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-fastinfoset

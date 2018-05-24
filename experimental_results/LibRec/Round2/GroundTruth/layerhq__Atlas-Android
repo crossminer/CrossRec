@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.android.support:design
+1	#DEP#com.android.support.test:runner

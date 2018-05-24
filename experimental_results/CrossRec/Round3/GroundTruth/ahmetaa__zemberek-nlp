@@ -1,0 +1,8 @@
+10	#DEP#zemberek-nlp:zemberek-core
+11	#DEP#zemberek-nlp:zemberek-morphology
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#com.google.guava:guava
+14	#DEP#org.apache.opennlp:opennlp-tools
+15	#DEP#junit:junit
+16	#DEP#zemberek-nlp:zemberek-lang-id
+17	#DEP#org.antlr:antlr4-runtime

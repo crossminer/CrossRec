@@ -1,0 +1,7 @@
+1	#DEP#com.linkedin.bowser:bowser-core
+1	#DEP#org.antlr:gunit
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#org.codehaus.jsr166-mirror:jsr166y
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr

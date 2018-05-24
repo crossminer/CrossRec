@@ -1,0 +1,8 @@
+1	#DEP#org.apache.hadoop:hadoop-yarn-api
+1	#DEP#org.apache.hadoop:hadoop-yarn-server-resourcemanager
+1	#DEP#org.apache.avro:avro
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.hadoop:hadoop-yarn-server-nodemanager
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#com.cloudera:IterativeReduce

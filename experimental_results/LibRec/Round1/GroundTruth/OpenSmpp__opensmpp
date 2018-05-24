@@ -1,0 +1,6 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.opensmpp:opensmpp-parent
+1	#DEP#${project.groupId}:opensmpp-core
+1	#DEP#${project.groupId}:opensmpp-charset
+1	#DEP#junit:junit
+1	#DEP#org.opensmpp:opensmpp-charset

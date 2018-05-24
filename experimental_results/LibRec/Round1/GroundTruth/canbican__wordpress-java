@@ -1,0 +1,6 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.json:json
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

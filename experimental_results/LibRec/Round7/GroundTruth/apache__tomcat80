@@ -1,0 +1,7 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.apache.tomcat:coyote
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.tomcat:jasper-el
+1	#DEP#junit:junit
+1	#DEP#org.apache.tomcat:jasper-jdt
+1	#DEP#com.h2database:h2

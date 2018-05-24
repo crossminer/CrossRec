@@ -1,0 +1,8 @@
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.openx.data:json-serde-parent
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+1	#DEP#com.microsoft.azure:azure-documentdb

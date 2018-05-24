@@ -1,0 +1,11 @@
+1	#DEP#org.apache.maven:org.apache.maven
+1	#DEP#${project.groupId}:unix-ar
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#commons-lang:commons-lang
+1	#DEP#${project.groupId}:unix-sysv-pkg
+1	#DEP#easymock:easymock
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.functionaljava:functionaljava
+1	#DEP#org.mortbay.jetty:jetty-assembly
+1	#DEP#${project.groupId}:unix-common
+1	#DEP#${project.groupId}:unix-rpm

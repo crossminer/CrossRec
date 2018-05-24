@@ -1,0 +1,6 @@
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.easymock:easymockclassextension
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#org.springframework:spring-test
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

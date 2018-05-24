@@ -1,0 +1,8 @@
+1	#DEP#com.google.truth:truth
+1	#DEP#org.robolectric:shadows-supportv4
+1	#DEP#com.google.auto:auto-common
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.squareup.okio:okio

@@ -1,0 +1,17 @@
+1	git://github.com/sikuli/sikuli-slides.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#org.antlr:stringtemplate
+4	#DEP#commons-io:commons-io
+5	#DEP#com.googlecode.json-simple:json-simple
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.install4j:api
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org:jnativehook
+12	#DEP#org.sikuli:sikuli-slides-api
+13	#DEP#net.lingala.zip4j:zip4j
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#com.google.guava:guava
+16	#DEP#junit:junit
+17	#DEP#org.sikuli:sikuli-api

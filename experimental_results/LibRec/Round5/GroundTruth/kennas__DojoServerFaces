@@ -1,0 +1,10 @@
+1	#DEP#${project.groupId}:dojoserverfaces-annotations
+1	#DEP#${project.groupId}:dojoserverfaces-library-standard
+1	#DEP#${project.groupId}:dojoserverfaces-annotation-processor
+1	#DEP#${project.groupId}:dojoserverfaces-dojo
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#javax:javaee-api
+1	#DEP#${project.groupId}:dojoserverfaces-core
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+1	#DEP#junit:junit
+1	#DEP#org.apache.wink:wink-server

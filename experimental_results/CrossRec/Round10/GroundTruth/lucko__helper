@@ -1,0 +1,9 @@
+11	#DEP#ninja.leaping.configurate:configurate-yaml
+12	#DEP#org.bukkit:bukkit
+13	#DEP#ninja.leaping.configurate:configurate-hocon
+14	#DEP#me.lucko:helper
+15	#DEP#org.apache.commons:commons-pool2
+16	#DEP#com.zaxxer:HikariCP
+17	#DEP#org.mongodb.morphia:morphia
+18	#DEP#net.kyori:text
+19	#DEP#ninja.leaping.configurate:configurate-core

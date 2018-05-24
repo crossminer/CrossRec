@@ -1,0 +1,11 @@
+1	git://github.com/OWASP/java-html-sanitizer.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.glassfish:javax.json
+4	#DEP#nu.validator.htmlparser:htmlparser
+5	#DEP#com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer
+6	#DEP#com.google.code.findbugs:annotations
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.google.guava:guava
+9	#DEP#javax.json:javax.json-api
+10	#DEP#com.google.common.html.types:types
+11	#DEP#junit:junit

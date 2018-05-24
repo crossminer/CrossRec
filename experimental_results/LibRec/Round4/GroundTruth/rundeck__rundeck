@@ -1,0 +1,6 @@
+1	#DEP#org.spockframework:spock-core
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#yyyy-MM-dd'T'HH:mm
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

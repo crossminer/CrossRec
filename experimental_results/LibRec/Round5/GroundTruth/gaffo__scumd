@@ -1,0 +1,6 @@
+1	#DEP#com.jcraft:jsch
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#net.sf.jpam:jpam
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#bouncycastle:bcprov-jdk15
+1	#DEP#junit:junit

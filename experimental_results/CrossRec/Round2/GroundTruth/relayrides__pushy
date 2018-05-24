@@ -1,0 +1,9 @@
+11	#DEP#com.google.code.gson:gson
+12	#DEP#commons-codec:commons-codec
+13	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+14	#DEP#pl.pragmatists:JUnitParams
+15	#DEP#org.slf4j:org.slf4j
+16	#DEP#junit:junit
+17	#DEP#org.openjdk.jmh:jmh-core
+18	#DEP#${project.groupId}:pushy
+19	#DEP#com.google.code.gson:com.google.code.gson

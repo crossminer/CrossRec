@@ -1,0 +1,6 @@
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#org.eclipse.jgit:org.eclipse.jgit
+10	#DEP#com.jayway.jsonpath:json-path
+11	#DEP#com.google.guava:guava
+12	#DEP#com.squareup.retrofit2:retrofit
+13	#DEP#junit:junit

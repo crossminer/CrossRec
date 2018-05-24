@@ -1,0 +1,17 @@
+18	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+19	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+20	#DEP#com.beust:jcommander
+21	#DEP#commons-cli:commons-cli
+22	#DEP#${project.groupId}:common
+23	#DEP#${project.groupId}:metrics
+24	#DEP#org.apache.commons:commons-lang3
+25	#DEP#com.fasterxml.jackson.core:jackson-databind
+26	#DEP#org.slf4j:slf4j-log4j12
+27	#DEP#com.fasterxml.jackson.core:jackson-annotations
+28	#DEP#com.fasterxml.jackson.core:jackson-core
+29	#DEP#com.google.inject:guice
+30	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+31	#DEP#org.mockito:mockito-core
+32	#DEP#org.apache.hadoop:hadoop-common
+33	#DEP#junit:junit
+34	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs

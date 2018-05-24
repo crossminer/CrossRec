@@ -1,0 +1,11 @@
+1	git://github.com/msathis/SQLToNoSQLImporter.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#net.sf.json-lib:json-lib
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.mongodb:mongodb-driver
+8	#DEP#postgresql:postgresql
+9	#DEP#commons-dbutils:commons-dbutils
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.elasticsearch:elasticsearch

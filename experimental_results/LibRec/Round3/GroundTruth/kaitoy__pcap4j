@@ -1,0 +1,7 @@
+1	#DEP#org.pcap4j:pcap4j-packettest
+1	#DEP#org.powermock:powermock-classloading-xstream
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.pcap4j:pcap4j-packetfactory-propertiesbased
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#junit:junit

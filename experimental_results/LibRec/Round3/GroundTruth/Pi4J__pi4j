@@ -1,0 +1,7 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#com.pi4j:pi4j-core
+1	#DEP#com.pi4j:pi4j-example
+1	#DEP#ant-contrib:ant-contrib
+1	#DEP#junit:junit
+1	#DEP#com.pi4j:pi4j-device
+1	#DEP#org.osgi:org.osgi.core

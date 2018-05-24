@@ -1,0 +1,5 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit

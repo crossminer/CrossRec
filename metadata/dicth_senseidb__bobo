@@ -1,0 +1,10 @@
+1	git://github.com/senseidb/bobo.git
+2	#DEP#org.apache.lucene:lucene-analyzers-common
+3	#DEP#org.springframework:spring-context
+4	#DEP#commons-cli:commons-cli
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#org.apache.lucene:lucene-queryparser
+7	#DEP#log4j:log4j
+8	#DEP#org.apache.lucene:lucene-spatial
+9	#DEP#it.unimi.dsi:fastutil
+10	#DEP#junit:junit

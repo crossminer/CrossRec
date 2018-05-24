@@ -1,0 +1,13 @@
+1	git://github.com/tomasbjerre/git-changelog-lib.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#com.squareup.okhttp:okhttp
+5	#DEP#org.gitlab:java-gitlab-api
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.github.spullara.mustache.java:compiler
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#org.eclipse.jgit:org.eclipse.jgit
+10	#DEP#com.jayway.jsonpath:json-path
+11	#DEP#com.google.guava:guava
+12	#DEP#com.squareup.retrofit2:retrofit
+13	#DEP#junit:junit

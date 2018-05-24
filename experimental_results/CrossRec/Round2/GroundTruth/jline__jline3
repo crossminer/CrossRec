@@ -1,0 +1,11 @@
+12	#DEP#org.jline:jline-terminal-jansi
+13	#DEP#org.jline:jline-terminal-jna
+14	#DEP#org.jline:jline-style
+15	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+16	#DEP#org.jline:jline
+17	#DEP#org.apache.sshd:sshd-core
+18	#DEP#junit:junit
+19	#DEP#org.apache.felix:org.apache.felix.gogo.jline
+20	#DEP#org.jline:jline-remote-telnet
+21	#DEP#org.apache.felix:org.apache.felix.gogo.runtime
+22	#DEP#org.slf4j:slf4j-jdk14

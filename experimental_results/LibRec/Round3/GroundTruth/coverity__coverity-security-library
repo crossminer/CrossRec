@@ -1,0 +1,7 @@
+1	#DEP#log4j:log4j
+1	#DEP#com.coverity.security:coverity-escapers
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.jacoco:jacoco-maven-plugin
+1	#DEP#org.aspectj:aspectjrt

@@ -1,0 +1,5 @@
+7	#DEP#org.scala-lang:scala-library
+8	#DEP#commons-logging:commons-logging
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

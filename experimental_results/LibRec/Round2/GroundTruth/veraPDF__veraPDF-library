@@ -1,0 +1,6 @@
+1	#DEP#org.codehaus.sonar-plugins.java:sonar-jacoco-listeners
+1	#DEP#org.mozilla:rhino
+1	#DEP#net.java.dev.stax-utils:stax-utils
+1	#DEP#nl.jqno.equalsverifier:equalsverifier
+1	#DEP#junit:junit
+1	#DEP#org.verapdf:verapdf-parent

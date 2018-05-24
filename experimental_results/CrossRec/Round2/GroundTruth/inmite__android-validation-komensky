@@ -1,0 +1,6 @@
+8	#DEP#junit:junit-dep
+9	#DEP#com.google.android:support-v4
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.android.support:support-v4
+12	#DEP#junit:junit
+13	#DEP#com.android.support:gridlayout-v7

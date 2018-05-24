@@ -1,0 +1,10 @@
+1	git://github.com/mongojack/mongojack.git
+2	#DEP#org.hamcrest:hamcrest-junit
+3	#DEP#commons-io:commons-io
+4	#DEP#de.flapdoodle.embed:de.flapdoodle.embed.mongo
+5	#DEP#org.mongodb:mongodb-driver
+6	#DEP#de.undercouch:bson4jackson
+7	#DEP#javax.persistence:persistence-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit

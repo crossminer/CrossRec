@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.vaadin:vaadin
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.activiti:activiti-kickstart-java
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.restlet.jee:org.restlet.ext.servlet
+1	#DEP#org.apache.chemistry.opencmis:chemistry-opencmis-client-impl
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

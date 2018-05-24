@@ -1,0 +1,17 @@
+18	#DEP#org.eclipse:osgi
+19	#DEP#org.javassist:javassist
+20	#DEP#org.springframework:spring-context
+21	#DEP#ma.glasnost.orika:orika-core
+22	#DEP#org.eclipse.core:jobs
+23	#DEP#org.springframework:spring-orm
+24	#DEP#org.sonatype.tycho:org.eclipse.jdt.core
+25	#DEP#org.eclipse.core:commands
+26	#DEP#org.eclipse.equinox:preferences
+27	#DEP#ch.qos.logback:logback-core
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#commons-collections:commons-collections
+30	#DEP#org.eclipse.core:runtime
+31	#DEP#junit:junit
+32	#DEP#org.hsqldb:hsqldb
+33	#DEP#com.h2database:h2
+34	#DEP#org.eclipse.core:contenttype

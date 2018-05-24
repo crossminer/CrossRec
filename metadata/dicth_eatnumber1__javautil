@@ -1,0 +1,11 @@
+1	git://github.com/eatnumber1/javautil.git
+2	#DEP#com.intellij:annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#log4j:log4j
+5	#DEP#commons-collections:commons-collections
+6	#DEP#commons-logging:commons-logging
+7	#DEP#junit:junit
+8	#DEP#net.jcip:jcip-annotations
+9	#DEP#net.sourceforge.collections:collections-generic
+10	#DEP#commons-lang:commons-lang
+11	#DEP#cglib:cglib

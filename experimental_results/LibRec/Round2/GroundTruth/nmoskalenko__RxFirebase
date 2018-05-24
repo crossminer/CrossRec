@@ -1,0 +1,6 @@
+1	#DEP#com.google.firebase:firebase-storage
+1	#DEP#com.google.firebase:firebase-database
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

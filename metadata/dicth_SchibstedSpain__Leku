@@ -1,0 +1,13 @@
+1	git://github.com/SchibstedSpain/Leku.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#pl.charmas.android:android-reactive-location2
+6	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+7	#DEP#org.mockito:mockito-core
+8	#DEP#nl.littlerobots.rxlint:rxlint
+9	#DEP#com.android.support.test:rules
+10	#DEP#com.android.support.test.espresso:espresso-intents
+11	#DEP#com.android.support.test:runner
+12	#DEP#io.reactivex:rxandroid
+13	#DEP#com.android.support.test.espresso:espresso-core

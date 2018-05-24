@@ -1,0 +1,15 @@
+1	#DEP#org.atmosphere.extensions:atmosphere-gwt20-server
+1	#DEP#org.apache.shiro:shiro-all
+1	#DEP#org.scalatest:scalatest_${scala.base-version}
+1	#DEP#com.novemberain:monger
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#kanbanik:dto
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#commons-logging:commons-logging-api
+1	#DEP#net.liftweb:lift-json_${scala.base-version}
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#junit:junit

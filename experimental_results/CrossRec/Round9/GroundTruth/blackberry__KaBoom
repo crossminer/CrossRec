@@ -1,0 +1,7 @@
+8	#DEP#com.blackberry.bdp.kaboom:kaboom-api
+9	#DEP#args4j:args4j
+10	#DEP#log4j:log4j
+11	#DEP#org.apache.hadoop:hadoop-client
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit
+14	#DEP#com.blackberry.bdp.krackle:krackle

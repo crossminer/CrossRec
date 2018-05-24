@@ -1,0 +1,6 @@
+1	#DEP#javax.mail:mail
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#commons-fileupload:commons-fileupload

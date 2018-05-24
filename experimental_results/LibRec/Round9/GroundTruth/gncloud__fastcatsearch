@@ -1,0 +1,13 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.apache.derby:derbytools
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.esotericsoftware.yamlbeans:yamlbeans
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#co.fastcat.fastcatsearch:fastcatsearch-server
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#net.minidev:json-smart
+1	#DEP#org.json:json
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.mortbay.jetty:jsp-2.1

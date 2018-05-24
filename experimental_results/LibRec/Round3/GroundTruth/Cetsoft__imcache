@@ -1,0 +1,6 @@
+1	#DEP#com.cetsoft:imcache-core
+1	#DEP#com.cetsoft:imcache-examples
+1	#DEP#com.cetsoft:imcache-redis
+1	#DEP#com.cetsoft:imcache-offheap
+1	#DEP#junit:junit
+1	#DEP#com.cetsoft:imcache-spring

@@ -1,0 +1,8 @@
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org:jnativehook
+12	#DEP#org.sikuli:sikuli-slides-api
+13	#DEP#net.lingala.zip4j:zip4j
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#com.google.guava:guava
+16	#DEP#junit:junit
+17	#DEP#org.sikuli:sikuli-api

@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.perfidix:perfidix
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.jclouds:jclouds-blobstore
+1	#DEP#org.apache.jclouds.provider:aws-s3
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.osgi:org.osgi.core

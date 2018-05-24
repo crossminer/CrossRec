@@ -1,0 +1,15 @@
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#fr.lteconsulting:hexa.core
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#com.google.dagger:dagger
+1	#DEP#fr.lteconsulting:hexa.utils
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.gwt:gwt
+1	#DEP#fr.lteconsulting:hexa.binding.gwt
+1	#DEP#fr.lteconsulting:hexa.rpc
+1	#DEP#org.apache.maven.plugin-tools:org.apache.maven.plugin-tools
+1	#DEP#junit:junit
+1	#DEP#fr.lteconsulting:hexa.all
+1	#DEP#com.squareup:com.squareup
+1	#DEP#ch.qos.logback:ch.qos.logback

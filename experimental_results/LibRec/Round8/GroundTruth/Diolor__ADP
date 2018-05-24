@@ -1,0 +1,6 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.splunk.mint:mint
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.okhttp:okhttp-urlconnection
+1	#DEP#io.reactivex:rxandroid

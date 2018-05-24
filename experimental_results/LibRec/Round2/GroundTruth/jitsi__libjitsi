@@ -1,0 +1,9 @@
+1	#DEP#net.java.dev.jna:jna
+1	#DEP#${project.groupId}:ice4j
+1	#DEP#io.pkts:pkts-core
+1	#DEP#${project.groupId}:bccontrib
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#${project.groupId}:zrtp4j-light
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core

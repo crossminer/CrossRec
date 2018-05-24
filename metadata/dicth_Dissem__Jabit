@@ -1,0 +1,13 @@
+1	git://github.com/Dissem/Jabit.git
+2	#DEP#org.flywaydb:flyway-core
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.bouncycastle:bcprov-jdk15on
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.ini4j:ini4j
+9	#DEP#org.mockito:mockito-core
+10	#DEP#args4j:args4j
+11	#DEP#com.madgag.spongycastle:prov
+12	#DEP#junit:junit
+13	#DEP#com.h2database:h2

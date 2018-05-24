@@ -1,0 +1,13 @@
+1	git://github.com/OfficeDev/ews-java-api.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#joda-time:joda-time
+8	#DEP#org.slf4j:jcl-over-slf4j
+9	#DEP#org.mockito:mockito-core
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#org.apache.httpcomponents:httpcore
+13	#DEP#junit:junit

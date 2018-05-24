@@ -1,0 +1,11 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.google.code.gson:gson
+1	#DEP#net.sf.jacob-project:jacob
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework:spring-expression
+1	#DEP#quartz:quartz
+1	#DEP#autoitx4java:autoitx4java
+1	#DEP#log4j:log4j
+1	#DEP#com.force.api:force-wsc
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

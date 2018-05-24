@@ -1,0 +1,11 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.microsoft.azure:azure-mgmt-datalake-store
+1	#DEP#com.microsoft.azure:azure-storage
+1	#DEP#com.microsoft.azure:azure-mgmt-keyvault
+1	#DEP#commons-net:commons-net
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#commons-io:commons-io
+1	#DEP#com.microsoft.azure:azure-mgmt-network
+1	#DEP#com.microsoft.azure:azure-mgmt-resources
+1	#DEP#com.microsoft.azure:azure-client-authentication
+1	#DEP#com.fasterxml.jackson.core:jackson-databind

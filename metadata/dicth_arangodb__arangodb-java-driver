@@ -1,0 +1,7 @@
+1	git://github.com/arangodb/arangodb-java-driver.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.arangodb:velocypack
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.hamcrest:hamcrest-all
+7	#DEP#junit:junit

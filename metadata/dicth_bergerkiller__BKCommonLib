@@ -1,0 +1,12 @@
+1	git://github.com/bergerkiller/BKCommonLib.git
+2	#DEP#com.googlecode.openpojo:openpojo
+3	#DEP#org.spinotmc:spinot
+4	#DEP#cglib:cglib-nodep
+5	#DEP#com.narrowtux:ShowCase
+6	#DEP#me.snowleo:BleedingMobs
+7	#DEP#regalowl.hyperconomy:hyperconomy
+8	#DEP#org.objenesis:objenesis
+9	#DEP#com.comphenix.protocol:ProtocolLib
+10	#DEP#junit:junit
+11	#DEP#com.kellerkindt:ShowCaseStandalone
+12	#DEP#net.milkbowl.vault:Vault

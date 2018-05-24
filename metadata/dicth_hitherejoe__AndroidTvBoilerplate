@@ -1,0 +1,11 @@
+1	git://github.com/hitherejoe/AndroidTvBoilerplate.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#org.glassfish:javax.annotation
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.squareup.okhttp:logging-interceptor
+9	#DEP#io.reactivex:rxjava
+10	#DEP#com.squareup.okhttp:okhttp-urlconnection
+11	#DEP#io.reactivex:rxandroid

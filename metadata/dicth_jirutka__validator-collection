@@ -1,0 +1,12 @@
+1	git://github.com/jirutka/validator-collection.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.glassfish.web:javax.el
+4	#DEP#org.jsoup:jsoup
+5	#DEP#org.hibernate:hibernate-validator
+6	#DEP#org.codehaus.groovy:groovy
+7	#DEP#org.spockframework:spock-core
+8	#DEP#org.slf4j:slf4j-simple
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.codehaus.groovy:org.codehaus.groovy
+11	#DEP#javax.el:javax.el-api
+12	#DEP#org.spockframework:org.spockframework

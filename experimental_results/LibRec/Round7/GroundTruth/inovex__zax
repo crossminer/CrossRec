@@ -1,0 +1,5 @@
+1	#DEP#com.nineoldandroids:library
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.pubnub:pubnub
+1	#DEP#com.j256.ormlite:ormlite-core
+1	#DEP#com.android.support:design

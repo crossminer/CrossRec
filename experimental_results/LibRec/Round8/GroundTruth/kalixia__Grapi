@@ -1,0 +1,12 @@
+1	#DEP#org.spockframework:spock-core
+1	#DEP#com.squareup:javapoet
+1	#DEP#io.reactivex:rxnetty
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#javax.el:javax.el-api
+1	#DEP#org.hibernate:hibernate-validator-annotation-processor
+1	#DEP#io.dropwizard.metrics:metrics-annotation
+1	#DEP#com.squareup.dagger:dagger-compiler
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#io.reactivex:rxjava

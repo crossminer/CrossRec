@@ -1,0 +1,6 @@
+8	#DEP#com.nhaarman.listviewanimations:lib-core
+9	#DEP#org.hamcrest:hamcrest-all
+10	#DEP#com.android.support:support-v4
+11	#DEP#com.nhaarman.listviewanimations:lib-manipulation
+12	#DEP#junit:junit
+13	#DEP#se.emilsjolander:stickylistheaders

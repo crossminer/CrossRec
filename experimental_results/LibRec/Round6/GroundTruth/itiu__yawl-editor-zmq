@@ -1,0 +1,13 @@
+1	#DEP#javax.faces:jsf-api
+1	#DEP#saxon9-jdom:saxon9-jdom
+1	#DEP#org.jdesktop:swing-layout
+1	#DEP#yawl:yawl-engine
+1	#DEP#org.eclipse.emf:ecore
+1	#DEP#com.toedter:jcalendar
+1	#DEP#com.sun.rave.web.ui:appbase
+1	#DEP#org.gost19.pacahon.client:pacahon-client
+1	#DEP#log4j:log4j
+1	#DEP#saxon:saxon
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.sun.rave:webui

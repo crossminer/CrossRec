@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

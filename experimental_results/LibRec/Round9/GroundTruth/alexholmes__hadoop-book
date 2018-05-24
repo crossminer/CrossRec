@@ -1,0 +1,13 @@
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#com.hadoop.compression.lzo:hadoop-lzo
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#org.apache.hadoop.hive:hive-serde
+1	#DEP#org.apache.mahout:mahout-core
+1	#DEP#com.maxmind.geoip:maxmind-geoip
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.apache.hadoop.hive:hive-exec
+1	#DEP#org.apache.thrift:hadoopbook-libthrift
+1	#DEP#org.apache.avro:avro
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop.contrib.utils:join

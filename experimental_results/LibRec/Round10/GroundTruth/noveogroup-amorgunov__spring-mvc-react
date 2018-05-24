@@ -1,0 +1,7 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.data:spring-data-jpa
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:jstl

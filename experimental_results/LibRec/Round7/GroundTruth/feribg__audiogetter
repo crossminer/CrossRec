@@ -1,0 +1,5 @@
+1	#DEP#com.koushikdutta.ion:ion
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.bugsense.trace:bugsense
+1	#DEP#de.greenrobot:eventbus

@@ -1,0 +1,11 @@
+1	#DEP#com.trello:rxlifecycle
+1	#DEP#com.trello:rxlifecycle-components
+1	#DEP#com.google.android.exoplayer:exoplayer
+1	#DEP#org.robolectric:shadows-support-v4
+1	#DEP#nl.littlerobots.rxlint:rxlint
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.marverenic.heterogeneousadapter:heterogeneousadapter
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,8 @@
+1	#DEP#org.microemu:microemu-javase-swing
+1	#DEP#org.microemu:cldcapi11
+1	#DEP#com.android:android
+1	#DEP#org.microemu:microemu-javase
+1	#DEP#org.microemu:microemu-demo
+1	#DEP#org.microemu:microemu-midp
+1	#DEP#junit:junit
+1	#DEP#org.microemu:microemu-cldc

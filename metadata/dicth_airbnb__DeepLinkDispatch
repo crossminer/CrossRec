@@ -1,0 +1,17 @@
+1	git://github.com/airbnb/DeepLinkDispatch.git
+2	#DEP#scm:git@github.com
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.google.android:android
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#com.squareup:javapoet
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#scm:https
+10	#DEP#com.google.truth:truth
+11	#DEP#org.robolectric:shadows-supportv4
+12	#DEP#com.google.auto:auto-common
+13	#DEP#org.mockito:mockito-core
+14	#DEP#com.google.testing.compile:compile-testing
+15	#DEP#junit:junit
+16	#DEP#com.google.auto.service:auto-service
+17	#DEP#com.squareup.okio:okio

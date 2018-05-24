@@ -1,0 +1,15 @@
+17	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.delay
+18	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.rsm
+19	#DEP#com.cloudeggtech.chalk.leps:com.cloudeggtech.chalk.leps.im
+20	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.disco
+21	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.xdata
+22	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.ibr
+23	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.muc
+24	#DEP#com.cloudeggtech.chalk:com.cloudeggtech.chalk.xeps
+25	#DEP#junit:junit
+26	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.address
+27	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.xdata
+28	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.disco
+29	#DEP#com.cloudeggtech.chalk:com.cloudeggtech.chalk.parent
+30	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.oob
+31	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.component

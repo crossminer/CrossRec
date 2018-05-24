@@ -1,0 +1,5 @@
+7	#DEP#org.nfctools:nfctools-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.nfctools:nfctools-parent
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

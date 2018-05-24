@@ -1,0 +1,7 @@
+8	#DEP#org.clojure:clojure
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#mawazo:hoidla
+11	#DEP#mawazo:chombo
+12	#DEP#log4j:log4j
+13	#DEP#org.clojure:clojure-contrib
+14	#DEP#ch.qos.logback:logback-classic

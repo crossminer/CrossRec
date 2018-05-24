@@ -1,0 +1,6 @@
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.dslplatform:dsl-clc
+10	#DEP#junit:junit
+11	#DEP#com.dslplatform:dsl-json-java8
+12	#DEP#com.dslplatform:dsl-json-processor
+13	#DEP#org.hsqldb:hsqldb

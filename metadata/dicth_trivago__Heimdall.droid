@@ -1,0 +1,14 @@
+1	git://github.com/trivago/Heimdall.droid.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.android.support:appcompat-v7
+4	#DEP#com.google.code.gson:gson
+5	#DEP#com.jakewharton:butterknife
+6	#DEP#org.parceler:parceler-api
+7	#DEP#com.android.support:cardview-v7
+8	#DEP#com.trello:rxlifecycle
+9	#DEP#com.trello:rxlifecycle-components
+10	#DEP#com.squareup.retrofit:retrofit
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid
+14	#DEP#cglib:cglib

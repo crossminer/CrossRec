@@ -1,0 +1,12 @@
+1	git://github.com/PeterKnego/LeanEngine-Server.git
+2	#DEP#com.leanengine.server:leanengine-server-lib
+3	#DEP#com.google.appengine:appengine-api-stubs
+4	#DEP#com.google.appengine:appengine-api-1.0-sdk
+5	#DEP#javax.servlet.jsp:jsp-api
+6	#DEP#org.jboss.resteasy:resteasy-jaxrs
+7	#DEP#org.mozilla:rhino
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#com.google.appengine:appengine-tools-sdk
+10	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+11	#DEP#com.google.appengine:appengine-api-labs
+12	#DEP#com.google.appengine:appengine-testing

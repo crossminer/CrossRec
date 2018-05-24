@@ -1,0 +1,6 @@
+7	#DEP#jboss:jboss
+8	#DEP#org.mod4j.org.apache.commons:lang
+9	#DEP#jboss:jboss-j2ee
+10	#DEP#commons-beanutils:commons-beanutils
+11	#DEP#commons-net:commons-net
+12	#DEP#jboss:jboss-ejb3x

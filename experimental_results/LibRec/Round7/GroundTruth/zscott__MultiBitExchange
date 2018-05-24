@@ -1,0 +1,14 @@
+1	#DEP#com.google.code.axon-guice:axon-guice
+1	#DEP#org.openid4java:openid4java
+1	#DEP#com.github.javafaker:javafaker
+1	#DEP#org.axonframework:axon-mongo
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+1	#DEP#org.scribe:scribe
+1	#DEP#com.yammer.dropwizard:dropwizard-auth
+1	#DEP#org.axonframework:axon-integration
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#com.yammer.dropwizard:dropwizard-views
+1	#DEP#org.axonframework:axon-distributed-commandbus
+1	#DEP#junit:junit
+1	#DEP#com.yammer.dropwizard:dropwizard-testing
+1	#DEP#org.eclipse.jetty:jetty-websocket

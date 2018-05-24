@@ -1,0 +1,5 @@
+7	#DEP#junit:junit
+8	#DEP#org.opentest4j:opentest4j
+9	#DEP#org.hamcrest:hamcrest-core
+10	#DEP#org.ow2.asm:asm
+11	#DEP#com.tngtech.junit.dataprovider:junit4-dataprovider

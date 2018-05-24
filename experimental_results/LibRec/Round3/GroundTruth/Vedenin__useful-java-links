@@ -1,0 +1,17 @@
+1	#DEP#fr.xebia.extras:selma
+1	#DEP#org.glassfish:javax.annotation
+1	#DEP#org.nd4j:canova-api
+1	#DEP#ma.glasnost.orika:orika-core
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#org.deeplearning4j:deeplearning4j-core
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.goldmansachs:gs-collections-api
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#edu.stanford.nlp:stanford-corenlp
+1	#DEP#org.mapstruct:mapstruct-jdk8
+1	#DEP#org.mapstruct:mapstruct
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#junit:junit
+1	#DEP#co.paralleluniverse:quasar-core
+1	#DEP#org.nd4j:nd4j-x86

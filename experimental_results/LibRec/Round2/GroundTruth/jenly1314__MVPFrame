@@ -1,0 +1,9 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.hannesdorfmann.mosby3:viewstate
+1	#DEP#com.squareup.retrofit2:adapter-rxjava2
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.hannesdorfmann.mosby3:mvi
+1	#DEP#junit:junit
+1	#DEP#com.hannesdorfmann.mosby3:mvp

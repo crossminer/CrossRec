@@ -1,0 +1,13 @@
+1	git://github.com/square/mortar.git
+2	#DEP#com.squareup.flow:flow
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#com.squareup.dagger:dagger
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.google.dagger:dagger
+7	#DEP#com.google.dagger:dagger-compiler
+8	#DEP#com.squareup.dagger:dagger-compiler
+9	#DEP#com.squareup.retrofit:retrofit
+10	#DEP#com.squareup.flow:flow-path
+11	#DEP#com.android.support:support-v4
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

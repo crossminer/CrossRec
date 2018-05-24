@@ -1,0 +1,14 @@
+1	git://github.com/galan/packtag.git
+2	#DEP#javax.servlet:jsp-api
+3	#DEP#de.galan.packtag:packtag-core
+4	#DEP#com.yahoo.platform.yui:yuicompressor
+5	#DEP#net.jawr:jawr
+6	#DEP#de.galan.packtag:packtag-optional
+7	#DEP#taglibs:standard
+8	#DEP#commons-logging:commons-logging-api
+9	#DEP#rhino:js
+10	#DEP#log4j:log4j
+11	#DEP#net.sf.ehcache:ehcache
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#javax.servlet:jstl
+14	#DEP#junit:junit

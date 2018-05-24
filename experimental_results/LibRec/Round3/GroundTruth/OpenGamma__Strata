@@ -1,0 +1,14 @@
+1	#DEP#org.testng:org.testng
+1	#DEP#com.opengamma.strata:strata-report
+1	#DEP#com.opengamma.strata:strata-math
+1	#DEP#org.joda:joda-convert
+1	#DEP#com.google.guava:guava
+1	#DEP#com.opengamma.strata:strata-market
+1	#DEP#com.beust:jcommander
+1	#DEP#com.opengamma.strata:strata-calc
+1	#DEP#com.opengamma.strata:strata-data
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.opengamma.strata:strata-loader
+1	#DEP#org.joda:joda-beans
+1	#DEP#junit:junit
+1	#DEP#com.opengamma.strata:strata-measure

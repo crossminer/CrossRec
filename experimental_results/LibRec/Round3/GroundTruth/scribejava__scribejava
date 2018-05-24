@@ -1,0 +1,7 @@
+1	#DEP#com.github.scribejava:scribejava-httpclient-ning
+1	#DEP#com.github.scribejava:scribejava-core
+1	#DEP#com.ning:async-http-client
+1	#DEP#org.asynchttpclient:async-http-client
+1	#DEP#junit:junit
+1	#DEP#com.github.scribejava:scribejava-httpclient-ahc
+1	#DEP#com.github.scribejava:scribejava-httpclient-apache

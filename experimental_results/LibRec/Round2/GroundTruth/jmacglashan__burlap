@@ -1,0 +1,6 @@
+1	#DEP#com.googlecode.efficient-java-matrix-library:ejml
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#com.github.vincentk:joptimizer
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.rlcommunity.rlglue:JavaRLGlueCodec

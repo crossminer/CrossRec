@@ -1,0 +1,14 @@
+1	git://github.com/jtwig/jtwig-core.git
+2	#DEP#org.unitils:unitils-core
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru
+7	#DEP#org.hamcrest:hamcrest-core
+8	#DEP#net.jperf:jperf
+9	#DEP#org.parboiled:parboiled-java
+10	#DEP#org.mockito:mockito-core
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#org.exparity:hamcrest-bean
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit

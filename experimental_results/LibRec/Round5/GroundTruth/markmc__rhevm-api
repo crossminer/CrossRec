@@ -1,0 +1,15 @@
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#com.redhat.rhevm.api:rhevm-api-common-jaxrs
+1	#DEP#junit:junit
+1	#DEP#org.jboss.resteasy:resteasy-jaxb-provider
+1	#DEP#httpunit:httpunit
+1	#DEP#org.powermock.api:powermock-api-easymock
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#com.redhat.rhevm.api:rhevm-api-mock-webapp
+1	#DEP#com.redhat.rhevm.api:rhevm-api-mock-jaxrs
+1	#DEP#com.redhat.rhevm.api:rhevm-api-powershell-webapp
+1	#DEP#org.springframework:spring
+1	#DEP#net.sourceforge.expectj:expectj
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:servlet-api

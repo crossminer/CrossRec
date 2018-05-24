@@ -1,0 +1,14 @@
+1	git://github.com/bluebreezecf/SparkJobServerClient.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#net.sf.ezmorph:ezmorph
+5	#DEP#commons-logging:commons-logging
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#commons-lang:commons-lang
+8	#DEP#commons-codec:commons-codec
+9	#DEP#log4j:log4j
+10	#DEP#net.sf.json-lib:json-lib
+11	#DEP#commons-collections:commons-collections
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.apache.httpcomponents:httpcore
+14	#DEP#junit:junit

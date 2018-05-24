@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.reflections:reflections
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#junit:junit
+1	#DEP#org.cthul:cthul-matchers

@@ -1,0 +1,10 @@
+11	#DEP#joda-time:joda-time
+12	#DEP#org.apache.jena:jena-core
+13	#DEP#org.sbolstandard:libSBOLj-parent
+14	#DEP#uk.ac.ncl.intbio:sbol-data-examples
+15	#DEP#jdom:jdom
+16	#DEP#org.apache.httpcomponents:httpmime
+17	#DEP#uk.ac.ncl.intbio:sbol-data-core
+18	#DEP#junit:junit
+19	#DEP#org.apache.jena:jena-tdb
+20	#DEP#uk.ac.ncl.intbio:sbol-data-io-RDF

@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.springframework:spring-mock
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit
+1	#DEP#commons-httpclient:commons-httpclient

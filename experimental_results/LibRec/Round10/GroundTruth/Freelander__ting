@@ -1,0 +1,6 @@
+1	#DEP#me.imid.swipebacklayout.lib:library
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.android.support:support-v4

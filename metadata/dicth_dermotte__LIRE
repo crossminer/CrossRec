@@ -1,0 +1,10 @@
+1	git://github.com/dermotte/LIRE.git
+2	#DEP#org.apache.lucene:lucene-analyzers-common
+3	#DEP#commons-codec:commons-codec
+4	#DEP#org.apache.commons:commons-math3
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#commons-io:commons-io
+7	#DEP#org.apache.lucene:lucene-queryparser
+8	#DEP#com.sangupta:jopensurf
+9	#DEP#nu.pattern:opencv
+10	#DEP#junit:junit

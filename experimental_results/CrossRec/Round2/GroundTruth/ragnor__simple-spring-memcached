@@ -1,0 +1,14 @@
+15	#DEP#com.google.code.simple-spring-memcached:spring-cache
+16	#DEP#com.amazonaws:elasticache-java-cluster-client
+17	#DEP#org.springframework:spring-beans
+18	#DEP#com.fasterxml.jackson.core:jackson-databind
+19	#DEP#org.apache.maven:maven-plugin-api
+20	#DEP#org.slf4j:slf4j-log4j12
+21	#DEP#org.springframework:spring-core
+22	#DEP#org.kubek2k:springockito
+23	#DEP#org.mockito:mockito-core
+24	#DEP#log4j:log4j
+25	#DEP#com.google.code.simple-spring-memcached:simple-spring-memcached
+26	#DEP#nl.jqno.equalsverifier:equalsverifier
+27	#DEP#net.vidageek:mirror
+28	#DEP#junit:junit

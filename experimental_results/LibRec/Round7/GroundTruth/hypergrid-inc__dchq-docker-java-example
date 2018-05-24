@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#javax:javaee-api
+1	#DEP#org.liquibase:liquibase-core
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit

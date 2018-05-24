@@ -1,0 +1,17 @@
+1	git://github.com/naman14/Timber.git
+2	#DEP#com.android.support:percent
+3	#DEP#com.afollestad.material-dialogs:core
+4	#DEP#com.android.support:palette-v7
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#de.Maxr1998:track-selector-lib
+7	#DEP#com.anjlab.android.iab.v3:library
+8	#DEP#com.squareup.okhttp:okhttp
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.google.code.gson:gson
+11	#DEP#com.android.support:design
+12	#DEP#com.nostra13.universalimageloader:universal-image-loader
+13	#DEP#com.afollestad.material-dialogs:commons
+14	#DEP#com.android.support:cardview-v7
+15	#DEP#com.squareup.retrofit:retrofit
+16	#DEP#net.steamcrafted:materialiconlib
+17	#DEP#com.squareup.okhttp:okhttp-urlconnection

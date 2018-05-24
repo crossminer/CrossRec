@@ -1,0 +1,10 @@
+12	#DEP#org.hipparchus:hipparchus-fft
+13	#DEP#log4j:log4j
+14	#DEP#java-algebra-system:jas
+15	#DEP#de.lab4inf:Lab4Math
+16	#DEP#com.github.rjeschke:txtmark
+17	#DEP#com.google.guava:guava
+18	#DEP#junit:junit
+19	#DEP#org.matheclipse:matheclipse
+20	#DEP#org.hipparchus:hipparchus-stat
+21	#DEP#org.antlr:antlr4-runtime

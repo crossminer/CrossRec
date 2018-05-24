@@ -1,0 +1,12 @@
+1	#DEP#com.intellij:openapi
+1	#DEP#org.easytesting:fest-util
+1	#DEP#com.intellij:trove4j
+1	#DEP#com.intellij:forms_rt
+1	#DEP#com.intellij:resources_en
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#org.easytesting:fest-swing
+1	#DEP#log4j:log4j
+1	#DEP#com.intellij:icons
+1	#DEP#com.intellij:jdom
+1	#DEP#junit:junit
+1	#DEP#com.couchbase.client:java-client

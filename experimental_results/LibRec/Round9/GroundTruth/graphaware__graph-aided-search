@@ -1,0 +1,8 @@
+1	#DEP#org.reflections:reflections
+1	#DEP#com.graphaware.integration.neo4j:neo4j-tests-integration
+1	#DEP#javax.mail:javax.mail-api
+1	#DEP#org.codelibs:elasticsearch-cluster-runner
+1	#DEP#log4j:log4j
+1	#DEP#com.google.guava:guava
+1	#DEP#org.neo4j.driver:neo4j-java-driver
+1	#DEP#junit:junit

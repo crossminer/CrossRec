@@ -1,0 +1,13 @@
+1	git://github.com/alexholmes/hadoop-utils.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.hadoop:hadoop-core
+4	#DEP#org.codehaus.mojo:findbugs-maven-plugin
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#org.apache.hadoop:hadoop-test
+8	#DEP#javax.ws.rs:jsr311-api
+9	#DEP#com.hadoop.gplcompression:hadoop-lzo
+10	#DEP#log4j:log4j
+11	#DEP#org.apache.avro:avro
+12	#DEP#org.apache.avro:avro-mapred
+13	#DEP#junit:junit

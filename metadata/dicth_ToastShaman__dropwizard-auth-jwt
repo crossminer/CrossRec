@@ -1,0 +1,10 @@
+1	git://github.com/ToastShaman/dropwizard-auth-jwt.git
+2	#DEP#io.dropwizard:dropwizard-auth
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.assertj:assertj-guava
+5	#DEP#org.glassfish.jersey.test-framework:jersey-test-framework-core
+6	#DEP#org.mockito:mockito-core
+7	#DEP#io.dropwizard:dropwizard-bom
+8	#DEP#org.bitbucket.b_c:jose4j
+9	#DEP#junit:junit
+10	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2

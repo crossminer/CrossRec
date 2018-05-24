@@ -1,0 +1,16 @@
+1	git://github.com/jkellerer/btm-fork.git
+2	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#org.mockito:mockito-all
+5	#DEP#org.eclipse.jetty:jetty-plus
+6	#DEP#org.codehaus.btm:btm-jetty7-lifecycle
+7	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+8	#DEP#org.slf4j:slf4j-jdk14
+9	#DEP#org.codehaus.btm:btm-tomcat55-lifecycle
+10	#DEP#org.mortbay.jetty:jetty
+11	#DEP#javax.transaction:jta
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#org.codehaus.btm:btm
+14	#DEP#org.apache.tomcat:catalina
+15	#DEP#org.codehaus.btm:btm-jetty6-lifecycle
+16	#DEP#junit:junit

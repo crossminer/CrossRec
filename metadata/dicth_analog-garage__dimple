@@ -1,0 +1,10 @@
+1	git://github.com/analog-garage/dimple.git
+2	#DEP#org.eclipse.jdt:org.eclipse.jdt.annotation
+3	#DEP#org.apache.commons:commons-math3
+4	#DEP#:solvers
+5	#DEP#colt:colt
+6	#DEP#com.google.guava:guava
+7	#DEP#com.github.wendykierp:JTransforms
+8	#DEP#gov.nist.math:jama
+9	#DEP#junit:junit
+10	#DEP#net.jcip:jcip-annotations

@@ -1,0 +1,12 @@
+1	git://github.com/spotify/dns-java.git
+2	#DEP#com.google.guava:guava-testlib
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#dnsjava:dnsjava
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#com.google.guava:guava
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.objenesis:objenesis
+11	#DEP#junit:junit
+12	#DEP#com.jayway.awaitility:awaitility

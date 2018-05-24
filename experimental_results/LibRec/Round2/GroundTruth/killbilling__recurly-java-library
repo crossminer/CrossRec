@@ -1,0 +1,8 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.apache.pdfbox:pdfbox
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-xml
+1	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+1	#DEP#com.ning:async-http-client
+1	#DEP#com.google.guava:guava

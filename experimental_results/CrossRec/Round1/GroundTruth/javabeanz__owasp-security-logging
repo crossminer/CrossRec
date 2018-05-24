@@ -1,0 +1,7 @@
+8	#DEP#commons-codec:commons-codec
+9	#DEP#ch.qos.logback:logback-core
+10	#DEP#javax.servlet:javax.servlet-api
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+13	#DEP#junit:junit
+14	#DEP#org.apache.logging.log4j:log4j-api

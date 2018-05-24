@@ -1,0 +1,10 @@
+1	git://github.com/eleme/Amigo.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.robolectric:robolectric
+5	#DEP#net.lingala.zip4j:zip4j
+6	#DEP#com.linkedin.dexmaker:dexmaker-mockito
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.tools.build:gradle
+10	#DEP#com.android.support.test.espresso:espresso-core

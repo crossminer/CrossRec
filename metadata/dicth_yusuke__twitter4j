@@ -1,0 +1,16 @@
+1	git://github.com/yusuke/twitter4j.git
+2	#DEP#com.googlecode:kryo
+3	#DEP#org.springframework:spring
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#org.twitter4j:twitter4j-async
+6	#DEP#org.mortbay.jetty.alpn:alpn-boot
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.twitter4j:twitter4j-stream
+9	#DEP#com.google.appengine:appengine-api-stubs
+10	#DEP#com.google.appengine:appengine-api-1.0-sdk
+11	#DEP#commons-logging:commons-logging-api
+12	#DEP#log4j:log4j
+13	#DEP#org.twitter4j:twitter4j-media-support
+14	#DEP#org.twitter4j:twitter4j-core
+15	#DEP#junit:junit
+16	#DEP#com.google.appengine:appengine-testing

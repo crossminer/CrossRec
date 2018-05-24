@@ -1,0 +1,12 @@
+1	git://github.com/atopazio/TopSysFW.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#javax.mail:mailapi
+4	#DEP#org.hibernate:hibernate-entitymanager
+5	#DEP#org.apache.cxf:cxf-bundle
+6	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec
+7	#DEP#jboss:jboss
+8	#DEP#org.mod4j.org.apache.commons:lang
+9	#DEP#jboss:jboss-j2ee
+10	#DEP#commons-beanutils:commons-beanutils
+11	#DEP#commons-net:commons-net
+12	#DEP#jboss:jboss-ejb3x

@@ -1,0 +1,14 @@
+1	git://github.com/ef-labs/vertx-elasticsearch-service.git
+2	#DEP#com.englishtown.vertx:vertx-when
+3	#DEP#io.vertx:vertx-dependencies
+4	#DEP#io.vertx:vertx-service-proxy
+5	#DEP#org.mockito:org.mockito
+6	#DEP#org.hamcrest:org.hamcrest
+7	#DEP#com.englishtown.vertx:vertx-hk2
+8	#DEP#io.vertx:vertx-service-factory
+9	#DEP#org.elasticsearch:elasticsearch
+10	#DEP#io.vertx:vertx-lang-js
+11	#DEP#io.vertx:vertx-codegen
+12	#DEP#com.englishtown.vertx:vertx-guice
+13	#DEP#junit:junit
+14	#DEP#org.apache.lucene:lucene-test-framework

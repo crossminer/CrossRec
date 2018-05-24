@@ -1,0 +1,6 @@
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.scala-lang.modules:scala-xml_2.11
+1	#DEP#net.sandius.rembulan:rembulan-stdlib
+1	#DEP#junit:junit
+1	#DEP#org.ow2.asm:asm
+1	#DEP#org.ow2.asm:asm-util

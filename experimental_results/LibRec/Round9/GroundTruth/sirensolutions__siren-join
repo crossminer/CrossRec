@@ -1,0 +1,6 @@
+1	#DEP#junit:junit
+1	#DEP#org.apache.lucene:lucene-test-framework
+1	#DEP#com.carrotsearch:hppc
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.carrotsearch:junit-benchmarks
+1	#DEP#org.elasticsearch:elasticsearch

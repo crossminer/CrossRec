@@ -1,0 +1,8 @@
+9	#DEP#com.atlassian.commonmark:commonmark-test-util
+10	#DEP#com.atlassian.commonmark:commonmark-ext-gfm-tables
+11	#DEP#com.atlassian.commonmark:commonmark-ext-heading-anchor
+12	#DEP#com.atlassian.commonmark:commonmark
+13	#DEP#com.android.support.test:rules
+14	#DEP#junit:junit
+15	#DEP#com.android.support.test:runner
+16	#DEP#org.openjdk.jmh:jmh-core

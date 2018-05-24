@@ -1,0 +1,10 @@
+1	git://github.com/guoguibing/librec.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-cli:commons-cli
+4	#DEP#commons-io:commons-io
+5	#DEP#log4j:log4j
+6	#DEP#commons-logging:commons-logging
+7	#DEP#com.google.guava:guava
+8	#DEP#net.librec:librec
+9	#DEP#junit:junit
+10	#DEP#commons-lang:commons-lang

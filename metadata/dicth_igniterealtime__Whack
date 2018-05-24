@@ -1,0 +1,11 @@
+1	git://github.com/igniterealtime/Whack.git
+2	#DEP#xmlpull:xmlpull
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#org.igniterealtime.whack:core
+5	#DEP#org.igniterealtime:whack
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#xpp3:xpp3
+8	#DEP#org.eclipse.jetty:jetty-server
+9	#DEP#org.eclipse.jetty:jetty-webapp
+10	#DEP#net.sourceforge.jweather:jweather
+11	#DEP#org.igniterealtime:tinder

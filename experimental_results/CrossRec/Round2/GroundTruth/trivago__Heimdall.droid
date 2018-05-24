@@ -1,0 +1,7 @@
+8	#DEP#com.trello:rxlifecycle
+9	#DEP#com.trello:rxlifecycle-components
+10	#DEP#com.squareup.retrofit:retrofit
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid
+14	#DEP#cglib:cglib

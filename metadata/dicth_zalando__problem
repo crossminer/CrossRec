@@ -1,0 +1,12 @@
+1	git://github.com/zalando/problem.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.slf4j:slf4j-nop
+4	#DEP#org.hobsoft.hamcrest:hamcrest-compose
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.jayway.jsonpath:json-path-assert
+7	#DEP#org.junit.platform:junit-platform-launcher
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#com.google.gag:gag
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#org.hamcrest:java-hamcrest
+12	#DEP#org.zalando:problem

@@ -1,0 +1,6 @@
+1	#DEP#jboss:jboss
+1	#DEP#org.mod4j.org.apache.commons:lang
+1	#DEP#jboss:jboss-j2ee
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#commons-net:commons-net
+1	#DEP#jboss:jboss-ejb3x

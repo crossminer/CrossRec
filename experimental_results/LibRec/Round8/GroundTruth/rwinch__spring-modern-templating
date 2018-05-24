@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:javax.servlet
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.slf4j:org.slf4j
+1	#DEP#junit:junit
+1	#DEP#ch.qos.logback:ch.qos.logback
+1	#DEP#com.samskivert:jmustache

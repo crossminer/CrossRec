@@ -1,0 +1,10 @@
+1	git://github.com/yatatsu/AutoBundle.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.google.android:support-v4
+5	#DEP#org.parceler:parceler
+6	#DEP#com.google.testing.compile:compile-testing
+7	#DEP#com.squareup:javapoet
+8	#DEP#junit:junit
+9	#DEP#org.parceler:parceler-api
+10	#DEP#com.google.dagger:dagger

@@ -1,0 +1,12 @@
+13	#DEP#commons-net:commons-net
+14	#DEP#com.sonyericsson.hudson.plugins.rebuild:rebuild
+15	#DEP#org.powermock:powermock-api-mockito
+16	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+17	#DEP#org.hamcrest:hamcrest-all
+18	#DEP#com.google.guava:guava
+19	#DEP#com.sonymobile.tools.gerrit:gerrit-events
+20	#DEP#org.apache.sshd:sshd-core
+21	#DEP#junit:junit
+22	#DEP#org.jenkins-ci.plugins:git-client
+23	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+24	#DEP#org.slf4j:slf4j-jdk14

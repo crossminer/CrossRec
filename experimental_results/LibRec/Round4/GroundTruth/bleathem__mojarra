@@ -1,0 +1,11 @@
+1	#DEP#org.glassfish:bean-validator
+1	#DEP#com.sun.faces:jsf-impl
+1	#DEP#com.sun.faces:jsf-api
+1	#DEP#javax.faces:jsf-api
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#javax.validation:validation-api
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#javax.transaction:jta
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javaee:javaee-api

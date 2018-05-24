@@ -1,0 +1,6 @@
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.json:json
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.apache.httpcomponents:httpcore-nio
+1	#DEP#junit:junit

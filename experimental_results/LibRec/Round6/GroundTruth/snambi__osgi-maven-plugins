@@ -1,0 +1,14 @@
+1	#DEP#org.apache.maven.surefire:surefire-booter
+1	#DEP#org.apache.tuscany.sca:tuscany-wsdl2java
+1	#DEP#org.apache.maven:maven-model
+1	#DEP#org.apache.maven:maven-toolchain
+1	#DEP#org.eclipse.emf:codegen-ecore
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.apache.tuscany.sca:tuscany-sca-api
+1	#DEP#org.apache.maven.shared:maven-dependency-tree
+1	#DEP#org.apache.axis2:axis2-codegen
+1	#DEP#org.apache.maven:maven-archiver
+1	#DEP#org.codehaus.plexus:plexus-compiler-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#javax.xml.stream:stax-api
+1	#DEP#org.apache.maven:maven-artifact

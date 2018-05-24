@@ -1,0 +1,7 @@
+9	#DEP#com.alibaba:druid
+10	#DEP#com.bladejava:blade-jdbc-core
+11	#DEP#org.sql2o:sql2o
+12	#DEP#com.hynnet:oracle-driver-ojdbc6
+13	#DEP#com.zaxxer:HikariCP
+14	#DEP#org.projectlombok:lombok
+15	#DEP#junit:junit

@@ -1,0 +1,16 @@
+1	git://github.com/jhunters/jprotobuf.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+4	#DEP#org.apache.maven:maven-artifact-manager
+5	#DEP#commons-io:commons-io
+6	#DEP#com.google.auto.value:auto-value
+7	#DEP#org.jodd:jodd-core
+8	#DEP#javassist:javassist
+9	#DEP#com.baidu:jprotobuf
+10	#DEP#org.apache.maven:maven-toolchain
+11	#DEP#org.apache.maven:maven-plugin-api
+12	#DEP#com.google.protobuf:protobuf-java
+13	#DEP#com.baidu:jprotobuf-protoparser
+14	#DEP#com.squareup:protoparser
+15	#DEP#junit:junit
+16	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,10 @@
+11	#DEP#org.apache.velocity:velocity
+12	#DEP#log4j:log4j
+13	#DEP#net.sf.json-lib:json-lib
+14	#DEP#woodstox:wstx-asl
+15	#DEP#org.apache.httpcomponents:httpcore
+16	#DEP#org.apache.httpcomponents:httpcore-nio
+17	#DEP#org.jboss.netty:netty
+18	#DEP#commons-httpclient:commons-httpclient
+19	#DEP#junit:junit
+20	#DEP#jfreechart:jfreechart

@@ -1,0 +1,12 @@
+1	git://github.com/Belphemur/AdminCmd.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#org.bukkit:bukkit
+4	#DEP#org.bukkit:craftbukkit
+5	#DEP#junit:junit-dep
+6	#DEP#org.mcstats:metrics
+7	#DEP#com.miraclem4n:MChat
+8	#DEP#de.JeterLP:MakeYourOwnCommands
+9	#DEP#de.diddiz:LogBlock
+10	#DEP#org.dynmap:dynmap-api
+11	#DEP#info.somethingodd:OddItem
+12	#DEP#net.milkbowl.vault:Vault

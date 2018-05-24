@@ -1,0 +1,5 @@
+1	#DEP#org.apache.hive:hive-metastore
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-lang:commons-lang

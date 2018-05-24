@@ -1,0 +1,14 @@
+1	git://github.com/EmiteGWT/emite.git
+2	#DEP#com.calclab:emite
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.google.gwt:gwt-servlet
+6	#DEP#com.google.guava:guava-gwt
+7	#DEP#com.google.guava:guava-testlib
+8	#DEP#com.google.inject:guice
+9	#DEP#com.google.inject.extensions:guice-assistedinject
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.google.guiceberry:guiceberry
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#com.google.gwt.inject:gin
+14	#DEP#junit:junit

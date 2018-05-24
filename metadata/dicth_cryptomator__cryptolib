@@ -1,0 +1,14 @@
+1	git://github.com/cryptomator/cryptolib.git
+2	#DEP#de.bechte.junit:junit-hierarchicalcontextrunner
+3	#DEP#org.cryptomator:siv-mode
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.google.code.gson:gson
+7	#DEP#org.hamcrest:hamcrest-core
+8	#DEP#com.google.dagger:dagger
+9	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+10	#DEP#com.google.dagger:dagger-compiler
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#org.openjdk.jmh:jmh-core

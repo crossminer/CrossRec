@@ -1,0 +1,8 @@
+1	#DEP#org.apache.kafka:connect-api
+1	#DEP#io.confluent:kafka-connect-avro-converter
+1	#DEP#org.apache.parquet:parquet-hadoop-bundle
+1	#DEP#org.apache.hive.hcatalog:hive-hcatalog-core
+1	#DEP#org.apache.hadoop:hadoop-minicluster
+1	#DEP#junit:junit
+1	#DEP#io.confluent:kafka-connect-storage-core
+1	#DEP#org.apache.directory.jdbm:apacheds-jdbm1

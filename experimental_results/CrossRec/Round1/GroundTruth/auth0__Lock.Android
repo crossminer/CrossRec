@@ -1,0 +1,7 @@
+9	#DEP#org.mockito:mockito-core
+10	#DEP#com.squareup:otto
+11	#DEP#com.android.support:support-v4
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.jayway.awaitility:awaitility
+15	#DEP#com.auth0.android:auth0

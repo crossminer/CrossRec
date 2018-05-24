@@ -1,0 +1,11 @@
+12	#DEP#org.esa.beam:beam-ui
+13	#DEP#com.bc.ceres:ceres-launcher
+14	#DEP#org.esa.beam:beam-collocation
+15	#DEP#org.esa.beam:beam-visat
+16	#DEP#org.esa.beam:beam-unmix
+17	#DEP#com.bc.ceres:ceres-core
+18	#DEP#org.esa.beam.synergy:beam-meris-aatsr-synergy-preprocessing
+19	#DEP#org.esa.beam:beam-envisat-reader
+20	#DEP#org.esa.beam:beam-meris-brr
+21	#DEP#org.esa.beam.synergy:beam-meris-aatsr-synergy-aerosol-retrieval
+22	#DEP#com.bc.ceres:ceres-binding

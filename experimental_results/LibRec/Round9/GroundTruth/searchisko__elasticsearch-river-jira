@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.jboss.elasticsearch:structured-content-tools
+1	#DEP#org.elasticsearch:elasticsearch

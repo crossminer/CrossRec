@@ -1,0 +1,12 @@
+1	git://github.com/lukaspili/Auto-Mortar.git
+2	#DEP#com.github.lukaspili.processor-workflow:processor-workflow
+3	#DEP#com.google.auto:auto-common
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.squareup.retrofit:retrofit
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#com.android.support:support-v4
+10	#DEP#com.squareup:javapoet
+11	#DEP#com.google.auto.service:auto-service
+12	#DEP#com.jakewharton:butterknife

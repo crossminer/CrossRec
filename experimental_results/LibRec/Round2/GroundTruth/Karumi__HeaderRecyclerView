@@ -1,0 +1,6 @@
+1	#DEP#org.robolectric:robolectric
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#com.github.pedrovgs:nox
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit

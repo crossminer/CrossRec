@@ -1,0 +1,15 @@
+1	git://github.com/avthart/spring-boot-axon-sample.git
+2	#DEP#org.springframework:spring-messaging
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api
+5	#DEP#org.springframework.boot:spring-boot-starter-web
+6	#DEP#org.springframework.boot:spring-boot-starter-security
+7	#DEP#org.axonframework:axon-integration
+8	#DEP#org.elasticsearch:elasticsearch
+9	#DEP#org.axonframework:axon-core
+10	#DEP#org.springframework.data:spring-data-elasticsearch
+11	#DEP#org.springframework.boot:spring-boot-starter-websocket
+12	#DEP#org.projectlombok:lombok
+13	#DEP#org.springframework.boot:spring-boot-starter-actuator
+14	#DEP#org.springframework.data:spring-data-commons
+15	#DEP#org.hsqldb:hsqldb

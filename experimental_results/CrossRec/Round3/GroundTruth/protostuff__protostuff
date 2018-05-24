@@ -1,0 +1,17 @@
+19	#DEP#io.protostuff:protostuff-xml
+20	#DEP#io.protostuff:protostuff-collectionschema
+21	#DEP#org.msgpack:msgpack-core
+22	#DEP#io.protostuff:protostuff-uberjar
+23	#DEP#io.protostuff:protostuff-runtime-registry
+24	#DEP#io.protostuff:protostuff-json
+25	#DEP#org.apache.maven:maven-plugin-api
+26	#DEP#io.protostuff:protostuff-kvp
+27	#DEP#com.fasterxml.jackson.core:jackson-core
+28	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+29	#DEP#io.protostuff:protostuff-yaml
+30	#DEP#org.mockito:mockito-core
+31	#DEP#io.protostuff:protostuff-compiler
+32	#DEP#junit:junit
+33	#DEP#org.openjdk.jmh:jmh-core
+34	#DEP#org.apache.maven:maven-artifact
+35	#DEP#io.protostuff:protostuff-runtime-md

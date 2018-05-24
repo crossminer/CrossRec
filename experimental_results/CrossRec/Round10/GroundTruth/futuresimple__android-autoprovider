@@ -1,0 +1,9 @@
+11	#DEP#org.easytesting:fest-assert
+12	#DEP#org.mockito:mockito-core
+13	#DEP#com.google.guava:guava
+14	#DEP#org.chalup.microorm:microorm
+15	#DEP#com.getbase.android.forger:forger
+16	#DEP#com.android.support:support-v4
+17	#DEP#com.getbase.autoindexer:autoindexer
+18	#DEP#junit:junit
+19	#DEP#com.getbase.android.db:library

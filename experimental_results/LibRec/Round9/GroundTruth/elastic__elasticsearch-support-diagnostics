@@ -1,0 +1,5 @@
+1	#DEP#org.yaml:snakeyaml
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.beust:jcommander

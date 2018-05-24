@@ -1,0 +1,5 @@
+6	#DEP#edu.umd:cloud9
+7	#DEP#com.sna-projects.kamikaze:kamikaze
+8	#DEP#opennlp:maxent
+9	#DEP#org.apache.hadoop:hadoop-auth
+10	#DEP#org.apache.lucene:lucene-analyzers

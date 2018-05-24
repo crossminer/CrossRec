@@ -1,0 +1,10 @@
+1	git://github.com/zhengken/LyricViewDemo.git
+2	#DEP#com.github.markushi:circlebutton
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.google.guava:guava
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.nineoldandroids:library
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife

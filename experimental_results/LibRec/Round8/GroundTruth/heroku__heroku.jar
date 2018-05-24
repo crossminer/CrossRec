@@ -1,0 +1,15 @@
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#com.heroku.api:heroku-api
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#com.twitter:finagle-http_2.11
+1	#DEP#com.jcraft:jsch
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.heroku.api:heroku-http-finagle
+1	#DEP#org.glassfish.jersey.connectors:jersey-apache-connector
+1	#DEP#com.heroku.api:heroku-http-jersey-client
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jmockit:jmockit
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.heroku.api:heroku-json-gson
+1	#DEP#com.heroku.api:heroku-json-jackson

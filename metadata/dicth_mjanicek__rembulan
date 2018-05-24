@@ -1,0 +1,12 @@
+1	git://github.com/mjanicek/rembulan.git
+2	#DEP#net.sandius.rembulan:rembulan-runtime
+3	#DEP#jline:jline
+4	#DEP#org.ow2.asm:asm-analysis
+5	#DEP#org.scalatest:scalatest_${scala.binary.version}
+6	#DEP#net.sandius.rembulan:rembulan-compiler
+7	#DEP#org.scala-lang:scala-library
+8	#DEP#org.scala-lang.modules:scala-xml_2.11
+9	#DEP#net.sandius.rembulan:rembulan-stdlib
+10	#DEP#junit:junit
+11	#DEP#org.ow2.asm:asm
+12	#DEP#org.ow2.asm:asm-util

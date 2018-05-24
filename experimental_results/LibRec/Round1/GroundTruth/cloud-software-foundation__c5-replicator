@@ -1,0 +1,12 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.jetbrains:annotations
+1	#DEP#io.protostuff:protostuff-core
+1	#DEP#c5db:c5-replicator-parent
+1	#DEP#c5db:c5-replicator-proto
+1	#DEP#io.protostuff:protostuff-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit
+1	#DEP#org.jetlang:jetlang
+1	#DEP#c5db:c5-replicator-api

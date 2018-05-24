@@ -1,0 +1,12 @@
+1	git://github.com/WhisperSystems/WebSocket-Resources.git
+2	#DEP#io.dropwizard:dropwizard-auth
+3	#DEP#io.dropwizard:dropwizard-servlets
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.eclipse.jetty.websocket:websocket-client
+6	#DEP#io.dropwizard:dropwizard-testing
+7	#DEP#org.whispersystems:dropwizard-simpleauth
+8	#DEP#io.dropwizard:dropwizard-core
+9	#DEP#org.whispersystems:websocket-resources
+10	#DEP#io.dropwizard:dropwizard-client
+11	#DEP#org.eclipse.jetty.websocket:websocket-server
+12	#DEP#com.google.protobuf:protobuf-java

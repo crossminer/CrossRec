@@ -1,0 +1,5 @@
+7	#DEP#org.antlr:antlr-runtime
+8	#DEP#org.apache.thrift:libthrift
+9	#DEP#com.cloudera.hadoop:hadoop-core
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-lang:commons-lang

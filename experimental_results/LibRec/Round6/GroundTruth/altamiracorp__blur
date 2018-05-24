@@ -1,0 +1,9 @@
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#com.nearinfinity.blur:blur-store
+1	#DEP#com.nearinfinity.blur:blur-core
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#com.nearinfinity.blur:blur-mapred
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

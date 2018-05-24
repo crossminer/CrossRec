@@ -1,0 +1,11 @@
+13	#DEP#org.codehaus.jackson:jackson-mapper-asl
+14	#DEP#commons-codec:commons-codec
+15	#DEP#com.amazonaws:aws-java-sdk
+16	#DEP#stax:stax
+17	#DEP#log4j:log4j
+18	#DEP#net.sf.json-lib:json-lib
+19	#DEP#commons-collections:commons-collections
+20	#DEP#com.urbancode:x2o
+21	#DEP#org.apache.httpcomponents:httpcore
+22	#DEP#junit:junit
+23	#DEP#commons-httpclient:commons-httpclient

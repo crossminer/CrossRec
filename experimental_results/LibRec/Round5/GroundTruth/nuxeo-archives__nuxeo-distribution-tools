@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-test
+1	#DEP#org.nuxeo.connect:nuxeo-connect-client
+1	#DEP#junit:junit
+1	#DEP#org.nuxeo.build:ant-assembly-maven-plugin

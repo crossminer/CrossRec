@@ -1,0 +1,5 @@
+6	#DEP#com.google.guava:guava
+7	#DEP#org.apache.avro:avro-mapred
+8	#DEP#junit:junit
+9	#DEP#com.twitter:parquet-column
+10	#DEP#com.twitter:parquet-hadoop

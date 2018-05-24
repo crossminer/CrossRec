@@ -1,0 +1,8 @@
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.facebook.stetho:stetho
+12	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+13	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+14	#DEP#com.google.dexmaker:dexmaker-mockito
+15	#DEP#org.mockito:mockito-core
+16	#DEP#junit:junit
+17	#DEP#io.reactivex:rxjava

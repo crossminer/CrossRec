@@ -1,0 +1,12 @@
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.apache.ftpserver:ftpserver-core
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.apache.ftpserver:ftpserver-deprecated
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#commons-net:commons-net
+1	#DEP#tomcat:jasper-runtime
+1	#DEP#net.java.dev.jets3t:jets3t
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#xmlenc:xmlenc
+1	#DEP#com.cloudera.cdh:hadoop-ant

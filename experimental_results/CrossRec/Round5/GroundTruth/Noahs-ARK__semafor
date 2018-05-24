@@ -1,0 +1,6 @@
+7	#DEP#com.google.guava:guava
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#danbikel:wordnet
+10	#DEP#junit:junit
+11	#DEP#com.beust:jcommander
+12	#DEP#uk.ac.susx:informatics

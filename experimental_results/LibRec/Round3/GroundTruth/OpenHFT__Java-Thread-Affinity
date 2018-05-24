@@ -1,0 +1,10 @@
+1	#DEP#com.intellij:annotations
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#junit:junit
+1	#DEP#org.ops4j.pax.url:pax-url-aether
+1	#DEP#org.ops4j.pax.exam:pax-exam-container-native
+1	#DEP#org.ops4j.pax.url:pax-url-reference
+1	#DEP#net.openhft:affinity
+1	#DEP#org.osgi:org.osgi.core

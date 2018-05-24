@@ -1,0 +1,10 @@
+11	#DEP#org.payments4j:payments4j
+12	#DEP#paypal.payflow:payflow-sdk
+13	#DEP#commons-beanutils:commons-beanutils-core
+14	#DEP#org.easytesting:fest-assert
+15	#DEP#org.apache.cxf:cxf-rt-ws-security
+16	#DEP#ch.qos.logback:logback-classic
+17	#DEP#org.apache.ws.security:wss4j
+18	#DEP#com.google.guava:guava
+19	#DEP#junit:junit
+20	#DEP#org.apache.cxf:cxf-rt-core

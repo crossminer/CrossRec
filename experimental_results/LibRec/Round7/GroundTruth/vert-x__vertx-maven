@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven.plugin-tools:maven-plugin-tools-annotations
+1	#DEP#org.apache.maven:maven-project
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#io.vertx:testtools
+1	#DEP#junit:junit

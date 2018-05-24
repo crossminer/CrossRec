@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#com.google.code.gson:gson
+1	#DEP#net.logstash.logback:logstash-logback-encoder
+1	#DEP#com.sparkjava:spark-core
+1	#DEP#xerces:xercesImpl
+1	#DEP#io.spray:spray-json_2.10
+1	#DEP#org.scalaz:scalaz-core_2.10

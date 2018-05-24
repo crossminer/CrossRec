@@ -1,0 +1,10 @@
+1	git://github.com/laserson/avro2parquet.git
+2	#DEP#com.twitter:parquet-avro
+3	#DEP#org.apache.hadoop:hadoop-client
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#com.google.guava:guava
+7	#DEP#org.apache.avro:avro-mapred
+8	#DEP#junit:junit
+9	#DEP#com.twitter:parquet-column
+10	#DEP#com.twitter:parquet-hadoop

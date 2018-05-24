@@ -1,0 +1,17 @@
+1	#DEP#junit:junit
+1	#DEP#org.jcurl.core:jc-piccolo
+1	#DEP#no.geosoft.cc.graphics:G
+1	#DEP#jep:jep
+1	#DEP#java3d:vecmath
+1	#DEP#net.java.dev.swing-layout:swing-layout
+1	#DEP#org.jcurl.core:jc-demo
+1	#DEP#batik:batik-dom
+1	#DEP#commons-math:commons-math
+1	#DEP#java3d:j3d-core
+1	#DEP#com.google.code.guice:guice
+1	#DEP#org.jivesoftware:smack
+1	#DEP#batik:batik-util
+1	#DEP#batik:batik-awt-util
+1	#DEP#picocontainer:picocontainer
+1	#DEP#log4j:log4j
+1	#DEP#net.java.dev.scenegraph:scenario

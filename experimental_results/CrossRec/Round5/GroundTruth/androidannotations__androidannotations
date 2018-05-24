@@ -1,0 +1,16 @@
+17	#DEP#org.androidannotations:roboguice-api
+18	#DEP#org.roboguice:roboguice
+19	#DEP#org.robolectric:shadows-support-v4
+20	#DEP#org.androidannotations:roboguice
+21	#DEP#org.androidannotations:rest-spring-api
+22	#DEP#org.androidannotations:androidannotations-api
+23	#DEP#com.j256.ormlite:ormlite-android
+24	#DEP#org.codehaus.jackson:jackson-mapper-asl
+25	#DEP#org.androidannotations:ormlite
+26	#DEP#com.helger:jcodemodel
+27	#DEP#org.easytesting:fest-reflect
+28	#DEP#org.parceler:parceler-api
+29	#DEP#com.squareup:otto
+30	#DEP#org.androidannotations:androidannotations-testutils
+31	#DEP#org.mockito:mockito-core
+32	#DEP#bouncycastle:bcprov-jdk16

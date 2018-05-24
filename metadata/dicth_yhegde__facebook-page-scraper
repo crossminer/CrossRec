@@ -1,0 +1,11 @@
+1	git://github.com/yhegde/facebook-page-scraper.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#net.sf.opencsv:opencsv
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#javax.mail:mail
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#commons-dbcp:commons-dbcp
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.twitter4j:twitter4j-core
+10	#DEP#org.twitter4j:twitter4j-stream
+11	#DEP#junit:junit

@@ -1,0 +1,7 @@
+1	#DEP#gov.nasa.arc.mct:csvExport
+1	#DEP#gov.nasa.arc.mct:earthView
+1	#DEP#com.github.danielpacak.osgi.swingconsole:osgi.swingconsole
+1	#DEP#gov.nasa.arc.mct:mctcore
+1	#DEP#gov.nasa.arc.mct:scenario
+1	#DEP#name.gano:jSatTrack
+1	#DEP#gov.nasa.arc.mct:chronology

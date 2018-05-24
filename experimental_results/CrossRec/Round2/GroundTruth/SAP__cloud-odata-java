@@ -1,0 +1,11 @@
+13	#DEP#com.google.code.gson:gson
+14	#DEP#org.apache.cxf:cxf-rt-frontend-jaxrs
+15	#DEP#org.slf4j:slf4j-log4j12
+16	#DEP#com.sap.odata:com.sap.core.odata.parent
+17	#DEP#commons-codec:commons-codec
+18	#DEP#org.eclipse.persistence:javax.persistence
+19	#DEP#javax.servlet:servlet-api
+20	#DEP#com.sap.odata:com.sap.core.odata.processor.api
+21	#DEP#junit:junit
+22	#DEP#com.sap.odata:com.sap.core.odata.api.annotation
+23	#DEP#org.eclipse.jetty:jetty-servlet

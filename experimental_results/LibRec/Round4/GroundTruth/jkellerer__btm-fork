@@ -1,0 +1,8 @@
+1	#DEP#org.codehaus.btm:btm-tomcat55-lifecycle
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#javax.transaction:jta
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.codehaus.btm:btm
+1	#DEP#org.apache.tomcat:catalina
+1	#DEP#org.codehaus.btm:btm-jetty6-lifecycle
+1	#DEP#junit:junit

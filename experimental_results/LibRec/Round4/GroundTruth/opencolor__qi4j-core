@@ -1,0 +1,12 @@
+1	#DEP#org.jmock:jmock
+1	#DEP#org.qi4j.core:qi4j-core-bootstrap
+1	#DEP#org.ops4j.pax.swissbox:pax-swissbox-extender
+1	#DEP#org.qi4j.core:qi4j-core-api
+1	#DEP#net.sourceforge.cglib:com.springsource.net.sf.cglib
+1	#DEP#org.apache.felix:org.osgi.compendium
+1	#DEP#org.ops4j.pax.logging:pax-logging-service
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit
+1	#DEP#org.ops4j.pax.exam:pax-exam
+1	#DEP#org.osgi:osgi_R4_compendium
+1	#DEP#org.ops4j.pax.swissbox:pax-swissbox-lifecycle
+1	#DEP#junit:junit

@@ -1,0 +1,10 @@
+1	#DEP#de.micromata.jak:JavaAPIforKml
+1	#DEP#dk.dma.ais.lib:ais-parent
+1	#DEP#net.maritimecloud:mc-util
+1	#DEP#${project.groupId}:ais-lib-utils
+1	#DEP#dk.dma.commons:dma-commons-app
+1	#DEP#${project.groupId}:ais-lib-communication
+1	#DEP#dk.dma.enav:enav-model
+1	#DEP#dk.dma.commons:dma-commons-util
+1	#DEP#com.beust:jcommander
+1	#DEP#org.antlr:antlr4-runtime

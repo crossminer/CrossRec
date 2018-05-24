@@ -1,0 +1,9 @@
+11	#DEP#com.nostra13.universalimageloader:universal-image-loader
+12	#DEP#com.facebook.stetho:stetho
+13	#DEP#com.github.bumptech.glide:okhttp-integration
+14	#DEP#com.github.bumptech.glide:glide
+15	#DEP#com.squareup.okhttp3:logging-interceptor
+16	#DEP#com.squareup.picasso:picasso
+17	#DEP#com.mcxiaoke.volley:library
+18	#DEP#com.android.volley:volley
+19	#DEP#com.facebook.stetho:stetho-urlconnection

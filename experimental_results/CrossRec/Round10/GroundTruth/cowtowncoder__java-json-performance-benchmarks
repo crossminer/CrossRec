@@ -1,0 +1,11 @@
+12	#DEP#com.fasterxml.jackson.core:jackson-core
+13	#DEP#org.apache.geronimo.specs:geronimo-json_1.0_spec
+14	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+15	#DEP#org.apache.juneau:juneau-core
+16	#DEP#com.fasterxml.jackson.jr:jackson-jr-objects
+17	#DEP#org.apache.johnzon:johnzon-mapper
+18	#DEP#ca.fuzzlesoft:json-parse
+19	#DEP#org.apache.johnzon:johnzon-core
+20	#DEP#org.openjdk.jmh:jmh-core
+21	#DEP#com.dslplatform:dsl-json-processor
+22	#DEP#com.squareup.okio:okio

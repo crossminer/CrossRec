@@ -1,0 +1,5 @@
+6	#DEP#com.tuenti.buttonmenu:library
+7	#DEP#com.google.android:android-test
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.nineoldandroids:library
+10	#DEP#junit:junit

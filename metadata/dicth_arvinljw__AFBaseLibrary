@@ -1,0 +1,16 @@
+1	git://github.com/arvinljw/AFBaseLibrary.git
+2	#DEP#com.github.bumptech.glide:okhttp3-integration
+3	#DEP#cn.bingoogolapple:bga-banner
+4	#DEP#com.squareup.retrofit2:adapter-rxjava
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.orhanobut:logger
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.github.bumptech.glide:glide
+12	#DEP#com.android.support.constraint:constraint-layout
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

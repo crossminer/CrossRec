@@ -1,0 +1,10 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#uk.co.inetria.appstart:appstart-common
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#com.google.guava:guava
+1	#DEP#uk.co.inetria.appstart:appstart-frontend
+1	#DEP#uk.co.inetria.appstart:appstart-backend
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.sun.jersey.contribs:jersey-guice
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-testing

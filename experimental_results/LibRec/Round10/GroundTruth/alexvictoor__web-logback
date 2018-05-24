@@ -1,0 +1,5 @@
+1	#DEP#com.squareup.okhttp:okhttp
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#com.jayway.awaitility:awaitility

@@ -1,0 +1,15 @@
+1	git://github.com/jbaliuka/x4j-analytic.git
+2	#DEP#org.apache.commons:commons-jexl
+3	#DEP#com.oracle:ojdbc6
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.apache.poi:ooxml-schemas
+6	#DEP#org.mockito:mockito-all
+7	#DEP#commons-lang:commons-lang
+8	#DEP#com.exigeninsurance.x4j.analytic:x4j-analytic
+9	#DEP#org.apache.pdfbox:pdfbox
+10	#DEP#org.apache.poi:poi
+11	#DEP#commons-collections:commons-collections
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.apache.poi:poi-ooxml
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

@@ -1,0 +1,6 @@
+8	#DEP#io.netty:netty-transport
+9	#DEP#io.netty:netty-handler
+10	#DEP#${project.groupId}:tomp2p-core
+11	#DEP#io.netty:netty-buffer
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

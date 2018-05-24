@@ -1,0 +1,6 @@
+1	#DEP#org.jboss:jboss-vfs
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-log4j12

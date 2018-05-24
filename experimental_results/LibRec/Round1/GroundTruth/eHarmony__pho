@@ -1,0 +1,10 @@
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.phoenix:phoenix-core
+1	#DEP#joda-time:joda-time
+1	#DEP#org.apache.hbase:hbase-client
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.apache.hbase:hbase-common
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hbase:hbase-annotations
+1	#DEP#org.apache.httpcomponents:httpcore

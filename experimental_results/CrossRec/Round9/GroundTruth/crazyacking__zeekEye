@@ -1,0 +1,6 @@
+8	#DEP#org.jsoup:jsoup
+9	#DEP#org.springframework:spring-web
+10	#DEP#org.springframework:spring-test
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

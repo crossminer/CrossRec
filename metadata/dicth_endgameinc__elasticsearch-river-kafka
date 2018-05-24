@@ -1,0 +1,14 @@
+1	git://github.com/endgameinc/elasticsearch-river-kafka.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#org.apache.zookeeper:zookeeper
+4	#DEP#org.easymock:easymock
+5	#DEP#org.apache.kafka:kafka
+6	#DEP#net.sf.jopt-simple:jopt-simple
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#org.elasticsearch:elasticsearch
+9	#DEP#com.netflix.curator:curator-framework
+10	#DEP#com.github.sgroschupf:zkclient
+11	#DEP#log4j:log4j
+12	#DEP#org.scala-lang:scala-library
+13	#DEP#junit:junit
+14	#DEP#com.timgroup:java-statsd-client

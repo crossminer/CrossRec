@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#org.springframework:spring-beans
+1	#DEP#software.amazon.awssdk:core
+1	#DEP#org.openjdk.jol:jol-core
+1	#DEP#software.amazon.awssdk:cloudwatch
+1	#DEP#org.openjdk.jmh:jmh-core

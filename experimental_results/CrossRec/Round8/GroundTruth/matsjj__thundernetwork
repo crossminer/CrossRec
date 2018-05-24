@@ -1,0 +1,10 @@
+11	#DEP#com.sun.xml.security:xml-security-impl
+12	#DEP#com.google.code.gson:gson
+13	#DEP#network.thunder:thunder-core
+14	#DEP#c3p0:c3p0
+15	#DEP#org.fxmisc.easybind:easybind
+16	#DEP#org.bitcoinj:bitcoinj-core
+17	#DEP#com.google.guava:guava
+18	#DEP#junit:junit
+19	#DEP#commons-httpclient:commons-httpclient
+20	#DEP#com.h2database:h2

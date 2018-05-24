@@ -1,0 +1,13 @@
+15	#DEP#org.apache.httpcomponents:httpclient
+16	#DEP#com.alibaba:fastjson
+17	#DEP#org.springframework:spring-core
+18	#DEP#org.slf4j:slf4j-log4j12
+19	#DEP#org.springframework:spring-web
+20	#DEP#org.jsoup:jsoup
+21	#DEP#com.janeluo:ikanalyzer
+22	#DEP#commons-pool:commons-pool
+23	#DEP#log4j:log4j
+24	#DEP#javax.servlet:servlet-api
+25	#DEP#org.json:json
+26	#DEP#com.github.jai-imageio:jai-imageio-core
+27	#DEP#junit:junit

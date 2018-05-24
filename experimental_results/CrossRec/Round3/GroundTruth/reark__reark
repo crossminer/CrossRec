@@ -1,0 +1,14 @@
+15	#DEP#com.android.support.test:rules
+16	#DEP#com.android.support.test:runner
+17	#DEP#com.android.support.test.espresso:espresso-core
+18	#DEP#com.android.support:support-annotations
+19	#DEP#net.simonvt.schematic:schematic
+20	#DEP#io.reactivex.rxjava2:rxjava
+21	#DEP#com.android.support:recyclerview-v7
+22	#DEP#com.facebook.stetho:stetho-okhttp3
+23	#DEP#com.android.support:appcompat-v7
+24	#DEP#com.google.dagger:dagger
+25	#DEP#com.squareup.okhttp3:okhttp-android-support
+26	#DEP#com.google.dagger:dagger-compiler
+27	#DEP#com.github.bumptech.glide:glide
+28	#DEP#junit:junit

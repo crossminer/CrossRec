@@ -1,0 +1,16 @@
+1	#DEP#org.pacesys.openstack4j.connectors:openstack4j-resteasy
+1	#DEP#org.pacesys:openstack4j-core-integration-test
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.pacesys.openstack4j.connectors:openstack4j-httpclient
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+1	#DEP#org.pacesys:openstack4j
+1	#DEP#org.spockframework:spock-core
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.squareup.okhttp3:mockwebserver
+1	#DEP#software.betamax:betamax-core
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.github.fge:json-patch
+1	#DEP#org.jboss.resteasy:resteasy-client
+1	#DEP#junit:junit
+1	#DEP#org.pacesys.openstack4j.connectors:openstack4j-okhttp

@@ -1,0 +1,6 @@
+7	#DEP#com.sun.jmx:jmxri
+8	#DEP#commons-logging:commons-logging
+9	#DEP#com.google.guava:guava
+10	#DEP#org.antlr:antlr-runtime
+11	#DEP#junit:junit
+12	#DEP#org.apache.hadoop:zookeeper

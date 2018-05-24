@@ -1,0 +1,15 @@
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.javassist:javassist
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.apache.logging.log4j:log4j-web
+1	#DEP#cloud.orbit:orbit-runtime
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+1	#DEP#io.github.lukehutch:fast-classpath-scanner
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.infinispan:infinispan-core
+1	#DEP#cloud.orbit:orbit-infinispan-cluster
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.glassfish.hk2:hk2
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core

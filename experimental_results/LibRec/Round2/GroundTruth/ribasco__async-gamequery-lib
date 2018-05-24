@@ -1,0 +1,11 @@
+1	#DEP#${project.groupId}:agql-lib-core
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#${project.groupId}:agql-source-query
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.asynchttpclient:async-http-client
+1	#DEP#${project.groupId}:agql-steam-master
+1	#DEP#com.google.guava:guava
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#${project.groupId}:agql-dota2-webapi
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:agql-steam-webapi

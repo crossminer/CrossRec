@@ -1,0 +1,15 @@
+1	git://github.com/Aconex/scrutineer.git
+2	#DEP#org.slf4j:slf4j-api
+3	#DEP#org.mockito:mockito-all
+4	#DEP#com.fasterxml.util:java-merge-sort
+5	#DEP#org.hsqldb:hsqldb-j5
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.elasticsearch:elasticsearch
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.dbunit:dbunit
+10	#DEP#log4j:log4j
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#net.sourceforge.jtds:jtds
+15	#DEP#com.beust:jcommander

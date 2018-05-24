@@ -1,0 +1,5 @@
+1	#DEP#org.mongodb:mongodb-driver
+1	#DEP#postgresql:postgresql
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.elasticsearch:elasticsearch

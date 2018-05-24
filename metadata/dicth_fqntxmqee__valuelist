@@ -1,0 +1,15 @@
+1	git://github.com/fqntxmqee/valuelist.git
+2	#DEP#org.springframework:spring
+3	#DEP#org.apache.tomcat:el-api
+4	#DEP#commons-dbcp:commons-dbcp
+5	#DEP#commons-beanutils:commons-beanutils
+6	#DEP#net.sf.hibernate:hibernate
+7	#DEP#org.apache.tomcat:jasper
+8	#DEP#org.hibernate:hibernate
+9	#DEP#struts:struts
+10	#DEP#org.apache.tomcat:annotations-api
+11	#DEP#org.apache.tomcat:jsp-api
+12	#DEP#javax.portlet:portlet-api
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#org.apache.tomcat:servlet-api
+15	#DEP#org.apache.tomcat:jasper-el

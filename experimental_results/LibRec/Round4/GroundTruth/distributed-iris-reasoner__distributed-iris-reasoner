@@ -1,0 +1,16 @@
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.semweb4j:rdf2go.api
+1	#DEP#org.openrdf.sesame:sesame-runtime-osgi
+1	#DEP#hadoop-common:hadoop-common
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#hadoop-mapred-test:hadoop-mapred-test
+1	#DEP#org.jgrapht:jgrapht-jdk1.6
+1	#DEP#thirdparty:jgrapht-jdk1.6
+1	#DEP#org.semweb4j:rdf2go.impl.sesame23
+1	#DEP#log4j:log4j
+1	#DEP#cascading:cascading-test
+1	#DEP#xmlenc:xmlenc
+1	#DEP#junit:junit
+1	#DEP#at.sti2.rif4j:rif4j-iris
+1	#DEP#org.apache.hadoop:avro
+1	#DEP#org.codehaus.jackson:jackson-asl

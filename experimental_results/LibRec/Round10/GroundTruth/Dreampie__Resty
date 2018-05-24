@@ -1,0 +1,15 @@
+1	#DEP#net.oschina.j2cache:j2cache-core
+1	#DEP#cn.dreampie:resty-route
+1	#DEP#com.alibaba:fastjson
+1	#DEP#io.undertow:undertow-core
+1	#DEP#org.fusesource.jansi:jansi
+1	#DEP#c3p0:c3p0
+1	#DEP#com.alibaba:druid
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.webjars:jquery
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#cn.dreampie:resty-security
+1	#DEP#junit:junit

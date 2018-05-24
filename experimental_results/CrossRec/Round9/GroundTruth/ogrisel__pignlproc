@@ -1,0 +1,6 @@
+7	#DEP#org.apache.pig:pig
+8	#DEP#log4j:log4j
+9	#DEP#org.apache.opennlp:opennlp-tools
+10	#DEP#org.apache.lucene:lucene-analyzers
+11	#DEP#junit:junit
+12	#DEP#commons-lang:commons-lang

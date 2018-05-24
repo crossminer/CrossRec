@@ -1,0 +1,4 @@
+1	#DEP#commons-daemon:commons-daemon
+1	#DEP#org.codehaus.sonar:sonar-plugin-api
+1	#DEP#junit:junit
+1	#DEP#org.sonarsource.sonarqube.tests:base-plugin

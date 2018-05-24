@@ -1,0 +1,13 @@
+1	git://github.com/inmite/android-validation-komensky.git
+2	#DEP#eu.inmite.android.lib:android-validation-komensky
+3	#DEP#org.robolectric:robolectric
+4	#DEP#com.google.android:android
+5	#DEP#com.squareup:fest-android
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#eu.inmite.android.lib:android-styled-dialogs
+8	#DEP#junit:junit-dep
+9	#DEP#com.google.android:support-v4
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.android.support:support-v4
+12	#DEP#junit:junit
+13	#DEP#com.android.support:gridlayout-v7

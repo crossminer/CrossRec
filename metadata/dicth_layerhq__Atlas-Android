@@ -1,0 +1,10 @@
+1	git://github.com/layerhq/Atlas-Android.git
+2	#DEP#org.slf4j:slf4j-nop
+3	#DEP#com.google.android.gms:play-services-location
+4	#DEP#com.squareup.picasso:picasso
+5	#DEP#com.davemorrissey.labs:subsampling-scale-image-view
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support.test:rules
+9	#DEP#com.android.support:design
+10	#DEP#com.android.support.test:runner

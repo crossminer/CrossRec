@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.jboss.netty:netty
+1	#DEP#junit:junit
+1	#DEP#org.mongodb:bson
+1	#DEP#org.slf4j:slf4j-log4j12

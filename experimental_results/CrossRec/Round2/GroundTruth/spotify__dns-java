@@ -1,0 +1,6 @@
+7	#DEP#com.google.guava:guava
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.objenesis:objenesis
+11	#DEP#junit:junit
+12	#DEP#com.jayway.awaitility:awaitility

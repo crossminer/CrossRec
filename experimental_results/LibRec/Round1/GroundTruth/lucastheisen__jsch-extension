@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.jcraft:jsch
+1	#DEP#junit:junit
+1	#DEP#com.jcraft:jsch.agentproxy.connector-factory
+1	#DEP#com.jcraft:jsch.agentproxy.jsch

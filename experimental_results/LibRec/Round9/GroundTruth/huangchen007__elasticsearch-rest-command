@@ -1,0 +1,6 @@
+1	#DEP#org.apache.spark:spark-streaming-kafka_2.10
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.apache.spark:spark-streaming_2.10
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.apache.spark:spark-sql_2.10

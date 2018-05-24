@@ -1,0 +1,8 @@
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#org.mortbay.jetty:jetty-management
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.apache.wicket:wicket-devutils
+13	#DEP#org.apache.wicket:wicket-datetime
+14	#DEP#log4j:log4j
+15	#DEP#org.apache.wicket:wicket-extensions
+16	#DEP#junit:junit

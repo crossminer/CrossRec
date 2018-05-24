@@ -1,0 +1,5 @@
+1	#DEP#com.itextpdf:itextpdf
+1	#DEP#args4j:args4j
+1	#DEP#org.apache.poi:poi
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#org.docx4j:docx4j

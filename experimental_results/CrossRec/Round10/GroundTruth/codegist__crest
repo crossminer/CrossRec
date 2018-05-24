@@ -1,0 +1,14 @@
+15	#DEP#org.codegist:codegist-common
+16	#DEP#org.codegist.crest.integration:crest-integration-client
+17	#DEP#org.codehaus.jackson:jackson-mapper-asl
+18	#DEP#com.sun.jersey.contribs:jersey-multipart
+19	#DEP#org.slf4j:slf4j-log4j12
+20	#DEP#com.sun.xml.bind:com.sun.xml.bind
+21	#DEP#org.simpleframework:simple-xml
+22	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-signature
+23	#DEP#org.apache.httpcomponents:org.apache.httpcomponents
+24	#DEP#log4j:log4j
+25	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-server
+26	#DEP#com.sun.xml.bind:jaxb-impl
+27	#DEP#junit:junit
+28	#DEP#cglib:cglib

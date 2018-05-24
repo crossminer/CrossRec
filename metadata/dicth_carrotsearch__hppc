@@ -1,0 +1,16 @@
+1	git://github.com/carrotsearch/hppc.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+4	#DEP#it.unimi.dsi:fastutil
+5	#DEP#org.apache.maven:maven-core
+6	#DEP#net.openhft:koloboke-impl-jdk6-7
+7	#DEP#org.apache.velocity:velocity
+8	#DEP#com.carrotsearch:hppc-template-processor
+9	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+10	#DEP#com.google.guava:guava
+11	#DEP#com.carrotsearch:hppc
+12	#DEP#org.apache.maven:maven-plugin-api
+13	#DEP#org.antlr:antlr4
+14	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+15	#DEP#junit:junit
+16	#DEP#org.openjdk.jmh:jmh-core

@@ -1,0 +1,10 @@
+1	git://github.com/smedic/Android-YouTube-Background-Player.git
+2	#DEP#pub.devrel:easypermissions
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.google.android.gms:play-services-auth
+6	#DEP#com.github.HaarigerHarald:android-youtubeExtractor
+7	#DEP#com.facebook.network.connectionclass:connectionclass
+8	#DEP#com.android.support:support-v4
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design

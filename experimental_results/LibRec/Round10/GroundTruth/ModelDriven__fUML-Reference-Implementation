@@ -1,0 +1,5 @@
+1	#DEP#commons-collections:commons-collections
+1	#DEP#xerces:xercesImpl
+1	#DEP#commons-logging:commons-logging
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

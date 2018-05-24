@@ -1,0 +1,6 @@
+1	#DEP#org.apache.cxf.services.wsn:cxf-services-wsn-core
+1	#DEP#org.apache.cxf:cxf-rt-frontend-jaxws
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.onvif:onvif
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.cxf:cxf-rt-transports-http

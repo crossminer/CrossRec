@@ -1,0 +1,16 @@
+1	git://github.com/unchiujar/Umbra.git
+2	#DEP#com.github.tony19:logback-android-core
+3	#DEP#com.google.android:android
+4	#DEP#com.j256.ormlite:ormlite-android
+5	#DEP#com.pivotallabs:robolectric
+6	#DEP#com.google.android.maps:maps
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.android.gms:google-play-services
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#com.google.android.gms:play-services
+12	#DEP#org.roboguice:roboguice
+13	#DEP#com.github.tony19:logback-android-classic
+14	#DEP#com.google.maps.android:android-maps-utils
+15	#DEP#com.android.support:support-v4
+16	#DEP#junit:junit

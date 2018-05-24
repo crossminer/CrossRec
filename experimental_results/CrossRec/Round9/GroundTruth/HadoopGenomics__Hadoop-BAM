@@ -1,0 +1,5 @@
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-hdfs
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#com.github.samtools:htsjdk

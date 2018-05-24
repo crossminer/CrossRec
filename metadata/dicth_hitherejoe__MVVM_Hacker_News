@@ -1,0 +1,14 @@
+1	git://github.com/hitherejoe/MVVM_Hacker_News.git
+2	#DEP#com.squareup.sqlbrite:sqlbrite
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#org.glassfish:javax.annotation
+5	#DEP#com.squareup.okhttp:okhttp
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.google.dagger:dagger-compiler
+8	#DEP#com.squareup.retrofit:retrofit
+9	#DEP#org.ocpsoft.prettytime:prettytime
+10	#DEP#com.android.support.test:rules
+11	#DEP#junit:junit
+12	#DEP#com.android.support.test:runner
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection
+14	#DEP#io.reactivex:rxandroid

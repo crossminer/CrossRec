@@ -1,0 +1,7 @@
+9	#DEP#com.google.testing.compile:compile-testing
+10	#DEP#com.android.support.test:rules
+11	#DEP#com.google.auto.service:auto-service
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.android.support.test.espresso:espresso-core

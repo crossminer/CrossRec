@@ -1,0 +1,16 @@
+1	git://github.com/zsoltherpai/fluent-jdbc.git
+2	#DEP#com.oracle:ojdbc6
+3	#DEP#org.spockframework:spock-core
+4	#DEP#org.eclipse.persistence:eclipselink
+5	#DEP#org.codejargon:fluentjdbc-parent
+6	#DEP#org.codejargon:fluentjdbc-extensions-parent
+7	#DEP#cglib:cglib-nodep
+8	#DEP#com.google.inject:guice
+9	#DEP#org.codejargon:fluentjdbc
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.google.inject.extensions:guice-persist
+12	#DEP#org.apache.derby:derby
+13	#DEP#junit:junit
+14	#DEP#org.hsqldb:hsqldb
+15	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec
+16	#DEP#com.h2database:h2

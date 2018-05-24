@@ -1,0 +1,7 @@
+9	#DEP#com.github.devnied:bit-lib4j
+10	#DEP#org.easytesting:fest-assert
+11	#DEP#org.apache.commons:commons-collections4
+12	#DEP#de.keyboardsurfer.android.widget:crouton
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#junit:junit
+15	#DEP#cglib:cglib

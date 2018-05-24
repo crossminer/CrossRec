@@ -1,0 +1,7 @@
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#com.danga:memcached
+10	#DEP#org.springframework:spring-test
+11	#DEP#log4j:log4j
+12	#DEP#opensymphony:oscache
+13	#DEP#junit:junit
+14	#DEP#cglib:cglib

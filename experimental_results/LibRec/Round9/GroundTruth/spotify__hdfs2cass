@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.crunch:crunch-core
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#com.beust:jcommander

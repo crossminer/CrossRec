@@ -1,0 +1,9 @@
+10	#DEP#com.intellij:javac2
+11	#DEP#com.socrata:soda-api-java
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl
+13	#DEP#commons-net:commons-net
+14	#DEP#joda-time:joda-time
+15	#DEP#javax.mail:mail
+16	#DEP#org.apache.httpcomponents:httpmime
+17	#DEP#junit:junit
+18	#DEP#com.socrata:ssync

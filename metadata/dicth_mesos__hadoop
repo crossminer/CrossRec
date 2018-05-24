@@ -1,0 +1,11 @@
+1	git://github.com/mesos/hadoop.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#org.apache.hadoop:hadoop-client
+4	#DEP#commons-logging:commons-logging
+5	#DEP#io.dropwizard.metrics:metrics-jvm
+6	#DEP#org.clojars.brenden:metrics-cassandra
+7	#DEP#commons-httpclient:commons-httpclient
+8	#DEP#junit:junit
+9	#DEP#io.dropwizard.metrics:metrics-graphite
+10	#DEP#org.apache.mesos:mesos
+11	#DEP#com.google.protobuf:protobuf-java

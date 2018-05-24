@@ -1,0 +1,14 @@
+1	git://github.com/splunk/splunk-library-javalogging.git
+2	#DEP#com.googlecode.json-simple:json-simple
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.apache.httpcomponents:httpasyncclient
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.splunk:splunk
+10	#DEP#ch.qos.logback:logback-access
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit
+14	#DEP#org.apache.logging.log4j:log4j-api

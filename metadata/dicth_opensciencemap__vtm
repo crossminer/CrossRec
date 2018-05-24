@@ -1,0 +1,17 @@
+1	git://github.com/opensciencemap/vtm.git
+2	#DEP#com.vividsolutions:jts
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#com.squareup.okhttp:okhttp
+5	#DEP#com.squareup.okhttp:mockwebserver
+6	#DEP#com.noveogroup.android:android-logger
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.easytesting:fest-assert-core
+12	#DEP#org.timepedia.exporter:gwtexporter
+13	#DEP#com.google.code.findbugs:annotations
+14	#DEP#com.android.support:support-v4
+15	#DEP#org.openstreetmap.osmosis:osmosis-osm-binary
+16	#DEP#junit:junit
+17	#DEP#ru.finam:slf4j-gwt

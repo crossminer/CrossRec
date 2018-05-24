@@ -1,0 +1,10 @@
+11	#DEP#com.google.dagger:dagger
+12	#DEP#com.google.dagger:dagger-compiler
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#com.arello-mobile:moxy-compiler
+15	#DEP#com.squareup:otto
+16	#DEP#com.squareup.retrofit2:retrofit
+17	#DEP#junit:junit
+18	#DEP#com.j256.ormlite:ormlite-core
+19	#DEP#io.reactivex:rxjava
+20	#DEP#io.reactivex:rxandroid

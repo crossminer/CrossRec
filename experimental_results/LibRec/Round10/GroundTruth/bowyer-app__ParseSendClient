@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.parse.bolts:bolts-android
+1	#DEP#com.squareup.okhttp:okhttp-urlconnection

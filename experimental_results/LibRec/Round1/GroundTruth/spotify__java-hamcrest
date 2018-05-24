@@ -1,0 +1,5 @@
+1	#DEP#com.google.auto.value:auto-value
+1	#DEP#com.google.guava:guava
+1	#DEP#com.spotify:hamcrest
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit

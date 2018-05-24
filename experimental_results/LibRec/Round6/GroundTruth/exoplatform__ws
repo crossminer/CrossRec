@@ -1,0 +1,10 @@
+1	#DEP#org.exoplatform.ws:exo.ws.rest.core
+1	#DEP#org.exoplatform.ws:exo.ws.testframework
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+1	#DEP#org.exoplatform.core:exo.core.component.script.groovy
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.exoplatform.ws:exo.ws.frameworks.json
+1	#DEP#junit:junit
+1	#DEP#org.exoplatform.kernel:exo.kernel.commons

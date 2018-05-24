@@ -1,0 +1,7 @@
+1	#DEP#org.apache.poi:poi-scratchpad
+1	#DEP#com.madgag.spongycastle:prov
+1	#DEP#org.apache.poi:poi
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#junit:junit

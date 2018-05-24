@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#org.apache.lucene:lucene-test-framework
+1	#DEP#org.elasticsearch:elasticsearch

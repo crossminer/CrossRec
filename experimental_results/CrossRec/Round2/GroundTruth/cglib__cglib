@@ -1,0 +1,5 @@
+7	#DEP#cglib:cglib-sample
+8	#DEP#${project.groupId}:cglib
+9	#DEP#junit:junit
+10	#DEP#org.openjdk.jmh:jmh-core
+11	#DEP#org.ow2.asm:asm

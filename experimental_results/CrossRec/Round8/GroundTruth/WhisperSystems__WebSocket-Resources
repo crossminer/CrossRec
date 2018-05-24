@@ -1,0 +1,6 @@
+7	#DEP#org.whispersystems:dropwizard-simpleauth
+8	#DEP#io.dropwizard:dropwizard-core
+9	#DEP#org.whispersystems:websocket-resources
+10	#DEP#io.dropwizard:dropwizard-client
+11	#DEP#org.eclipse.jetty.websocket:websocket-server
+12	#DEP#com.google.protobuf:protobuf-java

@@ -1,0 +1,16 @@
+1	git://github.com/claudiomartella/dbpedia4neo.git
+2	#DEP#org.openrdf.sesame:sesame-rio-ntriples
+3	#DEP#com.tinkerpop.blueprints:blueprints-sail-graph
+4	#DEP#com.tinkerpop.blueprints:blueprints-neo4j-graph
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#org.openrdf.sesame:sesame-repository-api
+9	#DEP#org.eclipse.jetty:jetty-server
+10	#DEP#org.openrdf.sesame:sesame-repository-sail
+11	#DEP#com.tinkerpop.blueprints:blueprints-graph-sail
+12	#DEP#junit:junit
+13	#DEP#org.openrdf.sesame:sesame-queryparser-sparql
+14	#DEP#org.slf4j:slf4j-jdk14
+15	#DEP#org.eclipse.jetty:jetty-servlet
+16	#DEP#org.eclipse.jetty:jetty-websocket

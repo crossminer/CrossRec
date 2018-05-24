@@ -1,0 +1,15 @@
+1	git://github.com/allengeorge/libraft.git
+2	#DEP#org.hibernate:hibernate-validator
+3	#DEP#org.apache.tomcat:tomcat-jdbc
+4	#DEP#io.netty:netty
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#javax.el:el-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.xerial:sqlite-jdbc
+9	#DEP#org.hibernate:hibernate-validator-cdi
+10	#DEP#org.jdbi:jdbi
+11	#DEP#com.yammer.dropwizard:dropwizard-core
+12	#DEP#org.glassfish.web:el-impl
+13	#DEP#com.yammer.dropwizard:dropwizard-client
+14	#DEP#com.yammer.dropwizard:dropwizard-testing
+15	#DEP#com.h2database:h2

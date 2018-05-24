@@ -1,0 +1,12 @@
+14	#DEP#org.apache.hive:hive-exec
+15	#DEP#commons-cli:commons-cli
+16	#DEP#io.airlift:units
+17	#DEP#com.facebook.hiveio:hive-io-exp-core
+18	#DEP#org.apache.hive:hive-metastore
+19	#DEP#com.fasterxml.jackson.core:jackson-databind
+20	#DEP#org.slf4j:slf4j-log4j12
+21	#DEP#com.fasterxml.jackson.core:jackson-annotations
+22	#DEP#com.fasterxml.jackson.core:jackson-core
+23	#DEP#com.yammer.metrics:metrics-core
+24	#DEP#org.apache.hive:hive-service
+25	#DEP#log4j:log4j

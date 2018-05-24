@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-web
+1	#DEP#junit:junit-dep
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.apache.stanbol:org.apache.stanbol.commons.jsonld
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#org.springframework.hateoas:spring-hateoas-client

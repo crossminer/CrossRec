@@ -1,0 +1,13 @@
+1	git://github.com/yongjhih/drupalfit.git
+2	#DEP#com.squareup.okhttp:okhttp
+3	#DEP#com.android.support:appcompat-v7
+4	#DEP#com.fasterxml.jackson.core:jackson-databind
+5	#DEP#com.github.johnpersano:supertoasts
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.fasterxml.jackson.core:jackson-core
+8	#DEP#com.squareup.retrofit:retrofit
+9	#DEP#com.infstory:proguard-annotations
+10	#DEP#com.squareup.retrofit:converter-jackson
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection

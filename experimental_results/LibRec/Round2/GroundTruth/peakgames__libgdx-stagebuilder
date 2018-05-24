@@ -1,0 +1,8 @@
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#com.badlogicgames.gdx:gdx-platform
+1	#DEP#com.badlogic.gdx:gdx-backend-ios
+1	#DEP#com.binarytweed:quarantining-test-runner
+1	#DEP#com.badlogicgames.gdx:gdx-backend-lwjgl
+1	#DEP#com.badlogicgames.gdx:gdx-backend-android
+1	#DEP#junit:junit
+1	#DEP#net.peakgames.libgdx:stagebuilder-extensions

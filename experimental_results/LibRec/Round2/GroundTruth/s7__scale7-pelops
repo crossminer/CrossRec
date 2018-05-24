@@ -1,0 +1,13 @@
+1	#DEP#org.safehaus.jug:jug-asl
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#joda-time:joda-time
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#commons-pool:commons-pool
+1	#DEP#org.apache.cassandra:cassandra-all
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.cassandra.deps:avro
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit

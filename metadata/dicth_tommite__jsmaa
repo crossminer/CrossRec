@@ -1,0 +1,15 @@
+1	git://github.com/tommite/jsmaa.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#com.jgoodies:jgoodies-binding
+4	#DEP#org.easymock:easymock
+5	#DEP#${pom.groupId}:lib
+6	#DEP#org.drugis:common-test
+7	#DEP#com.jidesoft:jide-oss
+8	#DEP#org.drugis:common-lib
+9	#DEP#jfree:jfreechart
+10	#DEP#javolution:javolution
+11	#DEP#org.drugis:common-gui
+12	#DEP#com.jgoodies:jgoodies-forms
+13	#DEP#com.jgoodies:jgoodies-looks
+14	#DEP#${pom.groupId}:gui
+15	#DEP#junit:junit

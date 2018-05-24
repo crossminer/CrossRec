@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#org.ocpsoft.prettytime:prettytime
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.squareup.okhttp:okhttp-urlconnection
+1	#DEP#io.reactivex:rxandroid

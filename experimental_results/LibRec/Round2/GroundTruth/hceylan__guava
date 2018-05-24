@@ -1,0 +1,6 @@
+1	#DEP#com.google.guava:guava-parent
+1	#DEP#${project.groupId}:guava
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:guava-bootstrap

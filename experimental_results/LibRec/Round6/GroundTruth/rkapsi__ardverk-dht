@@ -1,0 +1,11 @@
+1	#DEP#org.ardverk:bee-encode
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.ardverk:ardverk-dht-store
+1	#DEP#org.beanshell:bsh
+1	#DEP#org.ardverk:ardverk-dht-tools
+1	#DEP#com.google.inject:guice
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.ardverk:ardverk-dht-http
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

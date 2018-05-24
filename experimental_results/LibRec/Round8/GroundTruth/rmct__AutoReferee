@@ -1,0 +1,6 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.bukkit:bukkit
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.sk89q:worldedit
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

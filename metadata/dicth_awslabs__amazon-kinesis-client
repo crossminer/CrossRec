@@ -1,0 +1,13 @@
+1	git://github.com/awslabs/amazon-kinesis-client.git
+2	#DEP#com.amazonaws:DynamoDBLocal
+3	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.mockito:mockito-all
+6	#DEP#com.amazonaws:aws-java-sdk-kinesis
+7	#DEP#com.google.protobuf:protobuf-java
+8	#DEP#commons-lang:commons-lang
+9	#DEP#com.amazonaws:aws-java-sdk-cloudwatch
+10	#DEP#org.hamcrest:hamcrest-all
+11	#DEP#com.google.guava:guava
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit

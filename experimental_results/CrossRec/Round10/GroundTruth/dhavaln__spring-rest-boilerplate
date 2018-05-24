@@ -1,0 +1,6 @@
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#javax.servlet:servlet-api
+10	#DEP#org.springframework.security:spring-security-config
+11	#DEP#junit:junit
+12	#DEP#org.aspectj:aspectjrt
+13	#DEP#cglib:cglib

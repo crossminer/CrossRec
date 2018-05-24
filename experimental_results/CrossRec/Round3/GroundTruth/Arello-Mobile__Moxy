@@ -1,0 +1,9 @@
+10	#DEP#com.arello-mobile:moxy
+11	#DEP#com.squareup.picasso:picasso
+12	#DEP#com.arello-mobile:moxy-compiler
+13	#DEP#com.squareup:otto
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#junit:junit
+16	#DEP#com.j256.ormlite:ormlite-core
+17	#DEP#io.reactivex:rxjava
+18	#DEP#io.reactivex:rxandroid

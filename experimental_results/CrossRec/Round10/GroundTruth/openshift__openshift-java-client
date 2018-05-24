@@ -1,0 +1,5 @@
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.jcraft:jsch
+9	#DEP#junit:junit
+10	#DEP#org.jboss:jboss-dmr
+11	#DEP#org.slf4j:slf4j-log4j12

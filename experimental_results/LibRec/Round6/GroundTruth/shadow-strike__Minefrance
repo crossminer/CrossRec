@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.bukkit:bukkit
+1	#DEP#junit:junit-dep
+1	#DEP#jline:jline
+1	#DEP#com.google.guava:guava
+1	#DEP#org.avaje:ebean
+1	#DEP#org.bukkit:minecraft-server

@@ -1,0 +1,8 @@
+9	#DEP#com.samskivert:depot
+10	#DEP#log4j:log4j
+11	#DEP#com.threerings:vilya
+12	#DEP#com.threerings:getdown
+13	#DEP#com.google.guava:guava
+14	#DEP#com.restfb:restfb
+15	#DEP#commons-digester:commons-digester
+16	#DEP#junit:junit

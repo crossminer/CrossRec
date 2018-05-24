@@ -1,0 +1,10 @@
+11	#DEP#commons-lang:commons-lang
+12	#DEP#org.json:org.json
+13	#DEP#com.jspbook:jspbook
+14	#DEP#log4j:log4j
+15	#DEP#xerces:xercesImpl
+16	#DEP#org.apache.tomcat:catalina
+17	#DEP#org.apache.xmlgraphics:fop
+18	#DEP#com.sun.xml.bind:jaxb-impl
+19	#DEP#org.apache.tomcat:servlet-api
+20	#DEP#junit:junit

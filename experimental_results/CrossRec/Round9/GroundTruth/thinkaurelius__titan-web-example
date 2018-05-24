@@ -1,0 +1,8 @@
+10	#DEP#com.sun.jersey:jersey-json
+11	#DEP#org.springframework:spring-web
+12	#DEP#org.apache.tinkerpop:gremlin-groovy
+13	#DEP#com.sun.jersey.contribs:jersey-spring
+14	#DEP#com.thinkaurelius.titan:titan-es
+15	#DEP#org.eclipse.jetty:jetty-server
+16	#DEP#org.eclipse.jetty:jetty-webapp
+17	#DEP#com.sun.jersey:jersey-server

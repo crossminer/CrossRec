@@ -1,0 +1,13 @@
+1	#DEP#${project.groupId}:byte-buddy-agent
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#net.bytebuddy:byte-buddy
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#${project.groupId}:byte-buddy-android
+1	#DEP#${project.groupId}:byte-buddy
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.ow2.asm:asm-util
+1	#DEP#org.eclipse.aether:aether-api

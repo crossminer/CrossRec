@@ -1,0 +1,14 @@
+1	git://github.com/seratch/junithelper.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-all
+5	#DEP#org.jmock:jmock-junit3
+6	#DEP#org.junithelper:junithelper-core
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#junit-addons:junit-addons
+10	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+11	#DEP#org.jmock:jmock
+12	#DEP#org.jmock:jmock-legacy
+13	#DEP#junit:junit
+14	#DEP#jmock:jmock-cglib

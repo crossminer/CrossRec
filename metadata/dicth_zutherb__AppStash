@@ -1,0 +1,14 @@
+1	git://github.com/zutherb/AppStash.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#org.reactivemongo:reactivemongo_2.10
+4	#DEP#com.typesafe:config
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.specs2:specs2_2.10
+7	#DEP#org.spockframework:spock-core
+8	#DEP#org.springframework.boot:spring-boot-starter
+9	#DEP#com.google.code.gson:gson
+10	#DEP#net.logstash.logback:logstash-logback-encoder
+11	#DEP#com.sparkjava:spark-core
+12	#DEP#xerces:xercesImpl
+13	#DEP#io.spray:spray-json_2.10
+14	#DEP#org.scalaz:scalaz-core_2.10

@@ -1,0 +1,7 @@
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#junit-addons:junit-addons
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#org.jmock:jmock
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit
+1	#DEP#jmock:jmock-cglib

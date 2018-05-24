@@ -1,0 +1,10 @@
+1	#DEP#org.eclipse.xtend:xtend-maven-plugin
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.ow2.asm:asm-tree
+1	#DEP#org.jnario:org.jnario.standalone
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jnario:org.jnario.lib
+1	#DEP#log4j:log4j
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit
+1	#DEP#com.google.inject:guice
+1	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.javax-inject
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.ops4j.pax.exam:pax-exam
+1	#DEP#org.apache.felix:org.apache.felix.configadmin
+1	#DEP#org.ops4j:peaberry
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core

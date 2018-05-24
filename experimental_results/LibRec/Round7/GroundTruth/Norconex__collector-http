@@ -1,0 +1,8 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.apache.xmlbeans:xmlbeans
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#edu.ucar:jj2000
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty:jetty-proxy

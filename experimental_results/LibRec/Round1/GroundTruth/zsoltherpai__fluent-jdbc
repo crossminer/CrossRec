@@ -1,0 +1,8 @@
+1	#DEP#org.codejargon:fluentjdbc
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.inject.extensions:guice-persist
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec
+1	#DEP#com.h2database:h2

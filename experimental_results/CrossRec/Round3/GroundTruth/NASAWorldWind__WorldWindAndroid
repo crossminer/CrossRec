@@ -1,0 +1,4 @@
+6	#DEP#org.mockito:mockito-core
+7	#DEP#com.android.support.test:rules
+8	#DEP#junit:junit
+9	#DEP#com.android.support.test:runner

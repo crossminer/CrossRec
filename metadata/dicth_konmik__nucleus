@@ -1,0 +1,13 @@
+1	git://github.com/konmik/nucleus.git
+2	#DEP#com.squareup.dagger:dagger
+3	#DEP#frankiesardo:icepick-processor
+4	#DEP#frankiesardo:icepick
+5	#DEP#javax.annotation:javax.annotation-api
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.squareup.dagger:dagger-compiler
+9	#DEP#com.squareup.retrofit:retrofit
+10	#DEP#net.orfjackal.retrolambda:retrolambda
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

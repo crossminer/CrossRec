@@ -1,0 +1,17 @@
+1	git://github.com/blad/solid-android.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.jayway.android.robotium:robotium-solo
+4	#DEP#com.squareup.dagger:dagger
+5	#DEP#io.replay:replay-android
+6	#DEP#com.google.dexmaker:dexmaker
+7	#DEP#com.squareup.okhttp:okhttp
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.google.dexmaker:dexmaker-mockito
+12	#DEP#com.squareup.dagger:dagger-compiler
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#org.mockito:mockito-core
+15	#DEP#com.squareup:otto
+16	#DEP#com.android.support:support-v4
+17	#DEP#com.squareup.okhttp:okhttp-urlconnection

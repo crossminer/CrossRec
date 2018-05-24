@@ -1,0 +1,8 @@
+10	#DEP#javax:javaee-api
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations
+12	#DEP#org.springframework:spring-web
+13	#DEP#org.springframework.data:spring-data-jpa
+14	#DEP#org.reflections:reflections
+15	#DEP#io.github.livingdocumentation:dot-diagram
+16	#DEP#org.apache.httpcomponents:httpcore
+17	#DEP#junit:junit

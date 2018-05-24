@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#org.apache.mrunit:mrunit
+1	#DEP#org.apache.hbase:hbase-client
+1	#DEP#org.javatuples:javatuples
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

@@ -1,0 +1,17 @@
+19	#DEP#hsqldb:hsqldb
+20	#DEP#taglibs:standard
+21	#DEP#commons-jxpath:commons-jxpath
+22	#DEP#org.slf4j:slf4j-log4j12
+23	#DEP#com.hoodcomputing:natpmp
+24	#DEP#radeox:radeox
+25	#DEP#taglibs:string
+26	#DEP#log4j:log4j
+27	#DEP#org:jaudiotagger
+28	#DEP#ant-zip:ant-zip
+29	#DEP#jdom:jdom
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#commons-fileupload:commons-fileupload
+32	#DEP#javax.servlet:jstl
+33	#DEP#com.db4o:db4o-all
+34	#DEP#junit:junit
+35	#DEP#cglib:cglib

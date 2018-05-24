@@ -1,0 +1,11 @@
+13	#DEP#com.squareup.retrofit2:converter-gson
+14	#DEP#com.jakewharton:butterknife
+15	#DEP#com.afollestad.material-dialogs:commons
+16	#DEP#de.psdev.licensesdialog:licensesdialog
+17	#DEP#com.github.kabouzeid:AndroidSlidingUpPanel
+18	#DEP#me.zhanghai.android.materialprogressbar:library
+19	#DEP#com.github.bumptech.glide:glide
+20	#DEP#com.afollestad:material-cab
+21	#DEP#com.github.h6ah4i:android-advancedrecyclerview
+22	#DEP#com.squareup.retrofit2:retrofit
+23	#DEP#junit:junit

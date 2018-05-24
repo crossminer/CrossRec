@@ -1,0 +1,9 @@
+11	#DEP#commons-io:commons-io
+12	#DEP#axis:axis
+13	#DEP#${project.groupId}:gss
+14	#DEP#org.apache.httpcomponents:httpclient
+15	#DEP#${project.groupId}:gridftp
+16	#DEP#org.bouncycastle:bcprov-jdk15on
+17	#DEP#${project.groupId}:test-utils
+18	#DEP#log4j:log4j
+19	#DEP#javax.servlet:servlet-api

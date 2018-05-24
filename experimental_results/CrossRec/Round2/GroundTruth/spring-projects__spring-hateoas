@@ -1,0 +1,12 @@
+14	#DEP#org.springframework:spring-beans
+15	#DEP#com.fasterxml.jackson.core:jackson-databind
+16	#DEP#joda-time:joda-time
+17	#DEP#org.springframework:spring-core
+18	#DEP#com.fasterxml.jackson.core:jackson-annotations
+19	#DEP#org.springframework:spring-web
+20	#DEP#org.slf4j:jcl-over-slf4j
+21	#DEP#org.mockito:mockito-core
+22	#DEP#javax.servlet:javax.servlet-api
+23	#DEP#ch.qos.logback:logback-classic
+24	#DEP#org.atteo:evo-inflector
+25	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	#DEP#org.pac4j:pac4j-oauth
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet.jsp:javax.servlet.jsp-api
+1	#DEP#org.pac4j:pac4j-sql
+1	#DEP#org.pac4j:pac4j-kerberos
+1	#DEP#org.pac4j:pac4j-saml
+1	#DEP#org.pac4j:pac4j-mongo

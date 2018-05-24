@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-web
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.nimbusds:nimbus-jose-jwt
+1	#DEP#com.microsoft.windowsazure.activedirectory.sdk.graph:WindowsAzure-ActiveDirectory-SDK-Graph
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#com.microsoft.azure:adal4j
+1	#DEP#com.google.guava:guava
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#org.json:json
+1	#DEP#org.powermock:powermock-module-testng

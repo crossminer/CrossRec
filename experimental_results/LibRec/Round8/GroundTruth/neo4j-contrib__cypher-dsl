@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#com.querydsl:querydsl-core
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#cglib:cglib
+1	#DEP#org.neo4j:neo4j-io

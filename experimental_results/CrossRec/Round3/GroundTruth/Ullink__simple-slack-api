@@ -1,0 +1,6 @@
+8	#DEP#javax.websocket:javax.websocket-api
+9	#DEP#com.google.code.gson:gson
+10	#DEP#org.jmockit:jmockit
+11	#DEP#org.apache.httpcomponents:httpmime
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit

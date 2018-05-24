@@ -1,0 +1,12 @@
+14	#DEP#org.apache.httpcomponents:httpclient
+15	#DEP#org.hamcrest:hamcrest-library
+16	#DEP#org.apache.commons:commons-lang3
+17	#DEP#com.fasterxml.jackson.core:jackson-databind
+18	#DEP#joda-time:joda-time
+19	#DEP#com.fasterxml.jackson.core:jackson-core
+20	#DEP#org.jacoco:org.jacoco.agent
+21	#DEP#com.google.inject:guice
+22	#DEP#org.mockito:mockito-core
+23	#DEP#ch.qos.logback:logback-classic
+24	#DEP#org.apache.httpcomponents:httpmime
+25	#DEP#junit:junit

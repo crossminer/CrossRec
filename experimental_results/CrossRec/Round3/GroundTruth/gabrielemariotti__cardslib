@@ -1,0 +1,10 @@
+12	#DEP#com.etsy.android.grid:library
+13	#DEP#com.android.support:cardview-v7
+14	#DEP#com.squareup.picasso:picasso
+15	#DEP#org.lucasr.twowayview:layouts
+16	#DEP#:extra
+17	#DEP#com.nhaarman.listviewanimations:lib-core
+18	#DEP#com.android.support:support-v4
+19	#DEP#com.nhaarman.listviewanimations:lib-manipulation
+20	#DEP#se.emilsjolander:stickylistheaders
+21	#DEP#com.squareup.okhttp:okhttp-urlconnection

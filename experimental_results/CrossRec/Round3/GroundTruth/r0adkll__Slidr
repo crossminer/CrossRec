@@ -1,0 +1,5 @@
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife

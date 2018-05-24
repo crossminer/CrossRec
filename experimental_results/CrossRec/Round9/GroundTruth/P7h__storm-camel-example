@@ -1,0 +1,9 @@
+10	#DEP#org.apache.activemq:activemq-camel
+11	#DEP#org.springframework:spring-core
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#org.p7h:feeder
+14	#DEP#org.springframework:spring-jms
+15	#DEP#log4j:log4j
+16	#DEP#org.apache.xbean:xbean-spring
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#org.apache.camel:camel-spring

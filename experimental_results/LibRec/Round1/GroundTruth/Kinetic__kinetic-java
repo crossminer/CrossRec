@@ -1,0 +1,13 @@
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#${project.groupId}:kinetic-common
+1	#DEP#com.jcraft:jsch
+1	#DEP#${project.groupId}:kinetic-test
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.google.code.gson:gson
+1	#DEP#${project.groupId}:kinetic-simulator
+1	#DEP#io.netty:netty-transport-udt
+1	#DEP#com.sleepycat:je
+1	#DEP#com.seagate.kinetic:kinetic-simulator
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#com.leacox.process:process-warden
+1	#DEP#com.seagate.kinetic:kinetic-client

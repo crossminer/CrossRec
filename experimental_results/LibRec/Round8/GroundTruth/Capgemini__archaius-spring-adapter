@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.camel:camel-spring
+1	#DEP#junit:junit
+1	#DEP#com.netflix.archaius:archaius-core

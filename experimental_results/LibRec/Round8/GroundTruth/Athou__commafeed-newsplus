@@ -1,0 +1,5 @@
+1	#DEP#com.noinnion.android.reader.api:reader-api-r1
+1	#DEP#com.google.android:android
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.springframework.android:spring-android-rest-template
+1	#DEP#org.springframework.android:spring-android-core

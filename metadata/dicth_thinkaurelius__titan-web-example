@@ -1,0 +1,17 @@
+1	git://github.com/thinkaurelius/titan-web-example.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.codehaus.gmaven:gmaven-plugin
+4	#DEP#org.springframework:spring-aop
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.thinkaurelius.titan:titan-cassandra
+7	#DEP#org.springframework:spring-core
+8	#DEP#org.jboss.resteasy:jaxrs-api
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.sun.jersey:jersey-json
+11	#DEP#org.springframework:spring-web
+12	#DEP#org.apache.tinkerpop:gremlin-groovy
+13	#DEP#com.sun.jersey.contribs:jersey-spring
+14	#DEP#com.thinkaurelius.titan:titan-es
+15	#DEP#org.eclipse.jetty:jetty-server
+16	#DEP#org.eclipse.jetty:jetty-webapp
+17	#DEP#com.sun.jersey:jersey-server

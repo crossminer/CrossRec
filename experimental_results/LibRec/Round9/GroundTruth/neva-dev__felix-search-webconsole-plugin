@@ -1,0 +1,6 @@
+1	#DEP#org.bitbucket.mstrobel:procyon-core
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.felix:org.apache.felix.webconsole
+1	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#junit:junit
+1	#DEP#org.apache.cxf:cxf-rt-transports-http
+1	#DEP#org.apache.logging.log4j:log4j-api

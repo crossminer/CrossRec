@@ -1,0 +1,6 @@
+7	#DEP#org.openmrs.module:webservices.rest19ext-omod
+8	#DEP#org.openmrs.module:webservices.rest-api
+9	#DEP#org.openmrs.module:webservices.rest19ext-api
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.openmrs.web:openmrs-web
+12	#DEP#org.openmrs.tools:openmrs-tools

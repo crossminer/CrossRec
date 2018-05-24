@@ -1,0 +1,11 @@
+12	#DEP#javax.inject:javax.inject
+13	#DEP#org.xwiki.commons:xwiki-commons-script
+14	#DEP#org.hamcrest:hamcrest-library
+15	#DEP#org.junit.platform:junit-platform-launcher
+16	#DEP#org.apache.commons:commons-lang3
+17	#DEP#commons-beanutils:commons-beanutils
+18	#DEP#com.google.inject:guice
+19	#DEP#org.slf4j:jcl-over-slf4j
+20	#DEP#ch.qos.logback:logback-classic
+21	#DEP#org.xwiki.commons:xwiki-commons-configuration-api
+22	#DEP#junit:junit

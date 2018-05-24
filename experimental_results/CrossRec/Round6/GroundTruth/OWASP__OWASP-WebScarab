@@ -1,0 +1,12 @@
+13	#DEP#org.beanshell:bsh
+14	#DEP#amf:flex-messaging-core
+15	#DEP#org.apache.santuario:xmlsec
+16	#DEP#joda-time:joda-time
+17	#DEP#commons-codec:commons-codec
+18	#DEP#org.openid4java:openid4java-nodeps
+19	#DEP#log4j:log4j
+20	#DEP#jfree:jfreechart
+21	#DEP#chardet:chardet
+22	#DEP#xerces:xercesImpl
+23	#DEP#org.bouncycastle:bcpkix-jdk15on
+24	#DEP#junit:junit

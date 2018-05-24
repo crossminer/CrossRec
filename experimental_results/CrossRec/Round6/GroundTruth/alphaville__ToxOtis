@@ -1,0 +1,10 @@
+12	#DEP#javassist:javassist
+13	#DEP#hsqldb:hsqldb
+14	#DEP#org.slf4j:slf4j-log4j12
+15	#DEP#c3p0:c3p0
+16	#DEP#commons-pool:commons-pool
+17	#DEP#org.dbunit:dbunit
+18	#DEP#log4j:log4j
+19	#DEP#org.json:json
+20	#DEP#jfreechart:jfreechart
+21	#DEP#junit:junit

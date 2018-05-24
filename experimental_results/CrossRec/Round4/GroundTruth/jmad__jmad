@@ -1,0 +1,11 @@
+13	#DEP#bsh:bsh
+14	#DEP#org.easymock:easymock
+15	#DEP#cern.accmodel.jmad.models:accmodel-jmad-models-lsa
+16	#DEP#net.sourceforge.py4j:py4j
+17	#DEP#cern.accmodel.jmad.models:accmodel-jmad-models-medaustron
+18	#DEP#org.springframework:spring
+19	#DEP#log4j:log4j
+20	#DEP#cern:jdataviewer
+21	#DEP#cern.accmodel.commons:accmodel-commons-util
+22	#DEP#org.apache.ant:ant-compress
+23	#DEP#cglib:cglib

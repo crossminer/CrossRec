@@ -1,0 +1,11 @@
+1	git://github.com/CUTR-at-USF/SiriRestClient.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#edu.usf.cutr.android.xml:aalto-xml-android
+4	#DEP#edu.usf.cutr.siri:onebusaway-siri-api-v13-pojos
+5	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+6	#DEP#com.google.android:android
+7	#DEP#edu.usf.cutr.android.xml:jackson-dataformat-xml-android
+8	#DEP#edu.usf.cutr.android.xml:stax-api-android
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#edu.usf.cutr.android.xml:stax2-api-android
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations

@@ -1,0 +1,9 @@
+1	git://github.com/timmolter/XChange.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#commons-io:commons-io
+4	#DEP#${project.groupId}:xchange-core
+5	#DEP#org.powermock:powermock-api-mockito
+6	#DEP#org.quickfixj:quickfixj-core
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.knowm.xchange:xchange-core
+9	#DEP#org.quickfixj:quickfixj-messages-fix44

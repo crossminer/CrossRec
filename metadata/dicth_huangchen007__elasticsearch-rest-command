@@ -1,0 +1,13 @@
+1	git://github.com/huangchen007/elasticsearch-rest-command.git
+2	#DEP#org.apache.lucene:lucene-core
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-csv
+5	#DEP#org.apache.spark:spark-core_2.10
+6	#DEP#org.elasticsearch:elasticsearch-spark_2.10
+7	#DEP#org.elasticsearch:elasticsearch
+8	#DEP#org.apache.spark:spark-streaming-kafka_2.10
+9	#DEP#org.apache.hadoop:hadoop-client
+10	#DEP#org.apache.spark:spark-streaming_2.10
+11	#DEP#com.google.guava:guava
+12	#DEP#junit:junit
+13	#DEP#org.apache.spark:spark-sql_2.10

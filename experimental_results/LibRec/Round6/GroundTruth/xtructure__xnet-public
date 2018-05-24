@@ -1,0 +1,10 @@
+1	#DEP#com.xtructure.xnet.xsim:xsim
+1	#DEP#com.xtructure.xnet.xneat:xneat
+1	#DEP#sun.jdk:tools
+1	#DEP#com.xtructure.xnet.xart:xart
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#commons-compress:commons-compress
+1	#DEP#com.xtructure.xnet.xutil:xutil
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.xtructure.xnet.xbatch:xbatch

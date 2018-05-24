@@ -1,0 +1,8 @@
+1	#DEP#org.apache.hive:hive-jdbc
+1	#DEP#org.apache.hive.hcatalog:hive-webhcat-java-client
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.apache.tez:tez-common
+1	#DEP#org.apache.tez:tez-mapreduce
+1	#DEP#org.apache.hive:hive-contrib
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

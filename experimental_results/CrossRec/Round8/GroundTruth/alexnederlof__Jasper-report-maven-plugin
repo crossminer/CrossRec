@@ -1,0 +1,5 @@
+7	#DEP#junit:junit
+8	#DEP#net.sf.jasperreports:jasperreports
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+11	#DEP#commons-lang:commons-lang

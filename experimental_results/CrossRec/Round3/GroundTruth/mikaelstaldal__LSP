@@ -1,0 +1,7 @@
+9	#DEP#nu.staldal.lsp:lsp-servlet
+10	#DEP#struts:struts
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#junit:junit
+14	#DEP#nu.staldal.lsp:lsp-compiler
+15	#DEP#org.apache.bcel:bcel

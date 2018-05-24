@@ -1,0 +1,6 @@
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#org.reactivestreams:reactive-streams
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#io.reactivex:rxjava

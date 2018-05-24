@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#com.danga:memcached
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#opensymphony:oscache
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

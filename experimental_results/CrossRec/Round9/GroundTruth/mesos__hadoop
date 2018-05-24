@@ -1,0 +1,5 @@
+7	#DEP#commons-httpclient:commons-httpclient
+8	#DEP#junit:junit
+9	#DEP#io.dropwizard.metrics:metrics-graphite
+10	#DEP#org.apache.mesos:mesos
+11	#DEP#com.google.protobuf:protobuf-java

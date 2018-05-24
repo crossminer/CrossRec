@@ -1,0 +1,8 @@
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife
+12	#DEP#com.squareup.retrofit2:converter-gson
+13	#DEP#com.android.support:preference-v7
+14	#DEP#com.android.support:cardview-v7
+15	#DEP#com.squareup.picasso:picasso
+16	#DEP#com.squareup.retrofit2:retrofit
+17	#DEP#junit:junit

@@ -1,0 +1,12 @@
+1	git://github.com/Yubico/yubico-java-client.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.geronimo.specs:geronimo-servlet_3.0_spec
+4	#DEP#com.yubico:yubico-validation-client2
+5	#DEP#${project.groupId}:yubico-validation-client2
+6	#DEP#com.yubico:yubico-validation-client
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#edu.vt.middleware:vt-ldap
+9	#DEP#org.apache.geronimo.specs:geronimo-jacc_1.4_spec
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit
+12	#DEP#io.dropwizard:dropwizard-core

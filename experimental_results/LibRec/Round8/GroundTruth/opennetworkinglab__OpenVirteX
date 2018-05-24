@@ -1,0 +1,12 @@
+1	#DEP#org.jacoco:org.jacoco.agent
+1	#DEP#com.thetransactioncompany:jsonrpc2-base
+1	#DEP#args4j:args4j
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.eclipse.jetty:jetty-http
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.jboss.netty:netty
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api

@@ -1,0 +1,5 @@
+1	#DEP#org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design
+1	#DEP#com.cocosw:bottomsheet

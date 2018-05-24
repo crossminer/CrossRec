@@ -1,0 +1,17 @@
+1	git://github.com/kwhitmore/GitTesting.git
+2	#DEP#org.apache.maven.shared:maven-verifier
+3	#DEP#org.tmatesoft.svnkit:svnkit
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#org.liquibase:liquibase-core
+6	#DEP#org.springframework:spring
+7	#DEP#org.liquibase.samples:liquibase-ext-changewithnestedtags
+8	#DEP#ant:ant
+9	#DEP#hsqldb:hsqldb
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#org.easymock:easymockclassextension
+12	#DEP#org.liquibase.samples:liquibase-ext-sqlgenerator
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#org.liquibase.samples:liquibase-ext-change
+15	#DEP#org.apache.derby:derby
+16	#DEP#junit:junit
+17	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

@@ -1,0 +1,6 @@
+1	#DEP#org.ini4j:ini4j
+1	#DEP#org.mockito:mockito-core
+1	#DEP#args4j:args4j
+1	#DEP#com.madgag.spongycastle:prov
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

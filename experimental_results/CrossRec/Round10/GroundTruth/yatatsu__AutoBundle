@@ -1,0 +1,5 @@
+6	#DEP#com.google.testing.compile:compile-testing
+7	#DEP#com.squareup:javapoet
+8	#DEP#junit:junit
+9	#DEP#org.parceler:parceler-api
+10	#DEP#com.google.dagger:dagger

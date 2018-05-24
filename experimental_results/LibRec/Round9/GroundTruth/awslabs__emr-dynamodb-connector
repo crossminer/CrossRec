@@ -1,0 +1,12 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.amazon.emr:hive1.2-shims
+1	#DEP#com.amazon.emr:emr-dynamodb-hadoop
+1	#DEP#org.apache.hive:hive-service
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.amazon.emr:hive1-shims
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#com.amazon.emr:shims-common
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs
+1	#DEP#com.amazon.emr:shims-loader

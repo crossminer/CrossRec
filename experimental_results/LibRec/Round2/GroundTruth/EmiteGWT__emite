@@ -1,0 +1,7 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guiceberry:guiceberry
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#com.google.gwt.inject:gin
+1	#DEP#junit:junit

@@ -1,0 +1,11 @@
+1	git://github.com/aerospike/aerospike-client-java.git
+2	#DEP#io.netty:netty-transport
+3	#DEP#io.netty:netty-handler
+4	#DEP#commons-cli:commons-cli
+5	#DEP#com.aerospike:aerospike-client
+6	#DEP#org.gnu:gnu-crypto
+7	#DEP#io.netty:netty-transport-native-epoll
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#junit:junit
+10	#DEP#org.luaj:luaj-jse
+11	#DEP#org.mindrot:jbcrypt

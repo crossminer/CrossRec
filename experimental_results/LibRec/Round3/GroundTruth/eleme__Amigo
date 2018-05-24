@@ -1,0 +1,5 @@
+1	#DEP#com.linkedin.dexmaker:dexmaker-mockito
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.android.tools.build:gradle
+1	#DEP#com.android.support.test.espresso:espresso-core

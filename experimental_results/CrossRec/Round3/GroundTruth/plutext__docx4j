@@ -1,0 +1,12 @@
+13	#DEP#org.slf4j:slf4j-log4j12
+14	#DEP#net.engio:mbassador
+15	#DEP#commons-codec:commons-codec
+16	#DEP#com.fasterxml.jackson.core:jackson-core
+17	#DEP#org.apache.avalon.framework:avalon-framework-api
+18	#DEP#org.slf4j:jcl-over-slf4j
+19	#DEP#log4j:log4j
+20	#DEP#com.google.guava:guava
+21	#DEP#org.antlr:antlr-runtime
+22	#DEP#org.apache.xmlgraphics:xmlgraphics-commons
+23	#DEP#junit:junit
+24	#DEP#com.thedeanda:lorem

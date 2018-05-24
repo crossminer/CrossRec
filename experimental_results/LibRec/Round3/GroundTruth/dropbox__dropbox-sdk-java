@@ -1,0 +1,6 @@
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.squareup.okhttp:okhttp
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:design

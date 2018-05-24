@@ -1,0 +1,6 @@
+8	#DEP#javax.ws.rs:jsr311-api
+9	#DEP#com.hadoop.gplcompression:hadoop-lzo
+10	#DEP#log4j:log4j
+11	#DEP#org.apache.avro:avro
+12	#DEP#org.apache.avro:avro-mapred
+13	#DEP#junit:junit

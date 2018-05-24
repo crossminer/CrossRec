@@ -1,0 +1,7 @@
+8	#DEP#com.koushikdutta.async:androidasync
+9	#DEP#org.mockito:mockito-core
+10	#DEP#log4j:log4j
+11	#DEP#org.nanohttpd:nanohttpd
+12	#DEP#com.eclipsesource.minimal-json:minimal-json
+13	#DEP#junit:junit
+14	#DEP#de.mindpipe.android:android-logging-log4j

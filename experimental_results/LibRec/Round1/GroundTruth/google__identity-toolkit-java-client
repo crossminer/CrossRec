@@ -1,0 +1,6 @@
+1	#DEP#org.json:json
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.google.code.gson:gson
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#com.googlecode.jsontoken:jsontoken

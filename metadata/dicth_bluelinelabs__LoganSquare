@@ -1,0 +1,13 @@
+1	git://github.com/bluelinelabs/LoganSquare.git
+2	#DEP#com.squareup.moshi:moshi
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#com.bluelinelabs:logansquare-compiler
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#com.bluelinelabs:logansquare
+12	#DEP#com.google.testing.compile:compile-testing
+13	#DEP#junit:junit

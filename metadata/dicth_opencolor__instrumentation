@@ -1,0 +1,15 @@
+1	git://github.com/opencolor/instrumentation.git
+2	#DEP#org.easymock:easymock
+3	#DEP#org.netbeans.api:org-openide-windows
+4	#DEP#my.opencolor.spectro.xrite:spectro.xr8xxx
+5	#DEP#net.java.dev.jna:jna
+6	#DEP#my.opencolor.spectro:spectro.spi
+7	#DEP#org.netbeans.api:org-openide-modules
+8	#DEP#org.osgi:osgi_R4_core
+9	#DEP#my.opencolor.spectro.hunter:spectro.hunter.common
+10	#DEP#org.jmock:jmock
+11	#DEP#javax.comm:comm
+12	#DEP#my.opencolor.spectro.datacolor:spectro.dci-common
+13	#DEP#org.netbeans.api:org-openide-compat
+14	#DEP#org.osgi:osgi_R4_compendium
+15	#DEP#junit:junit

@@ -1,0 +1,10 @@
+1	git://github.com/harshalbenake/hbworkspace1-100.git
+2	#DEP#${project.groupId}:library
+3	#DEP#com.google.android:support-v4
+4	#DEP#${project.groupId}:universal-image-loader
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.google.android:android
+7	#DEP#${project.groupId}:extra-viewpager
+8	#DEP#com.squareup:fest-android
+9	#DEP#junit:junit
+10	#DEP#${project.groupId}:extra-listfragment

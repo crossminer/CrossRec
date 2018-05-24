@@ -1,0 +1,8 @@
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.reactivex:rxjava

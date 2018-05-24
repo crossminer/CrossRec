@@ -1,0 +1,17 @@
+1	#DEP#javax.websocket:javax.websocket-api
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.glassfish.jersey.inject:jersey-hk2
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.glassfish.jersey.ext:jersey-mvc
+1	#DEP#org.amebastack:ameba-utils
+1	#DEP#com.alibaba:druid
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.glassfish.jersey.media:jersey-media-sse
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-guava
+1	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+1	#DEP#org.glassfish.jersey.ext:jersey-bean-validation
+1	#DEP#junit:junit
+1	#DEP#org.avaje:avaje-agentloader
+1	#DEP#co.paralleluniverse:quasar-core

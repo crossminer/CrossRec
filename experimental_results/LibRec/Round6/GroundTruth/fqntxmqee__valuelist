@@ -1,0 +1,7 @@
+1	#DEP#struts:struts
+1	#DEP#org.apache.tomcat:annotations-api
+1	#DEP#org.apache.tomcat:jsp-api
+1	#DEP#javax.portlet:portlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.apache.tomcat:servlet-api
+1	#DEP#org.apache.tomcat:jasper-el

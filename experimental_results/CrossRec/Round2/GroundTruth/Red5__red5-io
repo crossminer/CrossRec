@@ -1,0 +1,10 @@
+12	#DEP#org.springframework:spring-web
+13	#DEP#org.apache.mina:mina-integration-beans
+14	#DEP#org.slf4j:jcl-over-slf4j
+15	#DEP#ch.qos.logback:logback-core
+16	#DEP#org.apache.tika:tika-parsers
+17	#DEP#ch.qos.logback:logback-classic
+18	#DEP#org.apache.mina:mina-core
+19	#DEP#org.mp4parser:isoparser
+20	#DEP#junit:junit
+21	#DEP#org.red5:red5-parent

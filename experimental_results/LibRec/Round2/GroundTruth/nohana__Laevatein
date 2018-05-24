@@ -1,0 +1,6 @@
+1	#DEP#jp.co.nohana:Amalgam
+1	#DEP#jp.mixi:AndroidDeviceCompatibility
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#it.sephiroth.android.library.imagezoom:library

@@ -1,0 +1,7 @@
+1	#DEP#my.opencolor.spectro.hunter:spectro.hunter.common
+1	#DEP#org.jmock:jmock
+1	#DEP#javax.comm:comm
+1	#DEP#my.opencolor.spectro.datacolor:spectro.dci-common
+1	#DEP#org.netbeans.api:org-openide-compat
+1	#DEP#org.osgi:osgi_R4_compendium
+1	#DEP#junit:junit

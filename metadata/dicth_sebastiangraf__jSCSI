@@ -1,0 +1,16 @@
+1	git://github.com/sebastiangraf/jSCSI.git
+2	#DEP#org.jscsi:commons
+3	#DEP#org.jscsi:initiator
+4	#DEP#org.testng:testng
+5	#DEP#org.apache.jclouds.api:filesystem
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.jscsi:target
+8	#DEP#ch.qos.logback:logback-core
+9	#DEP#org.mockito:mockito-core
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.perfidix:perfidix
+12	#DEP#com.google.guava:guava
+13	#DEP#org.apache.jclouds:jclouds-blobstore
+14	#DEP#org.apache.jclouds.provider:aws-s3
+15	#DEP#org.aspectj:aspectjrt
+16	#DEP#org.osgi:org.osgi.core

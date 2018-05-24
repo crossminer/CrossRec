@@ -1,0 +1,15 @@
+1	#DEP#org.apache.commons:commons-math
+1	#DEP#${project.groupId}:pellet-owlapi
+1	#DEP#edu.stanford.protege:org.protege.editor.core.application
+1	#DEP#edu.stanford.protege:org.protege.common
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.jena:jena-core
+1	#DEP#${project.groupId}:pellet-pellint
+1	#DEP#edu.stanford.protege:org.protege.editor.owl
+1	#DEP#org.jgrapht:jgrapht-jdk1.5
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#xerces:xercesImpl
+1	#DEP#${project.groupId}:pellet-core
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:pellet-test

@@ -1,0 +1,11 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.mesosphere.mesos.rx.java:mesos-rxjava-util
+1	#DEP#io.netty:netty-handler
+1	#DEP#io.netty:netty-buffer
+1	#DEP#com.mesosphere.mesos.rx.java:mesos-rxjava-protobuf-client
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.mesosphere.mesos.rx.java.example:mesos-rxjava-example
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#org.apache.mesos:mesos

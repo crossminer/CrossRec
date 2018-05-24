@@ -1,0 +1,4 @@
+1	#DEP#org.quickfixj:quickfixj-core
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.knowm.xchange:xchange-core
+1	#DEP#org.quickfixj:quickfixj-messages-fix44

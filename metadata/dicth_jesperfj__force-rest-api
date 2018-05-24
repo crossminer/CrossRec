@@ -1,0 +1,10 @@
+1	git://github.com/jesperfj/force-rest-api.git
+2	#DEP#net.sourceforge.htmlunit:htmlunit
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+8	#DEP#junit:junit
+9	#DEP#joda-time:joda-time
+10	#DEP#org.eclipse.jetty:jetty-servlet

@@ -1,0 +1,8 @@
+1	#DEP#geronimo-spec:geronimo-spec-jms
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#geronimo-spec:geronimo-spec-ejb
+1	#DEP#commons-pool:commons-pool
+1	#DEP#org.jcoderz.fawkez:fawkez-codegen
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.jcoderz.fawkez:fawkez-commons
+1	#DEP#junit:junit

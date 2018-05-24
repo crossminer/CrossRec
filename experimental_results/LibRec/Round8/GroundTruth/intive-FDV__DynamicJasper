@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.hibernate:hibernate
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#junit:junit
+1	#DEP#opensymphony:xwork
+1	#DEP#net.sourceforge.jexcelapi:jxl

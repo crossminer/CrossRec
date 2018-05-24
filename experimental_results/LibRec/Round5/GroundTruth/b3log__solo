@@ -1,0 +1,8 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.b3log:latke-repository-h2
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#org.jodd:jodd-http
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#com.vladsch.flexmark:flexmark-all
+1	#DEP#org.b3log:latke

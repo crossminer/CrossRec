@@ -1,0 +1,13 @@
+1	git://github.com/veraPDF/veraPDF-library.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.verapdf:pdf-model
+5	#DEP#org.xmlunit:xmlunit-core
+6	#DEP#org.verapdf:verapdf-xmp-core
+7	#DEP#org.verapdf:verapdf-library
+8	#DEP#org.codehaus.sonar-plugins.java:sonar-jacoco-listeners
+9	#DEP#org.mozilla:rhino
+10	#DEP#net.java.dev.stax-utils:stax-utils
+11	#DEP#nl.jqno.equalsverifier:equalsverifier
+12	#DEP#junit:junit
+13	#DEP#org.verapdf:verapdf-parent

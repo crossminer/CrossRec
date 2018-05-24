@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#junit:junit

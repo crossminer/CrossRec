@@ -1,0 +1,10 @@
+12	#DEP#de.javagl:swing-tasks
+13	#DEP#javax.vecmath:vecmath
+14	#DEP#de.javagl:jgltf-impl-v2
+15	#DEP#de.javagl:jgltf-impl-v1
+16	#DEP#de.javagl:jgltf-viewer-jogl
+17	#DEP#junit:junit
+18	#DEP#org.jogamp.jogl:jogl-all-main
+19	#DEP#de.javagl:obj
+20	#DEP#de.javagl:jgltf-parent
+21	#DEP#de.javagl:jgltf-obj

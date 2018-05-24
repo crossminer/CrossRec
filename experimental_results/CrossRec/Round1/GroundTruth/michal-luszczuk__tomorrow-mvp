@@ -1,0 +1,5 @@
+7	#DEP#junit:junit
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#io.reactivex:rxjava
+11	#DEP#io.reactivex:rxandroid

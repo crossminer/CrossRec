@@ -1,0 +1,7 @@
+1	#DEP#com.auth0:java-jwt
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.client
+1	#DEP#io.swagger:swagger-annotations
+1	#DEP#junit:junit
+1	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

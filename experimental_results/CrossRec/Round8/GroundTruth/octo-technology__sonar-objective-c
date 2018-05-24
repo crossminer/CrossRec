@@ -1,0 +1,8 @@
+9	#DEP#org.easytesting:fest-assert
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.codehaus.sonar:sonar-plugin-api
+12	#DEP#org.codehaus.sonar.sslr:sslr-toolkit
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#org.codehaus.sonar.plugins:sonar-surefire-plugin
+15	#DEP#org.codehaus.sonar.sslr:sslr-testing-harness
+16	#DEP#junit:junit

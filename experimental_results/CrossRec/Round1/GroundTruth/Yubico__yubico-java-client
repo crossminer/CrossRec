@@ -1,0 +1,6 @@
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#edu.vt.middleware:vt-ldap
+9	#DEP#org.apache.geronimo.specs:geronimo-jacc_1.4_spec
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit
+12	#DEP#io.dropwizard:dropwizard-core

@@ -1,0 +1,7 @@
+1	git://github.com/GeoscienceAustralia/ga-worldwind-suite.git
+2	#DEP#com.google.android:android
+3	#DEP#com.github.rtyley:com.github.rtyley
+4	#DEP#com.google.android:support-v4
+5	#DEP#com.google.android:com.google.android
+6	#DEP#com.nineoldandroids:com.nineoldandroids
+7	#DEP#junit:junit

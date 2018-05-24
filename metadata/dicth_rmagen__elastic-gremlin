@@ -1,0 +1,10 @@
+1	git://github.com/rmagen/elastic-gremlin.git
+2	#DEP#org.apache.tinkerpop:gremlin-groovy
+3	#DEP#org.apache.tinkerpop:gremlin-test
+4	#DEP#com.vividsolutions:jts
+5	#DEP#org.apache.tinkerpop:gremlin-core
+6	#DEP#org.json:json
+7	#DEP#com.spatial4j:spatial4j
+8	#DEP#org.apache.tinkerpop:gremlin-groovy-test
+9	#DEP#com.github.stephenc.eaio-uuid:uuid
+10	#DEP#org.elasticsearch:elasticsearch

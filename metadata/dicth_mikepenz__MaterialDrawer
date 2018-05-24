@@ -1,0 +1,14 @@
+1	git://github.com/mikepenz/MaterialDrawer.git
+2	#DEP#com.mikepenz:iconics-core
+3	#DEP#com.mikepenz:crossfader
+4	#DEP#com.mikepenz:fastadapter
+5	#DEP#com.mikepenz:octicons-typeface
+6	#DEP#com.mikepenz:materialize
+7	#DEP#com.mikepenz:crossfadedrawerlayout
+8	#DEP#com.mikepenz:fastadapter-extensions-expandable
+9	#DEP#com.mikepenz:google-material-typeface
+10	#DEP#com.squareup.picasso:picasso
+11	#DEP#com.github.bumptech.glide:glide
+12	#DEP#com.mikepenz:fontawesome-typeface
+13	#DEP#com.mikepenz:itemanimators
+14	#DEP#com.mikepenz:fastadapter-commons

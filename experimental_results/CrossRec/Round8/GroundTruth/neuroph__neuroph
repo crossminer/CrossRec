@@ -1,0 +1,10 @@
+11	#DEP#org.mockito:mockito-all
+12	#DEP#nz.ac.waikato.cms.weka:weka-stable
+13	#DEP#${project.groupId}:neuroph-imgrec
+14	#DEP#net.sf:javaml
+15	#DEP#org.neuroph:neuroph-contrib
+16	#DEP#ch.qos.logback:logback-core
+17	#DEP#org.powermock:powermock-api-mockito
+18	#DEP#ch.qos.logback:logback-classic
+19	#DEP#be.abeel:ajt
+20	#DEP#junit:junit

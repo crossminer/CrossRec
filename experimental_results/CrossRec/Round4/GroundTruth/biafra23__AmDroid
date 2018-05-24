@@ -1,0 +1,8 @@
+10	#DEP#joda-time:joda-time
+11	#DEP#com.jaeckel:amenlib
+12	#DEP#android.support:compatibility-v4
+13	#DEP#com.github.ignition:ignition-core
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#com.wazabe.holoeverywhere:library
+16	#DEP#junit:junit
+17	#DEP#com.actionbarsherlock:library

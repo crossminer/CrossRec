@@ -1,0 +1,10 @@
+1	git://github.com/fiveagency/Reedly.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.facebook.stetho:stetho
+4	#DEP#com.google.dagger:dagger-compiler
+5	#DEP#com.github.bumptech.glide:glide
+6	#DEP#com.einmalfel:earl
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger

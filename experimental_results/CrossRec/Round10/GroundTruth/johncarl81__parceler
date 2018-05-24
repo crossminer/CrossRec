@@ -1,0 +1,7 @@
+9	#DEP#com.google.code.gson:gson
+10	#DEP#org.parceler:parceler-api
+11	#DEP#commons-lang:commons-lang
+12	#DEP#com.github.frankiesardo:auto-parcel-processor
+13	#DEP#com.google.auto.service:auto-service
+14	#DEP#junit:junit
+15	#DEP#org.androidtransfuse:transfuse-bootstrap

@@ -1,0 +1,12 @@
+1	git://github.com/Noahs-ARK/semafor.git
+2	#DEP#commons-io:commons-io
+3	#DEP#net.sf.trove4j:trove4j
+4	#DEP#de.saar.coli.salsa.reiter:framenet
+5	#DEP#org.pcollections:pcollections
+6	#DEP#net.sf.jwordnet:jwnl
+7	#DEP#com.google.guava:guava
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#danbikel:wordnet
+10	#DEP#junit:junit
+11	#DEP#com.beust:jcommander
+12	#DEP#uk.ac.susx:informatics

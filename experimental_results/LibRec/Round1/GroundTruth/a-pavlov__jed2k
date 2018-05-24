@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.android.support.test:runner
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#com.google.re2j:re2j

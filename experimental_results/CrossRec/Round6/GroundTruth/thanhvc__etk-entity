@@ -1,0 +1,9 @@
+11	#DEP#javax.xml.bind:jaxb-api
+12	#DEP#com.experlog:xapool
+13	#DEP#javax.transaction:jta
+14	#DEP#picocontainer:picocontainer
+15	#DEP#commons-collections:commons-collections
+16	#DEP#javax.servlet:servlet-api
+17	#DEP#junit:junit
+18	#DEP#org.exoplatform.kernel:exo.kernel.component.cache
+19	#DEP#commons-validator:commons-validator

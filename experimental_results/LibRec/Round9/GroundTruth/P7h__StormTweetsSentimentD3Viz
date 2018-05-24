@@ -1,0 +1,9 @@
+1	#DEP#org.apache.activemq:activemq-camel
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.springframework:spring-jms
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.xbean:xbean-spring
+1	#DEP#com.google.guava:guava
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.apache.camel:camel-spring

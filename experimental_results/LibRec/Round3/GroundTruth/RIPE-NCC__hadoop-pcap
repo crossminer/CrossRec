@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#${project.groupId}:hadoop-pcap-lib
+1	#DEP#com.google.guava:guava
+1	#DEP#net.ripe.hadoop.pcap:hadoop-pcap-lib
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit

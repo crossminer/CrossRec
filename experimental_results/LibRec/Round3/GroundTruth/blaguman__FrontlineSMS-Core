@@ -1,0 +1,11 @@
+1	#DEP#org.rxtx:rxtx
+1	#DEP#net.frontlinesms.core.mms:mmsgateway
+1	#DEP#javax.comm:comm
+1	#DEP#net.frontlinesms.core:frontlinesms-email
+1	#DEP#javassist:javassist
+1	#DEP#net.frontlinesms.core:frontlinesms-test
+1	#DEP#net.frontlinesms.core:thinlet
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#log4j:log4j
+1	#DEP#com.h2database:h2

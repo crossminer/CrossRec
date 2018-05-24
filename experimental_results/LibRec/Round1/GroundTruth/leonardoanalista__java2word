@@ -1,0 +1,15 @@
+1	#DEP#javax.servlet:jsp-api
+1	#DEP#org.jboss.jbossas:jboss-as-component-matrix
+1	#DEP#com.sun.facelets:jsf-facelets
+1	#DEP#javassist:javassist
+1	#DEP#commons-logging:commons-logging
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#java2word:ExampleSeam
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#de.akquinet.jbosscc:jbosscc-needle-ejb
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#java2word:ExampleSeam-war
+1	#DEP#junit:junit
+1	#DEP#org.jboss.seam:parent

@@ -1,0 +1,7 @@
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#com.squareup:otto
+1	#DEP#uk.co.ribot:easyadapter
+1	#DEP#junit:junit
+1	#DEP#com.squareup.okhttp:okhttp-urlconnection
+1	#DEP#io.reactivex:rxandroid

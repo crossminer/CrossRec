@@ -1,0 +1,13 @@
+1	#DEP#cytoscape.corelibs:giny
+1	#DEP#cytoscape:javadoc
+1	#DEP#commons-lang:commons-lang
+1	#DEP#cytoscape-temp:ncbi-eutil2-core
+1	#DEP#cytoscape:application
+1	#DEP#cytoscape-temp:ncbi-eutil2-gene
+1	#DEP#cytoscape.corelibs:fing
+1	#DEP#cytoscape.corelibs:geom-rtree
+1	#DEP#cytoscape.corelibs:obo
+1	#DEP#cytoscape.corelibs:graph-dynamic
+1	#DEP#cytoscape:cytoscape
+1	#DEP#cytoscape.corelibs:render-immed
+1	#DEP#cytoscape.corelibs:geom-spacial

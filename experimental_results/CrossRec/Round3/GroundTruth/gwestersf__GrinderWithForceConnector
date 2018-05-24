@@ -1,0 +1,14 @@
+16	#DEP#net.grinder:grinder-httpclient
+17	#DEP#org.clojure:clojure
+18	#DEP#org.codehaus.jsr166-mirror:extra166y
+19	#DEP#org.cometd.java:bayeux-api
+20	#DEP#com.force:force-wsc
+21	#DEP#net.grinder:grinder-test-support
+22	#DEP#org.picocontainer:picocontainer
+23	#DEP#asm:asm
+24	#DEP#com.google.code.gson:gson
+25	#DEP#org.codehaus.janino:janino
+26	#DEP#org.apache.xmlbeans:xmlbeans
+27	#DEP#org.cometd.java:cometd-java-client
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#net.grinder:grinder-xmlbeans

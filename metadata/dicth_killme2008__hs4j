@@ -1,0 +1,15 @@
+1	git://github.com/killme2008/hs4j.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.googlecode.hs4j:hs4j
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.easymock:easymock
+6	#DEP#org.hamcrest:hamcrest-integration
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#commons-dbcp:commons-dbcp
+9	#DEP#org.mockito:mockito-all
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-codec:commons-codec
+12	#DEP#org.easymock:easymockclassextension
+13	#DEP#log4j:log4j
+14	#DEP#net.vidageek:mirror
+15	#DEP#junit:junit

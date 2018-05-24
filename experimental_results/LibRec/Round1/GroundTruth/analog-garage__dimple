@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.github.wendykierp:JTransforms
+1	#DEP#gov.nist.math:jama
+1	#DEP#junit:junit
+1	#DEP#net.jcip:jcip-annotations

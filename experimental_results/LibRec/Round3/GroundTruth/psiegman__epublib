@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#net.sf.kxml:kxml2
+1	#DEP#org.mockito:mockito-all
+1	#DEP#net.sourceforge.htmlcleaner:htmlcleaner
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

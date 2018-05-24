@@ -1,0 +1,15 @@
+17	#DEP#org.apache.commons:commons-math
+18	#DEP#${project.groupId}:pellet-owlapi
+19	#DEP#edu.stanford.protege:org.protege.editor.core.application
+20	#DEP#edu.stanford.protege:org.protege.common
+21	#DEP#org.slf4j:slf4j-log4j12
+22	#DEP#org.apache.jena:jena-core
+23	#DEP#${project.groupId}:pellet-pellint
+24	#DEP#edu.stanford.protege:org.protege.editor.owl
+25	#DEP#org.jgrapht:jgrapht-jdk1.5
+26	#DEP#org.slf4j:jcl-over-slf4j
+27	#DEP#log4j:log4j
+28	#DEP#xerces:xercesImpl
+29	#DEP#${project.groupId}:pellet-core
+30	#DEP#junit:junit
+31	#DEP#${project.groupId}:pellet-test

@@ -1,0 +1,16 @@
+17	#DEP#com.miglayout:miglayout
+18	#DEP#org.jruby:jruby-complete
+19	#DEP#ca.beq:jregistrykey
+20	#DEP#org.jruby:jruby-engine
+21	#DEP#org.openshapa:openshapa-gstreamer-java
+22	#DEP#javax.jcr:jcr
+23	#DEP#org.openshapa:openshapa-lib
+24	#DEP#org.slf4j:slf4j-log4j12
+25	#DEP#junit-addons:junit-addons
+26	#DEP#org.apache.jackrabbit:jackrabbit-core
+27	#DEP#org.apache.jackrabbit:jackrabbit-jcr-rmi
+28	#DEP#org.slf4j:jcl-over-slf4j
+29	#DEP#com.usermetrix:UserMetrix-jclient
+30	#DEP#org.apache.jackrabbit:jackrabbit-ocm
+31	#DEP#org.rococoa:rococoa-core
+32	#DEP#ch.randelshofer.quaqua:quaqua-filechooser-only

@@ -1,0 +1,8 @@
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.eclipse.jetty.aggregate:jetty-server
+12	#DEP#org.reflections:reflections
+13	#DEP#org.slf4j:jcl-over-slf4j
+14	#DEP#javax.servlet:javax.servlet-api
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#commons-collections:commons-collections
+17	#DEP#junit:junit

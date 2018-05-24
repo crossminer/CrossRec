@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#net.jcip:jcip-annotations
+1	#DEP#net.sourceforge.collections:collections-generic
+1	#DEP#commons-lang:commons-lang
+1	#DEP#cglib:cglib

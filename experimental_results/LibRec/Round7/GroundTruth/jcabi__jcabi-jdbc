@@ -1,0 +1,17 @@
+1	#DEP#javax.json:javax.json
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.guava:com.google.guava
+1	#DEP#commons-net:commons-net
+1	#DEP#postgresql:postgresql
+1	#DEP#org.antlr:org.antlr
+1	#DEP#org.hibernate:org.hibernate
+1	#DEP#log4j:log4j
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.slf4j:org.slf4j
+1	#DEP#org.apache.commons:org.apache.commons
+1	#DEP#org.aspectj:org.aspectj
+1	#DEP#junit:junit
+1	#DEP#javax.xml.bind:javax.xml.bind
+1	#DEP#com.jcabi:jcabi-aspects
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#com.h2database:h2

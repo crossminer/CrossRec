@@ -1,0 +1,6 @@
+8	#DEP#com.squareup.dagger:dagger-compiler
+9	#DEP#com.squareup.retrofit:retrofit
+10	#DEP#net.orfjackal.retrolambda:retrolambda
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

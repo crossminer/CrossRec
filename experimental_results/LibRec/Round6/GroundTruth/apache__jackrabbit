@@ -1,0 +1,8 @@
+1	#DEP#commons-io:commons-io
+1	#DEP#org.slf4j:slf4j-nop
+1	#DEP#org.testng:testng
+1	#DEP#org.apache.tika:tika-bundle
+1	#DEP#org.apache.sling:org.apache.sling.commons.log
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.jackrabbit:jackrabbit-bc-base
+1	#DEP#org.apache.jackrabbit:jackrabbit-bundle

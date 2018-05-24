@@ -1,0 +1,11 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.jpmml:pmml-model
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.moxy
+1	#DEP#org.jpmml:pmml-model-gwt
+1	#DEP#org.glassfish.jaxb:jaxb-xjc
+1	#DEP#org.jpmml:pmml-model-example
+1	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.core
+1	#DEP#org.jpmml:pmml-model-metro
+1	#DEP#com.beust:jcommander

@@ -1,0 +1,5 @@
+7	#DEP#${project.groupId}:child2
+8	#DEP#jacoco:it-merge-passes
+9	#DEP#jacoco:it-offline-instrumentation
+10	#DEP#jacoco:it-report-aggregate-customization
+11	#DEP#${project.groupId}:child1

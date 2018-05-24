@@ -1,0 +1,5 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit

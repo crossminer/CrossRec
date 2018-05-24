@@ -1,0 +1,6 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.facebook.fresco:animated-webp
+1	#DEP#com.android.support:support-v4
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

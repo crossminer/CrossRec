@@ -1,0 +1,6 @@
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.ros.rosjava_core:rosjava_tutorial_pubsub
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#org.ros.rosjava_messages:diagnostic_msgs
+1	#DEP#org.ros.rosjava_core:rosjava

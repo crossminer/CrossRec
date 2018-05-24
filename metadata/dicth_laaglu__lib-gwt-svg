@@ -1,0 +1,11 @@
+1	git://github.com/laaglu/lib-gwt-svg.git
+2	#DEP#javax.validation:javax.validation
+3	#DEP#org.seleniumhq.selenium:org.seleniumhq.selenium
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#log4j:log4j
+6	#DEP#javax.servlet:javax.servlet
+7	#DEP#org.httpunit:org.httpunit
+8	#DEP#com.google.gwt:gwt-dev
+9	#DEP#com.extjs:com.extjs
+10	#DEP#junit:junit
+11	#DEP#com.google.gwt:com.google.gwt

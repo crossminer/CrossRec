@@ -1,0 +1,8 @@
+9	#DEP#com.google.appengine:appengine-api-stubs
+10	#DEP#com.google.appengine:appengine-api-1.0-sdk
+11	#DEP#commons-logging:commons-logging-api
+12	#DEP#log4j:log4j
+13	#DEP#org.twitter4j:twitter4j-media-support
+14	#DEP#org.twitter4j:twitter4j-core
+15	#DEP#junit:junit
+16	#DEP#com.google.appengine:appengine-testing

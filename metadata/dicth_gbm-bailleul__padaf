@@ -1,0 +1,14 @@
+1	git://github.com/gbm-bailleul/padaf.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.thoughtworks.xstream:xstream
+4	#DEP#com.lowagie:itext
+5	#DEP#stax:stax
+6	#DEP#javax.activation:activation
+7	#DEP#net.padaf:xmpbox
+8	#DEP#org.pdfa:isartor
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.pdfbox:fontbox
+11	#DEP#org.apache.pdfbox:pdfbox
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit
+14	#DEP#net.padaf:xmpbox-jdk15

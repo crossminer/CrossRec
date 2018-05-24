@@ -1,0 +1,5 @@
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.apache.tomcat:dbcp
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

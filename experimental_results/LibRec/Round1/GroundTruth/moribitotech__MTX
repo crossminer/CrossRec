@@ -1,0 +1,5 @@
+1	#DEP#com.moribitotech:mtx
+1	#DEP#com.badlogicgames.gdx:gdx-backend-android
+1	#DEP#com.badlogicgames.gdx:gdx-backend-gwt
+1	#DEP#com.badlogicgames.gdx:gdx
+1	#DEP#com.google.gwt:gwt-servlet

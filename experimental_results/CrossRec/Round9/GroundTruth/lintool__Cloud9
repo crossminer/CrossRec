@@ -1,0 +1,7 @@
+9	#DEP#commons-lang:commons-lang
+10	#DEP#tl.lin:lintools-datatypes
+11	#DEP#net.sf.jung:jung-algorithms
+12	#DEP#org.apache.hadoop:hadoop-client
+13	#DEP#org.apache.pig:pig
+14	#DEP#net.sf.jung:jung-graph-impl
+15	#DEP#net.sf.jung:jung-api

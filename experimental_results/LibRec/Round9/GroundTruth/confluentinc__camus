@@ -1,0 +1,15 @@
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#org.apache.avro:avro-repo-bundle
+1	#DEP#com.google.code.gson:gson
+1	#DEP#joda-time:joda-time
+1	#DEP#com.linkedin.camus:camus-api
+1	#DEP#io.confluent:kafka-avro-serializer
+1	#DEP#:camus-external
+1	#DEP#com.linkedin.camus:camus-kafka-coders
+1	#DEP#com.google.inject:guice
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.apache.avro:avro
+1	#DEP#junit:junit
+1	#DEP#com.101tec:zkclient

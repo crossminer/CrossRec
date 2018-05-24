@@ -1,0 +1,7 @@
+1	#DEP#c3p0:c3p0
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.ant:ant-junit
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#cglib:cglib

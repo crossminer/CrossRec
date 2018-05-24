@@ -1,0 +1,9 @@
+1	#DEP#org.seleniumhq.selenium:selenium-api
+1	#DEP#com.google.inject:guice
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#com.google.inject.extensions:guice-multibindings
+1	#DEP#org.eclipse.jetty:jetty-servlet

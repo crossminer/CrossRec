@@ -1,0 +1,15 @@
+1	git://github.com/karlmdavis/ksoap2-android.git
+2	#DEP#com.google.code.ksoap2-android:ksoap2-j2se
+3	#DEP#net.sourceforge.me4se:me4se
+4	#DEP#com.google.code.ksoap2-android:ksoap2-samples-axis
+5	#DEP#servletapi:servlet-api
+6	#DEP#com.google.code.ksoap2-android:ksoap2-android
+7	#DEP#net.sourceforge.kxml:kxml
+8	#DEP#com.google.code.ksoap2-android:ksoap2-extras
+9	#DEP#com.google.code.ksoap2-android:ksoap2-samples
+10	#DEP#com.google.code.ksoap2-android:ksoap2-base
+11	#DEP#com.google.code.ksoap2-android:ksoap2-parent
+12	#DEP#net.sourceforge.kobjects:kobjects-j2me
+13	#DEP#junit:junit
+14	#DEP#com.google.code.ksoap2-android:ksoap2-midp
+15	#DEP#com.google.code.ksoap2-android:ksoap2-servlet

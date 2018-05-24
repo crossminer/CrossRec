@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.sun.jersey.contribs:jersey-freemarker
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.freemarker:freemarker
+1	#DEP#com.sun.jersey:jersey-server

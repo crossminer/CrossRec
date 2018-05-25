@@ -13,11 +13,15 @@ submitted to the 12th ACM/IEEE International Symposium on Empirical Software  En
 
 CrossRec is a framework that exploits cross projects relationships in open source software repositories to build a recommender system. It aims at supporting software developers who have already included some libraries in the new projects being developed, and expect to get recommendations on which additional libraries should be further incorporated. The CrossRec architecture is as follows:
 
+<p align="center">
 <img src="https://github.com/CrossRec/CrossRec/blob/master/images/CrossRec.png" width="450">
+</p>
 
 The developer interacts with the system by sending a request for recommendations. The request contains a list of libraries that are already included in the project the developer is working on. The <b>Data Encoder</b> collects <i> background data </i> from OSS repositories, represents them in a <i>mathematically computable format</i>, which is then used as a base for other components of CrossRec. The graph representation is depicted in the following figure.
 
+<p align="center">
 <img src="https://github.com/CrossRec/CrossRec/blob/master/images/Graph.png" width="450">
+</p>
 
 The <b> Similarity Calculator</b> module computes similarities among projects to find the most similar ones to the given project. The <b>Recommendation Engine</b> gets the list of <i> top-k</i> similar projects and executes recommendation techniques to generate a ranked list of <i> top-N </i> libraries. Finally, the recommendations are sent back to the developer. Background data can be collected from different OSS platforms like GitHub, Eclipse, BitBucket. The current version of CrossRec supports data extraction from GitHub, even though the support for additional platforms is already under development.
 
@@ -25,7 +29,7 @@ CrossRec has been evaluated by considering different quality metrics and a datas
 
 
 
-There are the following folders:
+There are the following main folders:
 
 1. <b>experimental\_results</b> contains all the results obtained from the experiments with LibRec and CrossRec.
 

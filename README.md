@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/134830691.svg)](https://zenodo.org/badge/latestdoi/134830691)
+
 This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following paper:
 
 <b>"A collaborative-filtering approach to provide OSS developers with third-party library recommendations"</b>

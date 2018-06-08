@@ -2,6 +2,6 @@ This folder contains the source code implementation of CrossRec. To execute the 
 
 
   ```sh 
-  $ mvn exec:java -Dexec.mainClass="it.univaq.disim.CrossRec.Runner 
+  $ mvn exec:java -Dexec.mainClass="it.univaq.disim.CrossRec.Runner" 
   ```
 

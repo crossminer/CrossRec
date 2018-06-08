@@ -1,0 +1,11 @@
+1	git://github.com/pixmob/httpclient.git
+2	#DEP#com.google.android:support-v4
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.google.android:android
+5	#DEP#com.pivotallabs:robolectric
+6	#DEP#com.actionbarsherlock:parent
+7	#DEP#com.nineoldandroids:library
+8	#DEP#junit:junit
+9	#DEP#com.github.rtyley:roboguice-sherlock
+10	#DEP#com.actionbarsherlock:library
+11	#DEP#com.actionbarsherlock:parent-sample

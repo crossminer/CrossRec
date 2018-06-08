@@ -1,0 +1,6 @@
+7	#DEP#org.robolectric:robolectric
+8	#DEP#com.koushikdutta.ion:ion
+9	#DEP#com.google.code.findbugs:jsr305
+10	#DEP#com.android.support.constraint:constraint-layout
+11	#DEP#com.android.support:appcompat-v7
+12	#DEP#junit:junit

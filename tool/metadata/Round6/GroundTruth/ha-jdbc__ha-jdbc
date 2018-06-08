@@ -1,0 +1,10 @@
+11	#DEP#com.h2database:h2
+12	#DEP#io.ha-jdbc:ha-jdbc-state-sqlite
+13	#DEP#${project.groupId}:ha-jdbc-i18n-gettext
+14	#DEP#org.tmatesoft.sqljet:sqljet
+15	#DEP#commons-pool:commons-pool
+16	#DEP#com.googlecode.gettext-commons:gettext-commons
+17	#DEP#${project.groupId}:ha-jdbc-distributed-jgroups
+18	#DEP#org.mockito:mockito-core
+19	#DEP#${project.groupId}:ha-jdbc-state-bdb
+20	#DEP#org.hsqldb:hsqldb

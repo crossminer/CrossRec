@@ -1,0 +1,5 @@
+7	#DEP#log4j:log4j
+8	#DEP#org.apache.geronimo.specs:geronimo-j2ee_1.4_spec
+9	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+10	#DEP#junit:junit
+11	#DEP#com.carrotsearch:junit-benchmarks

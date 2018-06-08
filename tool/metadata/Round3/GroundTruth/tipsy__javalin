@@ -1,0 +1,10 @@
+11	#DEP#org.eclipse.jetty.websocket:websocket-server
+12	#DEP#org.thymeleaf:thymeleaf
+13	#DEP#org.apache.velocity:velocity
+14	#DEP#com.mashape.unirest:unirest-java
+15	#DEP#org.eclipse.jetty:jetty-server
+16	#DEP#commons-fileupload:commons-fileupload
+17	#DEP#org.eclipse.jetty:jetty-webapp
+18	#DEP#com.atlassian.commonmark:commonmark
+19	#DEP#junit:junit
+20	#DEP#com.carrotsearch:junit-benchmarks

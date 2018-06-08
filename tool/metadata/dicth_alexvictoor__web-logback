@@ -1,0 +1,10 @@
+1	git://github.com/alexvictoor/web-logback.git
+2	#DEP#io.netty:netty-transport
+3	#DEP#org.assertj:assertj-core
+4	#DEP#io.netty:netty-codec-http
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#com.jayway.awaitility:awaitility

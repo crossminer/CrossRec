@@ -1,0 +1,11 @@
+12	#DEP#com.google.collections:google-collections
+13	#DEP#com.ericsson.otp.erlang:otperlang
+14	#DEP#org.slf4j:slf4j-log4j12
+15	#DEP#commons-codec:commons-codec
+16	#DEP#terrastore-javaclient:terrastore-javaclient
+17	#DEP#org.apache.hbase:hbase
+18	#DEP#commons-logging:commons-logging-api
+19	#DEP#log4j:log4j
+20	#DEP#jdom:jdom
+21	#DEP#commons-httpclient:commons-httpclient
+22	#DEP#org.antlr:antlr

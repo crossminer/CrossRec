@@ -1,0 +1,9 @@
+11	#DEP#iConomy:iConomy5
+12	#DEP#org.igniterealtime.smack:smack
+13	#DEP#net.ess3:1_8_R1Provider
+14	#DEP#BOSEconomy:BOSEconomy
+15	#DEP#net.ess3:1_8_R2Provider
+16	#DEP#net.ess3:UpdatedMetaProvider
+17	#DEP#org.projectlombok:lombok
+18	#DEP#junit:junit
+19	#DEP#net.ess3:EssentialsX

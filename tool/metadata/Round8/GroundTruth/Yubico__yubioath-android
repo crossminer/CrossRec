@@ -1,0 +1,8 @@
+9	#DEP#commons-codec:commons-codec
+10	#DEP#com.android.support:preference-v14
+11	#DEP#org.mockito:mockito-core
+12	#DEP#android.arch.lifecycle:extensions
+13	#DEP#org.jetbrains.anko:anko-common
+14	#DEP#junit:junit
+15	#DEP#com.journeyapps:zxing-android-embedded
+16	#DEP#org.jetbrains.anko:anko-sdk15

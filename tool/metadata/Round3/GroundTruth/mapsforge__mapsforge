@@ -1,0 +1,7 @@
+8	#DEP#org.xerial:sqlite-jdbc
+9	#DEP#com.android.support:support-fragment
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.openstreetmap.osmosis:osmosis-core
+12	#DEP#com.metsci.ext.com.kitfox.svg:svg-salamander
+13	#DEP#net.sf.trove4j:trove4j
+14	#DEP#com.google.guava:guava

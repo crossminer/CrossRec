@@ -1,0 +1,10 @@
+1	git://github.com/jacek-marchwicki/JavaWebsocketClient.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#org.hamcrest:hamcrest-all
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.google.guava:guava
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#io.reactivex:rxandroid
+10	#DEP#com.google.truth:truth

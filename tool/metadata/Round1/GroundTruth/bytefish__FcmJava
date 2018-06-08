@@ -1,0 +1,5 @@
+6	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-jdk-http
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations

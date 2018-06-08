@@ -1,0 +1,15 @@
+1	git://github.com/pmwmedia/tinylog.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.apache.logging.log4j:log4j-core
+4	#DEP#com.google.android:android
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.lmax:disruptor
+8	#DEP#org.tinylog:tinylog-core
+9	#DEP#log4j:log4j
+10	#DEP#org.tinylog:tinylog
+11	#DEP#org.jmockit:jmockit
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.jboss.logging:jboss-logging
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

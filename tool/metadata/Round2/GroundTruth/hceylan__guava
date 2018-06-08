@@ -1,0 +1,6 @@
+8	#DEP#com.google.guava:guava-parent
+9	#DEP#${project.groupId}:guava
+10	#DEP#com.google.guava:guava
+11	#DEP#com.google.gwt:gwt-dev
+12	#DEP#junit:junit
+13	#DEP#${project.groupId}:guava-bootstrap

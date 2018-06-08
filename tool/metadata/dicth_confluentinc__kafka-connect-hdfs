@@ -1,0 +1,16 @@
+1	git://github.com/confluentinc/kafka-connect-hdfs.git
+2	#DEP#io.confluent:kafka-connect-storage-partitioner
+3	#DEP#org.apache.kafka:connect-json
+4	#DEP#io.confluent:kafka-connect-storage-wal
+5	#DEP#io.confluent:kafka-connect-storage-common
+6	#DEP#org.apache.hadoop:hadoop-minikdc
+7	#DEP#joda-time:joda-time
+8	#DEP#io.confluent:kafka-connect-storage-format
+9	#DEP#org.apache.kafka:connect-api
+10	#DEP#io.confluent:kafka-connect-avro-converter
+11	#DEP#org.apache.parquet:parquet-hadoop-bundle
+12	#DEP#org.apache.hive.hcatalog:hive-hcatalog-core
+13	#DEP#org.apache.hadoop:hadoop-minicluster
+14	#DEP#junit:junit
+15	#DEP#io.confluent:kafka-connect-storage-core
+16	#DEP#org.apache.directory.jdbm:apacheds-jdbm1

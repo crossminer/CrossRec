@@ -1,0 +1,5 @@
+6	#DEP#com.facebook.keyframes:keyframes
+7	#DEP#com.android.support.test:rules
+8	#DEP#:imagepipeline-backends
+9	#DEP#com.android.support.test:runner
+10	#DEP#:tools

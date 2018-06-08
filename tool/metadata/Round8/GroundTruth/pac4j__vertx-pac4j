@@ -1,0 +1,9 @@
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.pac4j:pac4j-openid
+12	#DEP#io.vertx:vertx-core
+13	#DEP#org.pac4j:pac4j-oauth
+14	#DEP#org.jetbrains.kotlin:kotlin-test-junit
+15	#DEP#io.vertx:vertx-auth-common
+16	#DEP#org.projectlombok:lombok
+17	#DEP#junit:junit
+18	#DEP#com.nhaarman:mockito-kotlin

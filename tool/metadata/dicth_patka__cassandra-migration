@@ -1,0 +1,16 @@
+1	git://github.com/patka/cassandra-migration.git
+2	#DEP#com.datastax.cassandra:cassandra-driver-core
+3	#DEP#org.cassandraunit:cassandra-unit
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework.boot:spring-boot
+6	#DEP#org.springframework.boot:spring-boot-configuration-processor
+7	#DEP#org.cognitor.cassandra:cassandra-migration-parent
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.ow2.asm:asm
+10	#DEP#org.cognitor.cassandra:cassandra-migration
+11	#DEP#org.springframework:spring-test
+12	#DEP#org.mockito:mockito-core
+13	#DEP#org.springframework.boot:spring-boot-autoconfigure
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#org.springframework.boot:spring-boot-test-autoconfigure

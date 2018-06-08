@@ -1,0 +1,11 @@
+13	#DEP#org.apache.logging.log4j:log4j-core
+14	#DEP#org.easymock:easymock
+15	#DEP#net.java.dev.jna:jna
+16	#DEP#org.apache.httpcomponents.client5:httpclient5-cache
+17	#DEP#org.apache.httpcomponents.client5:httpclient5
+18	#DEP#net.spy:spymemcached
+19	#DEP#net.java.dev.jna:jna-platform
+20	#DEP#org.apache.httpcomponents.core5:httpcore5
+21	#DEP#org.apache.httpcomponents.core5:httpcore5-testing
+22	#DEP#org.mockito:mockito-core
+23	#DEP#org.apache.httpcomponents.core5:httpcore5-osgi

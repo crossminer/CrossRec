@@ -1,0 +1,5 @@
+6	#DEP#commons-io:commons-io
+7	#DEP#org.apache.lucene:lucene-queryparser
+8	#DEP#com.sangupta:jopensurf
+9	#DEP#nu.pattern:opencv
+10	#DEP#junit:junit

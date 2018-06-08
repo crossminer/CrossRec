@@ -1,0 +1,10 @@
+1	git://github.com/lucastheisen/jsch-extension.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.tomcat:tomcat-jdbc
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.jcraft:jsch
+8	#DEP#junit:junit
+9	#DEP#com.jcraft:jsch.agentproxy.connector-factory
+10	#DEP#com.jcraft:jsch.agentproxy.jsch

@@ -1,0 +1,10 @@
+11	#DEP#it.unimi.dsi:fastutil
+12	#DEP#commons-lang:commons-lang
+13	#DEP#it.unimi.dsi:dsiutils
+14	#DEP#tl.lin:lintools-datatypes
+15	#DEP#org.jsoup:jsoup
+16	#DEP#tl.lin:lintools-lucene
+17	#DEP#log4j:log4j
+18	#DEP#org.apache.hadoop:hadoop-client
+19	#DEP#com.google.guava:guava
+20	#DEP#junit:junit

@@ -1,0 +1,15 @@
+17	#DEP#org.apache.httpcomponents:httpclient
+18	#DEP#commons-logging:commons-logging
+19	#DEP#taglibs:standard
+20	#DEP#org.slf4j:slf4j-log4j12
+21	#DEP#org.openxri:openxri-syntax
+22	#DEP#com.google.inject:guice
+23	#DEP#org.slf4j:jcl-over-slf4j
+24	#DEP#javax.servlet:javax.servlet-api
+25	#DEP#com.google.appengine:appengine.api
+26	#DEP#xerces:xercesImpl
+27	#DEP#jdom:jdom
+28	#DEP#javax.servlet:servlet-api
+29	#DEP#javax.servlet:jstl
+30	#DEP#junit:junit
+31	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

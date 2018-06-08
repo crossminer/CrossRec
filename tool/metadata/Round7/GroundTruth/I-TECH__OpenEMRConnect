@@ -1,0 +1,14 @@
+16	#DEP#griaule:griaule
+17	#DEP#javax.xml.bind:jaxb-api
+18	#DEP#ke.go.moh.oec:oeclib
+19	#DEP#${project.groupId}:oecsm
+20	#DEP#org.jdesktop:beansbinding
+21	#DEP#com.toedter:jcalendar
+22	#DEP#org.springframework:spring-web
+23	#DEP#org.springframework:spring-webflow
+24	#DEP#javax.servlet:jstl
+25	#DEP#com.sun.xml.bind:jaxb-impl
+26	#DEP#org.apache.derby:derby
+27	#DEP#org.apache.tomcat:servlet-api
+28	#DEP#ke.co.idadi:griaulefingerprintmanager
+29	#DEP#junit:junit

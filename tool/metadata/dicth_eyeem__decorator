@@ -1,0 +1,17 @@
+1	git://github.com/eyeem/decorator.git
+2	#DEP#io.realm:android-adapters
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#de.hdodenhof:circleimageview
+7	#DEP#com.eyeem.recyclerviewtools:library
+8	#DEP#com.squareup:javapoet
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife
+12	#DEP#com.squareup.retrofit2:converter-gson
+13	#DEP#com.android.support:preference-v7
+14	#DEP#com.android.support:cardview-v7
+15	#DEP#com.squareup.picasso:picasso
+16	#DEP#com.squareup.retrofit2:retrofit
+17	#DEP#junit:junit

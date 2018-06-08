@@ -1,0 +1,7 @@
+8	#DEP#javax.servlet.jsp:jsp-api
+9	#DEP#org.springframework:spring-test
+10	#DEP#org.springframework:spring-webmvc
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.json:json
+13	#DEP#junit:junit
+14	#DEP#org.hsqldb:hsqldb

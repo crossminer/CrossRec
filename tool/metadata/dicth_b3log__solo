@@ -1,0 +1,17 @@
+1	git://github.com/b3log/solo.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.yaml:snakeyaml
+5	#DEP#org.testng:testng
+6	#DEP#org.b3log:latke-repository-mysql
+7	#DEP#com.qiniu:qiniu-java-sdk
+8	#DEP#org.mockito:mockito-all
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.jsoup:jsoup
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#org.b3log:latke-repository-h2
+13	#DEP#com.vdurmont:emoji-java
+14	#DEP#org.jodd:jodd-http
+15	#DEP#org.eclipse.jetty:jetty-webapp
+16	#DEP#com.vladsch.flexmark:flexmark-all
+17	#DEP#org.b3log:latke

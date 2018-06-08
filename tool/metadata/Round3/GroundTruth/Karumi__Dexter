@@ -1,0 +1,6 @@
+7	#DEP#com.android.support.test:rules
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support.test:runner
+12	#DEP#org.awaitility:awaitility

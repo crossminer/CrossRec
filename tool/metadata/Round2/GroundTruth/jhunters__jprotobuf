@@ -1,0 +1,8 @@
+9	#DEP#com.baidu:jprotobuf
+10	#DEP#org.apache.maven:maven-toolchain
+11	#DEP#org.apache.maven:maven-plugin-api
+12	#DEP#com.google.protobuf:protobuf-java
+13	#DEP#com.baidu:jprotobuf-protoparser
+14	#DEP#com.squareup:protoparser
+15	#DEP#junit:junit
+16	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,9 @@
+10	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.xdata
+11	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.disco
+12	#DEP#com.fasterxml.jackson.core:jackson-core
+13	#DEP#com.cloudeggtech.basalt:com.cloudeggtech.basalt.protocol.oxm
+14	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.ibr
+15	#DEP#junit:junit
+16	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.address
+17	#DEP#commons-validator:commons-validator
+18	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.oob

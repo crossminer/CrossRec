@@ -1,0 +1,10 @@
+1	git://github.com/thargor6/JWildfire.git
+2	#DEP#edu.emory.mathcs:JTransforms
+3	#DEP#org.jocl:jocl
+4	#DEP#com.jtattoo:JTattoo
+5	#DEP#com.l2fprod:l2fprod-common-all
+6	#DEP#commons-io:commons-io
+7	#DEP#colt:colt
+8	#DEP#javazoom:jlayer
+9	#DEP#com.kitfox.svg:svg-salamander
+10	#DEP#org.scijava:jep

@@ -1,0 +1,10 @@
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#commons-lang:commons-lang
+14	#DEP#commons-configuration:commons-configuration
+15	#DEP#javax.ws.rs:jsr311-api
+16	#DEP#com.google.inject:guice
+17	#DEP#com.google.mockwebserver:mockwebserver
+18	#DEP#com.google.code.findbugs:annotations
+19	#DEP#commons-collections:commons-collections
+20	#DEP#junit:junit
+21	#DEP#com.google.inject.extensions:guice-multibindings

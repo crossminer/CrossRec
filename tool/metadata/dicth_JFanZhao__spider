@@ -1,0 +1,12 @@
+1	git://github.com/JFanZhao/spider.git
+2	#DEP#jdk.tools:jdk.tools
+3	#DEP#org.apache.curator:curator-framework
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.quartz-scheduler:quartz
+6	#DEP#redis.clients:jedis
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.json:json
+9	#DEP#net.sourceforge.htmlcleaner:htmlcleaner
+10	#DEP#junit:junit
+11	#DEP#org.apache.hbase:hbase-client
+12	#DEP#org.slf4j:slf4j-log4j12

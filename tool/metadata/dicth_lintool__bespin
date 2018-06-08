@@ -1,0 +1,15 @@
+1	git://github.com/lintool/bespin.git
+2	#DEP#org.apache.spark:spark-sql_2.11
+3	#DEP#org.apache.hbase:hbase-server
+4	#DEP#org.apache.spark:spark-core_2.11
+5	#DEP#org.apache.hbase:hbase-client
+6	#DEP#tl.lin:lintools-datatypes
+7	#DEP#net.sf.jung:jung-algorithms
+8	#DEP#org.apache.hadoop:hadoop-client
+9	#DEP#args4j:args4j
+10	#DEP#org.scala-lang:scala-library
+11	#DEP#net.sf.jung:jung-graph-impl
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#net.sf.jung:jung-api
+15	#DEP#org.rogach:scallop_2.11

@@ -1,0 +1,11 @@
+1	git://github.com/lviggiano/owner.git
+2	#DEP#org.aeonbits.owner:owner-java8
+3	#DEP#commons-codec:commons-codec
+4	#DEP#org.aeonbits.owner:owner-examples-common
+5	#DEP#org.apache.curator:curator-framework
+6	#DEP#org.aeonbits.owner:owner
+7	#DEP#org.slf4j:slf4j-nop
+8	#DEP#org.apache.curator:curator-test
+9	#DEP#org.mockito:mockito-core
+10	#DEP#org.hamcrest:hamcrest-all
+11	#DEP#junit:junit

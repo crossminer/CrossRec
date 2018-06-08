@@ -1,0 +1,11 @@
+1	git://github.com/RusticiSoftware/TinCanJava.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#commons-codec:commons-codec
+4	#DEP#org.projectlombok:lombok
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+7	#DEP#junit:junit
+8	#DEP#joda-time:joda-time
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.eclipse.jetty:jetty-client
+11	#DEP#org.eclipse.jetty:jetty-servlet

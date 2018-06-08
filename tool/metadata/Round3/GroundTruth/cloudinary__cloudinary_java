@@ -1,0 +1,12 @@
+13	#DEP#org.springframework.data:spring-data-jpa
+14	#DEP#com.google.appengine:appengine-api-stubs
+15	#DEP#com.google.appengine:appengine-api-1.0-sdk
+16	#DEP#javax.servlet.jsp:jsp-api
+17	#DEP#org.springframework:spring-test
+18	#DEP#org.springframework:spring-webmvc
+19	#DEP#javax.servlet:servlet-api
+20	#DEP#gmultipart:gmultipart
+21	#DEP#commons-fileupload:commons-fileupload
+22	#DEP#junit:junit
+23	#DEP#org.hsqldb:hsqldb
+24	#DEP#com.google.appengine:appengine-testing

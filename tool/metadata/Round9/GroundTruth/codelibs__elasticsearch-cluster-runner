@@ -1,0 +1,11 @@
+13	#DEP#args4j:args4j
+14	#DEP#org.codelibs.elasticsearch.module:lang-mustache
+15	#DEP#org.codelibs.elasticsearch.module:parent-join
+16	#DEP#org.codelibs.elasticsearch.module:percolator
+17	#DEP#org.codelibs.elasticsearch.module:reindex
+18	#DEP#org.codelibs.elasticsearch.module:lang-expression
+19	#DEP#org.apache.logging.log4j:log4j-1.2-api
+20	#DEP#junit:junit
+21	#DEP#org.elasticsearch.client:transport
+22	#DEP#org.codelibs.elasticsearch.module:analysis-common
+23	#DEP#org.apache.logging.log4j:log4j-api

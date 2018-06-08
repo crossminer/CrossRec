@@ -1,0 +1,5 @@
+6	#DEP#com.einmalfel:earl
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger

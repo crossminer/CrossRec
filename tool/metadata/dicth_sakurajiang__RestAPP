@@ -1,0 +1,17 @@
+1	git://github.com/sakurajiang/RestAPP.git
+2	#DEP#com.android.support:percent
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:design
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#com.squareup.picasso:picasso
+12	#DEP#com.jakewharton.rxbinding:rxbinding
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#com.github.chrisbanes:PhotoView
+17	#DEP#io.reactivex:rxandroid

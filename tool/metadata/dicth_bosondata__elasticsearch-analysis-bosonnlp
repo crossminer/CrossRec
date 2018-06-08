@@ -1,0 +1,13 @@
+1	git://github.com/bosondata/elasticsearch-analysis-bosonnlp.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.apache.httpcomponents:httpasyncclient
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.elasticsearch:elasticsearch
+6	#DEP#commons-codec:commons-codec
+7	#DEP#com.mashape.unirest:unirest-java
+8	#DEP#log4j:log4j
+9	#DEP#org.apache.httpcomponents:httpmime
+10	#DEP#org.json:json
+11	#DEP#org.apache.httpcomponents:httpcore
+12	#DEP#org.apache.httpcomponents:httpcore-nio
+13	#DEP#junit:junit

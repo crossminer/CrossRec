@@ -1,0 +1,3 @@
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#javax.servlet:jstl
+7	#DEP#junit:junit

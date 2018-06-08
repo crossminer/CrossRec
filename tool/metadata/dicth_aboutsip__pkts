@@ -1,0 +1,15 @@
+1	git://github.com/aboutsip/pkts.git
+2	#DEP#io.pkts:pkts-sip
+3	#DEP#io.netty:netty-all
+4	#DEP#io.pkts:pkts-streams
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#io.pkts:pkts-buffers
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.mockito:mockito-all
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#io.pkts:pkts-core
+11	#DEP#io.pkts:pkts-parent
+12	#DEP#javax.sip:jain-sip-ri
+13	#DEP#log4j:log4j
+14	#DEP#io.pkts:pkts-sdp
+15	#DEP#junit:junit

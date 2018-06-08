@@ -1,0 +1,9 @@
+11	#DEP#com.google.code.findbugs:annotations
+12	#DEP#de.tinloaf.snbreadtree:snbreadtree
+13	#DEP#net.sf.jung:jung-io
+14	#DEP#log4j:log4j
+15	#DEP#net.sf.jung:jung-graph-impl
+16	#DEP#org.apache.derby:derby
+17	#DEP#org.apache.xmlgraphics:batik-swing
+18	#DEP#junit:junit
+19	#DEP#net.sf.jung:jung-api

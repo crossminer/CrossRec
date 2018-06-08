@@ -1,0 +1,14 @@
+1	git://github.com/knowitall/reverb.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#edu.washington.cs.knowitall:opennlp-sent-models
+4	#DEP#cc.mallet:mallet
+5	#DEP#edu.washington.cs.knowitall:common-java
+6	#DEP#edu.washington.cs.knowitall:opennlp-tokenize-models
+7	#DEP#edu.washington.cs.knowitall:morpha-stemmer
+8	#DEP#commons-lang:commons-lang
+9	#DEP#edu.washington.cs.knowitall:opennlp-postag-models
+10	#DEP#edu.washington.cs.knowitall:opennlp-chunk-models
+11	#DEP#edu.washington.cs.knowitall:reverb-models
+12	#DEP#org.apache.opennlp:opennlp-tools
+13	#DEP#edu.washington.cs.knowitall:openregex
+14	#DEP#junit:junit

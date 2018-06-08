@@ -1,0 +1,5 @@
+6	#DEP#org.apache.commons:commons-imaging
+7	#DEP#org.bouncycastle:bcpkix-jdk15on
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#org.apache.santuario:xmlsec

@@ -1,0 +1,13 @@
+1	git://github.com/jmacglashan/burlap.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#org.jfree:jfreechart
+4	#DEP#org.scpsolver:LPSOLVESolverPack
+5	#DEP#org.scpsolver:SCPSolver
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#org.jfree:jcommon
+8	#DEP#com.googlecode.efficient-java-matrix-library:ejml
+9	#DEP#net.sf.jopt-simple:jopt-simple
+10	#DEP#com.github.vincentk:joptimizer
+11	#DEP#log4j:log4j
+12	#DEP#junit:junit
+13	#DEP#org.rlcommunity.rlglue:JavaRLGlueCodec

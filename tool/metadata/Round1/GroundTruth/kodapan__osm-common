@@ -1,0 +1,10 @@
+11	#DEP#org.slf4j:slf4j-api
+12	#DEP#org.apache.lucene:lucene-analyzers
+13	#DEP#nz.ac.waikato.cms.weka:weka-stable
+14	#DEP#se.kodapan.osm.common:tools
+15	#DEP#org.apache.commons:commons-compress
+16	#DEP#ch.qos.logback:logback-classic
+17	#DEP#org.json:json
+18	#DEP#junit:junit
+19	#DEP#se.kodapan.osm.common:common-parent
+20	#DEP#se.kodapan.osm.common:jts

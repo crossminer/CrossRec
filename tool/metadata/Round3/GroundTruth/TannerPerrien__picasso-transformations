@@ -1,0 +1,5 @@
+7	#DEP#com.picassotransformations:picasso-transformations
+8	#DEP#com.squareup:fest-android
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#android:android

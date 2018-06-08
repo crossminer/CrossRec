@@ -1,0 +1,11 @@
+13	#DEP#commons-codec:commons-codec
+14	#DEP#${project.groupId}:rest-client-driver
+15	#DEP#org.slf4j:jcl-over-slf4j
+16	#DEP#org.eclipse.jetty:jetty-servlets
+17	#DEP#com.jayway.jsonpath:json-path
+18	#DEP#ch.qos.logback:logback-classic
+19	#DEP#org.eclipse.jetty:jetty-server
+20	#DEP#com.google.guava:guava
+21	#DEP#junit:junit
+22	#DEP#org.eclipse.jetty:jetty-proxy
+23	#DEP#org.eclipse.jetty:jetty-servlet

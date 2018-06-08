@@ -1,0 +1,10 @@
+1	git://github.com/vert-x/vertx-maven.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-tools-api
+3	#DEP#io.vertx:vertx-core
+4	#DEP#io.vertx:vertx-hazelcast
+5	#DEP#io.vertx:vertx-platform
+6	#DEP#org.apache.maven.plugin-tools:maven-plugin-tools-annotations
+7	#DEP#org.apache.maven:maven-project
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#io.vertx:testtools
+10	#DEP#junit:junit

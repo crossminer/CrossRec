@@ -1,0 +1,15 @@
+1	git://github.com/lukaspili/Power-Mortar-Flow-Dagger2-demo.git
+2	#DEP#com.squareup.flow:flow
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.github.lukaspili.automortar:automortar
+7	#DEP#com.github.lukaspili.automortar:automortar-compiler
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.google.dagger:dagger
+10	#DEP#com.google.dagger:dagger-compiler
+11	#DEP#com.squareup.retrofit:retrofit
+12	#DEP#com.github.lukaspili.autodagger2:autodagger2
+13	#DEP#com.squareup.flow:flow-path
+14	#DEP#com.squareup.mortar:mortar
+15	#DEP#com.github.lukaspili.autodagger2:autodagger2-compiler

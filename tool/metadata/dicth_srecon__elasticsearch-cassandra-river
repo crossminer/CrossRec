@@ -1,0 +1,12 @@
+1	git://github.com/srecon/elasticsearch-cassandra-river.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#com.codahale.metrics:metrics-core
+4	#DEP#com.datastax.cassandra:cassandra-driver-core
+5	#DEP#org.quartz-scheduler:quartz
+6	#DEP#net.jpountz.lz4:lz4
+7	#DEP#log4j:log4j
+8	#DEP#io.netty:netty
+9	#DEP#com.google.guava:guava
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.elasticsearch:elasticsearch

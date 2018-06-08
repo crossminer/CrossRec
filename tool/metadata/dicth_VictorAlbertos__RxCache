@@ -1,0 +1,13 @@
+1	git://github.com/VictorAlbertos/RxCache.git
+2	#DEP#com.github.VictorAlbertos.Jolyglot:api
+3	#DEP#com.github.VictorAlbertos.Jolyglot:jackson
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#org.glassfish:javax.annotation
+6	#DEP#com.squareup:javapoet
+7	#DEP#com.google.dagger:dagger
+8	#DEP#com.github.VictorAlbertos.Jolyglot:gson
+9	#DEP#com.google.dagger:dagger-compiler
+10	#DEP#com.google.testing.compile:compile-testing
+11	#DEP#com.github.VictorAlbertos.Jolyglot:moshi
+12	#DEP#junit:junit
+13	#DEP#com.google.auto.service:auto-service

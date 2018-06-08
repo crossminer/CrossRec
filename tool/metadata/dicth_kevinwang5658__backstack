@@ -1,0 +1,13 @@
+1	git://github.com/kevinwang5658/backstack.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:support-compat
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.daimajia.androidanimations:library
+12	#DEP#junit:junit
+13	#DEP#com.daimajia.easing:library

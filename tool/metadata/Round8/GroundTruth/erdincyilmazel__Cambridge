@@ -1,0 +1,9 @@
+10	#DEP#com.googlecode.cambridge:cambridge-mvel
+11	#DEP#org.apache.velocity:velocity
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#ognl:ognl
+15	#DEP#com.googlecode.cambridge:cambridge-ognl
+16	#DEP#org.antlr:antlr-runtime
+17	#DEP#junit:junit
+18	#DEP#com.googlecode.cambridge:cambridge-core

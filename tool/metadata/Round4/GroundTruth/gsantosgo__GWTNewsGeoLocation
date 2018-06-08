@@ -1,0 +1,8 @@
+9	#DEP#rome:rome
+10	#DEP#junit:junit
+11	#DEP#com.google.guava:guava-gwt
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#uk.ac.gate:gate-core
+14	#DEP#org.apache.httpcomponents:httpclient
+15	#DEP#org.slf4j:slf4j-log4j12
+16	#DEP#com.google.gwt:gwt-servlet

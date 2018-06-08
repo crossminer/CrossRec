@@ -1,0 +1,6 @@
+8	#DEP#com.google.auth:google-auth-library-credentials
+9	#DEP#com.google.guava:guava
+10	#DEP#com.google.auth:google-auth-library-oauth2-http
+11	#DEP#junit:junit
+12	#DEP#com.google.http-client:google-http-client
+13	#DEP#com.google.auth:google-auth-library-cloudshell

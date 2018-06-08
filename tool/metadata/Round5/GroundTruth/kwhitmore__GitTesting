@@ -1,0 +1,8 @@
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#org.easymock:easymockclassextension
+12	#DEP#org.liquibase.samples:liquibase-ext-sqlgenerator
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#org.liquibase.samples:liquibase-ext-change
+15	#DEP#org.apache.derby:derby
+16	#DEP#junit:junit
+17	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

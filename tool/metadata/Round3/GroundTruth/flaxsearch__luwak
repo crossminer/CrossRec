@@ -1,0 +1,7 @@
+8	#DEP#${lucene.group}:lucene-queryparser
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#com.google.guava:guava
+11	#DEP#com.github.flaxsearch:luwak
+12	#DEP#junit:junit
+13	#DEP#${lucene.group}:lucene-memory
+14	#DEP#${lucene.group}:lucene-queries

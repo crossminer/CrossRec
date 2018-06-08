@@ -1,0 +1,7 @@
+8	#DEP#org.mockito:mockito-core
+9	#DEP#org.hamcrest:hamcrest-all
+10	#DEP#com.android.support.test:rules
+11	#DEP#junit:junit
+12	#DEP#com.android.support.test.espresso:espresso-intents
+13	#DEP#com.android.support.test:runner
+14	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,8 @@
+9	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+10	#DEP#com.google.guava:guava
+11	#DEP#com.carrotsearch:hppc
+12	#DEP#org.apache.maven:maven-plugin-api
+13	#DEP#org.antlr:antlr4
+14	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+15	#DEP#junit:junit
+16	#DEP#org.openjdk.jmh:jmh-core

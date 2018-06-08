@@ -1,0 +1,16 @@
+1	git://github.com/awslabs/kinesis-aggregation.git
+2	#DEP#com.amazonaws:amazon-kinesis-producer
+3	#DEP#${project.groupId}:KinesisDeaggregator
+4	#DEP#com.amazonaws.services.kinesis:KinesisDeaggregator
+5	#DEP#${project.groupId}:KinesisTestConsumers
+6	#DEP#com.amazonaws:aws-java-sdk-kinesis
+7	#DEP#com.amazonaws:aws-lambda-java-core
+8	#DEP#commons-codec:commons-codec
+9	#DEP#com.amazonaws:amazon-kinesis-client
+10	#DEP#${project.groupId}:KinesisAggregator
+11	#DEP#com.amazonaws.services.kinesis:KinesisAggregator
+12	#DEP#com.amazonaws:aws-java-sdk-sts
+13	#DEP#${project.groupId}:KinesisTestProducers
+14	#DEP#com.amazonaws:aws-lambda-java-events
+15	#DEP#${project.groupId}:KinesisLambdaForwarder
+16	#DEP#junit:junit

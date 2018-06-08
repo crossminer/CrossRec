@@ -1,0 +1,7 @@
+9	#DEP#com.google.zxing:android-core
+10	#DEP#com.google.guava:guava
+11	#DEP#com.github.jai-imageio:jai-imageio-core
+12	#DEP#junit:junit
+13	#DEP#com.google.zxing:core
+14	#DEP#com.beust:jcommander
+15	#DEP#org.slf4j:slf4j-jdk14

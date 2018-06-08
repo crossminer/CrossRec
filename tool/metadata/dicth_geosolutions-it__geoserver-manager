@@ -1,0 +1,11 @@
+1	git://github.com/geosolutions-it/geoserver-manager.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.restlet
+5	#DEP#net.sf.json-lib:json-lib
+6	#DEP#jdom:jdom
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#commons-httpclient:commons-httpclient
+9	#DEP#junit:junit
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.slf4j:slf4j-log4j12

@@ -1,0 +1,12 @@
+1	git://github.com/googlesamples/leanback-showcase.git
+2	#DEP#com.google.dagger:dagger-android-support
+3	#DEP#com.google.dagger:dagger-compiler
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.google.android.exoplayer:exoplayer
+6	#DEP#com.google.dagger:dagger-android-processor
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#com.google.dagger:dagger-android
+12	#DEP#com.google.dagger:dagger

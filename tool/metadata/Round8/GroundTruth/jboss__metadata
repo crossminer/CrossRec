@@ -1,0 +1,8 @@
+9	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec
+10	#DEP#${javax.persistence.groupId}:${javax.persistence.artifactId}
+11	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec
+12	#DEP#org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec
+13	#DEP#org.jboss.logging:jboss-logging
+14	#DEP#com.sun.xml.bind:jaxb-impl
+15	#DEP#org.jboss.metadata:jboss-metadata-common
+16	#DEP#junit:junit

@@ -1,0 +1,11 @@
+1	git://github.com/locationtech/jts.git
+2	#DEP#com.esri:jpe_sdk
+3	#DEP#com.oracle:ojdbc7
+4	#DEP#org.locationtech.jts.io:jts-io-common
+5	#DEP#org.jdom:jdom2
+6	#DEP#com.googlecode.json-simple:json-simple
+7	#DEP#org.locationtech.jts:jts-tests
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#com.esri:jsde_sdk
+10	#DEP#junit:junit
+11	#DEP#org.locationtech.jts:jts-core

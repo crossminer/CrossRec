@@ -1,0 +1,13 @@
+1	git://github.com/esafirm/android-rxgeofence.git
+2	#DEP#com.google.android.gms:play-services-location
+3	#DEP#com.firebase:geofire-android
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.google.code.gson:gson
+6	#DEP#pl.charmas.android:android-reactive-location
+7	#DEP#com.google.firebase:firebase-core
+8	#DEP#org.mockito:mockito-core
+9	#DEP#com.android.support:support-v4
+10	#DEP#com.google.firebase:firebase-database
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

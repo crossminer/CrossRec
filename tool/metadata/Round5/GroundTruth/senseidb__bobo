@@ -1,0 +1,5 @@
+6	#DEP#org.apache.lucene:lucene-queryparser
+7	#DEP#log4j:log4j
+8	#DEP#org.apache.lucene:lucene-spatial
+9	#DEP#it.unimi.dsi:fastutil
+10	#DEP#junit:junit

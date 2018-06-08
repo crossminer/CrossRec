@@ -1,0 +1,16 @@
+1	git://github.com/bioversity/singer.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#ws-commons-util:ws-commons-util
+6	#DEP#javax.servlet.jsp:jsp-api
+7	#DEP#javax.mail:mail
+8	#DEP#javax.activation:activation
+9	#DEP#jfree:jfreechart
+10	#DEP#org.apache.xmlrpc:xmlrpc-client
+11	#DEP#struts:struts
+12	#DEP#log4j:log4j
+13	#DEP#xerces:xercesImpl
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#org.json:json
+16	#DEP#junit:junit

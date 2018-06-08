@@ -1,0 +1,5 @@
+7	#DEP#org.codehaus.jackson:jackson-jaxrs
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#org.bouncycastle:bcpg-jdk16

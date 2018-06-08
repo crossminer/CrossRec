@@ -1,0 +1,8 @@
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.mnode.ical4j:ical4j
+12	#DEP#log4j:log4j
+13	#DEP#net.sf.ehcache:ehcache
+14	#DEP#commons-collections:commons-collections
+15	#DEP#xerces:xercesImpl
+16	#DEP#commons-httpclient:commons-httpclient
+17	#DEP#junit:junit

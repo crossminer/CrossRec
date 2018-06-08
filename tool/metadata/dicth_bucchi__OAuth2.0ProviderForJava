@@ -1,0 +1,11 @@
+1	git://github.com/bucchi/OAuth2.0ProviderForJava.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#net.oauth.v2:oauth2
+4	#DEP#httpunit:httpunit
+5	#DEP#net.oauth.v2:oauth2core
+6	#DEP#org.mortbay.jetty:jetty-embedded
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#junit:junit
+9	#DEP#org.mortbay.jetty:jetty-servlet-tester
+10	#DEP#net.oauth.v2:oauth2provider
+11	#DEP#org.mortbay.jetty:jsp-2.1

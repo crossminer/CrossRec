@@ -1,0 +1,14 @@
+1	git://github.com/C-Aniruddh/ACEMusicPlayer.git
+2	#DEP#org.robolectric:robolectric
+3	#DEP#com.google.android:android
+4	#DEP#com.squareup.okhttp:okhttp
+5	#DEP#com.squareup:fest-android
+6	#DEP#com.google.android.gms:play-services
+7	#DEP#org.easytesting:fest-assert-core
+8	#DEP#com.intellij:annotations
+9	#DEP#com.google.mockwebserver:mockwebserver
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.github.traex.rippleeffect:library
+12	#DEP#com.android.support:support-v4
+13	#DEP#junit:junit
+14	#DEP#com.squareup.okhttp:okhttp-urlconnection

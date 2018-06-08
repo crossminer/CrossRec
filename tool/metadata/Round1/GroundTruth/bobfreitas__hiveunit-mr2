@@ -1,0 +1,12 @@
+13	#DEP#tomcat:jasper-runtime
+14	#DEP#javax.servlet.jsp:jsp-api
+15	#DEP#org.apache.hive:hive-service
+16	#DEP#com.sun.jersey:jersey-core
+17	#DEP#org.apache.hive:hive-serde
+18	#DEP#org.apache.hadoop:hadoop-common
+19	#DEP#org.apache.hive:hive-contrib
+20	#DEP#org.apache.hadoop:hadoop-auth
+21	#DEP#junit:junit
+22	#DEP#org.apache.hadoop:hadoop-hdfs
+23	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs
+24	#DEP#com.sun.jersey:jersey-server

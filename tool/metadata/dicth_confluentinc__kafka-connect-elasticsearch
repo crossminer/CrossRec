@@ -1,0 +1,10 @@
+1	git://github.com/confluentinc/kafka-connect-elasticsearch.git
+2	#DEP#org.hamcrest:hamcrest-junit
+3	#DEP#org.apache.kafka:connect-api
+4	#DEP#org.apache.kafka:connect-json
+5	#DEP#net.java.dev.jna:jna
+6	#DEP#org.apache.lucene:lucene-expressions
+7	#DEP#junit:junit
+8	#DEP#io.searchbox:jest
+9	#DEP#org.apache.lucene:lucene-test-framework
+10	#DEP#org.elasticsearch:elasticsearch

@@ -1,0 +1,5 @@
+7	#DEP#javax.jdo:jdo2-api
+8	#DEP#commons-logging:commons-logging
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#com.esri.hadoop:spatial-sdk-json

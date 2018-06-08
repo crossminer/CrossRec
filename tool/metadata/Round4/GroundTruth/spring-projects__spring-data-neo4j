@@ -1,0 +1,11 @@
+13	#DEP#org.springframework:spring-core
+14	#DEP#com.github.ben-manes.caffeine:caffeine
+15	#DEP#org.springframework:spring-web
+16	#DEP#javax.enterprise:cdi-api
+17	#DEP#org.slf4j:jcl-over-slf4j
+18	#DEP#org.neo4j:neo4j-ogm-test
+19	#DEP#javax.interceptor:javax.interceptor-api
+20	#DEP#javax.servlet:javax.servlet-api
+21	#DEP#org.neo4j:neo4j-ogm-bolt-driver
+22	#DEP#org.springframework:spring-webmvc
+23	#DEP#org.apache.openwebbeans:openwebbeans-se

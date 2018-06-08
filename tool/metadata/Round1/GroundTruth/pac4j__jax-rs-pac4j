@@ -1,0 +1,10 @@
+11	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2
+12	#DEP#org.awaitility:awaitility
+13	#DEP#org.jboss.resteasy:resteasy-bom
+14	#DEP#org.jboss.resteasy:resteasy-undertow
+15	#DEP#org.jboss.resteasy:resteasy-jaxrs
+16	#DEP#org.glassfish.jersey.core:jersey-server
+17	#DEP#javax.servlet:javax.servlet-api
+18	#DEP#ch.qos.logback:logback-classic
+19	#DEP#io.undertow:undertow-servlet
+20	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-inmemory

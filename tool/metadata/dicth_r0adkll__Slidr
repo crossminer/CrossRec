@@ -1,0 +1,10 @@
+1	git://github.com/r0adkll/Slidr.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife

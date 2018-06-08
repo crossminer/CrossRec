@@ -1,0 +1,5 @@
+7	#DEP#com.bergerkiller.mountiplex:Mountiplex
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.code.gson:gson
+10	#DEP#net.milkbowl.vault:VaultAPI
+11	#DEP#com.kellerkindt:ShowCaseStandalone

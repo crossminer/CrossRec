@@ -1,0 +1,9 @@
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.elasticsearch.client:rest
+12	#DEP#org.springframework:spring-test
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+15	#DEP#org.apache.logging.log4j:log4j-1.2-api
+16	#DEP#org.elasticsearch.client:transport
+17	#DEP#junit:junit
+18	#DEP#cglib:cglib

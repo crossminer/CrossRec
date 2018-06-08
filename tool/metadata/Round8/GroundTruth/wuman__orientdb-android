@@ -1,0 +1,7 @@
+9	#DEP#com.wu-man:orientdb-android-client
+10	#DEP#com.wu-man:orientdb-android-core
+11	#DEP#com.wu-man:android-bsf-api
+12	#DEP#com.wu-man:orientdb-android-object
+13	#DEP#dnsjava:dnsjava
+14	#DEP#com.wu-man:orient-android-commons
+15	#DEP#com.wu-man:orientdb-android-nativeos

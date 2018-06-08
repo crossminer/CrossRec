@@ -1,0 +1,14 @@
+1	git://github.com/hitherejoe/Tabby.git
+2	#DEP#com.squareup.sqlbrite:sqlbrite
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#org.glassfish:javax.annotation
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.github.bumptech.glide:glide
+9	#DEP#com.squareup.retrofit:retrofit
+10	#DEP#com.squareup:otto
+11	#DEP#uk.co.ribot:easyadapter
+12	#DEP#junit:junit
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection
+14	#DEP#io.reactivex:rxandroid

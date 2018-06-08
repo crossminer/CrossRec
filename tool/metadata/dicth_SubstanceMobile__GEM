@@ -1,0 +1,14 @@
+1	git://github.com/SubstanceMobile/GEM.git
+2	#DEP#com.android.support:palette-v7
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.android.support:support-vector-drawable
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.android.support:design
+8	#DEP#com.github.plusCubed:recycler-fast-scroll
+9	#DEP#com.github.paolorotolo:gitty_reporter
+10	#DEP#com.android.support:animated-vector-drawable
+11	#DEP#com.android.support:cardview-v7
+12	#DEP#com.github.bumptech.glide:glide
+13	#DEP#com.android.support:support-v4
+14	#DEP#com.github.paolorotolo:appintro

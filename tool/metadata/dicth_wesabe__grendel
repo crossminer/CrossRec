@@ -1,0 +1,11 @@
+1	git://github.com/wesabe/grendel.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#joda-time:joda-time-hibernate
+4	#DEP#org.codehaus.jackson:jackson-xc
+5	#DEP#org.easytesting:fest-assert
+6	#DEP#com.codahale:shore
+7	#DEP#org.codehaus.jackson:jackson-jaxrs
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#org.bouncycastle:bcpg-jdk16

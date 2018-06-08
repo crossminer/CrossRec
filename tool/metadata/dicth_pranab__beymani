@@ -1,0 +1,12 @@
+1	git://github.com/pranab/beymani.git
+2	#DEP#org.apache.lucene:lucene-core
+3	#DEP#org.apache.hadoop:hadoop-core
+4	#DEP#mawazo:chombo
+5	#DEP#log4j:log4j
+6	#DEP#org.codehaus.jackson:jackson-core-asl
+7	#DEP#org.clojure:clojure-contrib
+8	#DEP#org.testng:testng
+9	#DEP#storm:storm
+10	#DEP#redis.clients:jedis
+11	#DEP#org.clojure:clojure
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl

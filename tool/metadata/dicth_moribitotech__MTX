@@ -1,0 +1,11 @@
+1	git://github.com/moribitotech/MTX.git
+2	#DEP#com.badlogicgames.gdx:gdx-platform
+3	#DEP#com.moribitotech:mtx-core
+4	#DEP#com.badlogicgames.gdx:gdx-backend-lwjgl
+5	#DEP#com.google.android:android
+6	#DEP#com.google.gwt:gwt-user
+7	#DEP#com.moribitotech:mtx
+8	#DEP#com.badlogicgames.gdx:gdx-backend-android
+9	#DEP#com.badlogicgames.gdx:gdx-backend-gwt
+10	#DEP#com.badlogicgames.gdx:gdx
+11	#DEP#com.google.gwt:gwt-servlet

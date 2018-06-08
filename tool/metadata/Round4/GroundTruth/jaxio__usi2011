@@ -1,0 +1,12 @@
+14	#DEP#com.jayway.awaitility:awaitility
+15	#DEP#org.springframework:spring-context
+16	#DEP#com.jayway.restassured:rest-assured
+17	#DEP#org.slf4j:slf4j-log4j12
+18	#DEP#org.apache.cassandra:cassandra-javautils
+19	#DEP#org.apache.cassandra:cassandra-all
+20	#DEP#org.easytesting:fest-assert
+21	#DEP#log4j:log4j
+22	#DEP#org.codehaus.groovy:groovy
+23	#DEP#org.json:json
+24	#DEP#junit:junit
+25	#DEP#commons-validator:commons-validator

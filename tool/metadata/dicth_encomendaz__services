@@ -1,0 +1,15 @@
+1	git://github.com/encomendaz/services.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.easymock:easymock
+4	#DEP#org.alfredlibrary:alfred
+5	#DEP#javax.persistence:persistence-api
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#org.jboss.resteasy:resteasy-bom
+8	#DEP#com.google.appengine:appengine-api-1.0-sdk
+9	#DEP#net.encomendaz:encomendaz-services-core
+10	#DEP#org.jboss.resteasy:resteasy-jaxrs
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#net.encomendaz:encomendaz-services-client
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+15	#DEP#junit:junit

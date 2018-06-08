@@ -1,0 +1,5 @@
+6	#DEP#org.mongodb:mongodb-driver
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#junit:junit
+9	#DEP#org.openjdk.jmh:jmh-core
+10	#DEP#cglib:cglib

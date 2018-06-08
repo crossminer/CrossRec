@@ -1,0 +1,11 @@
+1	git://github.com/stanfy/goro.git
+2	#DEP#com.stanfy.enroscar:enroscar-async-interface
+3	#DEP#com.squareup:tape
+4	#DEP#com.squareup.dagger:dagger-compiler
+5	#DEP#com.squareup.dagger:dagger
+6	#DEP#org.robolectric:robolectric
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.stanfy.enroscar:enroscar-async-compiler
+9	#DEP#junit:junit
+10	#DEP#com.stanfy.enroscar:enroscar-async
+11	#DEP#io.reactivex:rxjava

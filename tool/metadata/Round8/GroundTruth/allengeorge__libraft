@@ -1,0 +1,7 @@
+9	#DEP#org.hibernate:hibernate-validator-cdi
+10	#DEP#org.jdbi:jdbi
+11	#DEP#com.yammer.dropwizard:dropwizard-core
+12	#DEP#org.glassfish.web:el-impl
+13	#DEP#com.yammer.dropwizard:dropwizard-client
+14	#DEP#com.yammer.dropwizard:dropwizard-testing
+15	#DEP#com.h2database:h2

@@ -1,0 +1,10 @@
+11	#DEP#com.google.guava:guava-testlib
+12	#DEP#com.google.errorprone:error_prone_annotations
+13	#DEP#com.google.guava:guava-tests
+14	#DEP#org.mockito:mockito-core
+15	#DEP#${project.groupId}:guava
+16	#DEP#com.google.guava:guava
+17	#DEP#com.google.gwt:gwt-dev
+18	#DEP#com.google.truth.extensions:truth-java8-extension
+19	#DEP#junit:junit
+20	#DEP#org.codehaus.mojo:animal-sniffer-annotations

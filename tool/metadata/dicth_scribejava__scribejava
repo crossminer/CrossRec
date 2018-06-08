@@ -1,0 +1,14 @@
+1	git://github.com/scribejava/scribejava.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.github.scribejava:scribejava-httpclient-okhttp
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.httpcomponents:httpasyncclient
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.squareup.okhttp3:mockwebserver
+8	#DEP#com.github.scribejava:scribejava-httpclient-ning
+9	#DEP#com.github.scribejava:scribejava-core
+10	#DEP#com.ning:async-http-client
+11	#DEP#org.asynchttpclient:async-http-client
+12	#DEP#junit:junit
+13	#DEP#com.github.scribejava:scribejava-httpclient-ahc
+14	#DEP#com.github.scribejava:scribejava-httpclient-apache

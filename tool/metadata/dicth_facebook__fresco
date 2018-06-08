@@ -1,0 +1,10 @@
+1	git://github.com/facebook/fresco.git
+2	#DEP#:drawee-backends
+3	#DEP#:samples
+4	#DEP#com.caverock:androidsvg
+5	#DEP#com.jakewharton.picasso:picasso2-okhttp3-downloader
+6	#DEP#com.facebook.keyframes:keyframes
+7	#DEP#com.android.support.test:rules
+8	#DEP#:imagepipeline-backends
+9	#DEP#com.android.support.test:runner
+10	#DEP#:tools

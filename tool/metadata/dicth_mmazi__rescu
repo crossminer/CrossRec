@@ -1,0 +1,14 @@
+1	git://github.com/mmazi/rescu.git
+2	#DEP#net.iharder:base64
+3	#DEP#org.assertj:assertj-core
+4	#DEP#eu.codearte.catch-exception:catch-exception
+5	#DEP#org.testng:testng
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.mockito:mockito-all
+10	#DEP#joda-time:joda-time
+11	#DEP#javax.ws.rs:jsr311-api
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#oauth.signpost:signpost-core
+14	#DEP#com.google.guava:guava

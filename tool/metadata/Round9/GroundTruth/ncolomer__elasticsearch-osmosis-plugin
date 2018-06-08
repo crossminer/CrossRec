@@ -1,0 +1,5 @@
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.spatial4j:spatial4j
+10	#DEP#junit:junit
+11	#DEP#org.elasticsearch:elasticsearch

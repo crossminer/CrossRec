@@ -1,0 +1,10 @@
+1	git://github.com/javanna/elasticshell.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.mozilla:rhino
+4	#DEP#jline:jline
+5	#DEP#ch.qos.logback:logback-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.testng:testng
+8	#DEP#com.spatial4j:spatial4j
+9	#DEP#org.fusesource.jansi:jansi
+10	#DEP#org.elasticsearch:elasticsearch

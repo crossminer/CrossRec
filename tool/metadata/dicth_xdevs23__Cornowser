@@ -1,0 +1,10 @@
+1	git://github.com/xdevs23/Cornowser.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.github.rey5137:material
+5	#DEP#org.xwalk:xwalk_core_library_canary
+6	#DEP#org.michaelevans.colorart:library
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.baoyz.pullrefreshlayout:library
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design

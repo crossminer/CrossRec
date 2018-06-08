@@ -1,0 +1,5 @@
+7	#DEP#com.nineoldandroids:library
+8	#DEP#junit:junit
+9	#DEP#com.github.rtyley:roboguice-sherlock
+10	#DEP#com.actionbarsherlock:library
+11	#DEP#com.actionbarsherlock:parent-sample

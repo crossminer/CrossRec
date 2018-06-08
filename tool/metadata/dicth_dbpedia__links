@@ -1,0 +1,15 @@
+1	git://github.com/dbpedia/links.git
+2	#DEP#org.aksw.jena-sparql-api:jena-sparql-api-resources
+3	#DEP#org.aksw.rdfunit:rdfunit-core
+4	#DEP#org.aksw.jena-sparql-api:jena-sparql-api-core
+5	#DEP#org.apache.jena:jena-arq
+6	#DEP#net.sf.jopt-simple:jopt-simple
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.apache.jena:jena-core
+9	#DEP#org.aksw.jena-sparql-api:jena-sparql-api-cache-h2
+10	#DEP#org.dbpedia.data:redirects
+11	#DEP#org.apache.commons:commons-compress
+12	#DEP#org.aksw.rdfunit:rdfunit-io
+13	#DEP#org.scala-lang:scala-library
+14	#DEP#junit:junit
+15	#DEP#org.mapdb:mapdb

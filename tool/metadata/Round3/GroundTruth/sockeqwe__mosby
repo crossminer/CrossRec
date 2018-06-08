@@ -1,0 +1,9 @@
+10	#DEP#de.greenrobot:eventbus
+11	#DEP#com.android.support:design
+12	#DEP#com.melnykov:floatingactionbutton
+13	#DEP#com.jpardogo.materialtabstrip:library
+14	#DEP#com.github.bumptech.glide:glide
+15	#DEP#com.google.code.findbugs:annotations
+16	#DEP#com.android.support.constraint:constraint-layout
+17	#DEP#junit:junit
+18	#DEP#com.github.chenupt:DragTopLayout

@@ -1,0 +1,13 @@
+15	#DEP#org.jboss:jboss-common-core
+16	#DEP#org.xerial.snappy:snappy-java
+17	#DEP#javax.inject:javax.inject
+18	#DEP#org.springframework:spring-context
+19	#DEP#org.springframework:spring-oxm
+20	#DEP#org.springframework:spring-orm
+21	#DEP#org.slf4j:slf4j-log4j12
+22	#DEP#org.msgpack:msgpack-rpc
+23	#DEP#org.springframework:spring-jms
+24	#DEP#org.jboss.remoting:jboss-remoting
+25	#DEP#org.apache.avro:avro
+26	#DEP#jboss:jboss-jmx
+27	#DEP#org.apache.activemq:activemq-core

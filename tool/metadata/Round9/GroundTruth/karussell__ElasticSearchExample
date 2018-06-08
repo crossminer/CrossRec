@@ -1,0 +1,5 @@
+7	#DEP#org.apache.wicket:wicket
+8	#DEP#org.apache.wicket:wicket-extensions
+9	#DEP#junit:junit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.elasticsearch:elasticsearch

@@ -1,0 +1,7 @@
+8	#DEP#sc.fiji:imagescience
+9	#DEP#net.imglib2:imglib2
+10	#DEP#org.scijava:pom-scijava
+11	#DEP#net.imglib2:imglib2-algorithm-gpl
+12	#DEP#sc.fiji:VIB-lib
+13	#DEP#net.imagej:ij
+14	#DEP#junit:junit

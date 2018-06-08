@@ -1,0 +1,6 @@
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#org.json:json
+12	#DEP#junit:junit

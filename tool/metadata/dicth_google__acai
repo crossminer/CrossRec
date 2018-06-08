@@ -1,0 +1,12 @@
+1	git://github.com/google/acai.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.google.errorprone:error_prone_annotations
+4	#DEP#com.google.inject:guice
+5	#DEP#com.google.auto.value:auto-value
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#com.google.inject.extensions:guice-multibindings
+12	#DEP#com.google.truth:truth

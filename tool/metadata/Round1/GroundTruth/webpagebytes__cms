@@ -1,0 +1,5 @@
+7	#DEP#commons-fileupload:commons-fileupload
+8	#DEP#org.json:json
+9	#DEP#org.powermock:powermock-module-test-easymock-junit4
+10	#DEP#junit:junit
+11	#DEP#org.freemarker:freemarker

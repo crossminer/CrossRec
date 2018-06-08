@@ -1,0 +1,6 @@
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.android.support:design
+10	#DEP#com.android.tools.build:builder
+11	#DEP#org.codehaus.groovy:groovy
+12	#DEP#junit:junit
+13	#DEP#com.android.tools.build:gradle

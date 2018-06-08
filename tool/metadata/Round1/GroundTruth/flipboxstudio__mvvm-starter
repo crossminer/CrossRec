@@ -1,0 +1,10 @@
+11	#DEP#io.jsonwebtoken:jjwt
+12	#DEP#com.squareup.okhttp3:logging-interceptor
+13	#DEP#com.github.bumptech.glide:glide
+14	#DEP#com.github.bumptech.glide:compiler
+15	#DEP#com.android.support:support-v4
+16	#DEP#com.squareup.retrofit2:adapter-rxjava2
+17	#DEP#com.squareup.retrofit2:retrofit
+18	#DEP#com.orhanobut:hawk
+19	#DEP#junit:junit
+20	#DEP#com.github.Ilhasoft:data-binding-validator

@@ -1,0 +1,10 @@
+1	git://github.com/classtag/learn_crawler.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#org.apache.hbase:hbase
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#com.sleepycat:je
+7	#DEP#org.apache.hadoop:hadoop-common
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-hdfs
+10	#DEP#org.htmlparser:htmlparser

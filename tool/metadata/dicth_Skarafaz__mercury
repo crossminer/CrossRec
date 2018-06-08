@@ -1,0 +1,15 @@
+1	git://github.com/Skarafaz/mercury.git
+2	#DEP#com.github.tony19:logback-android-core
+3	#DEP#com.afollestad.material-dialogs:core
+4	#DEP#commons-io:commons-io
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.jcraft:jsch
+9	#DEP#org.greenrobot:eventbus
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#com.fasterxml.jackson.core:jackson-databind
+12	#DEP#com.jakewharton:butterknife
+13	#DEP#com.github.tony19:logback-android-classic
+14	#DEP#org.greenrobot:eventbus-annotation-processor
+15	#DEP#com.android.support:support-v4

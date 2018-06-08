@@ -1,0 +1,10 @@
+1	git://github.com/sachin-handiekar/jInstagram.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.mockito:mockito-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit

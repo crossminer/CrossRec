@@ -1,0 +1,6 @@
+7	#DEP#net.sf.trove4j:trove4j
+8	#DEP#log4j:log4j
+9	#DEP#com.typesafe.akka:akka-actor
+10	#DEP#junit:junit
+11	#DEP#org.freemarker:freemarker
+12	#DEP#com.googlecode.charts4j:charts4j

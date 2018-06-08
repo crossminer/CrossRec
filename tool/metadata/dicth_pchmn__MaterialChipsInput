@@ -1,0 +1,11 @@
+1	git://github.com/pchmn/MaterialChipsInput.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#com.tbruyelle.rxpermissions2:rxpermissions
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#de.hdodenhof:circleimageview
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.beloo.widget:ChipsLayoutManager
+11	#DEP#com.jakewharton:butterknife

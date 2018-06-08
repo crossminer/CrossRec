@@ -1,0 +1,13 @@
+1	git://github.com/Raizlabs/DBFlow.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#org.glassfish:javax.annotation
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.squareup:javapoet
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#org.awaitility:awaitility
+9	#DEP#org.mockito:mockito-core
+10	#DEP#net.zetetic:android-database-sqlcipher
+11	#DEP#com.github.agrosner:KPoet
+12	#DEP#junit:junit
+13	#DEP#io.reactivex:rxjava

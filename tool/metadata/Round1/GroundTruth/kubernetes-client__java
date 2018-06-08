@@ -1,0 +1,10 @@
+11	#DEP#com.google.protobuf:protobuf-java
+12	#DEP#io.kubernetes:client-java-proto
+13	#DEP#commons-codec:commons-codec
+14	#DEP#io.kubernetes:client-java
+15	#DEP#com.github.stefanbirkner:system-rules
+16	#DEP#log4j:log4j
+17	#DEP#io.kubernetes:client-java-api
+18	#DEP#com.google.guava:guava
+19	#DEP#io.swagger:swagger-annotations
+20	#DEP#junit:junit

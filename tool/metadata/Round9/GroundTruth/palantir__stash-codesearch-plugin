@@ -1,0 +1,10 @@
+11	#DEP#commons-lang:commons-lang
+12	#DEP#org.elasticsearch:elasticsearch
+13	#DEP#commons-codec:commons-codec
+14	#DEP#com.atlassian.sal:sal-api
+15	#DEP#com.atlassian.stash:stash-spi
+16	#DEP#com.atlassian.stash:stash-scm-common
+17	#DEP#ch.qos.logback:logback-classic
+18	#DEP#javax.servlet:servlet-api
+19	#DEP#com.atlassian.stash:stash-page-objects
+20	#DEP#com.atlassian.activeobjects:activeobjects-plugin

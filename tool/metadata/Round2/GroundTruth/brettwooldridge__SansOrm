@@ -1,0 +1,6 @@
+8	#DEP#javax.transaction:transaction-api
+9	#DEP#org.eclipse.persistence:javax.persistence
+10	#DEP#org.apache.felix:maven-bundle-plugin
+11	#DEP#com.zaxxer:HikariCP
+12	#DEP#junit:junit
+13	#DEP#com.h2database:h2

@@ -1,0 +1,16 @@
+17	#DEP#spymemcached:spymemcached
+18	#DEP#org.apache.httpcomponents:httpcore
+19	#DEP#javax.validation:validation-api
+20	#DEP#org.hibernate:hibernate-validator
+21	#DEP#org.apache.httpcomponents:httpclient
+22	#DEP#commons-logging:commons-logging
+23	#DEP#org.codehaus.jackson:jackson-core-lgpl
+24	#DEP#org.apache.cxf:cxf-rt-frontend-jaxrs
+25	#DEP#joda-time:joda-time
+26	#DEP#c3p0:c3p0
+27	#DEP#org.springframework:spring-web
+28	#DEP#org.apache.cxf:cxf-api
+29	#DEP#org.scala-lang:scala-library
+30	#DEP#org.scalatest:scalatest
+31	#DEP#junit:junit
+32	#DEP#cglib:cglib

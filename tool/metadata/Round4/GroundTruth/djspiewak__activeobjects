@@ -1,0 +1,7 @@
+8	#DEP#org.slf4j:log4j
+9	#DEP#activeobjects:activeobjects
+10	#DEP#proxool:proxool
+11	#DEP#org.apache.derby:derby
+12	#DEP#snaq.db.dbpool:dbpool
+13	#DEP#org.apache.wicket:wicket-extensions
+14	#DEP#org.slf4j:slf4j-jdk14

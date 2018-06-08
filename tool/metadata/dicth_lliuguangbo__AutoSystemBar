@@ -1,0 +1,11 @@
+1	git://github.com/lliuguangbo/AutoSystemBar.git
+2	#DEP#com.android.support:palette-v7
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:support-vector-drawable
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

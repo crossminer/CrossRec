@@ -1,0 +1,5 @@
+1	git://github.com/apereo/cas.git
+2	#DEP#:support
+3	#DEP#:core
+4	#DEP#:api
+5	#DEP#org.apereo.cas:cas-server-webapp${app.server}

@@ -1,0 +1,12 @@
+1	git://github.com/wesabe/brcm-accounts-api.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#joda-time:joda-time-hibernate
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.easytesting:fest-assert
+6	#DEP#org.hibernate:hibernate-jmx
+7	#DEP#org.mockito:mockito-core
+8	#DEP#com.wesabe:xmlson
+9	#DEP#com.codahale:shore
+10	#DEP#junit:junit
+11	#DEP#joda-time:joda-time
+12	#DEP#com.ibm.icu:icu4j

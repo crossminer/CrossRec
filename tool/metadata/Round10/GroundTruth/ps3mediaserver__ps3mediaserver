@@ -1,0 +1,15 @@
+17	#DEP#org.apache.commons:commons-lang3
+18	#DEP#com.jgoodies:jgoodies-forms
+19	#DEP#com.google.code.gson:gson
+20	#DEP#com.jgoodies:jgoodies-looks
+21	#DEP#jwbroek.cuelib:cuelib
+22	#DEP#org.slf4j:jcl-over-slf4j
+23	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+24	#DEP#org.easytesting:fest-assert
+25	#DEP#ch.qos.logback:logback-core
+26	#DEP#org:jaudiotagger
+27	#DEP#ch.qos.logback:logback-classic
+28	#DEP#commons-collections:commons-collections
+29	#DEP#xmlwise:xmlwise
+30	#DEP#junit:junit
+31	#DEP#com.h2database:h2

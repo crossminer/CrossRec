@@ -1,0 +1,9 @@
+10	#DEP#com.intellij:annotations
+11	#DEP#org.powermock:powermock-api-mockito
+12	#DEP#org.springframework.security:spring-security-config
+13	#DEP#org.springframework.security:spring-security-web
+14	#DEP#org.slf4j:slf4j-log4j12
+15	#DEP#org.springframework:spring-web
+16	#DEP#javax.servlet:servlet-api
+17	#DEP#org.apache.tomcat:servlet-api
+18	#DEP#junit:junit

@@ -1,0 +1,13 @@
+1	git://github.com/tomp2p/TomP2P.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.apache.felix:org.osgi.core
+6	#DEP#org.mockito:mockito-all
+7	#DEP#io.netty:netty-codec
+8	#DEP#io.netty:netty-transport
+9	#DEP#io.netty:netty-handler
+10	#DEP#${project.groupId}:tomp2p-core
+11	#DEP#io.netty:netty-buffer
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

@@ -1,0 +1,5 @@
+7	#DEP#junit:junit
+8	#DEP#joda-time:joda-time
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.eclipse.jetty:jetty-client
+11	#DEP#org.eclipse.jetty:jetty-servlet

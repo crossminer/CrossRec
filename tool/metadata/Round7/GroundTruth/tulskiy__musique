@@ -1,0 +1,9 @@
+10	#DEP#org:jaudiotagger
+11	#DEP#com.beatofthedrum:alacdecoder
+12	#DEP#javazoom:javalayer
+13	#DEP#org.benow:discogs
+14	#DEP#net.sourceforge:jaad
+15	#DEP#junit:junit
+16	#DEP#javaFlacEncoder:javaFlacEncoder
+17	#DEP#com.wavpack:wavpack
+18	#DEP#org.xiph:vorbis-java

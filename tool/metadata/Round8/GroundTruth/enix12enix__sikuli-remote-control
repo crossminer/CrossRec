@@ -1,0 +1,5 @@
+7	#DEP#org.easymock:easymock
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-lang:commons-lang

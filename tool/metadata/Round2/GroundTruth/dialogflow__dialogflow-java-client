@@ -1,0 +1,11 @@
+13	#DEP#ai.api.libai.speech:libai-speech-gcp
+14	#DEP#com.twilio.sdk:twilio-java-sdk
+15	#DEP#org.springframework:spring-test
+16	#DEP#javax.servlet:javax.servlet-api
+17	#DEP#com.google.guava:guava
+18	#DEP#org.apache.httpcomponents:httpmime
+19	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+20	#DEP#junit:junit
+21	#DEP#com.google.cloud:google-cloud-speech
+22	#DEP#org.apache.logging.log4j:log4j-api
+23	#DEP#org.slf4j:slf4j-jdk14

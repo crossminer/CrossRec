@@ -1,0 +1,13 @@
+1	git://github.com/super-csv/super-csv.git
+2	#DEP#org.slf4j:slf4j-nop
+3	#DEP#net.sf.supercsv:super-csv-dozer
+4	#DEP#net.sf.dozer:dozer
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#joda-time:joda-time
+7	#DEP#net.sf.supercsv:super-csv-java8
+8	#DEP#net.sf.supercsv:super-csv
+9	#DEP#net.sf.supercsv:super-csv-joda
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#junit:junit
+12	#DEP#com.carrotsearch:junit-benchmarks
+13	#DEP#com.h2database:h2

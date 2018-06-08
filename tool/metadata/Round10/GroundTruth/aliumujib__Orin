@@ -1,0 +1,14 @@
+15	#DEP#com.github.kabouzeid:RecyclerView-FastScroll
+16	#DEP#com.heinrichreimersoftware:material-intro
+17	#DEP#com.github.ksoichiro:android-observablescrollview
+18	#DEP#com.github.kabouzeid:app-theme-helper
+19	#DEP#com.android.support:appcompat-v7
+20	#DEP#com.jakewharton:butterknife
+21	#DEP#com.afollestad.material-dialogs:commons
+22	#DEP#de.psdev.licensesdialog:licensesdialog
+23	#DEP#com.github.kabouzeid:AndroidSlidingUpPanel
+24	#DEP#me.zhanghai.android.materialprogressbar:library
+25	#DEP#com.github.bumptech.glide:glide
+26	#DEP#com.afollestad:material-cab
+27	#DEP#com.android.support:support-v4
+28	#DEP#junit:junit

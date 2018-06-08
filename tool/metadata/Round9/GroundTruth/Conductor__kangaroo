@@ -1,0 +1,7 @@
+9	#DEP#org.mockito:mockito-core
+10	#DEP#org.apache.hadoop:hadoop-client
+11	#DEP#org.scala-lang:scala-library
+12	#DEP#com.google.guava:guava
+13	#DEP#org.apache.hadoop:hadoop-common
+14	#DEP#junit:junit
+15	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

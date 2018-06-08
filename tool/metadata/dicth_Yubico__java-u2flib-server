@@ -1,0 +1,16 @@
+1	git://github.com/Yubico/java-u2flib-server.git
+2	#DEP#io.dropwizard:dropwizard-views-freemarker
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#io.dropwizard:dropwizard-views
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#org.freemarker:freemarker
+8	#DEP#org.mockito:mockito-core
+9	#DEP#com.google.guava:guava
+10	#DEP#com.yubico:u2flib-server-attestation
+11	#DEP#io.dropwizard:dropwizard-assets
+12	#DEP#org.bouncycastle:bcpkix-jdk15on
+13	#DEP#org.projectlombok:lombok
+14	#DEP#junit:junit
+15	#DEP#com.yubico:u2flib-server-core
+16	#DEP#io.dropwizard:dropwizard-core

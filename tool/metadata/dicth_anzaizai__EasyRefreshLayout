@@ -1,0 +1,11 @@
+1	git://github.com/anzaizai/EasyRefreshLayout.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.github.ybq:Android-SpinKit
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.bigkoo:convenientbanner
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

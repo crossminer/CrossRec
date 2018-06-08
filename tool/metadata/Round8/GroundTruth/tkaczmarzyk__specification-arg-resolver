@@ -1,0 +1,9 @@
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#org.springframework:spring-test
+13	#DEP#org.mockito:mockito-core
+14	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+15	#DEP#org.springframework:spring-webmvc
+16	#DEP#javax.servlet:javax.servlet-api
+17	#DEP#com.jayway.jsonpath:json-path
+18	#DEP#junit:junit
+19	#DEP#com.h2database:h2

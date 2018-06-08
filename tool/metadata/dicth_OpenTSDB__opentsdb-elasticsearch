@@ -1,0 +1,14 @@
+1	git://github.com/OpenTSDB/opentsdb-elasticsearch.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.httpcomponents:httpasyncclient
+6	#DEP#net.opentsdb:opentsdb
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.powermock:powermock-api-mockito
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit

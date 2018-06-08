@@ -1,0 +1,10 @@
+11	#DEP#org.sonatype.sisu.inject:cglib
+12	#DEP#org.springframework:spring-beans
+13	#DEP#javax.persistence:persistence-api
+14	#DEP#org.hsqldb:hsqldb-j5
+15	#DEP#com.google.inject:guice
+16	#DEP#com.google.inject.extensions:guice-assistedinject
+17	#DEP#org.apache.struts:struts2-core
+18	#DEP#javax.servlet:servlet-api
+19	#DEP#aopalliance:aopalliance
+20	#DEP#com.google.inject.extensions:guice-multibindings

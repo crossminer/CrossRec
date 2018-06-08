@@ -1,0 +1,13 @@
+15	#DEP#com.google.guava:com.google.guava
+16	#DEP#io.searchbox:jest
+17	#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core
+18	#DEP#com.graphaware.neo4j:writer-api
+19	#DEP#org.apache.httpcomponents:org.apache.httpcomponents
+20	#DEP#org.skyscreamer:jsonassert
+21	#DEP#org.springframework:org.springframework
+22	#DEP#org.neo4j:org.neo4j
+23	#DEP#org.apache.commons:org.apache.commons
+24	#DEP#com.esotericsoftware:com.esotericsoftware
+25	#DEP#com.graphaware.neo4j:writer
+26	#DEP#com.graphaware.integration.es:elasticsearch-tests-integration
+27	#DEP#junit:junit

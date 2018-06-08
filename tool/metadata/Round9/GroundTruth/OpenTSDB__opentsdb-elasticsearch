@@ -1,0 +1,7 @@
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.powermock:powermock-api-mockito
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit

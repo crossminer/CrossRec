@@ -1,0 +1,12 @@
+1	git://github.com/SusionSuc/Boring.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.facebook.fresco:fresco
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

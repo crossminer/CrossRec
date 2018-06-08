@@ -1,0 +1,12 @@
+1	git://github.com/rosjava/android_core.git
+2	#DEP#org.ros.rosjava_core:rosjava_geometry
+3	#DEP#ros.rosjava_core:rosjava
+4	#DEP#org.ros.rosjava_messages:sensor_msgs
+5	#DEP#org.ros.rosjava_messages:visualization_msgs
+6	#DEP#org.ros.rosjava_core:rosjava_benchmarks
+7	#DEP#com.android.support:support-v4
+8	#DEP#org.ros.rosjava_core:rosjava_tutorial_pubsub
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#org.ros.rosjava_messages:diagnostic_msgs
+12	#DEP#org.ros.rosjava_core:rosjava

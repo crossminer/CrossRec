@@ -1,0 +1,14 @@
+1	git://github.com/djspiewak/activeobjects.git
+2	#DEP#org.apache.lucene:lucene-core
+3	#DEP#ant:ant
+4	#DEP#org.apache.lucene:lucene-queries
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#org.apache.wicket:wicket
+7	#DEP#c3p0:c3p0
+8	#DEP#org.slf4j:log4j
+9	#DEP#activeobjects:activeobjects
+10	#DEP#proxool:proxool
+11	#DEP#org.apache.derby:derby
+12	#DEP#snaq.db.dbpool:dbpool
+13	#DEP#org.apache.wicket:wicket-extensions
+14	#DEP#org.slf4j:slf4j-jdk14

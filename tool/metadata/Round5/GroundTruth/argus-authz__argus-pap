@@ -1,0 +1,10 @@
+11	#DEP#org.opensaml:opensaml
+12	#DEP#commons-configuration:commons-configuration
+13	#DEP#ch.qos.logback:logback-core
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#xerces:xercesImpl
+16	#DEP#junit:junit
+17	#DEP#org.italiangrid:voms-api-java
+18	#DEP#eu.eu-emi.security:canl
+19	#DEP#axis:axis
+20	#DEP#axis:axis-jaxrpc

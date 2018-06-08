@@ -1,0 +1,6 @@
+8	#DEP#log4j:log4j
+9	#DEP#org.apache.httpcomponents:httpmime
+10	#DEP#org.json:json
+11	#DEP#org.apache.httpcomponents:httpcore
+12	#DEP#org.apache.httpcomponents:httpcore-nio
+13	#DEP#junit:junit

@@ -1,0 +1,5 @@
+7	#DEP#org.apache.httpcomponents:httpmime
+8	#DEP#org.codehaus.groovy:groovy-all
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.elasticsearch:elasticsearch

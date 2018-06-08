@@ -1,0 +1,13 @@
+1	git://github.com/canbican/wordpress-java.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#redstone.xmlrpc:xmlrpc
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#joda-time:joda-time
+8	#DEP#commons-lang:commons-lang
+9	#DEP#commons-configuration:commons-configuration
+10	#DEP#commons-collections:commons-collections
+11	#DEP#org.json:json
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit

@@ -1,0 +1,5 @@
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.google.guava:guava
+9	#DEP#javax.json:javax.json-api
+10	#DEP#com.google.common.html.types:types
+11	#DEP#junit:junit

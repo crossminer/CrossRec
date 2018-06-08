@@ -1,0 +1,10 @@
+12	#DEP#org.springframework:spring-mock
+13	#DEP#velocity:velocity
+14	#DEP#jargs:jargs
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#commons-collections:commons-collections
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#org.apache.xalan:xalan
+19	#DEP#org.apache.xerces:serializer
+20	#DEP#junit:junit
+21	#DEP#org.apache.xerces:xml-apis

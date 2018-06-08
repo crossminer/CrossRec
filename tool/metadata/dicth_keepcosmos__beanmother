@@ -1,0 +1,11 @@
+1	git://github.com/keepcosmos/beanmother.git
+2	#DEP#com.github.javafaker:javafaker
+3	#DEP#com.joestelmach:natty
+4	#DEP#${project.groupId}:beanmother-core
+5	#DEP#org.yaml:snakeyaml
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#com.google.guava:guava
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#io.beanmother:beanmother
+10	#DEP#junit:junit
+11	#DEP#joda-time:joda-time

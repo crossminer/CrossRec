@@ -1,0 +1,15 @@
+1	git://github.com/hypergrid-inc/dchq-docker-java-example.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#net.snaq:dbpool
+4	#DEP#com.oracle:ojdbc7
+5	#DEP#org.postgresql:postgresql
+6	#DEP#jstl:jstl
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#javax:javaee-api
+11	#DEP#org.liquibase:liquibase-core
+12	#DEP#org.apache.velocity:velocity
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#junit:junit

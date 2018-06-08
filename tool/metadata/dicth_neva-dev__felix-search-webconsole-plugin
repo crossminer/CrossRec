@@ -1,0 +1,13 @@
+1	git://github.com/neva-dev/felix-search-webconsole-plugin.git
+2	#DEP#org.bitbucket.mstrobel:procyon-reflection
+3	#DEP#commons-io:commons-io
+4	#DEP#org.bitbucket.mstrobel:procyon-compilertools
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.bitbucket.mstrobel:procyon-core
+9	#DEP#org.osgi:org.osgi.compendium
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#com.google.guava:guava
+12	#DEP#org.apache.felix:org.apache.felix.webconsole
+13	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,12 @@
+1	git://github.com/Netflix/spectator.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#org.springframework:spring-web
+4	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+5	#DEP#log4j:log4j
+6	#DEP#org.apache.spark:spark-core_2.10
+7	#DEP#org.springframework.boot:spring-boot-autoconfigure
+8	#DEP#org.springframework:spring-beans
+9	#DEP#software.amazon.awssdk:core
+10	#DEP#org.openjdk.jol:jol-core
+11	#DEP#software.amazon.awssdk:cloudwatch
+12	#DEP#org.openjdk.jmh:jmh-core

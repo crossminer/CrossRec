@@ -1,0 +1,5 @@
+6	#DEP#com.android.support.test:rules
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.android.support.test:runner
+10	#DEP#com.android.support.test.espresso:espresso-core

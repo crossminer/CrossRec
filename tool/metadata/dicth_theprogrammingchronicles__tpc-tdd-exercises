@@ -1,0 +1,7 @@
+1	git://github.com/theprogrammingchronicles/tpc-tdd-exercises.git
+2	#DEP#org.mockito:mockito-all
+3	#DEP#javax.servlet.jsp:jsp-api
+4	#DEP#taglibs:standard
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#javax.servlet:jstl
+7	#DEP#junit:junit

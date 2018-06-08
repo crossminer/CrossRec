@@ -1,0 +1,6 @@
+7	#DEP#org.mockito:mockito-core
+8	#DEP#com.wesabe:xmlson
+9	#DEP#com.codahale:shore
+10	#DEP#junit:junit
+11	#DEP#joda-time:joda-time
+12	#DEP#com.ibm.icu:icu4j

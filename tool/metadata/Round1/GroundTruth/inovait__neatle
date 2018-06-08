@@ -1,0 +1,5 @@
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

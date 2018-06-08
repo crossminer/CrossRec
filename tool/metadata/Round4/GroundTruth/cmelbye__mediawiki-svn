@@ -1,0 +1,13 @@
+15	#DEP#mysql:mysql-connector-java
+16	#DEP#de.wikimedia:WikiWord
+17	#DEP#ardverk:patricia-trie
+18	#DEP#org.beanshell:bsh-classpath
+19	#DEP#net.java.dev.swing-layout:swing-layout
+20	#DEP#de.brightbyte:BrightByteDB
+21	#DEP#xml-apis:xml-apis
+22	#DEP#postgresql:postgresql
+23	#DEP#org.neo4j:neo4j-utils
+24	#DEP#trove:trove
+25	#DEP#org.dbunit:dbunit
+26	#DEP#xerces:xercesImpl
+27	#DEP#org.neo4j:neo4j-index

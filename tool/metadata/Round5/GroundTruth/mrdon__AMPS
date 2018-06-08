@@ -1,0 +1,6 @@
+7	#DEP#org.apache.httpcomponents:httpclient
+8	#DEP#com.atlassian.maven.archetypes:confluence-plugin-archetype
+9	#DEP#com.atlassian.maven.archetypes:bamboo-plugin-archetype
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#junit:junit
+12	#DEP#org.codehaus.groovy:http-builder

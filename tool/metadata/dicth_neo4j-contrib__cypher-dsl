@@ -1,0 +1,11 @@
+1	git://github.com/neo4j-contrib/cypher-dsl.git
+2	#DEP#com.querydsl:querydsl-lucene3
+3	#DEP#com.querydsl:querydsl-apt
+4	#DEP#org.neo4j:neo4j
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#junit:junit
+8	#DEP#com.querydsl:querydsl-core
+9	#DEP#org.neo4j:neo4j-kernel
+10	#DEP#cglib:cglib
+11	#DEP#org.neo4j:neo4j-io

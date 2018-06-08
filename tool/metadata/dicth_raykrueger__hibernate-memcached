@@ -1,0 +1,11 @@
+1	git://github.com/raykrueger/hibernate-memcached.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#spy:spymemcached
+4	#DEP#com.danga:java_memcached
+5	#DEP#javassist:javassist
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.hibernate:hibernate-annotations
+8	#DEP#hsqldb:hsqldb
+9	#DEP#org.codehaus.groovy:groovy-all
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

@@ -1,0 +1,8 @@
+9	#DEP#jfree:jfreechart
+10	#DEP#org.apache.xmlrpc:xmlrpc-client
+11	#DEP#struts:struts
+12	#DEP#log4j:log4j
+13	#DEP#xerces:xercesImpl
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#org.json:json
+16	#DEP#junit:junit

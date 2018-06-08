@@ -1,0 +1,14 @@
+1	git://github.com/flaxsearch/luwak.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#org.assertj:assertj-core
+4	#DEP#${lucene.group}:lucene-analyzers-common
+5	#DEP#${lucene.group}:lucene-core
+6	#DEP#org.reflections:reflections
+7	#DEP#org.mockito:mockito-core
+8	#DEP#${lucene.group}:lucene-queryparser
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#com.google.guava:guava
+11	#DEP#com.github.flaxsearch:luwak
+12	#DEP#junit:junit
+13	#DEP#${lucene.group}:lucene-memory
+14	#DEP#${lucene.group}:lucene-queries

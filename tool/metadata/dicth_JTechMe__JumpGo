@@ -1,0 +1,12 @@
+1	git://github.com/JTechMe/JumpGo.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.anthonycr.grant:permissions
+4	#DEP#javax.annotation:jsr250-api
+5	#DEP#com.squareup.okhttp3:okhttp
+6	#DEP#com.firebase:firebase-jobdispatcher
+7	#DEP#com.anthonycr.progress:animated-progress
+8	#DEP#com.anthonycr.bonsai:bonsai
+9	#DEP#junit:junit
+10	#DEP#com.google.firebase:firebase-messaging
+11	#DEP#net.i2p.android:client
+12	#DEP#com.google.firebase:firebase-core

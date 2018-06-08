@@ -1,0 +1,6 @@
+7	#DEP#com.android.support:support-v4
+8	#DEP#org.ros.rosjava_core:rosjava_tutorial_pubsub
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#org.ros.rosjava_messages:diagnostic_msgs
+12	#DEP#org.ros.rosjava_core:rosjava

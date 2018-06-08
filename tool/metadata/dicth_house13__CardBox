@@ -1,0 +1,16 @@
+1	git://github.com/house13/CardBox.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.ant:ant
+4	#DEP#com.threerings:narya
+5	#DEP#org.apache.httpcomponents:httpasyncclient
+6	#DEP#com.samskivert:samskivert
+7	#DEP#com.threerings:nenya
+8	#DEP#com.google.inject:guice
+9	#DEP#com.samskivert:depot
+10	#DEP#log4j:log4j
+11	#DEP#com.threerings:vilya
+12	#DEP#com.threerings:getdown
+13	#DEP#com.google.guava:guava
+14	#DEP#com.restfb:restfb
+15	#DEP#commons-digester:commons-digester
+16	#DEP#junit:junit

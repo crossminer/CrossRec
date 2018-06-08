@@ -1,0 +1,14 @@
+16	#DEP#org.apache.axis2:axis2-codegen
+17	#DEP#org.springframework:spring-context
+18	#DEP#com.googlecode.json-simple:json-simple
+19	#DEP#org.apache.httpcomponents:httpclient
+20	#DEP#org.apache.struts:struts2-json-plugin
+21	#DEP#org.springframework:spring-beans
+22	#DEP#org.springframework:spring-orm
+23	#DEP#com.google.code.gson:gson
+24	#DEP#org.slf4j:slf4j-log4j12
+25	#DEP#org.springframework:spring-core
+26	#DEP#org.springframework:spring-web
+27	#DEP#org.apache.struts:struts2-core
+28	#DEP#log4j:log4j
+29	#DEP#org.apache.struts:struts2-convention-plugin

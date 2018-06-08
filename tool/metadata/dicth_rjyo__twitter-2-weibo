@@ -1,0 +1,16 @@
+1	git://github.com/rjyo/twitter-2-weibo.git
+2	#DEP#redis.clients:jedis
+3	#DEP#com.google.code.gson:gson
+4	#DEP#cron4j:cron4j
+5	#DEP#commons-lang:commons-lang
+6	#DEP#net.java.dev.jets3t:jets3t
+7	#DEP#commons-codec:commons-codec
+8	#DEP#org.apache.velocity:velocity
+9	#DEP#com.rosaloves:bitlyj
+10	#DEP#log4j:log4j
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.twitter4j:twitter4j-core
+13	#DEP#org.apache.velocity:velocity-tools
+14	#DEP#h2weibo:core
+15	#DEP#junit:junit
+16	#DEP#commons-httpclient:commons-httpclient

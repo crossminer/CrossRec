@@ -1,0 +1,13 @@
+1	git://github.com/BlueVia/Official-Library-Java.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.apache.httpcomponents:httpclient-cache
+4	#DEP#commons-logging:commons-logging
+5	#DEP#commons-lang:commons-lang
+6	#DEP#commons-codec:commons-codec
+7	#DEP#oauth.signpost:signpost-commonshttp4
+8	#DEP#javax.mail:mail
+9	#DEP#log4j:log4j
+10	#DEP#org.apache.httpcomponents:httpmime
+11	#DEP#oauth.signpost:signpost-core
+12	#DEP#org.apache.httpcomponents:httpcore
+13	#DEP#commons-httpclient:commons-httpclient

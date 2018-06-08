@@ -1,0 +1,5 @@
+6	#DEP#net.serenity-bdd:serenity-screenplay-webdriver
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#net.serenity-bdd:serenity-junit
+9	#DEP#junit:junit
+10	#DEP#net.serenity-bdd:serenity-cucumber

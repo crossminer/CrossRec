@@ -1,0 +1,15 @@
+1	git://github.com/lintool/Cloud9.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#info.bliki.wiki:bliki-core
+4	#DEP#org.apache.hbase:hbase-server
+5	#DEP#tl.lin:lintools-datatypes-fastutil
+6	#DEP#org.apache.hbase:hbase-client
+7	#DEP#org.htmlparser:htmlparser
+8	#DEP#org.apache.hadoop:hadoop-streaming
+9	#DEP#commons-lang:commons-lang
+10	#DEP#tl.lin:lintools-datatypes
+11	#DEP#net.sf.jung:jung-algorithms
+12	#DEP#org.apache.hadoop:hadoop-client
+13	#DEP#org.apache.pig:pig
+14	#DEP#net.sf.jung:jung-graph-impl
+15	#DEP#net.sf.jung:jung-api

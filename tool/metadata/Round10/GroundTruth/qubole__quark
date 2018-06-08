@@ -1,0 +1,15 @@
+16	#DEP#com.qubole:quark-catalog
+17	#DEP#commons-logging:commons-logging
+18	#DEP#com.fasterxml.jackson.core:jackson-databind
+19	#DEP#org.apache.calcite.avatica:avatica-server
+20	#DEP#com.qubole:quark-plugins
+21	#DEP#com.fasterxml.jackson.core:jackson-annotations
+22	#DEP#com.fasterxml.jackson.core:jackson-core
+23	#DEP#com.qubole.qds-sdk-java:qds-sdk-java
+24	#DEP#org.slf4j:jcl-over-slf4j
+25	#DEP#ch.qos.logback:logback-core
+26	#DEP#ch.qos.logback:logback-classic
+27	#DEP#org.hamcrest:hamcrest-all
+28	#DEP#junit:junit
+29	#DEP#org.apache.calcite:calcite-core
+30	#DEP#com.h2database:h2

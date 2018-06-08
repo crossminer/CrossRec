@@ -1,0 +1,17 @@
+18	#DEP#jtidy:jtidy
+19	#DEP#net.openhft:chronicle
+20	#DEP#junit:junit
+21	#DEP#org.aspectj:aspectjrt
+22	#DEP#com.github.sirixdb.brackit:brackit
+23	#DEP#com.sun.jersey:jersey-client
+24	#DEP#org.testng:testng
+25	#DEP#org.apache.hadoop:hadoop-test
+26	#DEP#com.beust:jcommander
+27	#DEP#org.xerial.snappy:snappy-java
+28	#DEP#com.github.sirixdb.sirix:sirix-xquery
+29	#DEP#sonatype:controlP5
+30	#DEP#net.sf.saxon:Saxon-HE
+31	#DEP#com.google.code.gson:gson
+32	#DEP#org.mockito:mockito-core
+33	#DEP#ch.qos.logback:logback-classic
+34	#DEP#xerces:xercesImpl

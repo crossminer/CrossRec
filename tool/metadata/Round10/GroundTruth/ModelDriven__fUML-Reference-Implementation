@@ -1,0 +1,5 @@
+6	#DEP#commons-collections:commons-collections
+7	#DEP#xerces:xercesImpl
+8	#DEP#commons-logging:commons-logging
+9	#DEP#junit:junit
+10	#DEP#commons-lang:commons-lang

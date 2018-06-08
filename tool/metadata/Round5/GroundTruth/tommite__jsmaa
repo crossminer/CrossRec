@@ -1,0 +1,7 @@
+9	#DEP#jfree:jfreechart
+10	#DEP#javolution:javolution
+11	#DEP#org.drugis:common-gui
+12	#DEP#com.jgoodies:jgoodies-forms
+13	#DEP#com.jgoodies:jgoodies-looks
+14	#DEP#${pom.groupId}:gui
+15	#DEP#junit:junit

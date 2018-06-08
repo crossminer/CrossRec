@@ -1,0 +1,12 @@
+1	git://github.com/sirensolutions/siren-join.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.hamcrest:hamcrest-all
+4	#DEP#net.java.dev.jna:jna
+5	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+6	#DEP#com.google.guava:guava
+7	#DEP#junit:junit
+8	#DEP#org.apache.lucene:lucene-test-framework
+9	#DEP#com.carrotsearch:hppc
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#com.carrotsearch:junit-benchmarks
+12	#DEP#org.elasticsearch:elasticsearch

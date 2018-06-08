@@ -1,0 +1,11 @@
+1	git://github.com/crazyhitty/minx.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.afollestad:material-dialogs
+4	#DEP#cat.ereza:customactivityoncrash
+5	#DEP#com.pnikosis:materialish-progress
+6	#DEP#com.weiwangcn.betterspinner:library-material
+7	#DEP#com.balysv:material-ripple
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.github.leonardoxh:custom-font
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

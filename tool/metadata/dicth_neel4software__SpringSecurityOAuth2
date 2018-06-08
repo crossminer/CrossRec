@@ -1,0 +1,13 @@
+1	git://github.com/neel4software/SpringSecurityOAuth2.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#org.springframework.security:spring-security-web
+4	#DEP#org.springframework.security.oauth:spring-security-oauth2
+5	#DEP#com.google.code.gson:gson
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#org.springframework:spring-web
+8	#DEP#org.springframework:spring-context-support
+9	#DEP#log4j:log4j
+10	#DEP#org.springframework:spring-webmvc
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#org.springframework.security:spring-security-config
+13	#DEP#commons-httpclient:commons-httpclient

@@ -1,0 +1,12 @@
+1	git://github.com/adamrocker/volley.git
+2	#DEP#org.easytesting:fest-assert-core
+3	#DEP#com.google.android:support-v4
+4	#DEP#org.robolectric:org.robolectric
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.google.android:android
+7	#DEP#com.google.android:com.google.android
+8	#DEP#com.nineoldandroids:com.nineoldandroids
+9	#DEP#junit:junit
+10	#DEP#com.github.rtyley:com.github.rtyley
+11	#DEP#org.easytesting:org.easytesting
+12	#DEP#com.squareup:com.squareup

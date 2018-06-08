@@ -1,0 +1,7 @@
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#org.bitcoinj:bitcoinj-core
+11	#DEP#com.vinumeris:updatefx
+12	#DEP#net.sf.trove4j:trove4j
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit
+15	#DEP#org.slf4j:slf4j-jdk14

@@ -1,0 +1,13 @@
+14	#DEP#com.microsoft:sqljdbc
+15	#DEP#org.apache.directory.studio:org.apache.commons.io
+16	#DEP#org.mongodb:mongo-java-driver
+17	#DEP#com.force.api:force-partner-api
+18	#DEP#org.apache.directory.studio:org.dom4j.dom4j
+19	#DEP#com.jcraft:jsch
+20	#DEP#com.dp.cosmos:hive-jdbc
+21	#DEP#com.dp.nebula:nebula-common
+22	#DEP#postgresql:postgresql
+23	#DEP#org.apache.hbase:hbase
+24	#DEP#org.mockito:mockito-core
+25	#DEP#org.powermock:powermock-api-easymock
+26	#DEP#org.hsqldb:hsqldb

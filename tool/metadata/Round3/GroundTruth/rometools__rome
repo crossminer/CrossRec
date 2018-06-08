@@ -1,0 +1,15 @@
+17	#DEP#org.hamcrest:hamcrest-library
+18	#DEP#org.apache.xmlrpc:xmlrpc-client
+19	#DEP#com.rometools:rome-fetcher
+20	#DEP#org.apache.commons:commons-lang3
+21	#DEP#javax.persistence:persistence-api
+22	#DEP#commons-beanutils:commons-beanutils
+23	#DEP#org.ops4j.pax.url:pax-url-wrap
+24	#DEP#com.rometools:rome-propono
+25	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+26	#DEP#com.rometools:rome-opml
+27	#DEP#com.rometools:rome-utils
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#javax.servlet:servlet-api
+30	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+31	#DEP#junit:junit

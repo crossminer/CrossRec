@@ -1,0 +1,10 @@
+1	git://github.com/mttkay/signpost.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.mockito:mockito-core
+5	#DEP#oauth.signpost:oauth-signpost
+6	#DEP#oauth.signpost:signpost-core
+7	#DEP#org.apache.httpcomponents:httpcore
+8	#DEP#junit:junit
+9	#DEP#commons-httpclient:commons-httpclient
+10	#DEP#org.mortbay.jetty:jetty-client

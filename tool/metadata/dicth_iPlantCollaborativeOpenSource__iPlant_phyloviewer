@@ -1,0 +1,16 @@
+1	git://github.com/iPlantCollaborativeOpenSource/iPlant_phyloviewer.git
+2	#DEP#org.postgis:postgis-jdbc
+3	#DEP#org.iplantc.phyloviewer:phyloviewer-gwt-client
+4	#DEP#org.iplantc.phyloviewer:phyloviewer-common
+5	#DEP#com.google.gwt:gwt-dev
+6	#DEP#com.extjs.gxt:ext-gwt
+7	#DEP#org.iplantc.core:phyloparser
+8	#DEP#org.iplantc.phyloviewer:phyloviewer-server
+9	#DEP#com.google.gwt:gwt-user
+10	#DEP#org.jmock:jmock-junit4
+11	#DEP#com.google.gwt:gwt-servlet
+12	#DEP#postgresql:postgresql
+13	#DEP#org.iplantc.core:broadcasters
+14	#DEP#log4j:log4j
+15	#DEP#org.json:json
+16	#DEP#junit:junit

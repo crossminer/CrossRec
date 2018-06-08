@@ -1,0 +1,13 @@
+1	git://github.com/spinscale/elasticsearch-suggest-plugin.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.apache.lucene:lucene-misc
+5	#DEP#org.codehaus.jackson:jackson-mapper-asl
+6	#DEP#org.hamcrest:hamcrest-core
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#org.elasticsearch:elasticsearch
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.ning:async-http-client
+11	#DEP#log4j:log4j
+12	#DEP#junit:junit
+13	#DEP#org.apache.lucene:lucene-test-framework

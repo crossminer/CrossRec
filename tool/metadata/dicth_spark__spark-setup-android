@@ -1,0 +1,13 @@
+1	git://github.com/spark/spark-setup-android.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.squareup.phrase:phrase
+8	#DEP#com.segment.analytics.android:analytics
+9	#DEP#io.particle:cloudsdk
+10	#DEP#net.orfjackal.retrolambda:retrolambda
+11	#DEP#junit:junit
+12	#DEP#uk.co.chrisjenx:calligraphy
+13	#DEP#com.squareup.okio:okio

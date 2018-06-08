@@ -1,0 +1,5 @@
+7	#DEP#xpp3:xpp3
+8	#DEP#org.eclipse.jetty:jetty-server
+9	#DEP#org.eclipse.jetty:jetty-webapp
+10	#DEP#net.sourceforge.jweather:jweather
+11	#DEP#org.igniterealtime:tinder

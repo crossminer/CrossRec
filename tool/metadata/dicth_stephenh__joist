@@ -1,0 +1,12 @@
+1	git://github.com/stephenh/joist.git
+2	#DEP#com.mchange:c3p0
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.apache.maven.wagon:wagon-ssh
+5	#DEP#org.postgresql:postgresql
+6	#DEP#com.bizo:timeandmoney
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.zaxxer:HikariCP
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#commons-lang:commons-lang

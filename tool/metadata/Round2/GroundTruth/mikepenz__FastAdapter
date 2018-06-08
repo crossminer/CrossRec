@@ -1,0 +1,14 @@
+15	#DEP#com.mikepenz.thirdparty:stickyheadersrecyclerview
+16	#DEP#io.reactivex.rxjava2:rxjava
+17	#DEP#com.mikepenz:iconics-core
+18	#DEP#com.jakewharton:butterknife-compiler
+19	#DEP#com.mikepenz:fastadapter
+20	#DEP#com.mikepenz:material-design-iconic-typeface
+21	#DEP#org.robolectric:shadows-core
+22	#DEP#com.squareup.assertj:assertj-android-design
+23	#DEP#com.jakewharton:butterknife
+24	#DEP#com.mikepenz:materialize
+25	#DEP#com.turingtechnologies.materialscrollbar:lib
+26	#DEP#com.github.bumptech.glide:glide
+27	#DEP#org.robolectric:shadows-support-v4
+28	#DEP#junit:junit

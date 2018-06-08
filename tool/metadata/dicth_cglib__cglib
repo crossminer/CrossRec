@@ -1,0 +1,11 @@
+1	git://github.com/cglib/cglib.git
+2	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+3	#DEP#org.apache.ant:ant
+4	#DEP#${project.groupId}:cglib-sample
+5	#DEP#cglib:cglib-parent
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#cglib:cglib-sample
+8	#DEP#${project.groupId}:cglib
+9	#DEP#junit:junit
+10	#DEP#org.openjdk.jmh:jmh-core
+11	#DEP#org.ow2.asm:asm

@@ -1,0 +1,17 @@
+19	#DEP#org.springframework.data:spring-data-commons-core
+20	#DEP#commons-logging:commons-logging
+21	#DEP#org.springframework:spring-beans
+22	#DEP#com.fasterxml.jackson.core:jackson-databind
+23	#DEP#org.springframework:spring-orm
+24	#DEP#org.springframework.data:spring-data-mongodb
+25	#DEP#org.hibernate:hibernate-validator-annotation-processor
+26	#DEP#org.springframework:spring-core
+27	#DEP#com.fasterxml.jackson.core:jackson-annotations
+28	#DEP#org.jboss.resteasy:jaxrs-api
+29	#DEP#com.fasterxml.jackson.core:jackson-core
+30	#DEP#org.springframework:spring-web
+31	#DEP#org.springframework:spring-context-support
+32	#DEP#org.springframework:spring-jms
+33	#DEP#org.springframework:spring-instrument-tomcat
+34	#DEP#aopalliance:aopalliance
+35	#DEP#junit:junit

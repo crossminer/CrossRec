@@ -1,0 +1,8 @@
+9	#DEP#com.amazonaws:amazon-kinesis-client
+10	#DEP#${project.groupId}:KinesisAggregator
+11	#DEP#com.amazonaws.services.kinesis:KinesisAggregator
+12	#DEP#com.amazonaws:aws-java-sdk-sts
+13	#DEP#${project.groupId}:KinesisTestProducers
+14	#DEP#com.amazonaws:aws-lambda-java-events
+15	#DEP#${project.groupId}:KinesisLambdaForwarder
+16	#DEP#junit:junit

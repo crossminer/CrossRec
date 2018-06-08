@@ -1,0 +1,7 @@
+9	#DEP#com.google.dagger:dagger-compiler
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#com.squareup:otto
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.android.support.constraint:constraint-layout
+14	#DEP#junit:junit
+15	#DEP#com.github.chrisbanes:PhotoView

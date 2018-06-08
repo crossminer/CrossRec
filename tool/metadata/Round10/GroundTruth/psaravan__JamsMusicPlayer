@@ -1,0 +1,6 @@
+8	#DEP#com.intellij:annotations
+9	#DEP#com.google.mockwebserver:mockwebserver
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.android.support:support-v4
+12	#DEP#junit:junit
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection

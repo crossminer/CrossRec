@@ -1,0 +1,13 @@
+1	git://github.com/coinbase/coinbase-java.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#joda-time:joda-time
+10	#DEP#commons-codec:commons-codec
+11	#DEP#org.powermock:powermock-api-mockito
+12	#DEP#junit:junit
+13	#DEP#org.joda:joda-money

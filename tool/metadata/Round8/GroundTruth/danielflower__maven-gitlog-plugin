@@ -1,0 +1,5 @@
+6	#DEP#org.apache.maven.doxia:doxia-sink-api
+7	#DEP#com.madgag:org.eclipse.jgit
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.hamcrest:hamcrest-core

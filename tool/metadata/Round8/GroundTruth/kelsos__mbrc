@@ -1,0 +1,7 @@
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#com.github.gabrielemariotti.changeloglib:changelog
+11	#DEP#com.android.support:multidex
+12	#DEP#com.android.support.constraint:constraint-layout
+13	#DEP#uk.co.chrisjenx:calligraphy
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

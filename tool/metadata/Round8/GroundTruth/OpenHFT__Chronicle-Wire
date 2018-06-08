@@ -1,0 +1,10 @@
+11	#DEP#net.openhft:third-party-bom
+12	#DEP#net.openhft:chronicle-core
+13	#DEP#com.intellij:annotations
+14	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+15	#DEP#net.openhft:chronicle-bytes
+16	#DEP#net.minidev:json-smart
+17	#DEP#net.openhft:chronicle-wire
+18	#DEP#junit:junit
+19	#DEP#org.openjdk.jmh:jmh-core
+20	#DEP#uk.co.real-logic:sbe

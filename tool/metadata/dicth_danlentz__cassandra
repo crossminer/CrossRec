@@ -1,0 +1,16 @@
+1	git://github.com/danlentz/cassandra.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#com.reardencommerce:clhm
+4	#DEP#high-scale-lib:high-scale-lib
+5	#DEP#libthrift:libthrift
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.collections:google-collections
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#commons-lang:commons-lang
+10	#DEP#jsonsimple:jsonsimple
+11	#DEP#jline:jline
+12	#DEP#log4j:log4j
+13	#DEP#commons-collections:commons-collections
+14	#DEP#org.antlr:antlr-runtime
+15	#DEP#flexjson:flexjson
+16	#DEP#junit:junit

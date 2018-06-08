@@ -1,0 +1,14 @@
+1	git://github.com/noveogroup-amorgunov/spring-mvc-react.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-aop
+4	#DEP#org.hibernate:hibernate-entitymanager
+5	#DEP#org.springframework.boot:spring-boot
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#io.jsonwebtoken:jjwt
+8	#DEP#com.fasterxml.jackson.core:jackson-core
+9	#DEP#org.springframework.data:spring-data-jpa
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#javax.servlet:javax.servlet-api
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#javax.servlet:jstl

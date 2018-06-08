@@ -1,0 +1,13 @@
+1	git://github.com/oboehm/gdv.xport.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.patterntesting:patterntesting-check-rt
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.logging.log4j:log4j-core
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.patterntesting:patterntesting-rt
+8	#DEP#org.patterntesting:patterntesting-check-ct
+9	#DEP#org.patterntesting:patterntesting-concurrent
+10	#DEP#net.sf.oval:oval
+11	#DEP#commons-httpclient:commons-httpclient
+12	#DEP#junit:junit
+13	#DEP#org.apache.logging.log4j:log4j-api

@@ -1,0 +1,12 @@
+13	#DEP#org.schemarepo:schema-repo-client
+14	#DEP#com.google.inject:guice
+15	#DEP#org.schemarepo:schema-repo-common
+16	#DEP#ch.qos.logback:logback-classic
+17	#DEP#org.eclipse.jetty:jetty-server
+18	#DEP#org.apache.avro:avro
+19	#DEP#com.google.guava:guava
+20	#DEP#com.google.inject.extensions:guice-servlet
+21	#DEP#com.sun.jersey.contribs:jersey-guice
+22	#DEP#junit:junit
+23	#DEP#org.eclipse.jetty:jetty-servlet
+24	#DEP#com.sun.jersey:jersey-server

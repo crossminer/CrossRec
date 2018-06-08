@@ -1,0 +1,5 @@
+7	#DEP#com.badlogicgames.gdx:gdx-box2d
+8	#DEP#${project.groupId}:c2d-tests
+9	#DEP#com.badlogicgames.gdx:gdx-backend-gwt
+10	#DEP#com.badlogicgames.gdx:gdx-backend-android
+11	#DEP#com.badlogicgames.gdx:gdx

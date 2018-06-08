@@ -1,0 +1,11 @@
+13	#DEP#com.lowagie:itext
+14	#DEP#org.silverpeas.components.delegatednews:silverpeas-delegatednews
+15	#DEP#org.silverpeas.components.formsonline:silverpeas-formsonline
+16	#DEP#org.silverpeas.core:silverpeas-core-web
+17	#DEP#org.silverpeas.core.services:silverpeas-core-tagcloud
+18	#DEP#org.silverpeas.core.services:silverpeas-core-importexport
+19	#DEP#org.silverpeas.core:silverpeas-core-test
+20	#DEP#org.silverpeas.components.forums:silverpeas-forums
+21	#DEP#org.silverpeas.components.blog:silverpeas-blog
+22	#DEP#${project.groupId}:silverpeas-classifieds
+23	#DEP#org.silverpeas.components.almanach:silverpeas-almanach

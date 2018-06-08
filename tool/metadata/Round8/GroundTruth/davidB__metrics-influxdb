@@ -1,0 +1,5 @@
+6	#DEP#org.hamcrest:hamcrest-all
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit

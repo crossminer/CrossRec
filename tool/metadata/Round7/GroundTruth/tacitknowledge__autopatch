@@ -1,0 +1,10 @@
+12	#DEP#com.tacitknowledge:discovery
+13	#DEP#org.dbunit:dbunit
+14	#DEP#com.mockrunner:mockrunner
+15	#DEP#log4j:log4j
+16	#DEP#commons-collections:commons-collections
+17	#DEP#org.mockejb:mockejb
+18	#DEP#commons-digester:commons-digester
+19	#DEP#junit:junit
+20	#DEP#poi:poi
+21	#DEP#org.hsqldb:hsqldb

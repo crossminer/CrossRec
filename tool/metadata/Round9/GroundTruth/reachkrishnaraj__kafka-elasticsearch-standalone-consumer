@@ -1,0 +1,7 @@
+8	#DEP#com.netflix.curator:curator-framework
+9	#DEP#org.codehaus.janino:janino
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#log4j:log4j
+12	#DEP#org.scala-lang:scala-library
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#junit:junit

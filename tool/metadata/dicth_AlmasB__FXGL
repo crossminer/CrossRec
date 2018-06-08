@@ -1,0 +1,11 @@
+1	git://github.com/AlmasB/FXGL.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.jfxtras:jfxtras-window
+4	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.hamcrest:hamcrest-library
+7	#DEP#org.jetbrains.kotlinx:kotlinx-coroutines-core
+8	#DEP#io.github.lukehutch:fast-classpath-scanner
+9	#DEP#com.github.almasb:fxgl
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#com.fasterxml.jackson.module:jackson-module-kotlin

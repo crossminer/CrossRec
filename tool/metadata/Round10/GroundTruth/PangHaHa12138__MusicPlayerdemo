@@ -1,0 +1,11 @@
+12	#DEP#com.itkimi.group:MobikeTags
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#com.github.bumptech.glide:glide
+15	#DEP#com.github.why168:LoopViewPagerLayout
+16	#DEP#com.jcodecraeer:xrecyclerview
+17	#DEP#com.nhaarman.listviewanimations:lib-core
+18	#DEP#com.android.support:support-v4
+19	#DEP#com.android.support:multidex
+20	#DEP#junit:junit
+21	#DEP#com.ashokvarma.android:bottom-navigation-bar
+22	#DEP#cn.pedant.sweetalert:library

@@ -1,0 +1,6 @@
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.json:json
+9	#DEP#net.sf.kxml:kxml2
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#junit:junit
+12	#DEP#org.slf4j:slf4j-jdk14

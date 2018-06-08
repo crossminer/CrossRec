@@ -1,0 +1,17 @@
+1	git://github.com/frankred/jSona.git
+2	#DEP#uk.co.caprica:vlcj
+3	#DEP#org.apache.lucene:lucene-analyzers-common
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#commons-io:commons-io
+6	#DEP#com.mpatric:mp3agic
+7	#DEP#org.apache.lucene:lucene-queryparser
+8	#DEP#com.github.tulskiy:jkeymaster
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.codehaus.jettison:jettison
+11	#DEP#com.google.code.gson:gson
+12	#DEP#org.jsoup:jsoup
+13	#DEP#org.controlsfx:controlsfx
+14	#DEP#net.lingala.zip4j:zip4j
+15	#DEP#log4j:log4j
+16	#DEP#commons-httpclient:commons-httpclient
+17	#DEP#junit:junit

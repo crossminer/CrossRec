@@ -1,0 +1,16 @@
+1	git://github.com/dcrec1/vraptor2_sexy_urls.git
+2	#DEP#javax.servlet:jsp-api
+3	#DEP#org.hibernate:hibernate-commons-annotations
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#com.thoughtworks.xstream:xstream
+6	#DEP#org.picocontainer:picocontainer
+7	#DEP#javax.persistence:persistence-api
+8	#DEP#org.jmock:jmock-junit3
+9	#DEP#joda-time:joda-time
+10	#DEP#org.springframework:spring-web
+11	#DEP#log4j:log4j
+12	#DEP#com.thoughtworks.paranamer:paranamer
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#commons-fileupload:commons-fileupload
+15	#DEP#javax.servlet:jstl
+16	#DEP#jmock:jmock

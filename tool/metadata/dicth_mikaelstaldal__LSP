@@ -1,0 +1,15 @@
+1	git://github.com/mikaelstaldal/LSP.git
+2	#DEP#nu.staldal.lsp:lsp-core
+3	#DEP#org.mockito:mockito-all
+4	#DEP#commons-lang:commons-lang
+5	#DEP#cglib:cglib-nodep
+6	#DEP#org.springframework:spring-test
+7	#DEP#org.springframework:spring-webmvc
+8	#DEP#org.apache.ant:ant
+9	#DEP#nu.staldal.lsp:lsp-servlet
+10	#DEP#struts:struts
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#junit:junit
+14	#DEP#nu.staldal.lsp:lsp-compiler
+15	#DEP#org.apache.bcel:bcel

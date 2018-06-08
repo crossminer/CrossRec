@@ -1,0 +1,10 @@
+1	git://github.com/serenity-bdd/serenity-cucumber.git
+2	#DEP#net.serenity-bdd:serenity-core
+3	#DEP#org.assertj:assertj-core
+4	#DEP#net.serenity-bdd:serenity-screenplay
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#net.serenity-bdd:serenity-screenplay-webdriver
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#net.serenity-bdd:serenity-junit
+9	#DEP#junit:junit
+10	#DEP#net.serenity-bdd:serenity-cucumber

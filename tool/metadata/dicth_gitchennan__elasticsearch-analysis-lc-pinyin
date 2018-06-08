@@ -1,0 +1,11 @@
+1	git://github.com/gitchennan/elasticsearch-analysis-lc-pinyin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#com.openpojo:openpojo
+5	#DEP#org.powermock:powermock-api-mockito
+6	#DEP#net.sourceforge.pinyin4j:pinyin4j
+7	#DEP#nl.jqno.equalsverifier:equalsverifier
+8	#DEP#junit:junit
+9	#DEP#org.apache.logging.log4j:log4j-api
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#org.elasticsearch:elasticsearch

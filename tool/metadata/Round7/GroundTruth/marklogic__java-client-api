@@ -1,0 +1,14 @@
+16	#DEP#com.marklogic:marklogic-client-api
+17	#DEP#org.jdom:jdom2
+18	#DEP#org.apache.httpcomponents:httpclient
+19	#DEP#dom4j:dom4j
+20	#DEP#org.apache.commons:commons-lang3
+21	#DEP#com.fasterxml.jackson.core:jackson-databind
+22	#DEP#com.google.code.gson:gson
+23	#DEP#com.sun.jersey.contribs:jersey-multipart
+24	#DEP#com.fasterxml.jackson.core:jackson-annotations
+25	#DEP#com.fasterxml.jackson.core:jackson-core
+26	#DEP#com.sun.jersey.contribs:jersey-apache-client4
+27	#DEP#org.skyscreamer:jsonassert
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#junit:junit

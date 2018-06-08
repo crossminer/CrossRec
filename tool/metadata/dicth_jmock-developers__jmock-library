@@ -1,0 +1,14 @@
+1	git://github.com/jmock-developers/jmock-library.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.jmock:jmock-junit4
+5	#DEP#org.ow2.asm:asm
+6	#DEP#org.apache-extras.beanshell:bsh
+7	#DEP#org.hamcrest:hamcrest-core
+8	#DEP#org.jmock:jmock-testjar
+9	#DEP#org.jmock:jmock-parent
+10	#DEP#org.objenesis:objenesis
+11	#DEP#org.jmock:jmock
+12	#DEP#junit:junit
+13	#DEP#cglib:cglib
+14	#DEP#com.thoughtworks.qdox:qdox

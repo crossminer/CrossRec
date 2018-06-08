@@ -1,0 +1,15 @@
+1	git://github.com/wuman/orientdb-android.git
+2	#DEP#org.javassist:javassist
+3	#DEP#com.wu-man:orientdb-android-tools
+4	#DEP#com.google.android:android
+5	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api
+6	#DEP#org.testng:testng
+7	#DEP#net.java.dev.jna:jna
+8	#DEP#com.wu-man:orientdb-android-enterprise
+9	#DEP#com.wu-man:orientdb-android-client
+10	#DEP#com.wu-man:orientdb-android-core
+11	#DEP#com.wu-man:android-bsf-api
+12	#DEP#com.wu-man:orientdb-android-object
+13	#DEP#dnsjava:dnsjava
+14	#DEP#com.wu-man:orient-android-commons
+15	#DEP#com.wu-man:orientdb-android-nativeos

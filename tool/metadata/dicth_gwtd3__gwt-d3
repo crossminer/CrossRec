@@ -1,0 +1,13 @@
+1	git://github.com/gwtd3/gwt-d3.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#javax.validation:validation-api
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.github.detro:phantomjsdriver
+6	#DEP#com.github.gwtd3:gwt-d3-js
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.google.guava:guava-gwt
+9	#DEP#com.github.gwtbootstrap:gwt-bootstrap
+10	#DEP#com.github.gwtd3:gwt-d3-api
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#junit:junit

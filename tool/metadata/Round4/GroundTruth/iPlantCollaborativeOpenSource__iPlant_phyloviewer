@@ -1,0 +1,8 @@
+9	#DEP#com.google.gwt:gwt-user
+10	#DEP#org.jmock:jmock-junit4
+11	#DEP#com.google.gwt:gwt-servlet
+12	#DEP#postgresql:postgresql
+13	#DEP#org.iplantc.core:broadcasters
+14	#DEP#log4j:log4j
+15	#DEP#org.json:json
+16	#DEP#junit:junit

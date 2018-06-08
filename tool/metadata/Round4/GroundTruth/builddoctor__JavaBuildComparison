@@ -1,0 +1,16 @@
+18	#DEP#org.apache.ant:ant
+19	#DEP#jivesoftware:smack
+20	#DEP#com.micheldalal:x10
+21	#DEP#org.apache.maven:maven-embedder
+22	#DEP#org.safehaus.jug:jug
+23	#DEP#net.sf.cruisecontrol:antlogger
+24	#DEP#org.jtf:fast-md5
+25	#DEP#commons-net:commons-net
+26	#DEP#mx4j:mx4j-remote
+27	#DEP#velocity:velocity
+28	#DEP#org.apache.ivy:ivy
+29	#DEP#log4j:log4j
+30	#DEP#maven.cc.test:maven-ant-plugin
+31	#DEP#junit:junit
+32	#DEP#com.sun.mail:javax.mail
+33	#DEP#commons-validator:commons-validator

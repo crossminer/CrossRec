@@ -1,0 +1,11 @@
+13	#DEP#com.jpardogo.googleprogressbar:library
+14	#DEP#com.android.support:appcompat-v7
+15	#DEP#com.android.support:design
+16	#DEP#com.readystatesoftware.systembartint:systembartint
+17	#DEP#com.nostra13.universalimageloader:universal-image-loader
+18	#DEP#com.android.support:cardview-v7
+19	#DEP#org.mockito:mockito-core
+20	#DEP#com.android.support:support-v4
+21	#DEP#junit:junit
+22	#DEP#com.nononsenseapps:filepicker
+23	#DEP#com.android.support.test.espresso:espresso-core

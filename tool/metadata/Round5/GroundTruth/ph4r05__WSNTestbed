@@ -1,0 +1,16 @@
+17	#DEP#args4j:args4j
+18	#DEP#org.python:jython
+19	#DEP#org.springframework:spring-context
+20	#DEP#org.slf4j:jul-to-slf4j
+21	#DEP#org.springframework:spring-beans
+22	#DEP#org.springframework:spring-agent
+23	#DEP#org.springframework:spring-orm
+24	#DEP#org.springframework:spring-core
+25	#DEP#org.slf4j:slf4j-log4j12
+26	#DEP#net.sourceforge.javacsv:javacsv
+27	#DEP#org.slf4j:jcl-over-slf4j
+28	#DEP#org.springframework:spring-context-support
+29	#DEP#log4j:log4j
+30	#DEP#junit:junit
+31	#DEP#org.aspectj:aspectjrt
+32	#DEP#cglib:cglib

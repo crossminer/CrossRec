@@ -1,0 +1,14 @@
+1	git://github.com/shadow-strike/Minefrance.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.yaml:snakeyaml
+5	#DEP#net.sf.jopt-simple:jopt-simple
+6	#DEP#org.xerial:sqlite-jdbc
+7	#DEP#com.google.code.gson:gson
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.bukkit:bukkit
+10	#DEP#junit:junit-dep
+11	#DEP#jline:jline
+12	#DEP#com.google.guava:guava
+13	#DEP#org.avaje:ebean
+14	#DEP#org.bukkit:minecraft-server

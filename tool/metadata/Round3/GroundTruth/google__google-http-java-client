@@ -1,0 +1,17 @@
+19	#DEP#com.google.guava:guava
+20	#DEP#com.google.appengine:appengine-testing
+21	#DEP#org.apache.httpcomponents:httpclient
+22	#DEP#com.google.android:android
+23	#DEP#com.google.code.findbugs:findbugs
+24	#DEP#org.codehaus.jackson:jackson-core-asl
+25	#DEP#javax.jdo:jdo2-api
+26	#DEP#org.datanucleus:datanucleus-rdbms
+27	#DEP#com.google.android:android-test
+28	#DEP#com.google.code.gson:gson
+29	#DEP#com.google.http-client:google-http-client-jdo
+30	#DEP#com.google.appengine:appengine-api-stubs
+31	#DEP#com.fasterxml.jackson.core:jackson-core
+32	#DEP#com.google.guava:guava-testlib
+33	#DEP#junit:junit
+34	#DEP#com.google.http-client:google-http-client
+35	#DEP#com.google.http-client:google-http-client-protobuf

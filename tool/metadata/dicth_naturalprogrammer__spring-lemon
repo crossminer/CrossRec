@@ -1,0 +1,11 @@
+1	git://github.com/naturalprogrammer/spring-lemon.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-mail
+4	#DEP#com.github.fge:json-patch
+5	#DEP#org.springframework.security.oauth:spring-security-oauth2
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#joda-time:joda-time
+9	#DEP#org.springframework.boot:spring-boot-configuration-processor
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.springframework.boot:spring-boot-starter-security

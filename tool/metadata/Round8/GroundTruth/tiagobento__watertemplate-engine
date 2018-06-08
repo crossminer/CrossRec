@@ -1,0 +1,8 @@
+9	#DEP#com.github.spullara.mustache.java:compiler
+10	#DEP#org.jboss.resteasy:resteasy-jaxrs
+11	#DEP#log4j:log4j
+12	#DEP#javax.servlet:javax.servlet-api
+13	#DEP#org.jboss.resteasy:resteasy-servlet-initializer
+14	#DEP#junit:junit
+15	#DEP#org.watertemplate:watertemplate-jaxrs-binding
+16	#DEP#org.watertemplate:watertemplate-engine

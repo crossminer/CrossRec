@@ -1,0 +1,17 @@
+1	git://github.com/structurizr/java.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#javax.xml.bind:jaxb-api
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#javax:javaee-api
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations
+12	#DEP#org.springframework:spring-web
+13	#DEP#org.springframework.data:spring-data-jpa
+14	#DEP#org.reflections:reflections
+15	#DEP#io.github.livingdocumentation:dot-diagram
+16	#DEP#org.apache.httpcomponents:httpcore
+17	#DEP#junit:junit

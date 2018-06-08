@@ -1,0 +1,15 @@
+1	git://github.com/epam/Wilma.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.codehaus.jackson:jackson-mapper-asl
+6	#DEP#org.custommonkey.xmlunit:com.springsource.org.custommonkey.xmlunit
+7	#DEP#:wilma-application
+8	#DEP#:wilma-message-search
+9	#DEP#commons-codec:commons-codec
+10	#DEP#com.epam.gepard:gepard-core
+11	#DEP#com.sun.xml.fastinfoset:FastInfoset
+12	#DEP#org.eclipse.jetty:jetty-server
+13	#DEP#org.json:json
+14	#DEP#org.jacoco:org.jacoco.ant
+15	#DEP#commons-httpclient:commons-httpclient

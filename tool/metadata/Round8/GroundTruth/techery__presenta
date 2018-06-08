@@ -1,0 +1,10 @@
+11	#DEP#com.google.dagger:dagger
+12	#DEP#com.etsy.android.grid:library
+13	#DEP#com.google.dagger:dagger-compiler
+14	#DEP#com.squareup.picasso:picasso
+15	#DEP#com.squareup.retrofit:retrofit
+16	#DEP#com.squareup.flow:flow-path
+17	#DEP#com.squareup.mortar:mortar
+18	#DEP#com.jakewharton.scalpel:scalpel
+19	#DEP#io.reactivex:rxandroid
+20	#DEP#com.squareup.okhttp:okhttp-urlconnection

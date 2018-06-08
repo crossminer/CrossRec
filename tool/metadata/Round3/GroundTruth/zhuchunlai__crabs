@@ -1,0 +1,4 @@
+5	#DEP#org.elasticsearch:elasticsearch
+6	#DEP#org.codefamily:crabs-jdbc
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#junit:junit

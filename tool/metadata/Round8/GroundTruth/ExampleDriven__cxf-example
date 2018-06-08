@@ -1,0 +1,10 @@
+11	#DEP#org.springframework:spring-web
+12	#DEP#cglib:cglib-nodep
+13	#DEP#javax.servlet.jsp:jsp-api
+14	#DEP#org.slf4j:jcl-over-slf4j
+15	#DEP#log4j:log4j
+16	#DEP#org.springframework:spring-webmvc
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#javax.servlet:jstl
+19	#DEP#org.springframework.security:spring-security-config
+20	#DEP#junit:junit

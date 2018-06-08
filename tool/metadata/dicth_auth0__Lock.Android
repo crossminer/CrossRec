@@ -1,0 +1,15 @@
+1	git://github.com/auth0/Lock.Android.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.squareup.okhttp3:mockwebserver
+8	#DEP#com.android.support:design
+9	#DEP#org.mockito:mockito-core
+10	#DEP#com.squareup:otto
+11	#DEP#com.android.support:support-v4
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.jayway.awaitility:awaitility
+15	#DEP#com.auth0.android:auth0

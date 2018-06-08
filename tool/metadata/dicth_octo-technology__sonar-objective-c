@@ -1,0 +1,16 @@
+1	git://github.com/octo-technology/sonar-objective-c.git
+2	#DEP#ant:ant
+3	#DEP#org.codehaus.sonar:sonar-deprecated
+4	#DEP#org.codehaus.sonar.sslr:sslr-core
+5	#DEP#org.codehaus.sonar.sslr:sslr-xpath
+6	#DEP#org.codehaus.sonar.sslr-squid-bridge:sslr-squid-bridge
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.codehaus.sonar:sonar-testing-harness
+9	#DEP#org.easytesting:fest-assert
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.codehaus.sonar:sonar-plugin-api
+12	#DEP#org.codehaus.sonar.sslr:sslr-toolkit
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#org.codehaus.sonar.plugins:sonar-surefire-plugin
+15	#DEP#org.codehaus.sonar.sslr:sslr-testing-harness
+16	#DEP#junit:junit

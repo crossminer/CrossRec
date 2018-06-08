@@ -1,0 +1,10 @@
+1	git://github.com/nuxeo-archives/nuxeo-distribution-tools.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#org.nuxeo.ecm.distribution:nuxeo-distribution
+4	#DEP#org.nuxeo.ecm.distribution:nuxeo-distribution-coreserver
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.apache.maven:maven-plugin-api
+7	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-test
+8	#DEP#org.nuxeo.connect:nuxeo-connect-client
+9	#DEP#junit:junit
+10	#DEP#org.nuxeo.build:ant-assembly-maven-plugin

@@ -1,0 +1,16 @@
+18	#DEP#${project.groupId}:ardor3d-ui
+19	#DEP#junit:junit
+20	#DEP#net.java.games.input:jinput
+21	#DEP#com.ardor3d:ardor3d-effects
+22	#DEP#${project.groupId}:ardor3d-extras
+23	#DEP#com.ardor3d:ardor3d-core
+24	#DEP#${project.groupId}:ardor3d-core
+25	#DEP#${project.groupId}:ardor3d-swt
+26	#DEP#${project.groupId}:ardor3d-effects
+27	#DEP#com.projectdarkstar.ext.net.java.dev.gluegen:gluegen-rt
+28	#DEP#com.ardor3d:ardor3d-swt
+29	#DEP#${project.groupId}:ardor3d-awt
+30	#DEP#net.java.dev.jogl:jogl
+31	#DEP#com.ardor3d:ardor3d-awt
+32	#DEP#${project.groupId}:ardor3d-jogl
+33	#DEP#net.java.dev.jogl:jogl-natives

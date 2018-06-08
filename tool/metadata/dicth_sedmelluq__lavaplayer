@@ -1,0 +1,14 @@
+1	git://github.com/sedmelluq/lavaplayer.git
+2	#DEP#net.iharder:base64
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#:natives
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.github.austinv11:Discord4j
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.jsoup:jsoup
+11	#DEP#net.dv8tion:JDA
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.sedmelluq:jda-nas
+14	#DEP#com.sedmelluq:lavaplayer

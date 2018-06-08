@@ -1,0 +1,12 @@
+14	#DEP#commons-cli:commons-cli
+15	#DEP#jdom:jdom
+16	#DEP#commons-collections:commons-collections
+17	#DEP#junit:junit
+18	#DEP#org.codehaus.plexus:plexus-io
+19	#DEP#commons-lang:commons-lang
+20	#DEP#org.codehaus.plexus:plexus-interactivity-api
+21	#DEP#aspectj:aspectjrt
+22	#DEP#org.codehaus.plexus:plexus-compiler-api
+23	#DEP#aspectj:aspectjtools
+24	#DEP#velocity:velocity
+25	#DEP#org.apache.maven:maven-artifact

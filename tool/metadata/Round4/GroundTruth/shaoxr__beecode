@@ -1,0 +1,12 @@
+14	#DEP#axis:axis-jaxrpc
+15	#DEP#axis:axis-wsdl4j
+16	#DEP#javax.validation:validation-api
+17	#DEP#org.springframework.webflow:spring-js-resources
+18	#DEP#org.hibernate:hibernate-validator
+19	#DEP#org.springframework.security:spring-security-taglibs
+20	#DEP#dom4j:dom4j
+21	#DEP#org.springframework.security:spring-security-web
+22	#DEP#c3p0:c3p0
+23	#DEP#org.apache.mina:mina-core
+24	#DEP#org.apache.mina:mina-integration-spring
+25	#DEP#junit:junit

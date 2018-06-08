@@ -1,0 +1,10 @@
+1	git://github.com/codylerum/simple-email.git
+2	#DEP#org.apache.velocity:velocity
+3	#DEP#javax.activation:activation
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.subethamail:subethasmtp
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.guava:guava
+8	#DEP#junit:junit
+9	#DEP#org.freemarker:freemarker
+10	#DEP#com.sun.mail:javax.mail

@@ -1,0 +1,11 @@
+1	git://github.com/thymeleaf/thymeleaf-spring.git
+2	#DEP#org.springframework:spring-expression
+3	#DEP#org.thymeleaf:thymeleaf
+4	#DEP#org.springframework:spring-web
+5	#DEP#org.springframework:spring-webflux
+6	#DEP#org.springframework.webflow:spring-js
+7	#DEP#org.springframework:spring-webmvc
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.springframework:spring-beans
+11	#DEP#org.springframework.webflow:spring-webflow

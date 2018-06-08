@@ -1,0 +1,14 @@
+1	git://github.com/magnusja/libaums.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.android.support:support-annotations
+4	#DEP#org.xenei:junit-contracts
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#com.github.magnusja:java-fs
+8	#DEP#com.koushikdutta.async:androidasync
+9	#DEP#org.mockito:mockito-core
+10	#DEP#log4j:log4j
+11	#DEP#org.nanohttpd:nanohttpd
+12	#DEP#com.eclipsesource.minimal-json:minimal-json
+13	#DEP#junit:junit
+14	#DEP#de.mindpipe.android:android-logging-log4j

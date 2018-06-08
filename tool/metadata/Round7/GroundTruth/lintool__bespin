@@ -1,0 +1,7 @@
+9	#DEP#args4j:args4j
+10	#DEP#org.scala-lang:scala-library
+11	#DEP#net.sf.jung:jung-graph-impl
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#net.sf.jung:jung-api
+15	#DEP#org.rogach:scallop_2.11

@@ -1,0 +1,15 @@
+1	git://github.com/webjars/webjars-locator.git
+2	#DEP#org.webjars.npm:validate.js
+3	#DEP#org.webjars:requirejs
+4	#DEP#org.webjars:webjars-locator-core
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.webjars.npm:angular-pouchdb
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.webjars.npm:babel-runtime
+9	#DEP#org.webjars:bootstrap
+10	#DEP#org.webjars.bower:angular-schema-form
+11	#DEP#org.webjars.npm:object-assign
+12	#DEP#org.webjars:jquery
+13	#DEP#org.webjars.bower:angular-bootstrap
+14	#DEP#junit:junit
+15	#DEP#org.webjars:when-node

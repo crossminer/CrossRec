@@ -1,0 +1,16 @@
+17	#DEP#org.apache.httpcomponents:httpclient
+18	#DEP#org.apache.httpcomponents:httpasyncclient
+19	#DEP#org.littleshoot:littleproxy
+20	#DEP#org.elasticsearch.plugin:percolator-client
+21	#DEP#org.codelibs.elasticsearch.module:lang-painless
+22	#DEP#com.github.spullara.mustache.java:compiler
+23	#DEP#com.google.code.gson:gson
+24	#DEP#org.slf4j:slf4j-log4j12
+25	#DEP#io.searchbox:jest-common
+26	#DEP#org.slf4j:slf4j-android
+27	#DEP#org.mockito:mockito-core
+28	#DEP#org.skyscreamer:jsonassert
+29	#DEP#org.hamcrest:hamcrest-all
+30	#DEP#org.elasticsearch.plugin:lang-mustache-client
+31	#DEP#org.apache.httpcomponents:httpcore-nio
+32	#DEP#junit:junit

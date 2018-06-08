@@ -1,0 +1,13 @@
+1	git://github.com/jaibeermalik/elasticsearch-tutorial.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.slf4j:log4j-over-slf4j
+4	#DEP#org.easymock:easymock
+5	#DEP#com.google.collections:google-collections
+6	#DEP#org.springframework:spring-orm
+7	#DEP#org.elasticsearch:elasticsearch
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.easymock:easymockclassextension
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#org.springframework:spring-test
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

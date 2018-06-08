@@ -1,0 +1,10 @@
+1	git://github.com/davidB/metrics-influxdb.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#org.easytesting:fest-assert-core
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.testng:testng
+6	#DEP#org.hamcrest:hamcrest-all
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit

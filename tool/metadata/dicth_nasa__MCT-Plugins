@@ -1,0 +1,14 @@
+1	git://github.com/nasa/MCT-Plugins.git
+2	#DEP#gov.nasa.arc.mct:satelliteTracker
+3	#DEP#gov.nasa.arc.mct:timeline
+4	#DEP#gov.nasa.arc.mct:mct-platform
+5	#DEP#org.easytesting:fest-swing
+6	#DEP#gov.nasa.arc.mct:notebook
+7	#DEP#gov.nasa.arc.mct:timeSequenceFeedAggregator
+8	#DEP#gov.nasa.arc.mct:csvExport
+9	#DEP#gov.nasa.arc.mct:earthView
+10	#DEP#com.github.danielpacak.osgi.swingconsole:osgi.swingconsole
+11	#DEP#gov.nasa.arc.mct:mctcore
+12	#DEP#gov.nasa.arc.mct:scenario
+13	#DEP#name.gano:jSatTrack
+14	#DEP#gov.nasa.arc.mct:chronology

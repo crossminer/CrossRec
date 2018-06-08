@@ -1,0 +1,17 @@
+1	git://github.com/caldav4j/caldav4j.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#com.github.caldav4j:jakarta-slide-webdavlib
+4	#DEP#xalan:xalan
+5	#DEP#xalan:serializer
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#castor:castor
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.mnode.ical4j:ical4j
+12	#DEP#log4j:log4j
+13	#DEP#net.sf.ehcache:ehcache
+14	#DEP#commons-collections:commons-collections
+15	#DEP#xerces:xercesImpl
+16	#DEP#commons-httpclient:commons-httpclient
+17	#DEP#junit:junit

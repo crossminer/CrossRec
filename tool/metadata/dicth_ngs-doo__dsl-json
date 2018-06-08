@@ -1,0 +1,13 @@
+1	git://github.com/ngs-doo/dsl-json.git
+2	#DEP#com.google.android:android
+3	#DEP#com.google.code.findbugs:jsr305
+4	#DEP#com.dslplatform:dsl-json
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#joda-time:joda-time
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.dslplatform:dsl-clc
+10	#DEP#junit:junit
+11	#DEP#com.dslplatform:dsl-json-java8
+12	#DEP#com.dslplatform:dsl-json-processor
+13	#DEP#org.hsqldb:hsqldb

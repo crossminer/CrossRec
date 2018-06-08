@@ -1,0 +1,7 @@
+8	#DEP#org.elasticsearch:metrics-elasticsearch-reporter
+9	#DEP#com.sparkjava:spark-core
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+13	#DEP#junit:junit
+14	#DEP#org.apache.lucene:lucene-test-framework

@@ -1,0 +1,7 @@
+9	#DEP#org.springframework:spring-test
+10	#DEP#com.alibaba:dubbo
+11	#DEP#com.api:dubbo.common
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#junit:junit
+14	#DEP#org.aspectj:aspectjrt
+15	#DEP#cglib:cglib

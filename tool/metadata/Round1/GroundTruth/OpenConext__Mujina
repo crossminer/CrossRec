@@ -1,0 +1,9 @@
+10	#DEP#io.rest-assured:rest-assured
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+13	#DEP#javax.servlet:javax.servlet-api
+14	#DEP#org.openconext:mujina
+15	#DEP#org.springframework.security.extensions:spring-security-saml2-core
+16	#DEP#org.projectlombok:lombok
+17	#DEP#org.springframework.boot:spring-boot-starter-actuator
+18	#DEP#org.openconext:mujina-common

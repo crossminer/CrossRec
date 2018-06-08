@@ -1,0 +1,15 @@
+1	git://github.com/vinumeris/updatefx.git
+2	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.bouncycastle:bcprov-jdk15on
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.multibit.hd.hardware:trezor
+7	#DEP#com.vinumeris:updatefx-parent
+8	#DEP#net.sf.jopt-simple:jopt-simple
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#org.bitcoinj:bitcoinj-core
+11	#DEP#com.vinumeris:updatefx
+12	#DEP#net.sf.trove4j:trove4j
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit
+15	#DEP#org.slf4j:slf4j-jdk14

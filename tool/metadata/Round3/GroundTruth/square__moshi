@@ -1,0 +1,5 @@
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.jetbrains.kotlin:kotlin-reflect
+8	#DEP#junit:junit
+9	#DEP#org.jetbrains.kotlin:kotlin-test
+10	#DEP#com.squareup.okio:okio

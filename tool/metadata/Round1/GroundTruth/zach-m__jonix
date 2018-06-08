@@ -1,0 +1,7 @@
+8	#DEP#com.tectonica:jonix
+9	#DEP#com.tectonica:jonix-onix3
+10	#DEP#com.tectonica:jonix-parent
+11	#DEP#com.tectonica:jonix-onix2
+12	#DEP#com.tectonica:jonix-xml
+13	#DEP#junit:junit
+14	#DEP#org.slf4j:slf4j-jdk14

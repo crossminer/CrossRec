@@ -1,0 +1,9 @@
+1	git://github.com/NASAWorldWind/WorldWindAndroid.git
+2	#DEP#mil-sym-android:renderer
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.android.support:design
+6	#DEP#org.mockito:mockito-core
+7	#DEP#com.android.support.test:rules
+8	#DEP#junit:junit
+9	#DEP#com.android.support.test:runner

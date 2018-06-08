@@ -1,0 +1,10 @@
+1	git://github.com/Omertron/api-imdb.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#junit:junit
+8	#DEP#org.yamj:api-common
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.slf4j:slf4j-jdk14

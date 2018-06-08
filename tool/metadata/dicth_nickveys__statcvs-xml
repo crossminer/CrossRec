@@ -1,0 +1,16 @@
+1	git://github.com/nickveys/statcvs-xml.git
+2	#DEP#org.apache.maven.reporting:maven-reporting-api
+3	#DEP#org.apache.maven.scm:maven-scm-provider-cvs
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.apache.maven.doxia:doxia-core
+6	#DEP#org.apache.maven.doxia:doxia-site-renderer
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#org.apache.maven.scm:maven-scm-manager-plexus
+9	#DEP#org.apache.maven.reporting:maven-reporting-impl
+10	#DEP#commons-jexl:commons-jexl
+11	#DEP#org.apache.maven.scm:maven-scm-api
+12	#DEP#jdom:jdom
+13	#DEP#jcommon:jcommon
+14	#DEP#statcvs:statcvs-xml
+15	#DEP#junit:junit
+16	#DEP#jfreechart:jfreechart

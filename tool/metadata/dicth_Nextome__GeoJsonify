@@ -1,0 +1,10 @@
+1	git://github.com/Nextome/GeoJsonify.git
+2	#DEP#me.priyesh:chroma
+3	#DEP#com.karumi:dexter
+4	#DEP#com.google.maps.android:android-maps-utils
+5	#DEP#com.google.android.gms:play-services-maps
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.github.MKergall:osmbonuspack
+10	#DEP#com.cocoahero.android:geojson

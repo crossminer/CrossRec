@@ -1,0 +1,11 @@
+1	git://github.com/bergerhealer/BKCommonLib.git
+2	#DEP#io.netty:netty-all
+3	#DEP#co.aikar:minecraft-timings
+4	#DEP#org.spigotmc:spigot-api
+5	#DEP#com.comphenix.protocol:ProtocolLib-API
+6	#DEP#org.spigotmc:spigot
+7	#DEP#com.bergerkiller.mountiplex:Mountiplex
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.code.gson:gson
+10	#DEP#net.milkbowl.vault:VaultAPI
+11	#DEP#com.kellerkindt:ShowCaseStandalone

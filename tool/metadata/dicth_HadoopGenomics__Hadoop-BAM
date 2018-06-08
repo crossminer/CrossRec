@@ -1,0 +1,11 @@
+1	git://github.com/HadoopGenomics/Hadoop-BAM.git
+2	#DEP#org.apache.hadoop:hadoop-client
+3	#DEP#com.github.jsr203hadoop:jsr203hadoop
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.apache.hadoop:hadoop-common
+6	#DEP#org.seqdoop:hadoop-bam
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-hdfs
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#com.github.samtools:htsjdk

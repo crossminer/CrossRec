@@ -1,0 +1,12 @@
+13	#DEP#net.sourceforge.htmlunit:htmlunit
+14	#DEP#c3p0:c3p0
+15	#DEP#org.simpleframework:simple-xml
+16	#DEP#org.jsoup:jsoup
+17	#DEP#rhino:js
+18	#DEP#org.apache.cxf:cxf-bundle
+19	#DEP#sshtools:j2ssh-common
+20	#DEP#log4j:log4j
+21	#DEP#xerces:xercesImpl
+22	#DEP#it.sauronsoftware.cron4j:cron4j
+23	#DEP#junit:junit
+24	#DEP#org.bouncycastle:bcpg-jdk16

@@ -1,0 +1,15 @@
+1	git://github.com/encryptedsystems/Clusion.git
+2	#DEP#org.apache.lucene:lucene-analyzers-common
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#com.carrotsearch:java-sizeof
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.bouncycastle:bcprov-jdk15on
+7	#DEP#org.apache.pdfbox:pdfbox
+8	#DEP#com.amazonaws:aws-java-sdk
+9	#DEP#org.apache.poi:poi-scratchpad
+10	#DEP#com.madgag.spongycastle:prov
+11	#DEP#org.apache.poi:poi
+12	#DEP#com.google.guava:guava
+13	#DEP#org.apache.hadoop:hadoop-common
+14	#DEP#org.apache.poi:poi-ooxml
+15	#DEP#junit:junit

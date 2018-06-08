@@ -1,0 +1,11 @@
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#javax.mail:mail
+14	#DEP#org.apache.velocity:velocity
+15	#DEP#org.apache.wicket:wicket-datetime
+16	#DEP#log4j:log4j
+17	#DEP#javax.activation:activation
+18	#DEP#javax.servlet:servlet-api
+19	#DEP#jdom:jdom
+20	#DEP#junit:junit
+21	#DEP#org.apache.wicket:wicket-extensions
+22	#DEP#com.rectang.xsm:xsm-bin

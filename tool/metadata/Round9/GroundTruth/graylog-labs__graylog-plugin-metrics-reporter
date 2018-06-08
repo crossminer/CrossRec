@@ -1,0 +1,12 @@
+14	#DEP#io.dropwizard.metrics:metrics-core
+15	#DEP#com.squareup.okhttp3:mockwebserver
+16	#DEP#org.elasticsearch:metrics-elasticsearch-reporter
+17	#DEP#io.dropwizard.metrics:metrics-ganglia
+18	#DEP#org.graylog2:graylog2-server
+19	#DEP#com.github.sps.metrics:metrics-opentsdb
+20	#DEP#org.mockito:mockito-core
+21	#DEP#org.graylog.plugins:metrics-reporter-core
+22	#DEP#com.librato.metrics:metrics-librato
+23	#DEP#junit:junit
+24	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-inmemory
+25	#DEP#io.dropwizard.metrics:metrics-graphite

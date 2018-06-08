@@ -1,0 +1,7 @@
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.jsoup:jsoup
+11	#DEP#net.dv8tion:JDA
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.sedmelluq:jda-nas
+14	#DEP#com.sedmelluq:lavaplayer

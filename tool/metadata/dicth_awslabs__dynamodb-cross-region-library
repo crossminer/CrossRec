@@ -1,0 +1,17 @@
+1	git://github.com/awslabs/dynamodb-cross-region-library.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+4	#DEP#com.amazonaws:aws-java-sdk-logs
+5	#DEP#org.easymock:easymock
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.amazonaws:aws-java-sdk-bom
+8	#DEP#com.amazonaws:amazon-kinesis-client
+9	#DEP#com.amazonaws:amazon-kinesis-connectors
+10	#DEP#log4j:log4j
+11	#DEP#com.amazonaws:aws-java-sdk-cloudwatch
+12	#DEP#com.google.guava:guava
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#org.projectlombok:lombok
+15	#DEP#com.amazonaws:dynamodb-streams-kinesis-adapter
+16	#DEP#junit:junit
+17	#DEP#com.beust:jcommander

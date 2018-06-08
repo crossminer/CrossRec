@@ -1,0 +1,10 @@
+12	#DEP#com.vlsolutions:vldocking
+13	#DEP#commons-codec:commons-codec
+14	#DEP#org.springframework.richclient:spring-richclient-resources
+15	#DEP#net.java.dev.glazedlists:glazedlists
+16	#DEP#com.jgoodies:forms
+17	#DEP#commons-httpclient:commons-httpclient
+18	#DEP#junit:junit
+19	#DEP#wsdl4j:wsdl4j
+20	#DEP#org.springframework.richclient:spring-richclient-docking
+21	#DEP#javax.help:jhelp

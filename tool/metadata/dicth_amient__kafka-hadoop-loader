@@ -1,0 +1,12 @@
+1	git://github.com/amient/kafka-hadoop-loader.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.codehaus.jackson:jackson-xc
+4	#DEP#org.apache.kafka:kafka_${scala.version}
+5	#DEP#org.apache.hadoop:hadoop-client
+6	#DEP#org.codehaus.jackson:jackson-core-asl
+7	#DEP#org.codehaus.jackson:jackson-jaxrs
+8	#DEP#org.apache.hadoop:hadoop-common
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#junit:junit
+11	#DEP#org.apache.mrunit:mrunit
+12	#DEP#org.apache.hadoop:hadoop-hdfs

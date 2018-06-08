@@ -1,0 +1,14 @@
+1	git://github.com/Raizlabs/AndroidDatabaseLibraryComparison.git
+2	#DEP#com.github.PhilJay:MPAndroidChart
+3	#DEP#com.raizlabs.android:DBFlow-Compiler
+4	#DEP#com.raizlabs.android:DBFlow
+5	#DEP#com.j256.ormlite:ormlite-android
+6	#DEP#de.greenrobot:greendao-generator
+7	#DEP#de.greenrobot:eventbus
+8	#DEP#com.raizlabs.android:DBFlow-Core
+9	#DEP#com.michaelpardo:activeandroid
+10	#DEP#com.michaelpardo:ollie-compiler
+11	#DEP#com.github.satyan:sugar
+12	#DEP#se.emilsjolander:sprinkles
+13	#DEP#de.greenrobot:greendao
+14	#DEP#com.michaelpardo:ollie

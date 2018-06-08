@@ -1,0 +1,17 @@
+1	git://github.com/berinle/jawr-core.git
+2	#DEP#javax.faces:jsf-api
+3	#DEP#com.yahoo.platform.yui:yuicompressor
+4	#DEP#org.springframework:spring
+5	#DEP#net.sf.ehcache:ehcache-core
+6	#DEP#org.mockito:mockito-all
+7	#DEP#taglibs:standard
+8	#DEP#org.apache.wicket:wicket
+9	#DEP#com.google.javascript:closure-compiler
+10	#DEP#org.directwebremoting:dwr
+11	#DEP#javax.servlet.jsp:jsp-api
+12	#DEP#rhino:js
+13	#DEP#log4j:log4j
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#com.carrotsearch:smartsprites
+16	#DEP#junit:junit
+17	#DEP#commons-validator:commons-validator

@@ -1,0 +1,14 @@
+1	git://github.com/nabedge/mixer2.git
+2	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-runtime
+3	#DEP#commons-io:commons-io
+4	#DEP#commons-logging:commons-logging
+5	#DEP#commons-beanutils:commons-beanutils
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.jsoup:jsoup
+8	#DEP#org.apache.velocity:velocity
+9	#DEP#org.springframework:spring-test
+10	#DEP#org.springframework:spring-webmvc
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit
+14	#DEP#cglib:cglib

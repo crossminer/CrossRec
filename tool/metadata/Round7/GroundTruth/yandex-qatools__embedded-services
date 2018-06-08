@@ -1,0 +1,11 @@
+13	#DEP#org.elasticsearch:elasticsearch
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#org.apache.lucene:lucene-expressions
+16	#DEP#com.zaxxer:HikariCP-java6
+17	#DEP#ru.yandex.qatools.embed:postgresql-embedded
+18	#DEP#junit:junit
+19	#DEP#org.mongodb.morphia:morphia
+20	#DEP#com.googlecode.lambdaj:lambdaj
+21	#DEP#com.github.richardwilly98.elasticsearch:elasticsearch-river-mongodb
+22	#DEP#ru.yandex.qatools.matchers:matcher-decorators
+23	#DEP#org.javalite:activejdbc

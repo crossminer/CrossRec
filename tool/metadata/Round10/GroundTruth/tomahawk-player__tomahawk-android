@@ -1,0 +1,12 @@
+13	#DEP#de.greenrobot:eventbus
+14	#DEP#org.jdeferred:jdeferred-android-aar
+15	#DEP#com.squareup.okhttp:logging-interceptor
+16	#DEP#com.squareup.picasso:picasso
+17	#DEP#org.slf4j:slf4j-android
+18	#DEP#com.squareup.retrofit:retrofit
+19	#DEP#com.uservoice:uservoice-android-sdk
+20	#DEP#com.android.support:support-v4
+21	#DEP#net.sourceforge.findbugs:jsr305
+22	#DEP#se.emilsjolander:stickylistheaders
+23	#DEP#com.google.android.gms:play-services-base
+24	#DEP#com.squareup.okhttp:okhttp-urlconnection

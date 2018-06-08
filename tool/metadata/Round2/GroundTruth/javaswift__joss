@@ -1,0 +1,5 @@
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#com.googlecode.jmockit:jmockit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-lang:commons-lang

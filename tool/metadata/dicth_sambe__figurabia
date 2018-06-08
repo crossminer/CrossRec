@@ -1,0 +1,17 @@
+1	git://github.com/sambe/figurabia.git
+2	#DEP#com.jogamp:joal-natives-linux-i586
+3	#DEP#com.jogamp:gluegen-rt
+4	#DEP#commons-io:commons-io
+5	#DEP#it.cnr.imaa.essi:lablib-checkboxtree
+6	#DEP#com.thoughtworks.xstream:xstream
+7	#DEP#net.sf.jung:jung-visualization
+8	#DEP#kokos:exmoplay-engine
+9	#DEP#com.jogamp:gluegen-rt-natives-linux-i586
+10	#DEP#org.swinglabs:swingx
+11	#DEP#commons-codec:commons-codec
+12	#DEP#net.sf.jung:jung-algorithms
+13	#DEP#com.github.insubstantial:substance
+14	#DEP#com.miglayout:miglayout
+15	#DEP#net.sf.jung:jung-graph-impl
+16	#DEP#com.jogamp:joal
+17	#DEP#junit:junit

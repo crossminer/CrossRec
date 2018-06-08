@@ -1,0 +1,9 @@
+10	#DEP#org.springframework:spring-core
+11	#DEP#javax:javaee-api
+12	#DEP#org.codehaus.janino:janino
+13	#DEP#com.playframework:playframework
+14	#DEP#com.googlecode.cambridge:cambridge-mvel
+15	#DEP#javax.servlet:servlet-api
+16	#DEP#com.googlecode.cambridge:cambridge-ognl
+17	#DEP#junit:junit
+18	#DEP#com.googlecode.cambridge:cambridge-core

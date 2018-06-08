@@ -1,0 +1,11 @@
+1	git://github.com/grundid/nfctools.git
+2	#DEP#org.nfctools:nfctools-core
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#log4j:log4j
+5	#DEP#org.nfctools:nfctools-ndef
+6	#DEP#org.rxtx:rxtx
+7	#DEP#org.nfctools:nfctools-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.nfctools:nfctools-parent
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

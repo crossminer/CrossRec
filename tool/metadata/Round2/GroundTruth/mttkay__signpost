@@ -1,0 +1,5 @@
+6	#DEP#oauth.signpost:signpost-core
+7	#DEP#org.apache.httpcomponents:httpcore
+8	#DEP#junit:junit
+9	#DEP#commons-httpclient:commons-httpclient
+10	#DEP#org.mortbay.jetty:jetty-client

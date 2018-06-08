@@ -1,0 +1,10 @@
+1	git://github.com/yc-huang/Hive-mongo.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#org.mongodb:mongo-java-driver
+4	#DEP#org.apache.hbase:hbase
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.apache.hive:hive-metastore
+7	#DEP#org.apache.hive:hive-serde
+8	#DEP#commons-logging:commons-logging
+9	#DEP#com.google.guava:guava
+10	#DEP#commons-lang:commons-lang

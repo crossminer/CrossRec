@@ -1,0 +1,5 @@
+6	#DEP#org.apache.lucene:lucene-expressions
+7	#DEP#junit:junit
+8	#DEP#io.searchbox:jest
+9	#DEP#org.apache.lucene:lucene-test-framework
+10	#DEP#org.elasticsearch:elasticsearch

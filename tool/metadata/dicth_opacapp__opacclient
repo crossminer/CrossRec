@@ -1,0 +1,11 @@
+1	git://github.com/opacapp/opacclient.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.bouncycastle:bcprov-jdk15on
+8	#DEP#org.apache.httpcomponents:httpmime
+9	#DEP#org.json:json
+10	#DEP#junit:junit
+11	#DEP#joda-time:joda-time

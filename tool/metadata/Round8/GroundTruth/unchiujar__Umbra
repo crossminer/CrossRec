@@ -1,0 +1,8 @@
+9	#DEP#com.google.android.gms:google-play-services
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#com.google.android.gms:play-services
+12	#DEP#org.roboguice:roboguice
+13	#DEP#com.github.tony19:logback-android-classic
+14	#DEP#com.google.maps.android:android-maps-utils
+15	#DEP#com.android.support:support-v4
+16	#DEP#junit:junit

@@ -1,0 +1,11 @@
+1	git://github.com/Saka7/spring-boot-angular4-boilerplate.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.postgresql:postgresql
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.springframework.boot:spring-boot-devtools
+6	#DEP#org.projectlombok:lombok
+7	#DEP#junit:junit
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#io.jsonwebtoken:jjwt
+11	#DEP#com.h2database:h2

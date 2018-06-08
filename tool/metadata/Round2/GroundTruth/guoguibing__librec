@@ -1,0 +1,5 @@
+6	#DEP#commons-logging:commons-logging
+7	#DEP#com.google.guava:guava
+8	#DEP#net.librec:librec
+9	#DEP#junit:junit
+10	#DEP#commons-lang:commons-lang

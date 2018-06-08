@@ -1,0 +1,9 @@
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.springframework.boot:spring-boot-autoconfigure
+14	#DEP#nl.jqno.equalsverifier:equalsverifier
+15	#DEP#org.springframework.security:spring-security-config
+16	#DEP#junit:junit
+17	#DEP#javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api
+18	#DEP#org.springframework.boot:spring-boot-starter-actuator
+19	#DEP#io.generators:generators-core

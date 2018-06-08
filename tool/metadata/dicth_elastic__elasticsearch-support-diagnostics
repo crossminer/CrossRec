@@ -1,0 +1,11 @@
+1	git://github.com/elastic/elasticsearch-support-diagnostics.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.yaml:snakeyaml
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#org.springframework:spring-core
+11	#DEP#com.beust:jcommander

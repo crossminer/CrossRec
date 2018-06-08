@@ -1,0 +1,17 @@
+18	#DEP#org.cloudname:testtools
+19	#DEP#javax.annotation:jsr250-api
+20	#DEP#org.apache.curator:curator-test
+21	#DEP#javax.annotation:javax.annotation-api
+22	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+23	#DEP#net.sf.jopt-simple:jopt-simple
+24	#DEP#com.fasterxml.jackson.core:jackson-databind
+25	#DEP#joda-time:joda-time
+26	#DEP#org.cloudname:cn-consul
+27	#DEP#com.sparkjava:spark-core
+28	#DEP#org.apache.curator:curator-framework
+29	#DEP#log4j:log4j
+30	#DEP#org.hamcrest:hamcrest-all
+31	#DEP#org.json:json
+32	#DEP#org.cloudname:log
+33	#DEP#junit:junit
+34	#DEP#com.sun.jersey:jersey-server

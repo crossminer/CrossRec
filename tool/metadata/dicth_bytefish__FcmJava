@@ -1,0 +1,10 @@
+1	git://github.com/bytefish/FcmJava.git
+2	#DEP#de.bytefish.fcmjava:fcmjava-core
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#de.bytefish.fcmjava:fcmjava-parent
+6	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-jdk-http
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations

@@ -1,0 +1,11 @@
+1	git://github.com/lycying/c2d-engine.git
+2	#DEP#com.badlogicgames.gdx:gdx-platform
+3	#DEP#com.badlogicgames.gdx:gdx-box2d-platform
+4	#DEP#${project.groupId}:c2d
+5	#DEP#com.badlogicgames.gdx:gdx-backend-lwjgl
+6	#DEP#com.badlogicgames.gdx:gdx-tools
+7	#DEP#com.badlogicgames.gdx:gdx-box2d
+8	#DEP#${project.groupId}:c2d-tests
+9	#DEP#com.badlogicgames.gdx:gdx-backend-gwt
+10	#DEP#com.badlogicgames.gdx:gdx-backend-android
+11	#DEP#com.badlogicgames.gdx:gdx

@@ -1,0 +1,8 @@
+10	#DEP#com.google.cloud.datastore:datastore-v1-protos
+11	#DEP#com.google.http-client:google-http-client-jackson
+12	#DEP#com.google.guava:guava
+13	#DEP#com.google.api-client:google-api-client
+14	#DEP#com.google.cloud.datastore:com.google.cloud.datastore
+15	#DEP#junit:junit
+16	#DEP#com.google.http-client:google-http-client
+17	#DEP#com.google.http-client:google-http-client-protobuf

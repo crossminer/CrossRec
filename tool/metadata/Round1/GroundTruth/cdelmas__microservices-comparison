@@ -1,0 +1,15 @@
+16	#DEP#com.mashape.unirest:unirest-java
+17	#DEP#com.restfb:restfb
+18	#DEP#javax.inject:javax.inject
+19	#DEP#com.netflix.hystrix:hystrix-core
+20	#DEP#org.restlet.jse:org.restlet.ext.oauth
+21	#DEP#com.fasterxml.jackson.core:jackson-databind
+22	#DEP#org.springframework.cloud:spring-cloud-security
+23	#DEP#com.sparkjava:spark-core
+24	#DEP#com.google.inject:guice
+25	#DEP#ch.qos.logback:logback-classic
+26	#DEP#org.springframework.hateoas:spring-hateoas
+27	#DEP#junit:junit
+28	#DEP#org.restlet.jse:org.restlet.ext.jackson
+29	#DEP#io.dropwizard:dropwizard-core
+30	#DEP#org.springframework.boot:spring-boot-starter-actuator

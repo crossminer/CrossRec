@@ -1,0 +1,10 @@
+11	#DEP#com.android.support:design
+12	#DEP#com.jakewharton:butterknife
+13	#DEP#com.squareup.retrofit2:converter-gson
+14	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+15	#DEP#com.android.support:support-v4
+16	#DEP#com.squareup.retrofit2:adapter-rxjava2
+17	#DEP#com.android.support.constraint:constraint-layout
+18	#DEP#com.squareup.retrofit2:retrofit
+19	#DEP#junit:junit
+20	#DEP#com.squareup.okio:okio

@@ -1,0 +1,8 @@
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#com.google.guava:guava
+11	#DEP#org.projectlombok:lombok
+12	#DEP#junit:junit
+13	#DEP#com.netflix.archaius:archaius-core
+14	#DEP#com.beust:jcommander
+15	#DEP#org.weakref:jmxutils
+16	#DEP#com.google.inject.extensions:guice-multibindings

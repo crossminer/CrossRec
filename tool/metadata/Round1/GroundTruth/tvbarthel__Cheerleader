@@ -1,0 +1,8 @@
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.netcosports.recyclergesture:library
+11	#DEP#com.squareup.okhttp3:logging-interceptor
+12	#DEP#com.squareup.picasso:picasso
+13	#DEP#de.keyboardsurfer.android.widget:crouton
+14	#DEP#com.squareup.retrofit2:retrofit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

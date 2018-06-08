@@ -1,0 +1,11 @@
+12	#DEP#org.apache.xmlrpc:xmlrpc-server
+13	#DEP#joda-time:joda-time
+14	#DEP#org.jsoup:jsoup
+15	#DEP#com.google.inject:guice
+16	#DEP#log4j:log4j
+17	#DEP#org.apache.abdera:abdera-bundle
+18	#DEP#com.rosaloves:bitlyj
+19	#DEP#net.sf.jtidy:jtidy
+20	#DEP#org.twitter4j:twitter4j-core
+21	#DEP#org.json:json
+22	#DEP#junit:junit

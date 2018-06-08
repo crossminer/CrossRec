@@ -1,0 +1,11 @@
+1	git://github.com/javanna/elasticsearch-river-solr.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.hamcrest:hamcrest-all
+4	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+5	#DEP#org.apache.solr:solr-test-framework
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.httpcomponents:httpmime
+8	#DEP#org.codehaus.groovy:groovy-all
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.elasticsearch:elasticsearch

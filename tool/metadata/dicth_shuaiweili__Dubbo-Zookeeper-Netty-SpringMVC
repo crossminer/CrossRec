@@ -1,0 +1,15 @@
+1	git://github.com/shuaiweili/Dubbo-Zookeeper-Netty-SpringMVC.git
+2	#DEP#org.apache.geronimo.specs:geronimo-servlet_3.0_spec
+3	#DEP#org.springframework:spring-context
+4	#DEP#io.netty:netty-codec-http
+5	#DEP#io.netty:netty-transport
+6	#DEP#io.netty:netty-handler
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#com.github.sgroschupf:zkclient
+9	#DEP#org.springframework:spring-test
+10	#DEP#com.alibaba:dubbo
+11	#DEP#com.api:dubbo.common
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#junit:junit
+14	#DEP#org.aspectj:aspectjrt
+15	#DEP#cglib:cglib

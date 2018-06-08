@@ -1,0 +1,12 @@
+1	git://github.com/marcusklang/wikiforia.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.codehaus.woodstox:woodstox-core-asl
+5	#DEP#org.apache.logging.log4j:log4j-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+9	#DEP#org.sweble.wikitext:swc-engine
+10	#DEP#junit:junit
+11	#DEP#org.apache.logging.log4j:log4j-api
+12	#DEP#org.codehaus.woodstox:stax2-api

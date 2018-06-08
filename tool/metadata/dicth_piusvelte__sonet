@@ -1,0 +1,11 @@
+1	git://github.com/piusvelte/sonet.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.google.android.gms:play-services-ads
+5	#DEP#com.google.android.gms:play-services-plus
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.piusvelte.okoauth:OKOAuth
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design
+11	#DEP#com.piusvelte.eidos:Eidos

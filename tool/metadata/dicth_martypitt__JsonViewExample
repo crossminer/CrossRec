@@ -1,0 +1,11 @@
+1	git://github.com/martypitt/JsonViewExample.git
+2	#DEP#org.springframework:org.springframework.spring-library
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.guava:guava
+8	#DEP#org.projectlombok:lombok
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations

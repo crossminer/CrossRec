@@ -1,0 +1,11 @@
+1	git://github.com/spotify/hdfs2cass.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.hamcrest:hamcrest-junit
+4	#DEP#org.apache.cassandra:cassandra-all
+5	#DEP#com.datastax.cassandra:cassandra-driver-core
+6	#DEP#org.apache.hadoop:hadoop-client
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.crunch:crunch-core
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#com.beust:jcommander

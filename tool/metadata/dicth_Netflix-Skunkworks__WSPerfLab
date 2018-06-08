@@ -1,0 +1,16 @@
+1	git://github.com/Netflix-Skunkworks/WSPerfLab.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#:ws-impls
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.codehaus.jackson:jackson-core-asl
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#io.reactivex:rxnetty
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#junit:junit-dep
+12	#DEP#com.netflix.numerus:numerus
+13	#DEP#org.mockito:mockito-core
+14	#DEP#javax.servlet:javax.servlet-api
+15	#DEP#com.google.guava:guava
+16	#DEP#io.reactivex:rxjava

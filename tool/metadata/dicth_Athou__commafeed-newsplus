@@ -1,0 +1,10 @@
+1	git://github.com/Athou/commafeed-newsplus.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#com.googlecode.androidannotations:androidannotations
+4	#DEP#com.googlecode.androidannotations:androidannotations-api
+5	#DEP#com.google.android:support-v4
+6	#DEP#com.noinnion.android.reader.api:reader-api-r1
+7	#DEP#com.google.android:android
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#org.springframework.android:spring-android-rest-template
+10	#DEP#org.springframework.android:spring-android-core

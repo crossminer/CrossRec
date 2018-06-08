@@ -1,0 +1,14 @@
+1	git://github.com/mhidaka/EventApp.git
+2	#DEP#com.sys1yagi:indirect-injector
+3	#DEP#com.github.johnkil.android-progressfragment:progressfragment
+4	#DEP#commons-io:commons-io
+5	#DEP#com.google.dexmaker:dexmaker
+6	#DEP#com.astuetz:pagerslidingtabstrip
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#org.jsoup:jsoup
+11	#DEP#com.etsy.android.grid:library
+12	#DEP#com.google.dexmaker:dexmaker-mockito
+13	#DEP#org.mockito:mockito-core
+14	#DEP#com.nhaarman.listviewanimations:library

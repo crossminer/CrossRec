@@ -1,0 +1,6 @@
+8	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+9	#DEP#com.github.bumptech.glide:glide
+10	#DEP#com.android.support:support-v4
+11	#DEP#junit:junit
+12	#DEP#com.android.support.test:runner
+13	#DEP#com.android.support.test.espresso:espresso-core

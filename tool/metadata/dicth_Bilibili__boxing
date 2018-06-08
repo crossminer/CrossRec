@@ -1,0 +1,12 @@
+1	git://github.com/Bilibili/boxing.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.squareup.picasso:picasso
+6	#DEP#com.facebook.fresco:animated-gif
+7	#DEP#org.powermock:powermock-classloading-xstream
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design
+12	#DEP#com.android.support.test:runner

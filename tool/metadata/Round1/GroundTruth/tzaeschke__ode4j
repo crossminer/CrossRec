@@ -1,0 +1,5 @@
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.lwjgl.lwjgl:lwjgl_util
+9	#DEP#${project.parent.groupId}:demo
+10	#DEP#org.slf4j:slf4j-jdk14

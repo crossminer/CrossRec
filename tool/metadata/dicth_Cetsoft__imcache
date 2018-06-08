@@ -1,0 +1,13 @@
+1	git://github.com/Cetsoft/imcache.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#com.cetsoft:imcache
+4	#DEP#org.springframework:spring-beans
+5	#DEP#org.mockito:mockito-all
+6	#DEP#org.springframework:spring-core
+7	#DEP#org.springframework:spring-tx
+8	#DEP#com.cetsoft:imcache-core
+9	#DEP#com.cetsoft:imcache-examples
+10	#DEP#com.cetsoft:imcache-redis
+11	#DEP#com.cetsoft:imcache-offheap
+12	#DEP#junit:junit
+13	#DEP#com.cetsoft:imcache-spring

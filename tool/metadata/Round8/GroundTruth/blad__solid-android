@@ -1,0 +1,8 @@
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.google.dexmaker:dexmaker-mockito
+12	#DEP#com.squareup.dagger:dagger-compiler
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#org.mockito:mockito-core
+15	#DEP#com.squareup:otto
+16	#DEP#com.android.support:support-v4
+17	#DEP#com.squareup.okhttp:okhttp-urlconnection

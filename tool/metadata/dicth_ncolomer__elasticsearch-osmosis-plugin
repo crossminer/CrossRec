@@ -1,0 +1,11 @@
+1	git://github.com/ncolomer/elasticsearch-osmosis-plugin.git
+2	#DEP#org.openstreetmap.osmosis:osmosis-core
+3	#DEP#org.openstreetmap.osmosis:osmosis-xml
+4	#DEP#org.openstreetmap.osmosis:osmosis-tagfilter
+5	#DEP#commons-io:commons-io
+6	#DEP#com.vividsolutions:jts
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.spatial4j:spatial4j
+10	#DEP#junit:junit
+11	#DEP#org.elasticsearch:elasticsearch

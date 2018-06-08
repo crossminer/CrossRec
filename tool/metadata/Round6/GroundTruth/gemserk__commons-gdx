@@ -1,0 +1,10 @@
+12	#DEP#com.google.ads.admob:admob
+13	#DEP#com.google.android:android
+14	#DEP#org.jmock:jmock-junit4
+15	#DEP#org.easymock:easymockclassextension
+16	#DEP#org.slf4j:slf4j-android
+17	#DEP#ch.qos.logback:logback-classic
+18	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+19	#DEP#org.jmock:jmock-legacy
+20	#DEP#junit:junit
+21	#DEP#com.gemserk.animation4j:animation4j-core

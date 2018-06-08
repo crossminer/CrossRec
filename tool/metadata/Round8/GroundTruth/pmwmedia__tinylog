@@ -1,0 +1,7 @@
+9	#DEP#log4j:log4j
+10	#DEP#org.tinylog:tinylog
+11	#DEP#org.jmockit:jmockit
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.jboss.logging:jboss-logging
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

@@ -1,0 +1,5 @@
+7	#DEP#org.springframework:spring-webmvc
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.springframework:spring-beans
+11	#DEP#org.springframework.webflow:spring-webflow

@@ -1,0 +1,12 @@
+13	#DEP#uk.q3c.util:q3c-testutils
+14	#DEP#org.eclipse.persistence:javax.persistence
+15	#DEP#org.assertj:assertj-guava
+16	#DEP#com.mycila:mycila-guice
+17	#DEP#ch.qos.logback:logback-core
+18	#DEP#net.sf.jung:jung-samples
+19	#DEP#javax.servlet:javax.servlet-api
+20	#DEP#ch.qos.logback:logback-classic
+21	#DEP#uk.q3c.krail:krail-config
+22	#DEP#com.mycila.testing.plugins:mycila-testing-mockito
+23	#DEP#junit:junit
+24	#DEP#uk.q3c.krail:krail-option

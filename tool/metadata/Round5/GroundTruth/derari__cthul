@@ -1,0 +1,15 @@
+16	#DEP#org.cthul:cthul-matchers
+17	#DEP#com.thoughtworks.qdox:qdox
+18	#DEP#org.cthul:cthul-matcher
+19	#DEP#org.hamcrest:hamcrest-core
+20	#DEP#org.cthul:cthul-matcher-fluent
+21	#DEP#org.slf4j:org.slf4j
+22	#DEP#junit:junit
+23	#DEP#net.sf.twip:twip
+24	#DEP#org.slf4j:slf4j-api
+25	#DEP#org.slf4j:slf4j-ext
+26	#DEP#org.codehaus.plexus:plexus-compiler-eclipse
+27	#DEP#org.cthul:cthul-log
+28	#DEP#org.cthul:cthul-objects
+29	#DEP#org.apache.maven:maven-plugin-api
+30	#DEP#org.mockito:mockito-core

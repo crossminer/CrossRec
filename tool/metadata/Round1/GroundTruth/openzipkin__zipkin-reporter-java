@@ -1,0 +1,12 @@
+13	#DEP#com.squareup.okhttp3:mockwebserver
+14	#DEP#${project.groupId}:zipkin-sender-amqp-client
+15	#DEP#io.zipkin.zipkin2:zipkin
+16	#DEP#com.github.charithe:kafka-junit
+17	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+18	#DEP#${project.groupId}:zipkin-reporter-spring-beans
+19	#DEP#org.slf4j:jcl-over-slf4j
+20	#DEP#ch.qos.logback:logback-classic
+21	#DEP#io.zipkin.reporter2:zipkin-reporter-parent
+22	#DEP#junit:junit
+23	#DEP#org.openjdk.jmh:jmh-core
+24	#DEP#${project.groupId}:zipkin-sender-kafka11

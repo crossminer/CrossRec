@@ -1,0 +1,10 @@
+1	git://github.com/square/moshi.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+4	#DEP#com.squareup.moshi:moshi-adapters
+5	#DEP#com.squareup.moshi:moshi
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.jetbrains.kotlin:kotlin-reflect
+8	#DEP#junit:junit
+9	#DEP#org.jetbrains.kotlin:kotlin-test
+10	#DEP#com.squareup.okio:okio

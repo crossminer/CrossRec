@@ -1,0 +1,17 @@
+1	git://github.com/Yarikx/reductor.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.ryanharter.auto.value:auto-value-gson
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.google.truth:truth
+9	#DEP#com.facebook.stetho:stetho
+10	#DEP#com.google.auto:auto-common
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.facebook.stetho:stetho-js-rhino
+13	#DEP#com.google.testing.compile:compile-testing
+14	#DEP#org.pcollections:pcollections
+15	#DEP#com.google.auto.service:auto-service
+16	#DEP#junit:junit
+17	#DEP#io.reactivex:rxjava

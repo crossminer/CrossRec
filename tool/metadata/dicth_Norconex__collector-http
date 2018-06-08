@@ -1,0 +1,16 @@
+1	git://github.com/Norconex/collector-http.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#com.github.fakemongo:fongo
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.norconex.collectors:norconex-collector-core
+6	#DEP#joda-time:joda-time
+7	#DEP#commons-lang:commons-lang
+8	#DEP#com.norconex.commons:norconex-commons-lang
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.jsoup:jsoup
+11	#DEP#org.apache.xmlbeans:xmlbeans
+12	#DEP#commons-collections:commons-collections
+13	#DEP#org.eclipse.jetty:jetty-webapp
+14	#DEP#edu.ucar:jj2000
+15	#DEP#junit:junit
+16	#DEP#org.eclipse.jetty:jetty-proxy

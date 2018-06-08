@@ -1,0 +1,11 @@
+13	#DEP#com.google.caliper:caliper-worker
+14	#DEP#joda-time:joda-time
+15	#DEP#com.google.dagger:dagger
+16	#DEP#com.google.truth:truth
+17	#DEP#com.google.dagger:dagger-compiler
+18	#DEP#com.google.caliper:caliper-runner
+19	#DEP#com.google.caliper:caliper-util
+20	#DEP#com.google.caliper:caliper-worker-jvm
+21	#DEP#com.google.guava:guava
+22	#DEP#com.google.caliper:caliper-core
+23	#DEP#junit:junit

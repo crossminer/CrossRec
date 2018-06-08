@@ -1,0 +1,14 @@
+1	git://github.com/dogecoin/libdohj.git
+2	#DEP#com.dogecoin:dogecoinj-core
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#com.google.protobuf:protobuf-java
+7	#DEP#com.dogecoin:dogecoinj-parent
+8	#DEP#org.libdohj:libdohj-core
+9	#DEP#org.bitcoinj:bitcoinj-core
+10	#DEP#org.fusesource.leveldbjni:leveldbjni-all
+11	#DEP#com.lambdaworks:scrypt
+12	#DEP#junit:junit
+13	#DEP#org.slf4j:slf4j-jdk14
+14	#DEP#com.h2database:h2

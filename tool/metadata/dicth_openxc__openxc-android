@@ -1,0 +1,15 @@
+1	git://github.com/openxc/openxc-android.git
+2	#DEP#org.robolectric:shadows-httpclient
+3	#DEP#com.bugsnag:bugsnag-android
+4	#DEP#commons-io:commons-io
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.robolectric:robolectric
+7	#DEP#com.google.dexmaker:dexmaker
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#com.google.dexmaker:dexmaker-mockito
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#com.android.support:support-v4
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit

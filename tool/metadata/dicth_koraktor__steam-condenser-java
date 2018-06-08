@@ -1,0 +1,12 @@
+1	git://github.com/koraktor/steam-condenser-java.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#org.json:json
+12	#DEP#junit:junit

@@ -1,0 +1,5 @@
+7	#DEP#commons-dbcp:commons-dbcp
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.twitter4j:twitter4j-core
+10	#DEP#org.twitter4j:twitter4j-stream
+11	#DEP#junit:junit

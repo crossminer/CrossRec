@@ -1,0 +1,11 @@
+1	git://github.com/QianmiOpen/dubbo-rpc-jsonrpc.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.mortbay.jetty:jetty
+4	#DEP#javax.portlet:portlet-api
+5	#DEP#com.alibaba:dubbo
+6	#DEP#javax.servlet:javax.servlet-api
+7	#DEP#com.github.briandilley.jsonrpc4j:jsonrpc4j
+8	#DEP#org.eclipse.jetty:jetty-server
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.eclipse.jetty:jetty-servlet

@@ -1,0 +1,15 @@
+1	git://github.com/Hive2Hive/Hive2Hive.git
+2	#DEP#com.typesafe:config
+3	#DEP#commons-io:commons-io
+4	#DEP#net.tomp2p:tomp2p-dht
+5	#DEP#org.bouncycastle:bcprov-jdk15on
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.hive2hive:org.hive2hive.core
+8	#DEP#net.engio:mbassador
+9	#DEP#de.ruedigermoeller:fst
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.hive2hive:org.hive2hive.processframework
+13	#DEP#net.tomp2p:tomp2p-replication
+14	#DEP#junit:junit
+15	#DEP#net.tomp2p:tomp2p-android

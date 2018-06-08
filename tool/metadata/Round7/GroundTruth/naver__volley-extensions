@@ -1,0 +1,11 @@
+12	#DEP#com.nostra13.universalimageloader:universal-image-loader
+13	#DEP#commons-lang:commons-lang
+14	#DEP#com.github.kristofa:mock-http-server
+15	#DEP#com.navercorp.volleyextensions:volley-views
+16	#DEP#org.mockito:mockito-core
+17	#DEP#com.mcxiaoke.volley:library
+18	#DEP#com.navercorp.volleyextensions:volley-extensions-common-utils
+19	#DEP#org.powermock:powermock-api-mockito
+20	#DEP#com.android.volley:volley
+21	#DEP#junit:junit
+22	#DEP#com.jayway.awaitility:awaitility

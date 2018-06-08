@@ -1,0 +1,15 @@
+1	git://github.com/kaitoy/pcap4j.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#org.pcap4j:pcap4j-packetfactory-static
+5	#DEP#org.pcap4j:pcap4j-core
+6	#DEP#org.pcap4j:pcap4j-sample
+7	#DEP#net.java.dev.jna:jna
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.pcap4j:pcap4j-packettest
+10	#DEP#org.powermock:powermock-classloading-xstream
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#org.pcap4j:pcap4j-packetfactory-propertiesbased
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#org.powermock:powermock-api-mockito
+15	#DEP#junit:junit

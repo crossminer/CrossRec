@@ -1,0 +1,14 @@
+1	git://github.com/opentable/otj-pg-embedded.git
+2	#DEP#org.tukaani:xz
+3	#DEP#org.flywaydb:flyway-core
+4	#DEP#commons-io:commons-io
+5	#DEP#org.postgresql:postgresql
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.apache.commons:commons-compress
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.google.guava:guava
+13	#DEP#org.objenesis:objenesis
+14	#DEP#junit:junit

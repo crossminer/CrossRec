@@ -1,0 +1,8 @@
+10	#DEP#edu.ucar:unidataCommon
+11	#DEP#commons-httpclient:commons-httpclient
+12	#DEP#org.slf4j:slf4j-jdk14
+13	#DEP#edu.wisc:visad
+14	#DEP#net.jcip:jcip-annotations
+15	#DEP#com.sleepycat:je
+16	#DEP#javax.servlet:servlet-api
+17	#DEP#junit:junit

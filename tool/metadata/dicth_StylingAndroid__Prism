@@ -1,0 +1,15 @@
+1	git://github.com/StylingAndroid/Prism.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.android.support:palette-v7
+5	#DEP#com.android.support.test.espresso:espresso-contrib
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#org.easytesting:fest-assert-core
+9	#DEP#org.mockito:mockito-core
+10	#DEP#org.powermock:powermock-api-mockito
+11	#DEP#com.android.support:support-v4
+12	#DEP#com.android.support.test:rules
+13	#DEP#junit:junit
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,5 @@
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+8	#DEP#junit:junit
+9	#DEP#joda-time:joda-time
+10	#DEP#org.eclipse.jetty:jetty-servlet

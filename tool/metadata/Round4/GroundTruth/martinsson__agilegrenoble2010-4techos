@@ -1,0 +1,16 @@
+17	#DEP#javax.mail:mail
+18	#DEP#org.apache.xmlbeans:xml-public
+19	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+20	#DEP#org.hsqldb.db:hsqldb
+21	#DEP#org.agile4techos.nokiatest:NokiaTest_FE
+22	#DEP#org.picocontainer:picocontainer
+23	#DEP#org.apache.xmlbeans:xbeans
+24	#DEP#org.apache.log4j:log4j
+25	#DEP#org.apache.xmlbeans:jsr-api
+26	#DEP#org.apache.xmlbeans:xmlbeans
+27	#DEP#org.mockito:mockito-core
+28	#DEP#log4j:log4j
+29	#DEP#org.apache.xmlbeans:xbeans-qname
+30	#DEP#com.sun.xml.bind:jaxb-impl
+31	#DEP#org.apache.xmlbeans:xbeans-xpath
+32	#DEP#com.sun.jersey:jersey-server

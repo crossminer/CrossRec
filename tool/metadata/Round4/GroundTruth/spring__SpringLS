@@ -1,0 +1,7 @@
+8	#DEP#org.apache.felix:org.apache.felix.framework
+9	#DEP#commons-configuration:commons-configuration
+10	#DEP#org.osgi:org.osgi
+11	#DEP#commons-pool:commons-pool
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit
+14	#DEP#org.osgi:org.osgi.core

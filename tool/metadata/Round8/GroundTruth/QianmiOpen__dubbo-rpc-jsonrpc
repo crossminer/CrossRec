@@ -1,0 +1,5 @@
+7	#DEP#com.github.briandilley.jsonrpc4j:jsonrpc4j
+8	#DEP#org.eclipse.jetty:jetty-server
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.eclipse.jetty:jetty-servlet

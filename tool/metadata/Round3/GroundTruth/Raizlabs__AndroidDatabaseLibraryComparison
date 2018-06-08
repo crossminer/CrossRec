@@ -1,0 +1,7 @@
+8	#DEP#com.raizlabs.android:DBFlow-Core
+9	#DEP#com.michaelpardo:activeandroid
+10	#DEP#com.michaelpardo:ollie-compiler
+11	#DEP#com.github.satyan:sugar
+12	#DEP#se.emilsjolander:sprinkles
+13	#DEP#de.greenrobot:greendao
+14	#DEP#com.michaelpardo:ollie

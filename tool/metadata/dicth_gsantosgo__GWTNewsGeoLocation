@@ -1,0 +1,16 @@
+1	git://github.com/gsantosgo/GWTNewsGeoLocation.git
+2	#DEP#org.geonames:geonames
+3	#DEP#com.thoughtworks.xstream:xstream
+4	#DEP#com.google.guava:guava
+5	#DEP#com.google.gwt:gwt-user
+6	#DEP#com.google.gwt.google-apis:gwt-ajaxloader
+7	#DEP#com.teklabs.gwt-i18n-server:gwt-i18n-server
+8	#DEP#com.google.gwt.maps:gwt-maps3-0.2b
+9	#DEP#rome:rome
+10	#DEP#junit:junit
+11	#DEP#com.google.guava:guava-gwt
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#uk.ac.gate:gate-core
+14	#DEP#org.apache.httpcomponents:httpclient
+15	#DEP#org.slf4j:slf4j-log4j12
+16	#DEP#com.google.gwt:gwt-servlet

@@ -1,0 +1,11 @@
+1	git://github.com/michal-luszczuk/tomorrow-mvp.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#io.reactivex:rxjava
+11	#DEP#io.reactivex:rxandroid

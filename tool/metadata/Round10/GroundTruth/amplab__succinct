@@ -1,0 +1,5 @@
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#amplab:succinct-core
+8	#DEP#junit:junit
+9	#DEP#amplab:succinct-serde
+10	#DEP#amplab:succinct-spark

@@ -1,0 +1,12 @@
+1	git://github.com/patloew/RxFit.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.google.android.gms:play-services-fitness
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design
+12	#DEP#com.android.support:gridlayout-v7

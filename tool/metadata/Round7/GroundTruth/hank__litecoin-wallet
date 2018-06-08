@@ -1,0 +1,5 @@
+7	#DEP#com.google.android:annotations
+8	#DEP#com.google:litecoinj
+9	#DEP#com.google.zxing:core
+10	#DEP#com.actionbarsherlock:library
+11	#DEP#de.schildbach.wallet.litecoin:integration-android

@@ -1,0 +1,10 @@
+1	git://github.com/pircbotx/pircbotx.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.mockito:mockito-core
+4	#DEP#ch.qos.logback:logback-classic
+5	#DEP#org.testng:testng
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.guava:guava
+10	#DEP#org.projectlombok:lombok

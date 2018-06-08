@@ -1,0 +1,5 @@
+7	#DEP#com.balysv:material-ripple
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.github.leonardoxh:custom-font
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

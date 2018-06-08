@@ -1,0 +1,12 @@
+13	#DEP#org.springframework.social:spring-social-core
+14	#DEP#org.springframework:spring-web
+15	#DEP#cglib:cglib-nodep
+16	#DEP#org.hibernate:hibernate-core
+17	#DEP#org.socialsignin:spring-social-security
+18	#DEP#log4j:log4j
+19	#DEP#org.springframework:spring-webmvc
+20	#DEP#javax.servlet:servlet-api
+21	#DEP#org.apache.httpcomponents:httpcore
+22	#DEP#org.springframework.security:spring-security-config
+23	#DEP#com.h2database:h2
+24	#DEP#org.springframework.social:spring-social-twitter

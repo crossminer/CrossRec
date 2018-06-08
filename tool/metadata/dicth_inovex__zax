@@ -1,0 +1,10 @@
+1	git://github.com/inovex/zax.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#com.google.android.gms:play-services-gcm
+4	#DEP#com.j256.ormlite:ormlite-android
+5	#DEP#com.jjoe64:graphview
+6	#DEP#com.nineoldandroids:library
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.pubnub:pubnub
+9	#DEP#com.j256.ormlite:ormlite-core
+10	#DEP#com.android.support:design

@@ -1,0 +1,3 @@
+4	#DEP#org.jogamp.gluegen:gluegen
+5	#DEP#org.jogamp.jogl:jogl-all
+6	#DEP#junit:junit

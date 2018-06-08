@@ -1,0 +1,10 @@
+1	git://github.com/seratch/jslack.git
+2	#DEP#org.glassfish.tyrus.bundles:tyrus-standalone-client
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#javax.websocket:javax.websocket-api
+8	#DEP#org.projectlombok:lombok
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit

@@ -1,0 +1,16 @@
+18	#DEP#org.mortbay.jetty:jetty
+19	#DEP#javax.xml.bind:jsr173_api
+20	#DEP#org.apache.axis2:axis2-kernel
+21	#DEP#javax.xml.bind:jaxb-api
+22	#DEP#org.apache.axis2:axis2-adb
+23	#DEP#javassist:javassist
+24	#DEP#cup:java-cup-11a
+25	#DEP#org.codehaus.jettison:jettison
+26	#DEP#jgrapht:jgrapht-jdk1.5
+27	#DEP#com.sun.xml:jaxb-xjc
+28	#DEP#com.rabbitmq:rabbitmq-client
+29	#DEP#org.scala-lang:scala-library
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#org.apache.derby:derby
+32	#DEP#com.sdicons.jsontools:jsontools-core
+33	#DEP#junit:junit

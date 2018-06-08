@@ -1,0 +1,13 @@
+15	#DEP#io.dropwizard.metrics:metrics-core
+16	#DEP#org.jruby.joni:joni
+17	#DEP#com.fasterxml.jackson.core:jackson-databind
+18	#DEP#joda-time:joda-time
+19	#DEP#ctrip:hangout-baseplugin
+20	#DEP#com.fasterxml.jackson.core:jackson-annotations
+21	#DEP#com.fasterxml.jackson.core:jackson-core
+22	#DEP#org.apache.kafka:kafka_2.11
+23	#DEP#org.jruby.jcodings:jcodings
+24	#DEP#org.scala-lang:scala-library
+25	#DEP#ctrip:hangout-filters-add
+26	#DEP#commons-collections:commons-collections
+27	#DEP#org.elasticsearch.client:transport

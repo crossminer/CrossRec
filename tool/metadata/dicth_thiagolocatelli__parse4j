@@ -1,0 +1,10 @@
+1	git://github.com/thiagolocatelli/parse4j.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#ch.qos.logback:logback-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.httpcomponents:httpcore
+9	#DEP#org.json:json
+10	#DEP#junit:junit

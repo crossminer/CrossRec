@@ -1,0 +1,13 @@
+1	git://github.com/rmct/AutoReferee.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.mcstats.bukkit:metrics
+4	#DEP#org.jdom:jdom2
+5	#DEP#commons-io:commons-io
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.google.code.gson:gson
+8	#DEP#commons-codec:commons-codec
+9	#DEP#org.bukkit:bukkit
+10	#DEP#commons-collections:commons-collections
+11	#DEP#com.sk89q:worldedit
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit

@@ -1,0 +1,11 @@
+12	#DEP#org.sonatype.aether:aether-connector-file
+13	#DEP#org.sonatype.aether:aether-spi
+14	#DEP#junit:junit
+15	#DEP#org.codehaus.plexus:plexus-classworlds
+16	#DEP#org.sonatype.sisu:sisu-inject-plexus
+17	#DEP#org.sonatype.aether:aether-connector-asynchttpclient
+18	#DEP#com.ning:async-http-client
+19	#DEP#org.sonatype.http-testing-harness:server-provider
+20	#DEP#org.sonatype.aether:aether-util
+21	#DEP#org.sonatype.aether:aether-impl
+22	#DEP#org.sonatype.http-testing-harness:junit-runner

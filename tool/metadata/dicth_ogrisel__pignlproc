@@ -1,0 +1,12 @@
+1	git://github.com/ogrisel/pignlproc.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#stax:stax
+6	#DEP#info.bliki.wiki:bliki-core
+7	#DEP#org.apache.pig:pig
+8	#DEP#log4j:log4j
+9	#DEP#org.apache.opennlp:opennlp-tools
+10	#DEP#org.apache.lucene:lucene-analyzers
+11	#DEP#junit:junit
+12	#DEP#commons-lang:commons-lang

@@ -1,0 +1,9 @@
+11	#DEP#com.vaadin:vaadin-bom
+12	#DEP#org.vaadin:viritin
+13	#DEP#com.vaadin:vaadin-compatibility-client-compiled
+14	#DEP#com.vaadin:vaadin-client-compiled
+15	#DEP#javax.el:javax.el-api
+16	#DEP#org.eclipse.jetty.websocket:websocket-server
+17	#DEP#com.vaadin:vaadin-themes
+18	#DEP#javax.servlet:javax.servlet-api
+19	#DEP#com.vaadin:vaadin-compatibility-server

@@ -1,0 +1,9 @@
+10	#DEP#com.twitter:cassovary-core_2.11
+11	#DEP#args4j:args4j
+12	#DEP#org.eclipse.jetty:jetty-server
+13	#DEP#com.google.guava:guava
+14	#DEP#org.twitter4j:twitter4j-core
+15	#DEP#com.twitter:graphjet-core
+16	#DEP#junit:junit
+17	#DEP#com.twitter:graphjet-adapters
+18	#DEP#org.eclipse.jetty:jetty-servlet

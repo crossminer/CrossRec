@@ -1,0 +1,11 @@
+12	#DEP#net.jcip:jcip-annotations
+13	#DEP#postgresql:postgresql
+14	#DEP#com.google.protobuf:protobuf-java
+15	#DEP#org.fxmisc.easybind:easybind
+16	#DEP#org.bitcoinj:bitcoinj-core
+17	#DEP#org.fusesource.leveldbjni:leveldbjni-all
+18	#DEP#com.google.guava:guava
+19	#DEP#com.lambdaworks:scrypt
+20	#DEP#junit:junit
+21	#DEP#org.slf4j:slf4j-jdk14
+22	#DEP#com.h2database:h2

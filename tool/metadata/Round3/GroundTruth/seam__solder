@@ -1,0 +1,11 @@
+13	#DEP#org.jboss.spec.javax.el:jboss-el-api_2.2_spec
+14	#DEP#org.jboss.seam:seam-bom
+15	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+16	#DEP#org.jboss.solder:solder-reference-guide
+17	#DEP#javax.enterprise:cdi-api
+18	#DEP#org.mockito:mockito-core
+19	#DEP#log4j:log4j
+20	#DEP#org.jboss.seam.test:weld-ee-embedded-1.1
+21	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+22	#DEP#org.glassfish.web:el-impl
+23	#DEP#junit:junit

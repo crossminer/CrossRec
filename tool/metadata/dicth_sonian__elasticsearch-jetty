@@ -1,0 +1,13 @@
+1	git://github.com/sonian/elasticsearch-jetty.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.eclipse.jetty:jetty-security
+4	#DEP#org.testng:testng
+5	#DEP#org.easymock:easymock
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.eclipse.jetty:test-jetty-servlet
+9	#DEP#org.hamcrest:hamcrest-core
+10	#DEP#org.elasticsearch:elasticsearch
+11	#DEP#org.eclipse.jetty:jetty-xml
+12	#DEP#log4j:log4j
+13	#DEP#org.eclipse.jetty:jetty-server

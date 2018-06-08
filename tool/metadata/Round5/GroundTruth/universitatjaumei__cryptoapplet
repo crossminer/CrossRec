@@ -1,0 +1,12 @@
+13	#DEP#org.bouncycastle:bctsp-jdk15
+14	#DEP#es.uji.security:uji-crypto-raw
+15	#DEP#commons-httpclient:commons-httpclient
+16	#DEP#es.uji.security:uji-utils
+17	#DEP#es.uji.security:xmlsec-backport-jdk6
+18	#DEP#es.uji.security:uji-crypto-core
+19	#DEP#commons-logging:commons-logging
+20	#DEP#es.uji.security:uji-config
+21	#DEP#log4j:log4j
+22	#DEP#junit:junit
+23	#DEP#es.gob.afirma:afirma-crypto-pdf
+24	#DEP#es.uji.security:uji-crypto-cms

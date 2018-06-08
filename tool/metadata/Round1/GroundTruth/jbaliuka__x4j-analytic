@@ -1,0 +1,7 @@
+9	#DEP#org.apache.pdfbox:pdfbox
+10	#DEP#org.apache.poi:poi
+11	#DEP#commons-collections:commons-collections
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.apache.poi:poi-ooxml
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

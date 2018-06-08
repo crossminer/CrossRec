@@ -1,0 +1,15 @@
+16	#DEP#org.ops4j.pax.exam:pax-exam
+17	#DEP#junit:junit
+18	#DEP#org.apache.logging.log4j:log4j-core
+19	#DEP#org.easymock:easymock
+20	#DEP#org.apache.felix:org.apache.felix.framework
+21	#DEP#com.google.code.findbugs:annotations
+22	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+23	#DEP#org.ops4j.pax.exam:pax-exam-container-native
+24	#DEP#org.ops4j.pax.logging:pax-logging-service
+25	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+26	#DEP#ch.qos.logback:logback-core
+27	#DEP#log4j:log4j
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#ch.qos.logback.contrib:logback-json-core
+30	#DEP#org.ops4j.pax.exam:pax-exam-junit4

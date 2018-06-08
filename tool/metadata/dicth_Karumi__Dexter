@@ -1,0 +1,12 @@
+1	git://github.com/Karumi/Dexter.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support.test:rules
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support.test:runner
+12	#DEP#org.awaitility:awaitility

@@ -22,6 +22,7 @@ Università degli Studi dell'Aquila
 
 submitted to the Information and Software Technology journal.
 
+## CrossRec: A Recommender System for Suggesting Third-party Libraries
 
 CrossRec is a framework that exploits cross projects relationships in open source software repositories to build a recommender system. It aims at supporting software developers who have already included some libraries in the new projects being developed, and expect to get recommendations on which additional libraries should be further incorporated. The CrossRec architecture is as follows:
 
@@ -54,13 +55,9 @@ If you use our tool in your research, please cite it using the following BibTex 
 
 ```
 @inproceedings{DBLP:conf/iir/NguyenRR18,
-  author    = {Phuong T. Nguyen and
-               Juri Di Rocco and
-               Davide Di Ruscio},
-  title     = {Mining Software Repositories to Support {OSS} Developers: {A} Recommender
-               Systems Approach},
-  booktitle = {Proceedings of the 9th Italian Information Retrieval Workshop, Rome,
-               Italy, May, 28-30, 2018.},
+  author    = {Phuong T. Nguyen and Juri Di Rocco and Davide Di Ruscio},
+  title     = {Mining Software Repositories to Support {OSS} Developers: {A} Recommender Systems Approach},
+  booktitle = {Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May, 28-30, 2018.},
   year      = {2018},
   crossref  = {DBLP:conf/iir/2018},
   url       = {http://ceur-ws.org/Vol-2140/paper9.pdf},

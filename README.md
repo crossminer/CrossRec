@@ -2,7 +2,7 @@
 
 This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following papers:
 
-<b>Mining Software Repositories to Support OSS Developers: A Recommender	Systems Approach</b>
+<b>Mining Software Repositories to Support OSS Developers: A Recommender	Systems Approach</b> ([link](http://ceur-ws.org/Vol-2140/paper9.pdf))
 
 Juri Di Rocco, Phuong T. Nguyen, Davide Di Ruscio
 

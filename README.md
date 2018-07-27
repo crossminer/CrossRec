@@ -13,7 +13,7 @@ Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May,
 
 and:
 
-<b>"A collaborative-filtering approach to third-party library recommendation"</b>
+<b>A collaborative-filtering approach to third-party library recommendation</b>
 
 Juri Di Rocco, Phuong T. Nguyen, Davide Di Ruscio
 
@@ -30,7 +30,7 @@ CrossRec is a framework that exploits cross projects relationships in open sourc
 <img src="https://github.com/crossminer/CrossRec/blob/master/images/CrossRec.png" width="450">
 </p>
 
-The developer interacts with the system by sending a request for recommendations. The request contains a list of libraries that are already included in the project the developer is working on. The <b>Data Encoder</b> collects <i> background data </i> from OSS repositories, represents them in a <i>mathematically computable format</i>, which is then used as a base for other components of CrossRec. The graph representation is depicted in the following figure.
+The developer interacts with the system by sending a request for recommendations. The request contains a list of libraries that are already included in the project the developer is working on. The <b>Data Encoder</b> collects <i> background data </i> from OSS repositories, represents them in a <i>mathematically computable format</i>, which is then used as a base for other components of CrossRec. We use a Knowledge Graph to model the relationships among projects and libraries as given below.
 
 <p align="center">
 <img src="https://github.com/crossminer/CrossRec/blob/master/images/Graph.png" width="450">

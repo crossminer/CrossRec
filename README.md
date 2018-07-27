@@ -4,7 +4,7 @@ This repository contains the source code implementation of CrossRec, the dataset
 
 <b>Mining Software Repositories to Support OSS Developers: A Recommender	Systems Approach</b> ([link](http://ceur-ws.org/Vol-2140/paper9.pdf))
 
-Juri Di Rocco, Phuong T. Nguyen, Davide Di Ruscio
+Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio
 
 Department of Information Engineering, Computer Science and Mathematics,
 Università degli Studi dell'Aquila
@@ -51,7 +51,7 @@ There are the following main folders:
 
 
 ## How to cite
-If you use our tool in your research, please cite it using the following BibTex entry:
+If you use the tool or dataset in your research, please cite our work using the following BibTex entry:
 
 ```
 @inproceedings{DBLP:conf/iir/NguyenRR18,

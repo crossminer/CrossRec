@@ -30,11 +30,11 @@ CrossRec is a framework that exploits cross projects relationships in open sourc
 <img src="https://github.com/crossminer/CrossRec/blob/master/images/CrossRec.png" width="450">
 </p>
 
-The developer interacts with the system by sending a request for recommendations. The request contains a list of libraries that are already included in the project the developer is working on. The <b>Data Encoder</b> collects <i> background data </i> from OSS repositories, represents them in a <i>mathematically computable format</i>, which is then used as a base for other components of CrossRec. We use a Knowledge Graph to model the relationships among projects and libraries as given below.
+The developer interacts with the system by sending a request for recommendations. The request contains a list of libraries that are already included in the project the developer is working on. The <b>Data Encoder</b> collects <i> background data </i> from OSS repositories, represents them in a <i>mathematically computable format</i>, which is then used as a base for other components of CrossRec. <!-- We use a Knowledge Graph to model the relationships among projects and libraries as given below.-->
 
-<p align="center">
-<img src="https://github.com/crossminer/CrossRec/blob/master/images/Graph.png" width="450">
-</p>
+<!--  <p align="center"> -->
+<!--  <img src="https://github.com/crossminer/CrossRec/blob/master/images/Graph.png" width="450"> -->
+<!--  </p> -->
 
 The <b> Similarity Calculator</b> module computes similarities among projects to find the most similar ones to the given project. The <b>Recommendation Engine</b> gets the list of <i> top-k</i> similar projects and executes recommendation techniques to generate a ranked list of <i> top-N </i> libraries. Finally, the recommendations are sent back to the developer. Background data can be collected from different OSS platforms like GitHub, Eclipse, BitBucket. The current version of CrossRec supports data extraction from GitHub, even though the support for additional platforms is already under development.
 

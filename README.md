@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/134830691.svg)](https://zenodo.org/badge/latestdoi/134830691)
 
-This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following papers:
+This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following paper:
 
 <b>Mining Software Repositories to Support OSS Developers: A Recommender	Systems Approach</b> ([link](http://ceur-ws.org/Vol-2140/paper9.pdf))
 
@@ -10,17 +10,6 @@ Department of Information Engineering, Computer Science and Mathematics,
 Università degli Studi dell'Aquila
 
 Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May, 28-30, 2018
-
-and:
-
-<b>A collaborative-filtering approach to third-party library recommendation</b>
-
-Juri Di Rocco, Phuong T. Nguyen, Davide Di Ruscio
-
-Department of Information Engineering, Computer Science and Mathematics,
-Università degli Studi dell'Aquila
-
-submitted to the Information and Software Technology journal.
 
 ## CrossRec: A Recommender System for Suggesting Third-party Libraries
 

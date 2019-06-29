@@ -27,10 +27,9 @@ The developer interacts with the system by sending a request for recommendations
 
 The <b> Similarity Calculator</b> module computes similarities among projects to find the most similar ones to the given project. The <b>Recommendation Engine</b> gets the list of <i> top-k</i> similar projects and executes recommendation techniques to generate a ranked list of <i> top-N </i> libraries. Finally, the recommendations are sent back to the developer. Background data can be collected from different OSS platforms like GitHub, Eclipse, BitBucket. The current version of CrossRec supports data extraction from GitHub, even though the support for additional platforms is already under development.
 
-CrossRec has been evaluated by considering different quality metrics and a dataset consisting of 1.200 GitHub Java projects. The performed evaluation demonstrated that our approach outperforms [LibRec](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6671293), a well-known system for library recommendation with regards to various quality indicators. To the best of our knowledge, our work is the first one that employs graphs to represent the relationships among software projects so as to effectively compute similarity and eventually to recommend libraries. 
+We performed an empirical evaluation of the proposed approach on a dataset of 1,200 GitHub Java projects using different quality metrics, i.e., success rate, accuracy, sales diversity and novelty. The evaluation demonstrated that our approach outperforms the state-of-the-art approach [LibRec](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6671293), a well-known system for library recommendation with regards to various quality indicators. Our findings pave the way for further development towards a multi-purpose recommender system that can supply to developers several types of recommendations.
 
-
-
+## Structure
 There are the following main folders:
 
 1. <b>experimental\_results</b> contains all the results obtained from the experiments with LibRec and CrossRec.

@@ -2,14 +2,24 @@
 
 This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following paper:
 
+<b>CrossRec: Supporting Software Developers by Recommending Third-party Libraries</b>
+
+Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio<sup>(1)</sup>, Massimiliano Di Penta<sup>(2)</sup>
+
+<sup>(1)</sup>Università degli Studi dell'Aquila, Italy
+
+<sup>(2)</sup>Università degli Studi del Sannio Benevento, Italy
+
+submitted to the Journal of Systems and Software
+
+and the following paper that has been published at the Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May, 28-30, 2018
+
 <b>Mining Software Repositories to Support OSS Developers: A Recommender	Systems Approach</b> ([link](http://ceur-ws.org/Vol-2140/paper9.pdf))
 
 Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio
 
 Department of Information Engineering, Computer Science and Mathematics,
 Università degli Studi dell'Aquila
-
-Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May, 28-30, 2018
 
 ## CrossRec: A Recommender System for Suggesting Third-party Libraries
 

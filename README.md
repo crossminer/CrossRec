@@ -10,7 +10,8 @@ Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio<sup>(1)</sup>, Massimiliano Di
 
 <sup>(2)</sup> Università degli Studi del Sannio Benevento, Italy
 
-The paper has been accepted for publication by Journal of Systems and Software,
+The paper has been accepted for publication by Journal of Systems and Software ([link](https://www.sciencedirect.com/science/article/pii/S0164121219302341))
+
 
 and the following paper that has been published at the Proceedings of the 9th Italian Information Retrieval Workshop, Rome, Italy, May, 28-30, 2018
 

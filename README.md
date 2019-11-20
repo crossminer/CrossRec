@@ -49,7 +49,23 @@ There are the following main folders:
 
 
 ## How to cite
-If you use the tool or dataset in your research, please cite our work using the following BibTex entry:
+If you use the tool or dataset in your research, please cite our work using the following BibTex entries:
+
+
+```
+@article{NGUYEN2019110460,
+title = "CrossRec: Supporting Software Developers by Recommending Third-party Libraries",
+journal = "Journal of Systems and Software",
+pages = "110460",
+year = "2019",
+issn = "0164-1212",
+doi = "https://doi.org/10.1016/j.jss.2019.110460",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121219302341",
+author = "Phuong T. Nguyen and Juri Di Rocco and Davide Di Ruscio and Massimiliano Di Penta"
+}
+
+```
+and
 
 ```
 @inproceedings{DBLP:conf/iir/NguyenRR18,

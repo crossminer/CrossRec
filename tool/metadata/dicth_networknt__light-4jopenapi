@@ -1,0 +1,13 @@
+1	git://github.com/networknt/light-4jopenapi
+2	#DEP#docker
+3	#DEP#java
+4	#DEP#cloudnativ
+5	#DEP#consul
+6	#DEP#cloud
+7	#DEP#zookeep
+8	#DEP#lightweight
+9	#DEP#swagger
+10	#DEP#servicmesh
+11	#DEP#fast
+12	#DEP#microservic
+13	#DEP#java8

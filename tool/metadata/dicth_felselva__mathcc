@@ -1,0 +1,7 @@
+1	git://github.com/felselva/mathcc
+2	#DEP#minim
+3	#DEP#graphic
+4	#DEP#2d
+5	#DEP#vector
+6	#DEP#3d
+7	#DEP#math

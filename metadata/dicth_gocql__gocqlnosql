@@ -1,0 +1,7 @@
+1	git://github.com/gocql/gocqlnosql.git
+2	#DEP#databas
+3	#DEP#driver
+4	#DEP#golang
+5	#DEP#client
+6	#DEP#go
+7	#DEP#cassandra

@@ -1,0 +1,8 @@
+1	git://github.com/versilov/matrexc.git
+2	#DEP#matrix
+3	#DEP#jupytnotebook
+4	#DEP#numpi
+5	#DEP#machinlearn
+6	#DEP#elixir
+7	#DEP#linearalgebra
+8	#DEP#erlang

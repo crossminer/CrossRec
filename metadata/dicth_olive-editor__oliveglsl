@@ -1,0 +1,8 @@
+1	git://github.com/olive-editor/oliveglsl.git
+2	#DEP#qt
+3	#DEP#opengl
+4	#DEP#window
+5	#DEP#linux
+6	#DEP#maco
+7	#DEP#cpp
+8	#DEP#crossplatform

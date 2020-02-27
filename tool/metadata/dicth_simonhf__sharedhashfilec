@@ -1,0 +1,10 @@
+1	git://github.com/simonhf/sharedhashfilec
+2	#DEP#multiprocess
+3	#DEP#concurr
+4	#DEP#nosql
+5	#DEP#memori
+6	#DEP#highperform
+7	#DEP#keyvalustor
+8	#DEP#linux
+9	#DEP#atom
+10	#DEP#hashtabl

@@ -1,0 +1,5 @@
+6	#DEP#http2
+7	#DEP#reversproxi
+8	#DEP#keyvalu
+9	#DEP#loadbalanc
+10	#DEP#nosql

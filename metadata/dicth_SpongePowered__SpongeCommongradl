@@ -1,0 +1,7 @@
+1	git://github.com/SpongePowered/SpongeCommongradl.git
+2	#DEP#java
+3	#DEP#minecraftserv
+4	#DEP#mixin
+5	#DEP#spongepow
+6	#DEP#spong
+7	#DEP#minecraft

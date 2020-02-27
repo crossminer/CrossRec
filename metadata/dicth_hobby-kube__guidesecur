@@ -1,0 +1,9 @@
+1	git://github.com/hobby-kube/guidesecur.git
+2	#DEP#setup
+3	#DEP#autom
+4	#DEP#terraform
+5	#DEP#devop
+6	#DEP#digitalocean
+7	#DEP#kubernet
+8	#DEP#guid
+9	#DEP#cluster

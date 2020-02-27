@@ -1,0 +1,9 @@
+1	git://github.com/dbeaver/dbeaverpostgresql.git
+2	#DEP#databas
+3	#DEP#gui
+4	#DEP#oracl
+5	#DEP#sql
+6	#DEP#sqlite
+7	#DEP#mysql
+8	#DEP#db2
+9	#DEP#java

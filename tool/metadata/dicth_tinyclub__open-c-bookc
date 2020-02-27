@@ -1,0 +1,7 @@
+1	git://github.com/tinyclub/open-c-bookc
+2	#DEP#compil
+3	#DEP#loader
+4	#DEP#process
+5	#DEP#linux
+6	#DEP#editor
+7	#DEP#debug

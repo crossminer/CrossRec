@@ -1,0 +1,11 @@
+1	git://github.com/giampaolo/psutilc.git
+2	#DEP#osx
+3	#DEP#memori
+4	#DEP#python
+5	#DEP#monitor
+6	#DEP#openbsd
+7	#DEP#systemmonitor
+8	#DEP#window
+9	#DEP#linux
+10	#DEP#freebsd
+11	#DEP#cpu

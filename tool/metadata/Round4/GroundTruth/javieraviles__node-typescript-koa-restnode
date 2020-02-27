@@ -1,0 +1,6 @@
+8	#DEP#koa
+9	#DEP#sql
+10	#DEP#heroku
+11	#DEP#swagger
+12	#DEP#koa2
+13	#DEP#docker

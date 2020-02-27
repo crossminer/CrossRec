@@ -1,0 +1,14 @@
+1	git://github.com/TIBCOSoftware/flogoedg
+2	#DEP#serverless
+3	#DEP#awlambda
+4	#DEP#stream
+5	#DEP#iot
+6	#DEP#functionserv
+7	#DEP#golang
+8	#DEP#integr
+9	#DEP#faa
+10	#DEP#go
+11	#DEP#tensorflow
+12	#DEP#rule
+13	#DEP#microservic
+14	#DEP#lambda

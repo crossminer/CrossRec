@@ -1,0 +1,12 @@
+1	git://github.com/ufoym/deepoonnx.git
+2	#DEP#caffe2
+3	#DEP#mxnet
+4	#DEP#dockerimag
+5	#DEP#torch
+6	#DEP#deeplearn
+7	#DEP#jupyt
+8	#DEP#cntk
+9	#DEP#tensorflow
+10	#DEP#caff
+11	#DEP#pytorch
+12	#DEP#kera

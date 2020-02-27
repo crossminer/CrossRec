@@ -1,0 +1,7 @@
+1	git://github.com/ngxs/storengrx
+2	#DEP#statemanag
+3	#DEP#angular
+4	#DEP#eventsourc
+5	#DEP#redux
+6	#DEP#ngx
+7	#DEP#cqr

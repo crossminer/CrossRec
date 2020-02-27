@@ -1,0 +1,7 @@
+1	git://github.com/sharkdp/batcli.git
+2	#DEP#git
+3	#DEP#commandlin
+4	#DEP#tool
+5	#DEP#termin
+6	#DEP#syntaxhighlight
+7	#DEP#rust

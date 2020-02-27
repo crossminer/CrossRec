@@ -1,0 +1,7 @@
+1	git://github.com/apollographql/apollo-servernode.git
+2	#DEP#express
+3	#DEP#apollographql
+4	#DEP#koa
+5	#DEP#graphqlserv
+6	#DEP#graphql
+7	#DEP#hapi

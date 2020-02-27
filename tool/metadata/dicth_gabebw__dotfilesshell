@@ -1,0 +1,7 @@
+1	git://github.com/gabebw/dotfilesshell
+2	#DEP#dotfil
+3	#DEP#vim
+4	#DEP#rubi
+5	#DEP#haskel
+6	#DEP#homebrew
+7	#DEP#zsh

@@ -1,0 +1,8 @@
+1	git://github.com/social-manager-tools/socialmanagertools-igbotnodej.git
+2	#DEP#pm2
+3	#DEP#instagram
+4	#DEP#bot
+5	#DEP#selenium
+6	#DEP#puppet
+7	#DEP#social
+8	#DEP#socialmedium

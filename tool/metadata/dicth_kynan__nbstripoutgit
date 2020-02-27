@@ -1,0 +1,7 @@
+1	git://github.com/kynan/nbstripoutgit
+2	#DEP#ipythonnotebook
+3	#DEP#jupytnotebook
+4	#DEP#jupyt
+5	#DEP#hook
+6	#DEP#filter
+7	#DEP#ipython

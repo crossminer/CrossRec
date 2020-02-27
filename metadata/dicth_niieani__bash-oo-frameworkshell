@@ -1,0 +1,9 @@
+1	git://github.com/niieani/bash-oo-frameworkshell.git
+2	#DEP#log
+3	#DEP#errorhandl
+4	#DEP#oop
+5	#DEP#framework
+6	#DEP#test
+7	#DEP#functionprogram
+8	#DEP#boilerpl
+9	#DEP#bash

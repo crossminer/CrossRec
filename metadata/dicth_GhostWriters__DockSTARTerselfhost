@@ -1,0 +1,7 @@
+1	git://github.com/GhostWriters/DockSTARTerselfhost.git
+2	#DEP#raspbian
+3	#DEP#ubuntu
+4	#DEP#dockercompo
+5	#DEP#docker
+6	#DEP#debian
+7	#DEP#htpc

@@ -1,0 +1,7 @@
+1	git://github.com/banzaicloud/bank-vaultsoper.git
+2	#DEP#secur
+3	#DEP#azur
+4	#DEP#googlcloud
+5	#DEP#golang
+6	#DEP#amazon
+7	#DEP#kubernet

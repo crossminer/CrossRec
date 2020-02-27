@@ -1,0 +1,13 @@
+1	git://github.com/diffplug/spotlessgradl.git
+2	#DEP#scala
+3	#DEP#java
+4	#DEP#kotlin
+5	#DEP#javascript
+6	#DEP#typescript
+7	#DEP#sql
+8	#DEP#groovi
+9	#DEP#maven
+10	#DEP#prettier
+11	#DEP#sas
+12	#DEP#cs
+13	#DEP#formatt

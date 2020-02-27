@@ -1,0 +1,10 @@
+1	git://github.com/jenkins-x/jxenviron
+2	#DEP#continuintegr
+3	#DEP#cicd
+4	#DEP#devop
+5	#DEP#pipelin
+6	#DEP#jenkin
+7	#DEP#kubernet
+8	#DEP#continudeliveri
+9	#DEP#gitop
+10	#DEP#openshift

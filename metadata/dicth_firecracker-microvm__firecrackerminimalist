@@ -1,0 +1,9 @@
+1	git://github.com/firecracker-microvm/firecrackerminimalist.git
+2	#DEP#virtualmachin
+3	#DEP#cloudnativ
+4	#DEP#virtual
+5	#DEP#serverless
+6	#DEP#opensourc
+7	#DEP#contain
+8	#DEP#sandbox
+9	#DEP#rust

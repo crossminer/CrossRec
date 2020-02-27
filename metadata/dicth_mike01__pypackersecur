@@ -1,0 +1,10 @@
+1	git://github.com/mike01/pypackersecur.git
+2	#DEP#protocol
+3	#DEP#python
+4	#DEP#network
+5	#DEP#socket
+6	#DEP#udp
+7	#DEP#tcp
+8	#DEP#test
+9	#DEP#pcap
+10	#DEP#par

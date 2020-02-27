@@ -1,0 +1,10 @@
+1	git://github.com/Exrick/x-bootquartz.git
+2	#DEP#vue
+3	#DEP#admin
+4	#DEP#activ
+5	#DEP#springsecur
+6	#DEP#mysql
+7	#DEP#elasticsearch
+8	#DEP#springboot
+9	#DEP#redi
+10	#DEP#iview

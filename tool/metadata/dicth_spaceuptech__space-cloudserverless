@@ -1,0 +1,10 @@
+1	git://github.com/spaceuptech/space-cloudserverless
+2	#DEP#postgr
+3	#DEP#realtim
+4	#DEP#databas
+5	#DEP#mongodb
+6	#DEP#backend
+7	#DEP#golang
+8	#DEP#api
+9	#DEP#mysql
+10	#DEP#graphql

@@ -1,0 +1,9 @@
+1	git://github.com/forezp/SpringCloudLearningspringboot.git
+2	#DEP#zuul
+3	#DEP#spring
+4	#DEP#hystrix
+5	#DEP#consul
+6	#DEP#springcloud
+7	#DEP#gateway
+8	#DEP#springbootadmin
+9	#DEP#eureka

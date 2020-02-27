@@ -1,0 +1,11 @@
+1	git://github.com/JKHeadley/rest-hapimongodb
+2	#DEP#restapi
+3	#DEP#crud
+4	#DEP#rest
+5	#DEP#valid
+6	#DEP#swagger
+7	#DEP#mongoos
+8	#DEP#api
+9	#DEP#document
+10	#DEP#hapi
+11	#DEP#nosql

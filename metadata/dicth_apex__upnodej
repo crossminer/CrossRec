@@ -1,0 +1,15 @@
+1	git://github.com/apex/upnodej.git
+2	#DEP#serverless
+3	#DEP#http
+4	#DEP#deploy
+5	#DEP#awlambda
+6	#DEP#golang
+7	#DEP#apigateway
+8	#DEP#heroku
+9	#DEP#api
+10	#DEP#static
+11	#DEP#aw
+12	#DEP#deploytool
+13	#DEP#graphql
+14	#DEP#microservic
+15	#DEP#lambda

@@ -1,0 +1,10 @@
+1	git://github.com/hooram/ownphotosgalleri
+2	#DEP#selfhost
+3	#DEP#facedetect
+4	#DEP#photo
+5	#DEP#facerecognit
+6	#DEP#objectdetect
+7	#DEP#django
+8	#DEP#backend
+9	#DEP#djangorestframework
+10	#DEP#docker

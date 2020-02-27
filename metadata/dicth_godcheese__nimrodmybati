@@ -1,0 +1,9 @@
+1	git://github.com/godcheese/nimrodmybati.git
+2	#DEP#springboot
+3	#DEP#java
+4	#DEP#tomcat
+5	#DEP#spring
+6	#DEP#druid
+7	#DEP#thymeleaf
+8	#DEP#maven
+9	#DEP#mysql

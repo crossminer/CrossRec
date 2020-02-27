@@ -1,0 +1,7 @@
+1	git://github.com/eoli3n/dotfilesvagrant.git
+2	#DEP#vim
+3	#DEP#gtk
+4	#DEP#archlinux
+5	#DEP#theme
+6	#DEP#zsh
+7	#DEP#ansibl

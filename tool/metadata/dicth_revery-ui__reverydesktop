@@ -1,0 +1,9 @@
+1	git://github.com/revery-ui/reverydesktop
+2	#DEP#react
+3	#DEP#desktopapp
+4	#DEP#app
+5	#DEP#ocaml
+6	#DEP#nativ
+7	#DEP#electron
+8	#DEP#ui
+9	#DEP#crossplatform

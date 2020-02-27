@@ -1,0 +1,10 @@
+1	git://github.com/aquynh/capstonex86
+2	#DEP#secur
+3	#DEP#x8664
+4	#DEP#ethereum
+5	#DEP#framework
+6	#DEP#mip
+7	#DEP#arm64
+8	#DEP#arm
+9	#DEP#webassembl
+10	#DEP#reversengin

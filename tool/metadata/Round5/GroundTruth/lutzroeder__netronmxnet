@@ -1,0 +1,8 @@
+10	#DEP#onnx
+11	#DEP#visual
+12	#DEP#scikitlearn
+13	#DEP#torch
+14	#DEP#tensorflow
+15	#DEP#caff
+16	#DEP#machinelearn
+17	#DEP#kera

@@ -1,0 +1,7 @@
+1	git://github.com/wasmerio/wasmeremscripten.git
+2	#DEP#window
+3	#DEP#linux
+4	#DEP#wasm
+5	#DEP#maco
+6	#DEP#webassembl
+7	#DEP#rust

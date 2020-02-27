@@ -1,0 +1,12 @@
+1	git://github.com/cytopia/devilboxredi.git
+2	#DEP#postgresql
+3	#DEP#apach
+4	#DEP#nginx
+5	#DEP#lamp
+6	#DEP#mysql
+7	#DEP#dockercompo
+8	#DEP#mariadb
+9	#DEP#php7
+10	#DEP#docker
+11	#DEP#php
+12	#DEP#lemp

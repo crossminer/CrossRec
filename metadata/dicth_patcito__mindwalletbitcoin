@@ -1,0 +1,9 @@
+1	git://github.com/patcito/mindwalletbitcoin.git
+2	#DEP#javascript
+3	#DEP#bitcoinwallet
+4	#DEP#litecoin
+5	#DEP#golang
+6	#DEP#ethereum
+7	#DEP#monerowallet
+8	#DEP#cryptocurr
+9	#DEP#monero

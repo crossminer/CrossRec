@@ -1,0 +1,8 @@
+10	#DEP#netti
+11	#DEP#maven
+12	#DEP#mysql
+13	#DEP#elasticsearch
+14	#DEP#git
+15	#DEP#redi
+16	#DEP#zookeep
+17	#DEP#rocketmq

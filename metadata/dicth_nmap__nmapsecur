@@ -1,0 +1,10 @@
+1	git://github.com/nmap/nmapsecur.git
+2	#DEP#osx
+3	#DEP#cpluplu
+4	#DEP#servicdiscoveri
+5	#DEP#machinlearn
+6	#DEP#window
+7	#DEP#linux
+8	#DEP#lua
+9	#DEP#asynchron
+10	#DEP#socket

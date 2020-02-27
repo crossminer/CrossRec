@@ -1,0 +1,12 @@
+1	git://github.com/cs01/gdbguic.git
+2	#DEP#frontend
+3	#DEP#socketio
+4	#DEP#websocket
+5	#DEP#python
+6	#DEP#flask
+7	#DEP#gui
+8	#DEP#browser
+9	#DEP#golang
+10	#DEP#reactj
+11	#DEP#cpluplu
+12	#DEP#rust

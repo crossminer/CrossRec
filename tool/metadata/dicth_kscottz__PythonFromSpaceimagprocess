@@ -1,0 +1,7 @@
+1	git://github.com/kscottz/PythonFromSpaceimagprocess
+2	#DEP#jupytnotebook
+3	#DEP#python
+4	#DEP#imag
+5	#DEP#computvis
+6	#DEP#vision
+7	#DEP#gi

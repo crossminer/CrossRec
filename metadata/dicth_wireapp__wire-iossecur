@@ -1,0 +1,13 @@
+1	git://github.com/wireapp/wire-iossecur.git
+2	#DEP#commun
+3	#DEP#messeng
+4	#DEP#instantmessag
+5	#DEP#video
+6	#DEP#app
+7	#DEP#audio
+8	#DEP#mobilapp
+9	#DEP#io
+10	#DEP#privaci
+11	#DEP#mobil
+12	#DEP#encrypt
+13	#DEP#swift

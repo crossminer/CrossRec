@@ -1,0 +1,9 @@
+1	git://github.com/jnunemaker/flipperpostgr.git
+2	#DEP#http
+3	#DEP#mongo
+4	#DEP#rubi
+5	#DEP#rail
+6	#DEP#mysql
+7	#DEP#api
+8	#DEP#memcach
+9	#DEP#redi

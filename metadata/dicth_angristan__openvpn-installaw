@@ -1,0 +1,10 @@
+1	git://github.com/angristan/openvpn-installaw.git
+2	#DEP#fedora
+3	#DEP#vpn
+4	#DEP#encrypt
+5	#DEP#archlinux
+6	#DEP#ubuntu
+7	#DEP#cento
+8	#DEP#openvpn
+9	#DEP#debian
+10	#DEP#bash

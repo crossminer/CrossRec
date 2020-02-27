@@ -1,0 +1,9 @@
+1	git://github.com/marcelklehr/floccuswebextens.git
+2	#DEP#firefoxexten
+3	#DEP#bookmark
+4	#DEP#firefox
+5	#DEP#sync
+6	#DEP#chromeexten
+7	#DEP#chrome
+8	#DEP#nextcloud
+9	#DEP#firefoxaddon

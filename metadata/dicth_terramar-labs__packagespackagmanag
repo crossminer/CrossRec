@@ -1,0 +1,7 @@
+1	git://github.com/terramar-labs/packagespackagmanag.git
+2	#DEP#github
+3	#DEP#webhook
+4	#DEP#gitlab
+5	#DEP#compos
+6	#DEP#redi
+7	#DEP#php

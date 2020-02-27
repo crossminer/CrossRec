@@ -1,0 +1,10 @@
+1	git://github.com/alibaba/transmittable-thread-localjava.git
+2	#DEP#distribut
+3	#DEP#thread
+4	#DEP#apm
+5	#DEP#framework
+6	#DEP#asynchron
+7	#DEP#distributtrac
+8	#DEP#async
+9	#DEP#middlewar
+10	#DEP#trace

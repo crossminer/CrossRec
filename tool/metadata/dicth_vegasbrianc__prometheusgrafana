@@ -1,0 +1,8 @@
+1	git://github.com/vegasbrianc/prometheusgrafana
+2	#DEP#dashboardtemplat
+3	#DEP#alert
+4	#DEP#prometheu
+5	#DEP#dockerswarm
+6	#DEP#dockercompo
+7	#DEP#docker
+8	#DEP#stack

@@ -1,0 +1,9 @@
+1	git://github.com/Enichan/Depicofiertranspil
+2	#DEP#parser
+3	#DEP#tool
+4	#DEP#convert
+5	#DEP#syntax
+6	#DEP#util
+7	#DEP#translat
+8	#DEP#lua
+9	#DEP#pico8

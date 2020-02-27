@@ -1,0 +1,7 @@
+1	git://github.com/typegoose/typegoosenodej
+2	#DEP#typescript
+3	#DEP#mongodb
+4	#DEP#j
+5	#DEP#db
+6	#DEP#mongoos
+7	#DEP#model

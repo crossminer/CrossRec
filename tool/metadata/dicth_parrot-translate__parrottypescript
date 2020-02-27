@@ -1,0 +1,10 @@
+1	git://github.com/parrot-translate/parrottypescript
+2	#DEP#selfhost
+3	#DEP#javascript
+4	#DEP#angular
+5	#DEP#translat
+6	#DEP#nginx
+7	#DEP#api
+8	#DEP#i18n
+9	#DEP#go
+10	#DEP#local

@@ -1,0 +1,11 @@
+1	git://github.com/backkoms/simplemallspringboot
+2	#DEP#zuul
+3	#DEP#netflix
+4	#DEP#hystrix
+5	#DEP#jwt
+6	#DEP#springcloud
+7	#DEP#springsecur
+8	#DEP#swagger
+9	#DEP#eureka
+10	#DEP#jwtauthent
+11	#DEP#rabbitmq

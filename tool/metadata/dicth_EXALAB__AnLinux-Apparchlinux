@@ -1,0 +1,10 @@
+1	git://github.com/EXALAB/AnLinux-Apparchlinux
+2	#DEP#fedora
+3	#DEP#java
+4	#DEP#termux
+5	#DEP#opensus
+6	#DEP#linux
+7	#DEP#android
+8	#DEP#ubuntu
+9	#DEP#cento
+10	#DEP#debian

@@ -1,0 +1,9 @@
+1	git://github.com/swlib/saberaxio
+2	#DEP#http
+3	#DEP#swool
+4	#DEP#coroutin
+5	#DEP#request
+6	#DEP#async
+7	#DEP#ajax
+8	#DEP#php
+9	#DEP#httpclient

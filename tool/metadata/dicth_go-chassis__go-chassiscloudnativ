@@ -1,0 +1,9 @@
+1	git://github.com/go-chassis/go-chassiscloudnativ
+2	#DEP#grpc
+3	#DEP#istio
+4	#DEP#distributsystem
+5	#DEP#framework
+6	#DEP#kubernet
+7	#DEP#go
+8	#DEP#rest
+9	#DEP#microservic

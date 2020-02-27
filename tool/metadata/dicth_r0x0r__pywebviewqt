@@ -1,0 +1,10 @@
+1	git://github.com/r0x0r/pywebviewqt
+2	#DEP#osx
+3	#DEP#python
+4	#DEP#javascript
+5	#DEP#gtk
+6	#DEP#gui
+7	#DEP#cocoa
+8	#DEP#html
+9	#DEP#window
+10	#DEP#linux

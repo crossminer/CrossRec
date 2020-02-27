@@ -1,0 +1,8 @@
+9	#DEP#cluster
+10	#DEP#decistre
+11	#DEP#regress
+12	#DEP#plot
+13	#DEP#datascienc
+14	#DEP#numpi
+15	#DEP#scikitlearn
+16	#DEP#panda

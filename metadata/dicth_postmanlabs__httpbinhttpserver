@@ -1,0 +1,7 @@
+1	git://github.com/postmanlabs/httpbinhttpserver.git
+2	#DEP#http
+3	#DEP#python
+4	#DEP#servic
+5	#DEP#json
+6	#DEP#api
+7	#DEP#test

@@ -1,0 +1,6 @@
+7	#DEP#springboot2
+8	#DEP#mysql
+9	#DEP#dockercompo
+10	#DEP#docker
+11	#DEP#java8
+12	#DEP#maven

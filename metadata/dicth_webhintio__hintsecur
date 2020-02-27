@@ -1,0 +1,7 @@
+1	git://github.com/webhintio/hintsecur.git
+2	#DEP#bestpract
+3	#DEP#perform
+4	#DEP#lint
+5	#DEP#pwa
+6	#DEP#securscann
+7	#DEP#a11i

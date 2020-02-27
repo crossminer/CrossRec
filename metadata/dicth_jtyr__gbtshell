@@ -1,0 +1,12 @@
+1	git://github.com/jtyr/gbtshell.git
+2	#DEP#docker
+3	#DEP#prompt
+4	#DEP#python
+5	#DEP#termux
+6	#DEP#kubectl
+7	#DEP#ssh
+8	#DEP#vagrant
+9	#DEP#mysql
+10	#DEP#go
+11	#DEP#zsh
+12	#DEP#bash

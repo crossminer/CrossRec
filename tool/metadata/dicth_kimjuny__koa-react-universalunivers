@@ -1,0 +1,11 @@
+1	git://github.com/kimjuny/koa-react-universalunivers
+2	#DEP#reduxthunk
+3	#DEP#ssr
+4	#DEP#hmr
+5	#DEP#koa
+6	#DEP#react
+7	#DEP#boilerpl
+8	#DEP#reactrouterv4
+9	#DEP#codesplit
+10	#DEP#isomorph
+11	#DEP#webpack3

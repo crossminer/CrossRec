@@ -1,0 +1,7 @@
+1	git://github.com/scalajs-io/nodejsnodej
+2	#DEP#node
+3	#DEP#scala
+4	#DEP#mongodb
+5	#DEP#npm
+6	#DEP#angular
+7	#DEP#mongoos

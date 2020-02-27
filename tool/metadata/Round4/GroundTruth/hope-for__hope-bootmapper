@@ -1,0 +1,5 @@
+6	#DEP#thymeleaf
+7	#DEP#swagger
+8	#DEP#sso
+9	#DEP#redi
+10	#DEP#shiro

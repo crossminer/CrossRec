@@ -1,0 +1,10 @@
+1	git://github.com/anjoy8/Blog.Coredotnet
+2	#DEP#aop
+3	#DEP#dependinject
+4	#DEP#jwt
+5	#DEP#netcor
+6	#DEP#dotnetcore2
+7	#DEP#swagger
+8	#DEP#vue
+9	#DEP#redi
+10	#DEP#ioc

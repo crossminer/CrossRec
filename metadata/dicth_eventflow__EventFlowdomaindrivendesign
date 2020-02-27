@@ -1,0 +1,13 @@
+1	git://github.com/eventflow/EventFlowdomaindrivendesign.git
+2	#DEP#elasticsearch
+3	#DEP#netstandard
+4	#DEP#rabbitmq
+5	#DEP#ddd
+6	#DEP#framework
+7	#DEP#nuget
+8	#DEP#eventsourc
+9	#DEP#csharp
+10	#DEP#asyncawait
+11	#DEP#dotnet
+12	#DEP#cqr
+13	#DEP#event

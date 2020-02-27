@@ -1,0 +1,9 @@
+1	git://github.com/line/armeriahttpserver
+2	#DEP#grpc
+3	#DEP#rpc
+4	#DEP#netti
+5	#DEP#microframework
+6	#DEP#http2
+7	#DEP#httpclient
+8	#DEP#microservic
+9	#DEP#http

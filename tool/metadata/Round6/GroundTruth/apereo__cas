@@ -1,2 +1,0 @@
-4	#DEP#:api
-5	#DEP#org.apereo.cas:cas-server-webapp${app.server}

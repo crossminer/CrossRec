@@ -1,0 +1,7 @@
+1	git://github.com/avatsaev/angular-contacts-app-examplengrx.git
+2	#DEP#socket
+3	#DEP#socketio
+4	#DEP#pwa
+5	#DEP#angular
+6	#DEP#angular4
+7	#DEP#bootstrap4

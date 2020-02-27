@@ -1,0 +1,9 @@
+1	git://github.com/davidgf/serverless-plugin-canary-deploymentsserverless
+2	#DEP#serverlessplugin
+3	#DEP#continuintegr
+4	#DEP#cicd
+5	#DEP#serverlessframework
+6	#DEP#awlambda
+7	#DEP#aw
+8	#DEP#continudeliveri
+9	#DEP#continudeploy

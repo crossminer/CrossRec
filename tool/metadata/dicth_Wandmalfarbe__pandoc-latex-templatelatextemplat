@@ -1,0 +1,7 @@
+1	git://github.com/Wandmalfarbe/pandoc-latex-templatelatextemplat
+2	#DEP#latex
+3	#DEP#pandoc
+4	#DEP#markdown
+5	#DEP#pdfgener
+6	#DEP#tex
+7	#DEP#pdf

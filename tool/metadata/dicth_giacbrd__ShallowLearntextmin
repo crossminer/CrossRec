@@ -1,0 +1,10 @@
+1	git://github.com/giacbrd/ShallowLearntextmin
+2	#DEP#word2vec
+3	#DEP#fasttext
+4	#DEP#neuralnetwork
+5	#DEP#textclassif
+6	#DEP#wordemb
+7	#DEP#machinlearn
+8	#DEP#supervislearn
+9	#DEP#gensim
+10	#DEP#scikitlearn

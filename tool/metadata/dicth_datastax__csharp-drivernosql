@@ -1,0 +1,8 @@
+1	git://github.com/datastax/csharp-drivernosql
+2	#DEP#databas
+3	#DEP#driver
+4	#DEP#client
+5	#DEP#dotnetcor
+6	#DEP#csharp
+7	#DEP#dotnet
+8	#DEP#cassandra

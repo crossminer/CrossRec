@@ -1,0 +1,14 @@
+1	git://github.com/macrozheng/mallswaggerui.git
+2	#DEP#mybati
+3	#DEP#springboot
+4	#DEP#elk
+5	#DEP#mongodb
+6	#DEP#spring
+7	#DEP#springcloud
+8	#DEP#rabbitmq
+9	#DEP#springsecur
+10	#DEP#mysql
+11	#DEP#elasticsearch
+12	#DEP#redi
+13	#DEP#docker
+14	#DEP#java

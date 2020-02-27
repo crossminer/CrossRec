@@ -1,0 +1,7 @@
+1	git://github.com/Azure/azure-iot-sdk-cc.git
+2	#DEP#iot
+3	#DEP#azur
+4	#DEP#sdk
+5	#DEP#embed
+6	#DEP#serial
+7	#DEP#microsoft

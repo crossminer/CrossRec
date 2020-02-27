@@ -1,0 +1,10 @@
+1	git://github.com/openshift/origincontinudeploy.git
+2	#DEP#continuintegr
+3	#DEP#cicd
+4	#DEP#devop
+5	#DEP#paa
+6	#DEP#go
+7	#DEP#contain
+8	#DEP#kubernet
+9	#DEP#continudeliveri
+10	#DEP#openshift

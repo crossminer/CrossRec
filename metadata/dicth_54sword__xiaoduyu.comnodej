@@ -1,0 +1,8 @@
+1	git://github.com/54sword/xiaoduyu.comnodej.git
+2	#DEP#typescript
+3	#DEP#reactredux
+4	#DEP#babel
+5	#DEP#react
+6	#DEP#apollocli
+7	#DEP#reactrout
+8	#DEP#webpack

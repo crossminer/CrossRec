@@ -1,0 +1,8 @@
+1	git://github.com/sanluan/PublicCMSgradl
+2	#DEP#springboot
+3	#DEP#staticsit
+4	#DEP#cm
+5	#DEP#staticsitegen
+6	#DEP#freemark
+7	#DEP#maven
+8	#DEP#hibern

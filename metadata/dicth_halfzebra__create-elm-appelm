@@ -1,0 +1,8 @@
+1	git://github.com/halfzebra/create-elm-appelm.git
+2	#DEP#cli
+3	#DEP#scaffold
+4	#DEP#buildtool
+5	#DEP#hmr
+6	#DEP#zeroconfigur
+7	#DEP#webpack
+8	#DEP#boilerpl

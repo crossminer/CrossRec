@@ -1,0 +1,9 @@
+1	git://github.com/klis87/redux-saga-requestsaxio
+2	#DEP#react
+3	#DEP#reduxsaga
+4	#DEP#ajax
+5	#DEP#fetch
+6	#DEP#redux
+7	#DEP#graphql
+8	#DEP#monorepo
+9	#DEP#httpclient

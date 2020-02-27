@@ -1,0 +1,9 @@
+1	git://github.com/Kocal/vue-web-extensionvue
+2	#DEP#vuerout
+3	#DEP#babel
+4	#DEP#webpack
+5	#DEP#eslint
+6	#DEP#webexten
+7	#DEP#prettier
+8	#DEP#vuex
+9	#DEP#boilerpl

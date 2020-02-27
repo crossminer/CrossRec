@@ -1,0 +1,7 @@
+1	git://github.com/bokuweb/rustynesemscripten.git
+2	#DEP#emul
+3	#DEP#game
+4	#DEP#wasm
+5	#DEP#webassembl
+6	#DEP#canva
+7	#DEP#rust

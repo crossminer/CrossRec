@@ -1,0 +1,6 @@
+7	#DEP#gulp
+8	#DEP#pm2
+9	#DEP#koa2
+10	#DEP#jwttoken
+11	#DEP#sc
+12	#DEP#vuex

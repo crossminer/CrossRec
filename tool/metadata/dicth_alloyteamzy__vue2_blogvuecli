@@ -1,0 +1,10 @@
+1	git://github.com/alloyteamzy/vue2_blogvuecli
+2	#DEP#axio
+3	#DEP#vue
+4	#DEP#pm2
+5	#DEP#webpack
+6	#DEP#nginx
+7	#DEP#mysql
+8	#DEP#vue2
+9	#DEP#express
+10	#DEP#vuex

@@ -1,0 +1,8 @@
+1	git://github.com/awslabs/aws-cognito-angular-quickstarttypescript.git
+2	#DEP#serverless
+3	#DEP#cognito
+4	#DEP#angular
+5	#DEP#angular4
+6	#DEP#angular2
+7	#DEP#aw
+8	#DEP#aws3

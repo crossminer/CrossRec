@@ -1,0 +1,7 @@
+1	git://github.com/lepture/authliboauth2.git
+2	#DEP#flask
+3	#DEP#jwt
+4	#DEP#django
+5	#DEP#oidc
+6	#DEP#oauth
+7	#DEP#openidconnect

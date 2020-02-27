@@ -1,0 +1,7 @@
+1	git://github.com/yourtion/30dayMakeOSc.git
+2	#DEP#osx
+3	#DEP#nasa
+4	#DEP#linux
+5	#DEP#asm
+6	#DEP#opersystem
+7	#DEP#qemu

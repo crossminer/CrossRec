@@ -1,0 +1,14 @@
+1	git://github.com/graphile/postgraphilenodej
+2	#DEP#node
+3	#DEP#postgr
+4	#DEP#express
+5	#DEP#postgresql
+6	#DEP#graphqlapi
+7	#DEP#typescript
+8	#DEP#koa
+9	#DEP#koa2
+10	#DEP#automatapi
+11	#DEP#api
+12	#DEP#graphql
+13	#DEP#schema
+14	#DEP#http

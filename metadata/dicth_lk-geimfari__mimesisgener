@@ -1,0 +1,7 @@
+1	git://github.com/lk-geimfari/mimesisgener.git
+2	#DEP#xml
+3	#DEP#data
+4	#DEP#json
+5	#DEP#test
+6	#DEP#schema
+7	#DEP#mock

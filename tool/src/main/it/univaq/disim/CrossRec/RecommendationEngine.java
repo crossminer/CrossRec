@@ -57,8 +57,10 @@ public class RecommendationEngine {
 		Map<Integer, String> simProjects = new HashMap<Integer, String>();				
 							
 		System.out.println("CrossRec is computing recommendations for " + testingPro);
-		filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
-		testingFilename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");						
+		//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+		filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+		//testingFilename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+		testingFilename = testingPro.replace("git://github.com/", "").replace("/", "__");						
 		testingDictFilename = this.srcDir +"dicth_" + testingFilename;		
 		testingLibs = new HashSet<String>();			
 		testingLibs = reader.getHalfOfLibraries(testingDictFilename);
@@ -68,8 +70,9 @@ public class RecommendationEngine {
 					
 		keySet = simProjects.keySet();																	
 		for(Integer key:keySet) {				
-			String project = simProjects.get(key);												
-			filename = project.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+			String project = simProjects.get(key);					
+			filename = project.replace("git://github.com/", "").replace("/", "__");
+			//filename = project.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
 			tmp = this.srcDir + "dicth_" + filename;				
 			libs = reader.getLibraries(tmp);				
 			allNeighbourLibs.put(key, libs);
@@ -151,7 +154,8 @@ public class RecommendationEngine {
 			double val1 = 0;			
 						
 			testingPro = testingProjects.get(keyTesting);		
-			filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");		
+			//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");		
+			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			String tmp = this.simDir + filename;		
 			similarities = reader.getSimilarityMatrix(tmp, numOfNeighbours);
 									
@@ -179,7 +183,8 @@ public class RecommendationEngine {
 			sorted_map.putAll(recommendations);				
 			Set<String> keySet2 = sorted_map.keySet();				
 		
-			filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+			//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			
 			try {
 				tmp = this.recDir + filename;
@@ -300,8 +305,8 @@ public class RecommendationEngine {
 			sorted_map.putAll(recommendations);				
 			Set<String> keySet2 = sorted_map.keySet();				
 		
-			filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
-			
+			//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			try {
 				String tmp = this.recDir + filename;
 				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));												
@@ -393,8 +398,8 @@ public class RecommendationEngine {
 			sorted_map.putAll(recommendations);				
 			Set<String> keySet2 = sorted_map.keySet();				
 		
-			filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
-			
+			//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			try {
 				String tmp = this.recDir + filename;
 				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));												

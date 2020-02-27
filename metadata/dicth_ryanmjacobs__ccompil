@@ -1,0 +1,7 @@
+1	git://github.com/ryanmjacobs/ccompil.git
+2	#DEP#cli
+3	#DEP#gcc
+4	#DEP#script
+5	#DEP#c
+6	#DEP#clang
+7	#DEP#cpp

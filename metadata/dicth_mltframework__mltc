@@ -1,0 +1,11 @@
+1	git://github.com/mltframework/mltc.git
+2	#DEP#ffmpeg
+3	#DEP#sdl2
+4	#DEP#opengl
+5	#DEP#cpluplu
+6	#DEP#audioprocess
+7	#DEP#framework
+8	#DEP#videoprocess
+9	#DEP#video
+10	#DEP#audio
+11	#DEP#qt

@@ -1,0 +1,7 @@
+1	git://github.com/Yalantis/StarWars.iOSanim
+2	#DEP#uikit
+3	#DEP#opengl
+4	#DEP#research
+5	#DEP#snapshot
+6	#DEP#io
+7	#DEP#swift

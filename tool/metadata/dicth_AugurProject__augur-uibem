@@ -1,0 +1,8 @@
+1	git://github.com/AugurProject/augur-uibem
+2	#DEP#csmodul
+3	#DEP#webpack3
+4	#DEP#ethereum
+5	#DEP#react
+6	#DEP#ui
+7	#DEP#redux
+8	#DEP#webpack

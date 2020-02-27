@@ -1,0 +1,7 @@
+1	git://github.com/crimx/ext-saladicttypescript.git
+2	#DEP#rxj
+3	#DEP#chrome
+4	#DEP#extens
+5	#DEP#react
+6	#DEP#vue
+7	#DEP#firefoxaddon

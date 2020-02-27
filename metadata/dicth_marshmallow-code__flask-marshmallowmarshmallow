@@ -1,0 +1,7 @@
+1	git://github.com/marshmallow-code/flask-marshmallowmarshmallow.git
+2	#DEP#restapi
+3	#DEP#python
+4	#DEP#flask
+5	#DEP#python2
+6	#DEP#python3
+7	#DEP#sqlalchemi

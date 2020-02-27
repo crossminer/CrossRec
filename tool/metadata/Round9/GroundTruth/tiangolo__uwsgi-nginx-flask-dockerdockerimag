@@ -1,0 +1,6 @@
+7	#DEP#python2
+8	#DEP#python3
+9	#DEP#nginx
+10	#DEP#webapp
+11	#DEP#dockerfil
+12	#DEP#debian

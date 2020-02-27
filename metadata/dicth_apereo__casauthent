@@ -1,0 +1,11 @@
+1	git://github.com/apereo/casauthent.git
+2	#DEP#oauth2
+3	#DEP#springboot
+4	#DEP#java
+5	#DEP#author
+6	#DEP#aw
+7	#DEP#springcloud
+8	#DEP#openidconnect
+9	#DEP#springframework
+10	#DEP#opensourc
+11	#DEP#sso

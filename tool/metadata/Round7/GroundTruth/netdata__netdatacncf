@@ -1,0 +1,9 @@
+10	#DEP#prometheu
+11	#DEP#alert
+12	#DEP#dashboard
+13	#DEP#contain
+14	#DEP#kubernet
+15	#DEP#analyt
+16	#DEP#docker
+17	#DEP#observ
+18	#DEP#graph

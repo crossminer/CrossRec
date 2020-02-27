@@ -1,0 +1,8 @@
+1	git://github.com/microsoft/ApplicationInsights-aspnetcoreapplicinsight.git
+2	#DEP#monitor
+3	#DEP#azur
+4	#DEP#dotnetcor
+5	#DEP#csharp
+6	#DEP#distributtrac
+7	#DEP#observ
+8	#DEP#aspnetcor

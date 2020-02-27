@@ -1,0 +1,8 @@
+1	git://github.com/coderedcorp/coderedcmswebsitbuild.git
+2	#DEP#cm
+3	#DEP#bootstrap
+4	#DEP#django
+5	#DEP#contentmanagsystem
+6	#DEP#respons
+7	#DEP#bootstrap4
+8	#DEP#wagtail

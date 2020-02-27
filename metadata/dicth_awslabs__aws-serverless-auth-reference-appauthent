@@ -1,0 +1,9 @@
+1	git://github.com/awslabs/aws-serverless-auth-reference-appauthent.git
+2	#DEP#serverless
+3	#DEP#aw
+4	#DEP#author
+5	#DEP#iam
+6	#DEP#awlambda
+7	#DEP#serverlessarchitectur
+8	#DEP#cognito
+9	#DEP#auth

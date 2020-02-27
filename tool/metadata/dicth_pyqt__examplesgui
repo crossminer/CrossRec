@@ -1,0 +1,7 @@
+1	git://github.com/pyqt/examplesgui
+2	#DEP#qt5
+3	#DEP#python
+4	#DEP#pyqt5
+5	#DEP#python3
+6	#DEP#qt
+7	#DEP#pyside2

@@ -1,0 +1,8 @@
+1	git://github.com/sessionboy/sinn-servernodej.git
+2	#DEP#koa2
+3	#DEP#es6
+4	#DEP#nginx
+5	#DEP#mongoos
+6	#DEP#restapi
+7	#DEP#asyncawait
+8	#DEP#docker

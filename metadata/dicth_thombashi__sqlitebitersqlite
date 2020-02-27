@@ -1,0 +1,9 @@
+1	git://github.com/thombashi/sqlitebitersqlite.git
+2	#DEP#jupytnotebook
+3	#DEP#cliapp
+4	#DEP#convert
+5	#DEP#excel
+6	#DEP#html
+7	#DEP#json
+8	#DEP#csv
+9	#DEP#tsv

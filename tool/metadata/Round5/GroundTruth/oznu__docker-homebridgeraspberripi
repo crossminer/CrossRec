@@ -1,0 +1,5 @@
+6	#DEP#arm
+7	#DEP#docker
+8	#DEP#homebridg
+9	#DEP#x8664
+10	#DEP#rpi

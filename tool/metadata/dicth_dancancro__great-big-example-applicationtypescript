@@ -1,0 +1,14 @@
+1	git://github.com/dancancro/great-big-example-applicationtypescript
+2	#DEP#springboot
+3	#DEP#postgresql
+4	#DEP#restapi
+5	#DEP#demo
+6	#DEP#elasticsearch
+7	#DEP#startertemplat
+8	#DEP#webpack
+9	#DEP#yarn
+10	#DEP#kotlin
+11	#DEP#heroku
+12	#DEP#redux
+13	#DEP#docker
+14	#DEP#angular4

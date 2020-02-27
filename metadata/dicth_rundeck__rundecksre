@@ -1,0 +1,11 @@
+1	git://github.com/rundeck/rundecksre.git
+2	#DEP#audit
+3	#DEP#deploy
+4	#DEP#schedul
+5	#DEP#oper
+6	#DEP#devoptool
+7	#DEP#autom
+8	#DEP#devop
+9	#DEP#ansibl
+10	#DEP#op
+11	#DEP#orchestr

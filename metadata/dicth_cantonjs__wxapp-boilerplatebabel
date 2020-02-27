@@ -1,0 +1,7 @@
+1	git://github.com/cantonjs/wxapp-boilerplatebabel.git
+2	#DEP#weapp
+3	#DEP#wechat
+4	#DEP#miniprogram
+5	#DEP#sc
+6	#DEP#webpack
+7	#DEP#boilerpl

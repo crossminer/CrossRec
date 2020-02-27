@@ -1,0 +1,8 @@
+1	git://github.com/smallhadroncollider/taskellcommandlin.git
+2	#DEP#markdown
+3	#DEP#github
+4	#DEP#haskel
+5	#DEP#linux
+6	#DEP#opensourc
+7	#DEP#homebrew
+8	#DEP#maco

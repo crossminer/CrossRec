@@ -1,0 +1,9 @@
+1	git://github.com/nathan/paxweb
+2	#DEP#es6
+3	#DEP#modul
+4	#DEP#javascript
+5	#DEP#browser
+6	#DEP#ecmascript
+7	#DEP#buildtool
+8	#DEP#commonj
+9	#DEP#rust

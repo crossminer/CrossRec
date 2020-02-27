@@ -1,0 +1,7 @@
+1	git://github.com/stateos/StateOSkernel
+2	#DEP#realtim
+3	#DEP#iot
+4	#DEP#microcontrol
+5	#DEP#embed
+6	#DEP#arm
+7	#DEP#opersystem

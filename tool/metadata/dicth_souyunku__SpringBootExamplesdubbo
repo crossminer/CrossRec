@@ -1,0 +1,10 @@
+1	git://github.com/souyunku/SpringBootExamplesdubbo
+2	#DEP#mybati
+3	#DEP#springboot
+4	#DEP#mongodb
+5	#DEP#docker
+6	#DEP#elasticsearch
+7	#DEP#kafka
+8	#DEP#swagger
+9	#DEP#redi
+10	#DEP#rocketmq

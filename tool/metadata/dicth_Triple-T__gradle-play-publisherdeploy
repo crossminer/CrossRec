@@ -1,0 +1,7 @@
+1	git://github.com/Triple-T/gradle-play-publisherdeploy
+2	#DEP#gradlplugin
+3	#DEP#autom
+4	#DEP#app
+5	#DEP#android
+6	#DEP#androiddevelop
+7	#DEP#mobil

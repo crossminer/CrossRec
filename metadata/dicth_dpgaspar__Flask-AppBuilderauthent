@@ -1,0 +1,8 @@
+1	git://github.com/dpgaspar/Flask-AppBuilderauthent.git
+2	#DEP#restapi
+3	#DEP#web
+4	#DEP#python
+5	#DEP#flask
+6	#DEP#crud
+7	#DEP#rest
+8	#DEP#sql

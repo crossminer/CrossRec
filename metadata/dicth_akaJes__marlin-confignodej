@@ -1,0 +1,8 @@
+1	git://github.com/akaJes/marlin-confignodej.git
+2	#DEP#compil
+3	#DEP#browser
+4	#DEP#3dprint
+5	#DEP#editor
+6	#DEP#document
+7	#DEP#3d
+8	#DEP#remotcontrol

@@ -1,0 +1,9 @@
+1	git://github.com/tox-dev/toxcli
+2	#DEP#circleci
+3	#DEP#continuintegr
+4	#DEP#python
+5	#DEP#travi
+6	#DEP#autom
+7	#DEP#appveyor
+8	#DEP#test
+9	#DEP#gitlab

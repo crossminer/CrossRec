@@ -1,0 +1,8 @@
+9	#DEP#babel
+10	#DEP#testframework
+11	#DEP#assert
+12	#DEP#async
+13	#DEP#es2015
+14	#DEP#unicorn
+15	#DEP#test
+16	#DEP#concurr

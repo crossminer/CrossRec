@@ -1,0 +1,9 @@
+1	git://github.com/nosqlclient/nosqlclientdocker
+2	#DEP#nosql
+3	#DEP#mongodb
+4	#DEP#monitor
+5	#DEP#databasmanag
+6	#DEP#meteor
+7	#DEP#webappl
+8	#DEP#manag
+9	#DEP#crossplatform

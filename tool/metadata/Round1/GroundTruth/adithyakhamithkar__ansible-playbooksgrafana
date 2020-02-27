@@ -1,0 +1,7 @@
+8	#DEP#vagrant
+9	#DEP#mysql
+10	#DEP#meso
+11	#DEP#ubuntu
+12	#DEP#elasticsearch
+13	#DEP#ansiblplaybook
+14	#DEP#docker

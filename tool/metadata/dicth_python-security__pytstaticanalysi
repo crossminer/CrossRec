@@ -1,0 +1,8 @@
+1	git://github.com/python-security/pytstaticanalysi
+2	#DEP#secur
+3	#DEP#staticcodeanalysi
+4	#DEP#python
+5	#DEP#programanalysi
+6	#DEP#python3
+7	#DEP#dataflow
+8	#DEP#flask

@@ -1,0 +1,8 @@
+1	git://github.com/BrutPitt/glChAoS.Pemscripten.git
+2	#DEP#opengl
+3	#DEP#glsl
+4	#DEP#webgl
+5	#DEP#particl
+6	#DEP#gpu
+7	#DEP#render
+8	#DEP#webassembl

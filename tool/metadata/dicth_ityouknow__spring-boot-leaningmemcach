@@ -1,0 +1,15 @@
+1	git://github.com/ityouknow/spring-boot-leaningmemcach
+2	#DEP#mybati
+3	#DEP#springboot
+4	#DEP#mongodb
+5	#DEP#websocket
+6	#DEP#docker
+7	#DEP#quartz
+8	#DEP#druid
+9	#DEP#jpa
+10	#DEP#thymeleaf
+11	#DEP#springboot2
+12	#DEP#swagger
+13	#DEP#elasticsearch
+14	#DEP#secur
+15	#DEP#redi

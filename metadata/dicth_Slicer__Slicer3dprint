@@ -1,0 +1,7 @@
+1	git://github.com/Slicer/Slicer3dprint.git
+2	#DEP#imagprocess
+3	#DEP#qt
+4	#DEP#python
+5	#DEP#cpluplu
+6	#DEP#segment
+7	#DEP#crossplatform

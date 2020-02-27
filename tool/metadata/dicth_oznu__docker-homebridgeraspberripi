@@ -1,0 +1,10 @@
+1	git://github.com/oznu/docker-homebridgeraspberripi
+2	#DEP#siri
+3	#DEP#homekit
+4	#DEP#aarch64
+5	#DEP#arm64
+6	#DEP#arm
+7	#DEP#docker
+8	#DEP#homebridg
+9	#DEP#x8664
+10	#DEP#rpi

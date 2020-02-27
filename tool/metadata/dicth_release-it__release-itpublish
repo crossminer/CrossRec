@@ -1,0 +1,11 @@
+1	git://github.com/release-it/release-itpublish
+2	#DEP#github
+3	#DEP#semver
+4	#DEP#git
+5	#DEP#npm
+6	#DEP#gitlab
+7	#DEP#tool
+8	#DEP#autom
+9	#DEP#changelog
+10	#DEP#releasautom
+11	#DEP#releas

@@ -1,0 +1,9 @@
+1	git://github.com/remkop/picocliansi
+2	#DEP#cli
+3	#DEP#git
+4	#DEP#java
+5	#DEP#commandlin
+6	#DEP#parser
+7	#DEP#annot
+8	#DEP#complet
+9	#DEP#autocomplet

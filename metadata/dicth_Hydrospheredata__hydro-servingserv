@@ -1,0 +1,9 @@
+1	git://github.com/Hydrospheredata/hydro-servingserv.git
+2	#DEP#machinlearn
+3	#DEP#realtim
+4	#DEP#serverless
+5	#DEP#pipelin
+6	#DEP#model
+7	#DEP#tensorflow
+8	#DEP#spark
+9	#DEP#scikitlearn

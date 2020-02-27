@@ -1,0 +1,9 @@
+1	git://github.com/panda3d/panda3dopengl.git
+2	#DEP#python
+3	#DEP#cpluplu
+4	#DEP#gameengin
+5	#DEP#opensourc
+6	#DEP#gamedevelop
+7	#DEP#multiplatform
+8	#DEP#gamedev
+9	#DEP#crossplatform

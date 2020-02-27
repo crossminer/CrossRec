@@ -1,0 +1,8 @@
+1	git://github.com/YunaiV/onemalldubbo.git
+2	#DEP#springboot
+3	#DEP#springcloud
+4	#DEP#zookeep
+5	#DEP#mysql
+6	#DEP#elasticsearch
+7	#DEP#redi
+8	#DEP#rocketmq

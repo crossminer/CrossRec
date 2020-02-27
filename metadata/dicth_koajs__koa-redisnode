@@ -1,0 +1,7 @@
+1	git://github.com/koajs/koa-redisnode.git
+2	#DEP#session
+3	#DEP#koa
+4	#DEP#redi
+5	#DEP#cach
+6	#DEP#storag
+7	#DEP#cluster

@@ -1,0 +1,8 @@
+1	git://github.com/domlysz/BlenderGISraster.git
+2	#DEP#map
+3	#DEP#python
+4	#DEP#geospati
+5	#DEP#blender
+6	#DEP#addon
+7	#DEP#3d
+8	#DEP#gi

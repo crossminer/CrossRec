@@ -1,0 +1,7 @@
+1	git://github.com/JustArchiNET/ArchiSteamFarmcli.git
+2	#DEP#cliapp
+3	#DEP#autom
+4	#DEP#linux
+5	#DEP#csharp
+6	#DEP#dotnet
+7	#DEP#steam

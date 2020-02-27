@@ -1,0 +1,9 @@
+1	git://github.com/fabric8io/fabric8continuintegr
+2	#DEP#jenkin
+3	#DEP#cicd
+4	#DEP#developtool
+5	#DEP#kubernet
+6	#DEP#continudeliveri
+7	#DEP#docker
+8	#DEP#microservic
+9	#DEP#openshift

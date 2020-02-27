@@ -1,0 +1,12 @@
+1	git://github.com/kunalkapadia/express-mongoose-es6-rest-apinode
+2	#DEP#express
+3	#DEP#es6
+4	#DEP#coverag
+5	#DEP#babel
+6	#DEP#mocha
+7	#DEP#yarn
+8	#DEP#authent
+9	#DEP#eslint
+10	#DEP#mongoos
+11	#DEP#mongodb
+12	#DEP#boilerpl

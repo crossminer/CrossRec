@@ -1,0 +1,16 @@
+1	git://github.com/tiangolo/full-stack-fastapi-postgresqlopenapi.git
+2	#DEP#celeri
+3	#DEP#openapi3
+4	#DEP#vue
+5	#DEP#postgresql
+6	#DEP#python
+7	#DEP#jwt
+8	#DEP#backend
+9	#DEP#python3
+10	#DEP#json
+11	#DEP#jsonschema
+12	#DEP#letsencrypt
+13	#DEP#swagger
+14	#DEP#docker
+15	#DEP#vuex
+16	#DEP#frontend

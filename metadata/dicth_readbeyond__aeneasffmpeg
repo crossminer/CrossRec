@@ -1,0 +1,11 @@
+1	git://github.com/readbeyond/aeneasffmpeg.git
+2	#DEP#nlp
+3	#DEP#text
+4	#DEP#tt
+5	#DEP#window
+6	#DEP#linux
+7	#DEP#speech
+8	#DEP#python
+9	#DEP#audio
+10	#DEP#maco
+11	#DEP#cli

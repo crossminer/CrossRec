@@ -1,0 +1,12 @@
+1	git://github.com/philpep/testinfratesttool.git
+2	#DEP#tdd
+3	#DEP#python
+4	#DEP#devoptool
+5	#DEP#devop
+6	#DEP#chef
+7	#DEP#puppet
+8	#DEP#kubernet
+9	#DEP#test
+10	#DEP#docker
+11	#DEP#ansibl
+12	#DEP#infrastructurcod

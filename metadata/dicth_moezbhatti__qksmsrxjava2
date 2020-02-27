@@ -1,0 +1,7 @@
+1	git://github.com/moezbhatti/qksmsrxjava2.git
+2	#DEP#mvvm
+3	#DEP#kotlin
+4	#DEP#messag
+5	#DEP#materidesign
+6	#DEP#android
+7	#DEP#dagger2

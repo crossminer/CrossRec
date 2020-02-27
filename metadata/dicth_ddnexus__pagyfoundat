@@ -1,0 +1,8 @@
+1	git://github.com/ddnexus/pagyfoundat.git
+2	#DEP#bootstrap
+3	#DEP#materi
+4	#DEP#rubi
+5	#DEP#rail
+6	#DEP#bulma
+7	#DEP#semantui
+8	#DEP#sinatra

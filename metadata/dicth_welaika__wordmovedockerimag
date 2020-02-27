@@ -1,0 +1,9 @@
+1	git://github.com/welaika/wordmovedockerimag.git
+2	#DEP#ftp
+3	#DEP#deploy
+4	#DEP#autom
+5	#DEP#rubi
+6	#DEP#ssh
+7	#DEP#wordpress
+8	#DEP#gem
+9	#DEP#docker

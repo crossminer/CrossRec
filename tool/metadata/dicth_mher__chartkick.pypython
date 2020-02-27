@@ -1,0 +1,7 @@
+1	git://github.com/mher/chartkick.pypython
+2	#DEP#flask
+3	#DEP#chartlibrari
+4	#DEP#chart
+5	#DEP#visual
+6	#DEP#django
+7	#DEP#chartj

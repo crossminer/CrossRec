@@ -1,0 +1,8 @@
+1	git://github.com/lensesio/kafka-connect-uitwitter.git
+2	#DEP#elasticsearch
+3	#DEP#kafka
+4	#DEP#influxdb
+5	#DEP#mqtt
+6	#DEP#s3
+7	#DEP#redi
+8	#DEP#cassandra

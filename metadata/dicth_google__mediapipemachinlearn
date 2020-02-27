@@ -1,0 +1,11 @@
+1	git://github.com/google/mediapipemachinlearn.git
+2	#DEP#streamprocess
+3	#DEP#cpluplu
+4	#DEP#deeplearn
+5	#DEP#framework
+6	#DEP#audioprocess
+7	#DEP#computvis
+8	#DEP#videoprocess
+9	#DEP#mobildevelop
+10	#DEP#infer
+11	#DEP#android

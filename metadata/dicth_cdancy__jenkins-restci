@@ -1,0 +1,9 @@
+1	git://github.com/cdancy/jenkins-restci.git
+2	#DEP#java
+3	#DEP#restapi
+4	#DEP#continuintegr
+5	#DEP#jenkin
+6	#DEP#devop
+7	#DEP#rest
+8	#DEP#client
+9	#DEP#cd

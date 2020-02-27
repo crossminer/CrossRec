@@ -1,0 +1,7 @@
+1	git://github.com/xmrig/xmrig-proxycryptonight
+2	#DEP#proxi
+3	#DEP#stratum
+4	#DEP#xmr
+5	#DEP#xmrig
+6	#DEP#aeon
+7	#DEP#monero

@@ -1,0 +1,7 @@
+1	git://github.com/RailsEventStore/rails_event_storeeventdriven.git
+2	#DEP#domaindrivendesign
+3	#DEP#rail
+4	#DEP#rubi
+5	#DEP#eventsourc
+6	#DEP#ddd
+7	#DEP#cqr

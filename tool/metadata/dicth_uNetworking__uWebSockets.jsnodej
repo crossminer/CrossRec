@@ -1,0 +1,7 @@
+1	git://github.com/uNetworking/uWebSockets.jsnodej
+2	#DEP#typescript
+3	#DEP#http
+4	#DEP#websocket
+5	#DEP#runtim
+6	#DEP#router
+7	#DEP#pubsub

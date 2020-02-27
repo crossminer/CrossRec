@@ -1,0 +1,6 @@
+7	#DEP#network
+8	#DEP#smtp
+9	#DEP#ssl
+10	#DEP#async
+11	#DEP#irc
+12	#DEP#imap

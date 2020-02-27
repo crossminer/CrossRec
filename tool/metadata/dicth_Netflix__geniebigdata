@@ -1,0 +1,9 @@
+1	git://github.com/Netflix/geniebigdata
+2	#DEP#springboot
+3	#DEP#orchestr
+4	#DEP#configurmanag
+5	#DEP#configur
+6	#DEP#distributsystem
+7	#DEP#microservic
+8	#DEP#cloud
+9	#DEP#java

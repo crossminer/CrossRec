@@ -1,0 +1,10 @@
+1	git://github.com/firefox-devtools/debuggernode.git
+2	#DEP#devtool
+3	#DEP#mozilla
+4	#DEP#chrome
+5	#DEP#javascript
+6	#DEP#firefox
+7	#DEP#flowtyp
+8	#DEP#react
+9	#DEP#debugg
+10	#DEP#redux

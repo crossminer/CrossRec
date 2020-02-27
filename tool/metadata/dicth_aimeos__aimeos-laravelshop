@@ -1,0 +1,7 @@
+1	git://github.com/aimeos/aimeos-laravelshop
+2	#DEP#perform
+3	#DEP#jsonapi
+4	#DEP#ecommerc
+5	#DEP#laravelpackag
+6	#DEP#laravel
+7	#DEP#php

@@ -1,0 +1,8 @@
+1	git://github.com/pressly/goosepostgr.git
+2	#DEP#sqlite
+3	#DEP#databas
+4	#DEP#migrat
+5	#DEP#sql
+6	#DEP#golang
+7	#DEP#mysql
+8	#DEP#schema

@@ -1,0 +1,7 @@
+1	git://github.com/amanusk/s-tuicli.git
+2	#DEP#monitor
+3	#DEP#util
+4	#DEP#tui
+5	#DEP#termin
+6	#DEP#cpu
+7	#DEP#consol

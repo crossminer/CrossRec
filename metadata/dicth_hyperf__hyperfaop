@@ -1,0 +1,14 @@
+1	git://github.com/hyperf/hyperfaop.git
+2	#DEP#amqp
+3	#DEP#consul
+4	#DEP#zipkin
+5	#DEP#websocket
+6	#DEP#framework
+7	#DEP#grpc
+8	#DEP#swool
+9	#DEP#dependinject
+10	#DEP#annot
+11	#DEP#coroutin
+12	#DEP#apollocli
+13	#DEP#etcd
+14	#DEP#microservic

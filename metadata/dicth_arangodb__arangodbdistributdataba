@@ -1,0 +1,7 @@
+1	git://github.com/arangodb/arangodbdistributdataba.git
+2	#DEP#databas
+3	#DEP#graphdataba
+4	#DEP#graphdb
+5	#DEP#documentdataba
+6	#DEP#keyvalu
+7	#DEP#nosql

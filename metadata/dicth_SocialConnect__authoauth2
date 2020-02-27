@@ -1,0 +1,8 @@
+1	git://github.com/SocialConnect/authoauth2.git
+2	#DEP#twitter
+3	#DEP#sign
+4	#DEP#openidconnect
+5	#DEP#social
+6	#DEP#oauth
+7	#DEP#php
+8	#DEP#facebook

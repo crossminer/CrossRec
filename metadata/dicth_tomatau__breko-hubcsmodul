@@ -1,0 +1,10 @@
+1	git://github.com/tomatau/breko-hubcsmodul.git
+2	#DEP#lint
+3	#DEP#babel
+4	#DEP#mocha
+5	#DEP#webpack
+6	#DEP#koa
+7	#DEP#react
+8	#DEP#redux
+9	#DEP#javascript
+10	#DEP#modular

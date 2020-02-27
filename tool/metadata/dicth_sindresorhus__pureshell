@@ -1,0 +1,7 @@
+1	git://github.com/sindresorhus/pureshell
+2	#DEP#git
+3	#DEP#prompt
+4	#DEP#theme
+5	#DEP#termin
+6	#DEP#minim
+7	#DEP#zsh

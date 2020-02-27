@@ -1,0 +1,10 @@
+1	git://github.com/antoinecarme/pyaftimeseri
+2	#DEP#webserv
+3	#DEP#jupyt
+4	#DEP#benchmark
+5	#DEP#cycl
+6	#DEP#heroku
+7	#DEP#transform
+8	#DEP#python
+9	#DEP#scikitlearn
+10	#DEP#panda

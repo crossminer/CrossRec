@@ -1,0 +1,13 @@
+1	git://github.com/Tencent/omipreact.git
+2	#DEP#vdom
+3	#DEP#mvp
+4	#DEP#omi
+5	#DEP#weapp
+6	#DEP#virtualdom
+7	#DEP#materidesign
+8	#DEP#wechat
+9	#DEP#miniprogram
+10	#DEP#webcompon
+11	#DEP#jsx
+12	#DEP#shadowdom
+13	#DEP#customel

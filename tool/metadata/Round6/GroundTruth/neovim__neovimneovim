@@ -1,0 +1,4 @@
+6	#DEP#texteditor
+7	#DEP#lua
+8	#DEP#crossplatform
+9	#DEP#nvim

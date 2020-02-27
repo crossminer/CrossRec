@@ -1,0 +1,11 @@
+1	git://github.com/mbtproject/mbtcli
+2	#DEP#ci
+3	#DEP#git
+4	#DEP#deploy
+5	#DEP#dependmanag
+6	#DEP#autom
+7	#DEP#devop
+8	#DEP#buildtool
+9	#DEP#build
+10	#DEP#go
+11	#DEP#monorepo

@@ -1,0 +1,9 @@
+1	git://github.com/dotnet/command-line-apipar
+2	#DEP#commandlin
+3	#DEP#parser
+4	#DEP#vt100
+5	#DEP#complet
+6	#DEP#dotnetcor
+7	#DEP#dotnetstandard
+8	#DEP#posix
+9	#DEP#termin

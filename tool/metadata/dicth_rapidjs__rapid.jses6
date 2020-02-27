@@ -1,0 +1,11 @@
+1	git://github.com/rapidjs/rapid.jses6
+2	#DEP#j
+3	#DEP#laravel
+4	#DEP#ajax
+5	#DEP#api
+6	#DEP#interfac
+7	#DEP#model
+8	#DEP#router
+9	#DEP#orm
+10	#DEP#apiwrapp
+11	#DEP#promis

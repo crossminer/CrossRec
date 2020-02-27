@@ -1,0 +1,9 @@
+1	git://github.com/blockchain-etl/ethereum-etlgooglcloud.git
+2	#DEP#csv
+3	#DEP#transact
+4	#DEP#sql
+5	#DEP#ethereum
+6	#DEP#export
+7	#DEP#gcp
+8	#DEP#aw
+9	#DEP#etl

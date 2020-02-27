@@ -1,0 +1,13 @@
+1	git://github.com/mlabouardy/komiseralibaba.git
+2	#DEP#serverless
+3	#DEP#dashboard
+4	#DEP#dynamodb
+5	#DEP#digitalocean
+6	#DEP#azur
+7	#DEP#golang
+8	#DEP#ec2
+9	#DEP#gcp
+10	#DEP#aw
+11	#DEP#contain
+12	#DEP#docker
+13	#DEP#lambda

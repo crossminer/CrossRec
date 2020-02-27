@@ -1,0 +1,8 @@
+1	git://github.com/istio/istioapimanag.git
+2	#DEP#proxi
+3	#DEP#consul
+4	#DEP#envoy
+5	#DEP#resili
+6	#DEP#servicmesh
+7	#DEP#kubernet
+8	#DEP#microservic

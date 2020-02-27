@@ -1,0 +1,8 @@
+1	git://github.com/api-platform/corejsonapi
+2	#DEP#symfonibundl
+3	#DEP#rest
+4	#DEP#swagger
+5	#DEP#api
+6	#DEP#graphql
+7	#DEP#php
+8	#DEP#symfoni

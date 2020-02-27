@@ -1,0 +1,9 @@
+1	git://github.com/linvi/tweetinviportabl.git
+2	#DEP#twitterapi
+3	#DEP#twitter
+4	#DEP#netcor
+5	#DEP#dotnetcor
+6	#DEP#xamarin
+7	#DEP#csharp
+8	#DEP#dotnet
+9	#DEP#dotnetstandard

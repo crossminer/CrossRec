@@ -1,0 +1,7 @@
+1	git://github.com/dschep/ntfypushnotif.git
+2	#DEP#notif
+3	#DEP#window
+4	#DEP#linux
+5	#DEP#maco
+6	#DEP#zsh
+7	#DEP#bash

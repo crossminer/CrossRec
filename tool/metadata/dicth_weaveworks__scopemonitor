@@ -1,0 +1,8 @@
+1	git://github.com/weaveworks/scopemonitor
+2	#DEP#ec
+3	#DEP#visual
+4	#DEP#meso
+5	#DEP#contain
+6	#DEP#kubernet
+7	#DEP#docker
+8	#DEP#microservic

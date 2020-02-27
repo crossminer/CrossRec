@@ -1,0 +1,10 @@
+1	git://github.com/lonng/nanowebsocketserv.git
+2	#DEP#protobuf
+3	#DEP#network
+4	#DEP#tcpserver
+5	#DEP#distributsystem
+6	#DEP#lightweight
+7	#DEP#golang
+8	#DEP#json
+9	#DEP#server
+10	#DEP#game

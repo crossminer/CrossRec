@@ -1,0 +1,8 @@
+1	git://github.com/geex-arts/django-jettemplat.git
+2	#DEP#administr
+3	#DEP#admin
+4	#DEP#django
+5	#DEP#admindashboard
+6	#DEP#interfac
+7	#DEP#dashboard
+8	#DEP#respons

@@ -1,0 +1,9 @@
+1	git://github.com/FlingOS/FlingOScompil.git
+2	#DEP#filesystem
+3	#DEP#x86
+4	#DEP#articl
+5	#DEP#tutori
+6	#DEP#csharp
+7	#DEP#educ
+8	#DEP#serial
+9	#DEP#opersystem

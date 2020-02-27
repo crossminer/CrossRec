@@ -1,0 +1,7 @@
+9	#DEP#json
+10	#DEP#rdbm
+11	#DEP#localstorag
+12	#DEP#persist
+13	#DEP#orm
+14	#DEP#csv
+15	#DEP#isomorph

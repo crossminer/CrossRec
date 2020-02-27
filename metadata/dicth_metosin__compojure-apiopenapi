@@ -1,0 +1,8 @@
+1	git://github.com/metosin/compojure-apiopenapi.git
+2	#DEP#http
+3	#DEP#clojur
+4	#DEP#rest
+5	#DEP#swagger
+6	#DEP#api
+7	#DEP#async
+8	#DEP#schema

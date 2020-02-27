@@ -1,0 +1,12 @@
+1	git://github.com/shimat/opencvsharpwrapper.git
+2	#DEP#dotnetcore2
+3	#DEP#machinlearn
+4	#DEP#dotnetstandard
+5	#DEP#imagprocess
+6	#DEP#mono
+7	#DEP#opencv
+8	#DEP#computvis
+9	#DEP#nuget
+10	#DEP#dotnetcor
+11	#DEP#csharp
+12	#DEP#dotnet

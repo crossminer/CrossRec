@@ -1,0 +1,8 @@
+1	git://github.com/exoframejs/exoframenodej.git
+2	#DEP#selfhost
+3	#DEP#deploy
+4	#DEP#dockercontain
+5	#DEP#cliapp
+6	#DEP#devop
+7	#DEP#deploytool
+8	#DEP#docker

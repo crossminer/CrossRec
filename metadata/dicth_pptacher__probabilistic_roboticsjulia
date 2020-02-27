@@ -1,0 +1,9 @@
+1	git://github.com/pptacher/probabilistic_roboticsjulia.git
+2	#DEP#robot
+3	#DEP#numpi
+4	#DEP#slam
+5	#DEP#matlab
+6	#DEP#cpluplu
+7	#DEP#cpp
+8	#DEP#autonomvehicl
+9	#DEP#navig

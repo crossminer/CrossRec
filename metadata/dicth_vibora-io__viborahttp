@@ -1,0 +1,8 @@
+1	git://github.com/vibora-io/viborahttp.git
+2	#DEP#web
+3	#DEP#perform
+4	#DEP#python
+5	#DEP#framework
+6	#DEP#server
+7	#DEP#client
+8	#DEP#async

@@ -1,0 +1,10 @@
+1	git://github.com/CircleCI-Public/circleci-clicli
+2	#DEP#circleci
+3	#DEP#continuintegr
+4	#DEP#tool
+5	#DEP#devop
+6	#DEP#commandlinetool
+7	#DEP#golang
+8	#DEP#developtool
+9	#DEP#continudeliveri
+10	#DEP#graphql

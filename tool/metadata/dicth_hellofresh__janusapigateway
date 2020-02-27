@@ -1,0 +1,7 @@
+1	git://github.com/hellofresh/janusapigateway
+2	#DEP#proxi
+3	#DEP#platform
+4	#DEP#api
+5	#DEP#reversproxi
+6	#DEP#go
+7	#DEP#microservic

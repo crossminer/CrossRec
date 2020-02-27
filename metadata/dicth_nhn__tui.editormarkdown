@@ -1,0 +1,11 @@
+1	git://github.com/nhn/tui.editormarkdown.git
+2	#DEP#frontend
+3	#DEP#jqueriplugin
+4	#DEP#chart
+5	#DEP#commonmark
+6	#DEP#gfm
+7	#DEP#jqueri
+8	#DEP#html
+9	#DEP#editor
+10	#DEP#document
+11	#DEP#wysiwyg

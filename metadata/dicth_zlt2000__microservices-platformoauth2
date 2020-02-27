@@ -1,0 +1,9 @@
+1	git://github.com/zlt2000/microservices-platformoauth2.git
+2	#DEP#springboot
+3	#DEP#java
+4	#DEP#elk
+5	#DEP#jwt
+6	#DEP#springcloud
+7	#DEP#platform
+8	#DEP#microservic
+9	#DEP#zuul

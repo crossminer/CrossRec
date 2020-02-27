@@ -1,0 +1,7 @@
+1	git://github.com/hanyucd/vue-mall-mobileaxio.git
+2	#DEP#vue
+3	#DEP#mongodb
+4	#DEP#vuerout
+5	#DEP#mongoos
+6	#DEP#koa2
+7	#DEP#vuex

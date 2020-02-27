@@ -1,0 +1,7 @@
+1	git://github.com/StubbornJava/StubbornJavaokhttp3
+2	#DEP#gradl
+3	#DEP#jackson
+4	#DEP#terraform
+5	#DEP#ansibl
+6	#DEP#java8
+7	#DEP#java

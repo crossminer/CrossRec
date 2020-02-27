@@ -1,0 +1,10 @@
+1	git://github.com/oblac/joddjava
+2	#DEP#databas
+3	#DEP#java8
+4	#DEP#aop
+5	#DEP#jqueri
+6	#DEP#microframework
+7	#DEP#mail
+8	#DEP#ioc
+9	#DEP#httpclient
+10	#DEP#jsonpars

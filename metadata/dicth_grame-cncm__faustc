@@ -1,0 +1,7 @@
+1	git://github.com/grame-cncm/faustc.git
+2	#DEP#llvm
+3	#DEP#compil
+4	#DEP#wasm
+5	#DEP#audio
+6	#DEP#functionprogram
+7	#DEP#cpp

@@ -1,0 +1,7 @@
+1	git://github.com/Segs/Segsqt5.git
+2	#DEP#cpluplu
+3	#DEP#multiplay
+4	#DEP#cmake
+5	#DEP#gameserv
+6	#DEP#multiplatform
+7	#DEP#emul

@@ -1,0 +1,7 @@
+1	git://github.com/coteditor/CotEditormacapp
+2	#DEP#texteditor
+3	#DEP#cocoa
+4	#DEP#editor
+5	#DEP#macoapp
+6	#DEP#maco
+7	#DEP#swift

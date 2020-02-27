@@ -1,0 +1,8 @@
+1	git://github.com/bettercap/bettercapsecur.git
+2	#DEP#proxi
+3	#DEP#wifi
+4	#DEP#mitm
+5	#DEP#hid
+6	#DEP#hack
+7	#DEP#redteam
+8	#DEP#monitor

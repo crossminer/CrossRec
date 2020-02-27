@@ -1,0 +1,6 @@
+7	#DEP#websocket
+8	#DEP#typeorm
+9	#DEP#nginx
+10	#DEP#react
+11	#DEP#mysql
+12	#DEP#redux

@@ -1,0 +1,11 @@
+1	git://github.com/mono/CppSharpc
+2	#DEP#par
+3	#DEP#mono
+4	#DEP#parser
+5	#DEP#clang
+6	#DEP#xamarin
+7	#DEP#bind
+8	#DEP#csharp
+9	#DEP#dotnet
+10	#DEP#cplusplu
+11	#DEP#bridg

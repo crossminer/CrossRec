@@ -1,0 +1,7 @@
+1	git://github.com/PeterStaev/NativeScript-Drop-Downwidget.git
+2	#DEP#dropdown
+3	#DEP#uicompon
+4	#DEP#ui
+5	#DEP#io
+6	#DEP#nativescript
+7	#DEP#android

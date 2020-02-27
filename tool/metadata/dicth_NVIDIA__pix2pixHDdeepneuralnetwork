@@ -1,0 +1,7 @@
+1	git://github.com/NVIDIA/pix2pixHDdeepneuralnetwork
+2	#DEP#computgraph
+3	#DEP#deeplearn
+4	#DEP#computvis
+5	#DEP#gan
+6	#DEP#generadversarinetwork
+7	#DEP#pytorch

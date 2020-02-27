@@ -1,0 +1,7 @@
+1	git://github.com/FoxUSA/OpenNotepwaapp.git
+2	#DEP#couchdb
+3	#DEP#notetak
+4	#DEP#angularj
+5	#DEP#mobilfirst
+6	#DEP#pwa
+7	#DEP#progresswebapp

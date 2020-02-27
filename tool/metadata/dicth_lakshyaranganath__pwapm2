@@ -1,0 +1,14 @@
+1	git://github.com/lakshyaranganath/pwapm2
+2	#DEP#react
+3	#DEP#univers
+4	#DEP#jest
+5	#DEP#babel
+6	#DEP#pwa
+7	#DEP#processmanag
+8	#DEP#eslint
+9	#DEP#postcss
+10	#DEP#test
+11	#DEP#redux
+12	#DEP#reactrout
+13	#DEP#webpack
+14	#DEP#boilerpl

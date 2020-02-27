@@ -1,0 +1,7 @@
+1	git://github.com/GetStream/vgshell
+2	#DEP#dependmanag
+3	#DEP#fish
+4	#DEP#golang
+5	#DEP#go
+6	#DEP#zsh
+7	#DEP#bash

@@ -1,0 +1,7 @@
+1	git://github.com/DivanteLtd/mage2vuestorefrontmultiprocess
+2	#DEP#nosql
+3	#DEP#mongodb
+4	#DEP#backend
+5	#DEP#elasticsearch
+6	#DEP#redi
+7	#DEP#magento

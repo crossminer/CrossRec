@@ -1,0 +1,7 @@
+1	git://github.com/chriskrycho/lightning-rspublish
+2	#DEP#markdown
+3	#DEP#pandoc
+4	#DEP#staticsitegen
+5	#DEP#blog
+6	#DEP#write
+7	#DEP#rust

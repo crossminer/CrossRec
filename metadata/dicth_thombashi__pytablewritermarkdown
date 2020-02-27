@@ -1,0 +1,16 @@
+1	git://github.com/thombashi/pytablewritermarkdown.git
+2	#DEP#sqlite
+3	#DEP#latex
+4	#DEP#javascript
+5	#DEP#jupytnotebook
+6	#DEP#excel
+7	#DEP#pandadatafram
+8	#DEP#pythonlibrari
+9	#DEP#html
+10	#DEP#json
+11	#DEP#tabl
+12	#DEP#elasticsearch
+13	#DEP#numpi
+14	#DEP#csv
+15	#DEP#panda
+16	#DEP#tsv

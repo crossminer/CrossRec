@@ -1,0 +1,7 @@
+1	git://github.com/geerlingguy/packer-ubuntu-1404vagrant.git
+2	#DEP#minim
+3	#DEP#packer
+4	#DEP#imag
+5	#DEP#ubuntu
+6	#DEP#ansibl
+7	#DEP#virtualbox

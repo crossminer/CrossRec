@@ -1,0 +1,14 @@
+1	git://github.com/s1ddok/Fiber2Dgameengin
+2	#DEP#opengl
+3	#DEP#tvo
+4	#DEP#metal
+5	#DEP#game
+6	#DEP#directx
+7	#DEP#linux
+8	#DEP#android
+9	#DEP#io
+10	#DEP#maco
+11	#DEP#vulkan
+12	#DEP#swift
+13	#DEP#sdl
+14	#DEP#crossplatform

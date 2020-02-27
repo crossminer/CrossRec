@@ -1,0 +1,10 @@
+1	git://github.com/NervanaSystems/ngraphcompil.git
+2	#DEP#caffe2
+3	#DEP#mxnet
+4	#DEP#perform
+5	#DEP#onnx
+6	#DEP#deeplearn
+7	#DEP#neuralnetwork
+8	#DEP#deepneuralnetwork
+9	#DEP#tensorflow
+10	#DEP#pytorch

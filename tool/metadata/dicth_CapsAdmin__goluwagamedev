@@ -1,0 +1,10 @@
+1	git://github.com/CapsAdmin/goluwagamedev
+2	#DEP#luajit
+3	#DEP#gameengin
+4	#DEP#gamedevelop
+5	#DEP#luascript
+6	#DEP#gui
+7	#DEP#linux
+8	#DEP#lua
+9	#DEP#gameframework
+10	#DEP#font

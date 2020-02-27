@@ -1,0 +1,13 @@
+1	git://github.com/marshmallow-code/apispecopenapi
+2	#DEP#marshmallow
+3	#DEP#openapi3
+4	#DEP#restapi
+5	#DEP#python
+6	#DEP#flask
+7	#DEP#python2
+8	#DEP#python3
+9	#DEP#jsonschema
+10	#DEP#swagger
+11	#DEP#openapispecif
+12	#DEP#api
+13	#DEP#document

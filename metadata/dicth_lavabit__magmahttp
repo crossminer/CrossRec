@@ -1,0 +1,8 @@
+1	git://github.com/lavabit/magmahttp.git
+2	#DEP#commun
+3	#DEP#encrypt
+4	#DEP#smtp
+5	#DEP#server
+6	#DEP#messag
+7	#DEP#imap
+8	#DEP#email

@@ -1,0 +1,7 @@
+1	git://github.com/drduh/pwd.shencrypt
+2	#DEP#gpg
+3	#DEP#unix
+4	#DEP#bashscript
+5	#DEP#passwordmanag
+6	#DEP#password
+7	#DEP#bash

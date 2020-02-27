@@ -1,0 +1,5 @@
+6	#DEP#metric
+7	#DEP#influxdb
+8	#DEP#elast
+9	#DEP#graphit
+10	#DEP#cluster

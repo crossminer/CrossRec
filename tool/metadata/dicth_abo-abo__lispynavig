@@ -1,0 +1,8 @@
+1	git://github.com/abo-abo/lispynavig
+2	#DEP#commonlisp
+3	#DEP#python
+4	#DEP#refactor
+5	#DEP#clojur
+6	#DEP#emaclisp
+7	#DEP#scheme
+8	#DEP#evalu

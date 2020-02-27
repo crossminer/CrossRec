@@ -1,0 +1,8 @@
+1	git://github.com/xo/xosqlite.git
+2	#DEP#postgresql
+3	#DEP#oracl
+4	#DEP#sql
+5	#DEP#golang
+6	#DEP#mysql
+7	#DEP#orm
+8	#DEP#codegen

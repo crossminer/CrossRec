@@ -1,0 +1,8 @@
+1	git://github.com/samuelmaddock/metastreamwebsocket
+2	#DEP#chromeexten
+3	#DEP#pwa
+4	#DEP#p2p
+5	#DEP#webapp
+6	#DEP#browserexten
+7	#DEP#webrtc
+8	#DEP#firefoxaddon

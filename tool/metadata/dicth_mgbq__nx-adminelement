@@ -1,0 +1,13 @@
+1	git://github.com/mgbq/nx-adminelement
+2	#DEP#vuecli
+3	#DEP#axio
+4	#DEP#elementui
+5	#DEP#vueadmin
+6	#DEP#admin
+7	#DEP#vuejs2
+8	#DEP#webpack
+9	#DEP#i18n
+10	#DEP#test
+11	#DEP#admintemplat
+12	#DEP#vuex
+13	#DEP#mock

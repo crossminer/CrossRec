@@ -1,0 +1,10 @@
+1	git://github.com/microsoft/AutonomousDrivingCookbookautonomvehicl.git
+2	#DEP#deeplearn
+3	#DEP#simul
+4	#DEP#selfdrivecar
+5	#DEP#cntk
+6	#DEP#tutori
+7	#DEP#microsoft
+8	#DEP#tensorflow
+9	#DEP#robot
+10	#DEP#kera

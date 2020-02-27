@@ -1,0 +1,14 @@
+1	git://github.com/ebean-orm/ebeanjdbc.git
+2	#DEP#sqlite
+3	#DEP#java
+4	#DEP#databas
+5	#DEP#kotlin
+6	#DEP#postgr
+7	#DEP#jpa
+8	#DEP#sql
+9	#DEP#mariadb
+10	#DEP#orm
+11	#DEP#elasticsearch
+12	#DEP#mysql
+13	#DEP#sqlserver
+14	#DEP#oracl

@@ -1,0 +1,7 @@
+1	git://github.com/h2non/toxyproxi
+2	#DEP#httpproxi
+3	#DEP#simul
+4	#DEP#resili
+5	#DEP#test
+6	#DEP#reactiv
+7	#DEP#network

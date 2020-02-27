@@ -1,0 +1,10 @@
+1	git://github.com/diegohaz/nodnodej.git
+2	#DEP#node
+3	#DEP#modul
+4	#DEP#babel
+5	#DEP#flow
+6	#DEP#flowtyp
+7	#DEP#yeomangen
+8	#DEP#jest
+9	#DEP#javascript
+10	#DEP#boilerpl

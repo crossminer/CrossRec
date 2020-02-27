@@ -1,0 +1,10 @@
+1	git://github.com/IoT-Technology/IOT-Technical-Guidetoken.git
+2	#DEP#nosql
+3	#DEP#realtim
+4	#DEP#websocket
+5	#DEP#jwt
+6	#DEP#sql
+7	#DEP#gateway
+8	#DEP#mqtt
+9	#DEP#multiten
+10	#DEP#http

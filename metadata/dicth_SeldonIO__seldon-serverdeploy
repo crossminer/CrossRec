@@ -1,0 +1,17 @@
+1	git://github.com/SeldonIO/seldon-serverdeploy.git
+2	#DEP#predict
+3	#DEP#python
+4	#DEP#deeplearn
+5	#DEP#aw
+6	#DEP#kafka
+7	#DEP#azur
+8	#DEP#machinlearn
+9	#DEP#recommendsystem
+10	#DEP#gcp
+11	#DEP#spark
+12	#DEP#tensorflow
+13	#DEP#kubernet
+14	#DEP#docker
+15	#DEP#microservic
+16	#DEP#cloud
+17	#DEP#java

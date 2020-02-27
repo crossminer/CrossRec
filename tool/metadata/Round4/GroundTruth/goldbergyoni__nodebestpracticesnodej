@@ -1,0 +1,7 @@
+8	#DEP#mocha
+9	#DEP#styleguid
+10	#DEP#rest
+11	#DEP#eslint
+12	#DEP#jest
+13	#DEP#microservic
+14	#DEP#chai

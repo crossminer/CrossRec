@@ -1,0 +1,13 @@
+1	git://github.com/tensorflow/lingvoseq2seq.git
+2	#DEP#nlp
+3	#DEP#machintranslat
+4	#DEP#tt
+5	#DEP#speechtext
+6	#DEP#research
+7	#DEP#tensorflow
+8	#DEP#distribut
+9	#DEP#translat
+10	#DEP#languagmodel
+11	#DEP#speechrecognit
+12	#DEP#speechsynthesi
+13	#DEP#speech

@@ -1,0 +1,8 @@
+1	git://github.com/yiisoft/yii2-authclientgithub.git
+2	#DEP#twitter
+3	#DEP#googl
+4	#DEP#linkedin
+5	#DEP#facebook
+6	#DEP#yii2
+7	#DEP#oauth
+8	#DEP#php

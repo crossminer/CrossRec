@@ -1,0 +1,10 @@
+1	git://github.com/shioyama/mobilitypostgresql
+2	#DEP#activerecord
+3	#DEP#sequel
+4	#DEP#rubi
+5	#DEP#rubigem
+6	#DEP#rail
+7	#DEP#json
+8	#DEP#translat
+9	#DEP#i18n
+10	#DEP#local

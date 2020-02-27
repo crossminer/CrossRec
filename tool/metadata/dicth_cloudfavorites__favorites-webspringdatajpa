@@ -1,0 +1,7 @@
+1	git://github.com/cloudfavorites/favorites-webspringdatajpa
+2	#DEP#springboot
+3	#DEP#spring
+4	#DEP#jpa
+5	#DEP#thymeleaf
+6	#DEP#bootstrap
+7	#DEP#docker

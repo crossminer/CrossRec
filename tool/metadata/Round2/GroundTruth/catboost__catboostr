@@ -1,0 +1,6 @@
+7	#DEP#cuda
+8	#DEP#gpu
+9	#DEP#decistre
+10	#DEP#datamin
+11	#DEP#datascienc
+12	#DEP#kaggl

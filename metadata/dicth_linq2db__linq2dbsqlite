@@ -1,0 +1,14 @@
+1	git://github.com/linq2db/linq2dbsqlite.git
+2	#DEP#postgresql
+3	#DEP#databas
+4	#DEP#mssql
+5	#DEP#mariadb
+6	#DEP#linq
+7	#DEP#sql
+8	#DEP#access
+9	#DEP#orm
+10	#DEP#csharp
+11	#DEP#dotnet
+12	#DEP#mysql
+13	#DEP#oracl
+14	#DEP#db2

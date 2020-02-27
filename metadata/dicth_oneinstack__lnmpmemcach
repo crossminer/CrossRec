@@ -1,0 +1,9 @@
+1	git://github.com/oneinstack/lnmpmemcach.git
+2	#DEP#openresti
+3	#DEP#php
+4	#DEP#mariadb
+5	#DEP#nginx
+6	#DEP#lamp
+7	#DEP#mysql
+8	#DEP#redi
+9	#DEP#lemp

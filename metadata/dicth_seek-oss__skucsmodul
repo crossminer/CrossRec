@@ -1,0 +1,8 @@
+1	git://github.com/seek-oss/skucsmodul.git
+2	#DEP#toolkit
+3	#DEP#frontend
+4	#DEP#babel
+5	#DEP#le
+6	#DEP#buildtool
+7	#DEP#eslint
+8	#DEP#webpack

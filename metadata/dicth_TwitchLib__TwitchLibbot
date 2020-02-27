@@ -1,0 +1,8 @@
+1	git://github.com/TwitchLib/TwitchLibbot.git
+2	#DEP#client
+3	#DEP#api
+4	#DEP#event
+5	#DEP#csharp
+6	#DEP#chat
+7	#DEP#twitch
+8	#DEP#pubsub

@@ -1,0 +1,13 @@
+1	git://github.com/bojidaryovchev/nest-angulartypescript
+2	#DEP#angularcli
+3	#DEP#express
+4	#DEP#nestj
+5	#DEP#mongodb
+6	#DEP#nest
+7	#DEP#passport
+8	#DEP#angular
+9	#DEP#jwt
+10	#DEP#mongoos
+11	#DEP#jwtauthent
+12	#DEP#graphql
+13	#DEP#webpack

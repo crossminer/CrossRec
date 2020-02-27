@@ -1,0 +1,8 @@
+1	git://github.com/bokub/lyocompil.git
+2	#DEP#es5
+3	#DEP#modul
+4	#DEP#babel
+5	#DEP#browserifi
+6	#DEP#browser
+7	#DEP#minifi
+8	#DEP#build

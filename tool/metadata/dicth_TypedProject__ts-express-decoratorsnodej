@@ -1,0 +1,9 @@
+1	git://github.com/TypedProject/ts-express-decoratorsnodej
+2	#DEP#typescript
+3	#DEP#socketio
+4	#DEP#restapi
+5	#DEP#dependinject
+6	#DEP#convert
+7	#DEP#swaggerui
+8	#DEP#ioc
+9	#DEP#middlewar

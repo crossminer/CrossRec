@@ -1,0 +1,8 @@
+1	git://github.com/rs/rest-layerrestapi.git
+2	#DEP#jsonschema
+3	#DEP#framework
+4	#DEP#apidocu
+5	#DEP#api
+6	#DEP#go
+7	#DEP#graphql
+8	#DEP#apiserv

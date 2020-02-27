@@ -1,0 +1,5 @@
+7	#DEP#golang
+8	#DEP#orm
+9	#DEP#mysql
+10	#DEP#go
+11	#DEP#nosql

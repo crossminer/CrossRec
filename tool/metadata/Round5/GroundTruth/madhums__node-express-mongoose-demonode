@@ -1,0 +1,4 @@
+6	#DEP#heroku
+7	#DEP#mongoos
+8	#DEP#passport
+9	#DEP#docker

@@ -1,0 +1,9 @@
+1	git://github.com/cuberite/cuberiteplugin.git
+2	#DEP#raspberripi
+3	#DEP#cpluplu
+4	#DEP#server
+5	#DEP#window
+6	#DEP#linux
+7	#DEP#android
+8	#DEP#lua
+9	#DEP#minecraft

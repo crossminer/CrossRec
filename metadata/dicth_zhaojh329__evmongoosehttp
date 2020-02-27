@@ -1,0 +1,7 @@
+1	git://github.com/zhaojh329/evmongoosehttp.git
+2	#DEP#web
+3	#DEP#mqtt
+4	#DEP#server
+5	#DEP#mongoos
+6	#DEP#event
+7	#DEP#async

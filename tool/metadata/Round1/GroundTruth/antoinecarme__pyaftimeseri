@@ -1,0 +1,5 @@
+6	#DEP#heroku
+7	#DEP#transform
+8	#DEP#python
+9	#DEP#scikitlearn
+10	#DEP#panda

@@ -1,0 +1,10 @@
+1	git://github.com/dgraph-io/dgraphscale.git
+2	#DEP#databas
+3	#DEP#distribut
+4	#DEP#graphdataba
+5	#DEP#graphdb
+6	#DEP#product
+7	#DEP#golang
+8	#DEP#graphqlserv
+9	#DEP#go
+10	#DEP#graphql

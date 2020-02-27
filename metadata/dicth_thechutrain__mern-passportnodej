@@ -1,0 +1,7 @@
+1	git://github.com/thechutrain/mern-passportnodej.git
+2	#DEP#express
+3	#DEP#reactrouterv4
+4	#DEP#mongo
+5	#DEP#react
+6	#DEP#mongoos
+7	#DEP#passport

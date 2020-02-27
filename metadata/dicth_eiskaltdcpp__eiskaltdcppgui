@@ -1,0 +1,17 @@
+1	git://github.com/eiskaltdcpp/eiskaltdcppgui.git
+2	#DEP#cli
+3	#DEP#qt
+4	#DEP#commun
+5	#DEP#fileshar
+6	#DEP#cpluplu
+7	#DEP#network
+8	#DEP#gtk
+9	#DEP#p2p
+10	#DEP#messag
+11	#DEP#window
+12	#DEP#linux
+13	#DEP#mac
+14	#DEP#chat
+15	#DEP#dht
+16	#DEP#client
+17	#DEP#crossplatform

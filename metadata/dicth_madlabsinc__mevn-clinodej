@@ -1,0 +1,13 @@
+1	git://github.com/madlabsinc/mevn-clinodej.git
+2	#DEP#cli
+3	#DEP#express
+4	#DEP#mongodb
+5	#DEP#eslint
+6	#DEP#javascript
+7	#DEP#hacktoberfest
+8	#DEP#vuej
+9	#DEP#npmpackag
+10	#DEP#babel7
+11	#DEP#mongoos
+12	#DEP#prettier
+13	#DEP#vue

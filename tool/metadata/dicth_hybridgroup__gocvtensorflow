@@ -1,0 +1,8 @@
+1	git://github.com/hybridgroup/gocvtensorflow
+2	#DEP#imagprocess
+3	#DEP#torch
+4	#DEP#opencv
+5	#DEP#golang
+6	#DEP#computvis
+7	#DEP#video
+8	#DEP#caff

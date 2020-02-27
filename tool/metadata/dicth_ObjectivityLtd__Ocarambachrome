@@ -1,0 +1,7 @@
+1	git://github.com/ObjectivityLtd/Ocarambachrome
+2	#DEP#firefox
+3	#DEP#seleniumwebdriv
+4	#DEP#safari
+5	#DEP#test
+6	#DEP#parallel
+7	#DEP#testautom

@@ -1,0 +1,7 @@
+1	git://github.com/idea4good/GuiLitec
+2	#DEP#docker
+3	#DEP#gui
+4	#DEP#microcontrol
+5	#DEP#embed
+6	#DEP#crossplatform
+7	#DEP#cpp

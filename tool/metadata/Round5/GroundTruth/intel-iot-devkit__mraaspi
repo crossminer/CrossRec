@@ -1,0 +1,3 @@
+5	#DEP#gpio
+6	#DEP#linux
+7	#DEP#i2c

@@ -1,0 +1,7 @@
+1	git://github.com/kasparsd/php-7-debianshell.git
+2	#DEP#cli
+3	#DEP#phpfpm
+4	#DEP#php
+5	#DEP#ubuntu
+6	#DEP#php7
+7	#DEP#debian

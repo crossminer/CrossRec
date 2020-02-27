@@ -1,0 +1,12 @@
+1	git://github.com/imolorhe/altairdesktopapp
+2	#DEP#ngrx
+3	#DEP#databas
+4	#DEP#fragment
+5	#DEP#chromeexten
+6	#DEP#data
+7	#DEP#angular
+8	#DEP#electron
+9	#DEP#opensourc
+10	#DEP#graphqlserv
+11	#DEP#graphqlclient
+12	#DEP#graphql

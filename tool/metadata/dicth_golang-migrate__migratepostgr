@@ -1,0 +1,14 @@
+1	git://github.com/golang-migrate/migratepostgr
+2	#DEP#sqlite
+3	#DEP#mongodb
+4	#DEP#databas
+5	#DEP#googlcloudstorag
+6	#DEP#migrat
+7	#DEP#mariadb
+8	#DEP#sql
+9	#DEP#golang
+10	#DEP#mysql
+11	#DEP#go
+12	#DEP#neo4j
+13	#DEP#aws3
+14	#DEP#cassandra

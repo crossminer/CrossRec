@@ -1,0 +1,12 @@
+1	git://github.com/GuoYongfeng/booknodej
+2	#DEP#shell
+3	#DEP#git
+4	#DEP#npm
+5	#DEP#babel
+6	#DEP#react
+7	#DEP#eslint
+8	#DEP#atom
+9	#DEP#es2015
+10	#DEP#redux
+11	#DEP#postcss
+12	#DEP#webpack

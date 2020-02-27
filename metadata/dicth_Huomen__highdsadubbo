@@ -1,0 +1,14 @@
+1	git://github.com/Huomen/highdsadubbo.git
+2	#DEP#jackson
+3	#DEP#ca
+4	#DEP#elk
+5	#DEP#spring
+6	#DEP#mybati
+7	#DEP#springmvc
+8	#DEP#redi
+9	#DEP#druid
+10	#DEP#nginx
+11	#DEP#maven
+12	#DEP#shiro
+13	#DEP#rest
+14	#DEP#zookeep

@@ -1,0 +1,10 @@
+1	git://github.com/rubberduck-vba/Rubberduckparexpressgrammar
+2	#DEP#staticcodeanalysi
+3	#DEP#unittest
+4	#DEP#par
+5	#DEP#refactor
+6	#DEP#offic
+7	#DEP#csharp
+8	#DEP#dotnet
+9	#DEP#ide
+10	#DEP#linter

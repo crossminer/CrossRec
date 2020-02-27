@@ -1,0 +1,7 @@
+1	git://github.com/gpujs/gpu.jsnodej.git
+2	#DEP#glsl
+3	#DEP#webgl
+4	#DEP#javascript
+5	#DEP#gpgpu
+6	#DEP#gpu
+7	#DEP#math

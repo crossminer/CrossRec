@@ -1,0 +1,12 @@
+1	git://github.com/budtmo/docker-androidkubernet
+2	#DEP#jenkin
+3	#DEP#azur
+4	#DEP#emul
+5	#DEP#terraform
+6	#DEP#mobilapp
+7	#DEP#android
+8	#DEP#gcp
+9	#DEP#aw
+10	#DEP#selenium
+11	#DEP#docker
+12	#DEP#cloud

@@ -1,0 +1,7 @@
+1	git://github.com/yosriady/api-development-toolsapigateway.git
+2	#DEP#apimanag
+3	#DEP#apicli
+4	#DEP#apidocu
+5	#DEP#api
+6	#DEP#swagger
+7	#DEP#jsonschema

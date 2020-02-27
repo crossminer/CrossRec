@@ -1,0 +1,7 @@
+1	git://github.com/dapr/daprserverless.git
+2	#DEP#eventdriven
+3	#DEP#statemanag
+4	#DEP#contain
+5	#DEP#kubernet
+6	#DEP#microservic
+7	#DEP#pubsub

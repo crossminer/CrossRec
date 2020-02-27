@@ -1,0 +1,7 @@
+1	git://github.com/apex/apexserverless.git
+2	#DEP#node
+3	#DEP#awlambda
+4	#DEP#golang
+5	#DEP#aw
+6	#DEP#faa
+7	#DEP#lambda

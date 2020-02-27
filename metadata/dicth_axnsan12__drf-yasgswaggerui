@@ -1,0 +1,8 @@
+1	git://github.com/axnsan12/drf-yasgswaggerui.git
+2	#DEP#openapi
+3	#DEP#restapi
+4	#DEP#django
+5	#DEP#swagger
+6	#DEP#djangorestframework
+7	#DEP#openapispecif
+8	#DEP#rest

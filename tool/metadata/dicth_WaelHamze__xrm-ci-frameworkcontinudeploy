@@ -1,0 +1,10 @@
+1	git://github.com/WaelHamze/xrm-ci-frameworkcontinudeploy
+2	#DEP#powershel
+3	#DEP#script
+4	#DEP#continuintegr
+5	#DEP#devop
+6	#DEP#buildautom
+7	#DEP#releasautom
+8	#DEP#crm
+9	#DEP#continudeliveri
+10	#DEP#dynam

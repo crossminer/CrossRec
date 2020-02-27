@@ -1,0 +1,14 @@
+1	git://github.com/cloudposse/geodesicshell.git
+2	#DEP#dockerfil
+3	#DEP#ec2
+4	#DEP#aw
+5	#DEP#alpin
+6	#DEP#kubectl
+7	#DEP#terraform
+8	#DEP#helm
+9	#DEP#contain
+10	#DEP#kubernet
+11	#DEP#k8
+12	#DEP#docker
+13	#DEP#kubernetclust
+14	#DEP#infrastructurcod

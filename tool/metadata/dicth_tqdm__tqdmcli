@@ -1,0 +1,11 @@
+1	git://github.com/tqdm/tqdmcli
+2	#DEP#bar
+3	#DEP#consol
+4	#DEP#util
+5	#DEP#python
+6	#DEP#gui
+7	#DEP#progress
+8	#DEP#rate
+9	#DEP#time
+10	#DEP#termin
+11	#DEP#parallel

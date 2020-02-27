@@ -1,0 +1,10 @@
+1	git://github.com/htpcBeginner/AtoMiC-ToolKitembi.git
+2	#DEP#sonarr
+3	#DEP#raspberripi
+4	#DEP#radarr
+5	#DEP#webmin
+6	#DEP#nzbget
+7	#DEP#ubuntu
+8	#DEP#htpc
+9	#DEP#debian
+10	#DEP#raspbian

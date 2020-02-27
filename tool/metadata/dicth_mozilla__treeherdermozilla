@@ -1,0 +1,9 @@
+1	git://github.com/mozilla/treeherdermozilla
+2	#DEP#continuintegr
+3	#DEP#python
+4	#DEP#django
+5	#DEP#reactj
+6	#DEP#react
+7	#DEP#djangorestframework
+8	#DEP#dockercompo
+9	#DEP#docker

@@ -1,0 +1,9 @@
+1	git://github.com/getredash/redashbusiintellig.git
+2	#DEP#postgresql
+3	#DEP#redshift
+4	#DEP#python
+5	#DEP#javascript
+6	#DEP#visual
+7	#DEP#mysql
+8	#DEP#dashboard
+9	#DEP#analyt

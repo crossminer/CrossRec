@@ -1,0 +1,7 @@
+1	git://github.com/daniel5151/ANESEsdl2
+2	#DEP#cmake
+3	#DEP#assembl
+4	#DEP#emul
+5	#DEP#retro
+6	#DEP#crossplatform
+7	#DEP#sdl

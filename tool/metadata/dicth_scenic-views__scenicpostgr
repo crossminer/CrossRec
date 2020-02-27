@@ -1,0 +1,7 @@
+1	git://github.com/scenic-views/scenicpostgr
+2	#DEP#databas
+3	#DEP#activerecord
+4	#DEP#rubi
+5	#DEP#rail
+6	#DEP#sql
+7	#DEP#schema

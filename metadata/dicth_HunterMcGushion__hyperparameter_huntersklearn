@@ -1,0 +1,16 @@
+1	git://github.com/HunterMcGushion/hyperparameter_huntersklearn.git
+2	#DEP#xgboost
+3	#DEP#lightgbm
+4	#DEP#featurengin
+5	#DEP#neuralnetwork
+6	#DEP#ml
+7	#DEP#python
+8	#DEP#deeplearn
+9	#DEP#optim
+10	#DEP#machinlearn
+11	#DEP#hyperparametoptim
+12	#DEP#datascienc
+13	#DEP#ai
+14	#DEP#artificiintellig
+15	#DEP#scikitlearn
+16	#DEP#kera

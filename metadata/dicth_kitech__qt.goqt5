@@ -1,0 +1,7 @@
+1	git://github.com/kitech/qt.goqt5.git
+2	#DEP#gui
+3	#DEP#golang
+4	#DEP#android
+5	#DEP#go
+6	#DEP#qt
+7	#DEP#crossplatform

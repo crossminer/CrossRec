@@ -1,0 +1,8 @@
+1	git://github.com/tmoonlight/NSmartProxyprotocol.git
+2	#DEP#proxi
+3	#DEP#tcp
+4	#DEP#revers
+5	#DEP#p2p
+6	#DEP#dotnetcor
+7	#DEP#csharp
+8	#DEP#linux

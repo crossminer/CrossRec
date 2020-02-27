@@ -1,0 +1,7 @@
+1	git://github.com/jeffknupp/sandman2databas.git
+2	#DEP#restapi
+3	#DEP#python
+4	#DEP#rest
+5	#DEP#sqlalchemi
+6	#DEP#orm
+7	#DEP#automatapi

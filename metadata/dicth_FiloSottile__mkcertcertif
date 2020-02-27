@@ -1,0 +1,9 @@
+1	git://github.com/FiloSottile/mkcertcertif.git
+2	#DEP#firefox
+3	#DEP#http
+4	#DEP#window
+5	#DEP#chrome
+6	#DEP#io
+7	#DEP#tl
+8	#DEP#linux
+9	#DEP#maco

@@ -1,0 +1,11 @@
+1	git://github.com/bridgedotnet/Bridgecompil.git
+2	#DEP#typescript
+3	#DEP#csharp
+4	#DEP#j
+5	#DEP#javascript
+6	#DEP#bridg
+7	#DEP#jqueri
+8	#DEP#nuget
+9	#DEP#dotnetcor
+10	#DEP#dotnet
+11	#DEP#visualstudio

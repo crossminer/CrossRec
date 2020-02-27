@@ -1,0 +1,10 @@
+1	git://github.com/PINTO0309/MobileNet-SSD-RealSensefacedetect.git
+2	#DEP#raspberripi
+3	#DEP#python
+4	#DEP#deeplearn
+5	#DEP#opencv
+6	#DEP#multiprocess
+7	#DEP#ubuntu
+8	#DEP#raspberrypi
+9	#DEP#caff
+10	#DEP#raspbian

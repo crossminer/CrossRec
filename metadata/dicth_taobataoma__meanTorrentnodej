@@ -1,0 +1,11 @@
+1	git://github.com/taobataoma/meanTorrentnodej.git
+2	#DEP#express
+3	#DEP#socketio
+4	#DEP#mongodb
+5	#DEP#tracker
+6	#DEP#angularj
+7	#DEP#gulp
+8	#DEP#mongoos
+9	#DEP#passport
+10	#DEP#bittorr
+11	#DEP#bootstrap3

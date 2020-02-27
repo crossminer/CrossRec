@@ -1,0 +1,8 @@
+1	git://github.com/sadsfae/ansible-elkelk.git
+2	#DEP#logstash
+3	#DEP#cento
+4	#DEP#kibana
+5	#DEP#playbook
+6	#DEP#elasticsearch
+7	#DEP#rhel
+8	#DEP#ansibl

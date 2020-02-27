@@ -1,0 +1,7 @@
+1	git://github.com/Dolibarr/dolibarrerp.git
+2	#DEP#postgresql
+3	#DEP#php
+4	#DEP#mysql
+5	#DEP#crm
+6	#DEP#invoic
+7	#DEP#stock

@@ -1,0 +1,8 @@
+1	git://github.com/zzzzbw/Famevue.git
+2	#DEP#java
+3	#DEP#maven
+4	#DEP#mysql
+5	#DEP#dockercompo
+6	#DEP#springboot
+7	#DEP#docker
+8	#DEP#nuxt

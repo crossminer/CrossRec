@@ -1,0 +1,7 @@
+1	git://github.com/pingyhq/pingy-clifrontend.git
+2	#DEP#babel
+3	#DEP#pug
+4	#DEP#coffeescript
+5	#DEP#websit
+6	#DEP#buildtool
+7	#DEP#sas

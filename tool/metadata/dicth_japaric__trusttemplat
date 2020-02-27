@@ -1,0 +1,7 @@
+1	git://github.com/japaric/trusttemplat
+2	#DEP#continuintegr
+3	#DEP#window
+4	#DEP#linux
+5	#DEP#maco
+6	#DEP#bsd
+7	#DEP#rust

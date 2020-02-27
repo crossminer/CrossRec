@@ -1,0 +1,8 @@
+1	git://github.com/chalk/chalkcli.git
+2	#DEP#consol
+3	#DEP#commandlin
+4	#DEP#terminemul
+5	#DEP#javascript
+6	#DEP#color
+7	#DEP#ansi
+8	#DEP#termin

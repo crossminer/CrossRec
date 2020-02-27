@@ -1,0 +1,10 @@
+1	git://github.com/borysn/spring-boot-angular2typescript.git
+2	#DEP#springboot
+3	#DEP#java
+4	#DEP#bootstrap
+5	#DEP#gradl
+6	#DEP#spring
+7	#DEP#angular
+8	#DEP#karma
+9	#DEP#jasmin
+10	#DEP#sas

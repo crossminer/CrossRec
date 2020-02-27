@@ -1,0 +1,7 @@
+9	#DEP#rdbm
+10	#DEP#dashboard
+11	#DEP#mysql
+12	#DEP#report
+13	#DEP#neo4j
+14	#DEP#hive
+15	#DEP#postgresql

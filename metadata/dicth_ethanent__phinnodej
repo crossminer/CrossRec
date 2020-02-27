@@ -1,0 +1,7 @@
+1	git://github.com/ethanent/phinnodej.git
+2	#DEP#node
+3	#DEP#request
+4	#DEP#http
+5	#DEP#npm
+6	#DEP#javascript
+7	#DEP#httpclient

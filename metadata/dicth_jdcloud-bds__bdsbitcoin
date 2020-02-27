@@ -1,0 +1,7 @@
+1	git://github.com/jdcloud-bds/bdsbitcoin.git
+2	#DEP#sqlserver
+3	#DEP#kafka
+4	#DEP#litecoin
+5	#DEP#golang
+6	#DEP#ethereum
+7	#DEP#bitcoincash

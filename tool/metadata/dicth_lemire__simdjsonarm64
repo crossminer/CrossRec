@@ -1,0 +1,7 @@
+1	git://github.com/lemire/simdjsonarm64
+2	#DEP#aarch64
+3	#DEP#neon
+4	#DEP#json
+5	#DEP#simd
+6	#DEP#arm
+7	#DEP#jsonpars

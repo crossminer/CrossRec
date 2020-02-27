@@ -1,0 +1,9 @@
+1	git://github.com/etcd-io/etcddistributdataba.git
+2	#DEP#databas
+3	#DEP#consensu
+4	#DEP#etcd
+5	#DEP#distributsystem
+6	#DEP#go
+7	#DEP#raft
+8	#DEP#kubernet
+9	#DEP#keyvalu

@@ -1,0 +1,9 @@
+1	git://github.com/mploed/event-driven-spring-bootspringdatajpa
+2	#DEP#eventdriven
+3	#DEP#springboot
+4	#DEP#restapi
+5	#DEP#feed
+6	#DEP#spring
+7	#DEP#eventsourc
+8	#DEP#atom
+9	#DEP#event

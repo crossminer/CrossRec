@@ -1,0 +1,7 @@
+1	git://github.com/spiral/roadrunnerphp.git
+2	#DEP#golang
+3	#DEP#http2
+4	#DEP#rpc
+5	#DEP#php7
+6	#DEP#loadbalanc
+7	#DEP#http

@@ -1,0 +1,7 @@
+1	git://github.com/qcubed/qcubedpostgresql
+2	#DEP#sql
+3	#DEP#jqueri
+4	#DEP#framework
+5	#DEP#ajax
+6	#DEP#mysql
+7	#DEP#php

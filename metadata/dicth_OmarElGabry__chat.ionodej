@@ -1,0 +1,8 @@
+1	git://github.com/OmarElGabry/chat.ionodej.git
+2	#DEP#socket
+3	#DEP#realtim
+4	#DEP#passport
+5	#DEP#mongoos
+6	#DEP#chat
+7	#DEP#express
+8	#DEP#redi

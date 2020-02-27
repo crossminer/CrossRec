@@ -1,0 +1,10 @@
+1	git://github.com/microsoft/botframeworktypescript.git
+2	#DEP#javascript
+3	#DEP#bot
+4	#DEP#botframework
+5	#DEP#emul
+6	#DEP#languag
+7	#DEP#dotnetcor
+8	#DEP#speech
+9	#DEP#sdk
+10	#DEP#dotnet

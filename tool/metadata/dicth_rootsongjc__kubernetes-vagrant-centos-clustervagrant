@@ -1,0 +1,9 @@
+1	git://github.com/rootsongjc/kubernetes-vagrant-centos-clustervagrant
+2	#DEP#cloudnativ
+3	#DEP#istio
+4	#DEP#vagrantfil
+5	#DEP#helm
+6	#DEP#kubernet
+7	#DEP#docker
+8	#DEP#kubernetclust
+9	#DEP#virtualbox

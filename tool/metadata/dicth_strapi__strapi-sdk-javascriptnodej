@@ -1,0 +1,12 @@
+1	git://github.com/strapi/strapi-sdk-javascriptnodej
+2	#DEP#restapi
+3	#DEP#es6
+4	#DEP#cm
+5	#DEP#javascript
+6	#DEP#koa
+7	#DEP#api
+8	#DEP#headlesscm
+9	#DEP#dashboard
+10	#DEP#sdk
+11	#DEP#graphql
+12	#DEP#koa2

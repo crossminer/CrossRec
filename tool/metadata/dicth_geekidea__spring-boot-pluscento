@@ -1,0 +1,13 @@
+1	git://github.com/geekidea/spring-boot-pluscento
+2	#DEP#mybati
+3	#DEP#springboot
+4	#DEP#gener
+5	#DEP#jwt
+6	#DEP#kafka
+7	#DEP#druid
+8	#DEP#rabbitmq
+9	#DEP#swagger
+10	#DEP#architectur
+11	#DEP#springbootadmin
+12	#DEP#redi
+13	#DEP#shiro

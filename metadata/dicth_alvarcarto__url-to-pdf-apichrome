@@ -1,0 +1,8 @@
+1	git://github.com/alvarcarto/url-to-pdf-apichrome.git
+2	#DEP#headless
+3	#DEP#html
+4	#DEP#heroku
+5	#DEP#puppet
+6	#DEP#headlesschrom
+7	#DEP#invoic
+8	#DEP#pdf

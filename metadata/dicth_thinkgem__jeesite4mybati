@@ -1,0 +1,7 @@
+1	git://github.com/thinkgem/jeesite4mybati.git
+2	#DEP#springboot
+3	#DEP#java
+4	#DEP#springmvc
+5	#DEP#jqueri
+6	#DEP#shiro
+7	#DEP#bootstrap3

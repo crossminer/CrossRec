@@ -1,0 +1,12 @@
+1	git://github.com/async-labs/saastypescript
+2	#DEP#react
+3	#DEP#express
+4	#DEP#mongodb
+5	#DEP#nextj
+6	#DEP#materiui
+7	#DEP#mobx
+8	#DEP#mongoos
+9	#DEP#passport
+10	#DEP#googlapi
+11	#DEP#aws3
+12	#DEP#boilerpl

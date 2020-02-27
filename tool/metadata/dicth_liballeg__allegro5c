@@ -1,0 +1,9 @@
+1	git://github.com/liballeg/allegro5c
+2	#DEP#osx
+3	#DEP#opengl
+4	#DEP#gamedevelop
+5	#DEP#window
+6	#DEP#android
+7	#DEP#video
+8	#DEP#audio
+9	#DEP#unix

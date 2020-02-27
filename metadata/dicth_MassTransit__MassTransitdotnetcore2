@@ -1,0 +1,7 @@
+1	git://github.com/MassTransit/MassTransitdotnetcore2.git
+2	#DEP#appveyor
+3	#DEP#rabbitmq
+4	#DEP#nuget
+5	#DEP#csharp
+6	#DEP#dotnet
+7	#DEP#messag

@@ -1,0 +1,7 @@
+1	git://github.com/muatik/flask-profilerflask.git
+2	#DEP#python
+3	#DEP#monitor
+4	#DEP#admin
+5	#DEP#profil
+6	#DEP#dashboard
+7	#DEP#analyt

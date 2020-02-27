@@ -1,0 +1,8 @@
+1	git://github.com/booktype/Booktypeebook.git
+2	#DEP#python
+3	#DEP#javascript
+4	#DEP#django
+5	#DEP#rest
+6	#DEP#book
+7	#DEP#pdf
+8	#DEP#epub

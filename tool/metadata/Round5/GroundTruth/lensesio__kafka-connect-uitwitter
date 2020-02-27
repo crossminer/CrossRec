@@ -1,0 +1,4 @@
+5	#DEP#mqtt
+6	#DEP#s3
+7	#DEP#redi
+8	#DEP#cassandra

@@ -1,0 +1,11 @@
+1	git://github.com/egoist/poipreact.git
+2	#DEP#vue
+3	#DEP#bundl
+4	#DEP#babel
+5	#DEP#typescript
+6	#DEP#svelt
+7	#DEP#vuej
+8	#DEP#react
+9	#DEP#buildtool
+10	#DEP#postcss
+11	#DEP#webpack

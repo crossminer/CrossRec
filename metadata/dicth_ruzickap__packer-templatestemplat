@@ -1,0 +1,9 @@
+1	git://github.com/ruzickap/packer-templatestemplat.git
+2	#DEP#vagrant
+3	#DEP#packer
+4	#DEP#driver
+5	#DEP#window
+6	#DEP#linux
+7	#DEP#ansibl
+8	#DEP#qemu
+9	#DEP#virtualbox

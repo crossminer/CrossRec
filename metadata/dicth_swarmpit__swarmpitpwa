@@ -1,0 +1,9 @@
+1	git://github.com/swarmpit/swarmpitpwa.git
+2	#DEP#dockercontain
+3	#DEP#stack
+4	#DEP#swarm
+5	#DEP#dockerswarm
+6	#DEP#ui
+7	#DEP#dockercompo
+8	#DEP#docker
+9	#DEP#manag

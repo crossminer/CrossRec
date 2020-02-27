@@ -1,0 +1,12 @@
+1	git://github.com/c8r/kitcli.git
+2	#DEP#librari
+3	#DEP#develop
+4	#DEP#styleguid
+5	#DEP#designsystem
+6	#DEP#compon
+7	#DEP#react
+8	#DEP#ui
+9	#DEP#test
+10	#DEP#document
+11	#DEP#jsx
+12	#DEP#mdx

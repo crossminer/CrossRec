@@ -1,0 +1,11 @@
+1	git://github.com/eon01/kubernetes-workshopminikub.git
+2	#DEP#devoptool
+3	#DEP#dockerimag
+4	#DEP#python
+5	#DEP#devop
+6	#DEP#apigateway
+7	#DEP#servicmesh
+8	#DEP#kubernet
+9	#DEP#docker
+10	#DEP#kubernetclust
+11	#DEP#kubernetdeploy

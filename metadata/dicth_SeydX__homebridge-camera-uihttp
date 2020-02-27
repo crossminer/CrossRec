@@ -1,0 +1,9 @@
+1	git://github.com/SeydX/homebridge-camera-uihttp.git
+2	#DEP#ftp
+3	#DEP#stream
+4	#DEP#homebridg
+5	#DEP#gui
+6	#DEP#motion
+7	#DEP#camera
+8	#DEP#mqtt
+9	#DEP#homebridgplugin

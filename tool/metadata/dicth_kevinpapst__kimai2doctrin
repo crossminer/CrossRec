@@ -1,0 +1,9 @@
+1	git://github.com/kevinpapst/kimai2doctrin
+2	#DEP#symfoniappl
+3	#DEP#php7
+4	#DEP#usermanag
+5	#DEP#twig
+6	#DEP#invoic
+7	#DEP#php
+8	#DEP#adminlt
+9	#DEP#symfoni

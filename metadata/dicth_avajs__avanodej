@@ -1,0 +1,16 @@
+1	git://github.com/avajs/avanodej.git
+2	#DEP#node
+3	#DEP#cli
+4	#DEP#perform
+5	#DEP#tdd
+6	#DEP#cliapp
+7	#DEP#javascript
+8	#DEP#unittest
+9	#DEP#babel
+10	#DEP#testframework
+11	#DEP#assert
+12	#DEP#async
+13	#DEP#es2015
+14	#DEP#unicorn
+15	#DEP#test
+16	#DEP#concurr

@@ -1,0 +1,12 @@
+1	git://github.com/didi/deltaserv
+2	#DEP#seq2seq
+3	#DEP#nlu
+4	#DEP#nlp
+5	#DEP#deeplearn
+6	#DEP#speechrecognit
+7	#DEP#speech
+8	#DEP#op
+9	#DEP#tensorflow
+10	#DEP#textclassif
+11	#DEP#infer
+12	#DEP#frontend

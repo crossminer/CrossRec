@@ -1,0 +1,9 @@
+1	git://github.com/microsoft/MMdnnmxnet
+2	#DEP#onnx
+3	#DEP#coreml
+4	#DEP#cntk
+5	#DEP#visual
+6	#DEP#tensorflow
+7	#DEP#caff
+8	#DEP#pytorch
+9	#DEP#kera

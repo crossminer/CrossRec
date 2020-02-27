@@ -1,0 +1,11 @@
+1	git://github.com/cyrus-and/gdb-dashboardansi
+2	#DEP#consol
+3	#DEP#python
+4	#DEP#tti
+5	#DEP#assembl
+6	#DEP#visual
+7	#DEP#dashboard
+8	#DEP#debugg
+9	#DEP#termin
+10	#DEP#syntaxhighlight
+11	#DEP#interfac

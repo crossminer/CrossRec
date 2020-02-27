@@ -1,0 +1,7 @@
+1	git://github.com/diku-dk/futharkcompil
+2	#DEP#opencl
+3	#DEP#gpgpu
+4	#DEP#languag
+5	#DEP#cuda
+6	#DEP#gpu
+7	#DEP#hpc

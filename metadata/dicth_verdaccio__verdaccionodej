@@ -1,0 +1,8 @@
+1	git://github.com/verdaccio/verdaccionodej.git
+2	#DEP#dockerimag
+3	#DEP#registri
+4	#DEP#npmj
+5	#DEP#npm
+6	#DEP#yarn
+7	#DEP#node
+8	#DEP#docker

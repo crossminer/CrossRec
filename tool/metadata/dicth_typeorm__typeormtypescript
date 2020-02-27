@@ -1,0 +1,13 @@
+1	git://github.com/typeorm/typeormtypescript
+2	#DEP#sqlite
+3	#DEP#postgresql
+4	#DEP#databas
+5	#DEP#javascript
+6	#DEP#mariadb
+7	#DEP#sqlserver
+8	#DEP#typeorm
+9	#DEP#electron
+10	#DEP#mysql
+11	#DEP#orm
+12	#DEP#oracl
+13	#DEP#reactnativ

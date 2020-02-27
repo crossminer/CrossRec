@@ -1,0 +1,7 @@
+1	git://github.com/gabrielfalcao/HTTPrettytesttool
+2	#DEP#http
+3	#DEP#tdd
+4	#DEP#python
+5	#DEP#python2
+6	#DEP#test
+7	#DEP#mock

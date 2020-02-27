@@ -1,0 +1,7 @@
+1	git://github.com/ngx-formly/ngx-formlyform.git
+2	#DEP#bootstrap
+3	#DEP#materi
+4	#DEP#angular
+5	#DEP#jsonschema
+6	#DEP#ionic
+7	#DEP#nativescript

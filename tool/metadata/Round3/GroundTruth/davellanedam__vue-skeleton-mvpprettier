@@ -1,0 +1,7 @@
+9	#DEP#eslint
+10	#DEP#test
+11	#DEP#i18n
+12	#DEP#async
+13	#DEP#vuex
+14	#DEP#chai
+15	#DEP#vuetifi

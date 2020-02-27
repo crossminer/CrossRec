@@ -1,0 +1,10 @@
+1	git://github.com/ModusCreateOrg/budgetingwebpack2.git
+2	#DEP#babel
+3	#DEP#servicwork
+4	#DEP#react
+5	#DEP#eslint
+6	#DEP#reactrout
+7	#DEP#redux
+8	#DEP#prettier
+9	#DEP#webpack
+10	#DEP#sas

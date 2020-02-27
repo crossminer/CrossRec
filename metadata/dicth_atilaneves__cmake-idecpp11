@@ -1,0 +1,9 @@
+1	git://github.com/atilaneves/cmake-idecpp11.git
+2	#DEP#cmake
+3	#DEP#ide
+4	#DEP#emaclisp
+5	#DEP#clang
+6	#DEP#cpp17
+7	#DEP#emac
+8	#DEP#autocomplet
+9	#DEP#cpp

@@ -1,0 +1,7 @@
+1	git://github.com/typicode/lowdbnodej.git
+2	#DEP#lodash
+3	#DEP#databas
+4	#DEP#javascript
+5	#DEP#electron
+6	#DEP#json
+7	#DEP#localstorag

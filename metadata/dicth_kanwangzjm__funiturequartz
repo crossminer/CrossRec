@@ -1,0 +1,8 @@
+1	git://github.com/kanwangzjm/funiturequartz.git
+2	#DEP#mybati
+3	#DEP#schedul
+4	#DEP#spring
+5	#DEP#springmvc
+6	#DEP#jqueri
+7	#DEP#json
+8	#DEP#httpclient

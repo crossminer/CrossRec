@@ -1,0 +1,9 @@
+1	git://github.com/pachyderm/pachydermbigdata
+2	#DEP#dataanalysi
+3	#DEP#distributsystem
+4	#DEP#kubernet
+5	#DEP#contain
+6	#DEP#go
+7	#DEP#analyt
+8	#DEP#docker
+9	#DEP#datascienc

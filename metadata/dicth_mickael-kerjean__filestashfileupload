@@ -1,0 +1,11 @@
+1	git://github.com/mickael-kerjean/filestashfileupload.git
+2	#DEP#googldriv
+3	#DEP#fileshar
+4	#DEP#s3
+5	#DEP#sftp
+6	#DEP#orgmod
+7	#DEP#emac
+8	#DEP#ftp
+9	#DEP#dropbox
+10	#DEP#webapp
+11	#DEP#filemanag

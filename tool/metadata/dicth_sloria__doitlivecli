@@ -1,0 +1,8 @@
+1	git://github.com/sloria/doitlivecli
+2	#DEP#script
+3	#DEP#commandlin
+4	#DEP#python
+5	#DEP#present
+6	#DEP#ipython
+7	#DEP#zsh
+8	#DEP#bash

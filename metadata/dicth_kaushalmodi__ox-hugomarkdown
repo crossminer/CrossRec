@@ -1,0 +1,8 @@
+1	git://github.com/kaushalmodi/ox-hugomarkdown.git
+2	#DEP#blog
+3	#DEP#staticsitegen
+4	#DEP#convert
+5	#DEP#orgmod
+6	#DEP#emac
+7	#DEP#export
+8	#DEP#emaclisp

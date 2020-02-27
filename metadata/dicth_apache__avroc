@@ -1,0 +1,9 @@
+1	git://github.com/apache/avroc.git
+2	#DEP#bigdata
+3	#DEP#java
+4	#DEP#python
+5	#DEP#rubi
+6	#DEP#librari
+7	#DEP#csharp
+8	#DEP#cplusplu
+9	#DEP#php

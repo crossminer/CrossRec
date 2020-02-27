@@ -1,0 +1,7 @@
+1	git://github.com/envygeeks/jekyll-dockershell
+2	#DEP#dockerimag
+3	#DEP#builder
+4	#DEP#rubi
+5	#DEP#jekyl
+6	#DEP#linux
+7	#DEP#docker

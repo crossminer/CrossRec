@@ -1,0 +1,8 @@
+1	git://github.com/jupyter/enterprise_gatewaykernel
+2	#DEP#enterpris
+3	#DEP#jupytnotebook
+4	#DEP#jupyt
+5	#DEP#yarn
+6	#DEP#gateway
+7	#DEP#kubernet
+8	#DEP#spark

@@ -1,0 +1,9 @@
+1	git://github.com/SpectoLabs/hoverflytesttool.git
+2	#DEP#http
+3	#DEP#proxi
+4	#DEP#stub
+5	#DEP#golang
+6	#DEP#mitm
+7	#DEP#go
+8	#DEP#test
+9	#DEP#mock

@@ -1,0 +1,8 @@
+1	git://github.com/colbycheeze/dotfilesshell.git
+2	#DEP#node
+3	#DEP#dotfil
+4	#DEP#vim
+5	#DEP#rubi
+6	#DEP#atom
+7	#DEP#homebrew
+8	#DEP#snippet

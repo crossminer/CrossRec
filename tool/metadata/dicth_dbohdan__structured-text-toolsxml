@@ -1,0 +1,9 @@
+1	git://github.com/dbohdan/structured-text-toolsxml
+2	#DEP#csv
+3	#DEP#json
+4	#DEP#list
+5	#DEP#yaml
+6	#DEP#html
+7	#DEP#cli
+8	#DEP#convers
+9	#DEP#tsv

@@ -1,0 +1,7 @@
+1	git://github.com/rak8s/rak8sraspberripi.git
+2	#DEP#kubectl
+3	#DEP#ansiblplaybook
+4	#DEP#kubernet
+5	#DEP#ansibl
+6	#DEP#kubernetclust
+7	#DEP#raspberripi3

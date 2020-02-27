@@ -1,0 +1,10 @@
+1	git://github.com/hishamhm/htopc
+2	#DEP#consol
+3	#DEP#openbsd
+4	#DEP#system
+5	#DEP#tui
+6	#DEP#freebsd
+7	#DEP#termin
+8	#DEP#linux
+9	#DEP#consolappl
+10	#DEP#maco

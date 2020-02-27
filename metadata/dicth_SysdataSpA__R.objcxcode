@@ -1,0 +1,7 @@
+1	git://github.com/SysdataSpA/R.objcxcode.git
+2	#DEP#objectc
+3	#DEP#tvo
+4	#DEP#local
+5	#DEP#io
+6	#DEP#codegen
+7	#DEP#autocomplet

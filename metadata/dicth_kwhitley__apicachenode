@@ -1,0 +1,12 @@
+1	git://github.com/kwhitley/apicachenode.git
+2	#DEP#express
+3	#DEP#memori
+4	#DEP#javascript
+5	#DEP#rest
+6	#DEP#fast
+7	#DEP#json
+8	#DEP#api
+9	#DEP#respons
+10	#DEP#redi
+11	#DEP#cach
+12	#DEP#middlewar

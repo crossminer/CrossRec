@@ -1,0 +1,5 @@
+6	#DEP#nginx
+7	#DEP#api
+8	#DEP#i18n
+9	#DEP#go
+10	#DEP#local

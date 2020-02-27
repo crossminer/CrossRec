@@ -1,0 +1,7 @@
+1	git://github.com/jspicl/jspicl-clitranspil
+2	#DEP#cli
+3	#DEP#gamedevelop
+4	#DEP#javascript
+5	#DEP#rollup
+6	#DEP#buildtool
+7	#DEP#pico8

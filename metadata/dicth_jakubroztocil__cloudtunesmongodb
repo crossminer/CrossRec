@@ -1,0 +1,12 @@
+1	git://github.com/jakubroztocil/cloudtunesmongodb.git
+2	#DEP#web
+3	#DEP#websocket
+4	#DEP#python
+5	#DEP#coffeescript
+6	#DEP#dropbox
+7	#DEP#music
+8	#DEP#webapp
+9	#DEP#musicplay
+10	#DEP#redi
+11	#DEP#youtub
+12	#DEP#spa

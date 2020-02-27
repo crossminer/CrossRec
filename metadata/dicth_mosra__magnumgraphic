@@ -1,0 +1,17 @@
+1	git://github.com/mosra/magnumgraphic.git
+2	#DEP#emscripten
+3	#DEP#opengl
+4	#DEP#cmake
+5	#DEP#webgl
+6	#DEP#cpluplu
+7	#DEP#glfw
+8	#DEP#cpluplu11
+9	#DEP#game
+10	#DEP#sdl
+11	#DEP#android
+12	#DEP#io
+13	#DEP#webassembl
+14	#DEP#gamedev
+15	#DEP#vulkan
+16	#DEP#3d
+17	#DEP#gameengin

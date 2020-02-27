@@ -1,0 +1,8 @@
+1	git://github.com/sharkdp/fdcli
+2	#DEP#regex
+3	#DEP#commandlin
+4	#DEP#tool
+5	#DEP#search
+6	#DEP#filesystem
+7	#DEP#termin
+8	#DEP#rust

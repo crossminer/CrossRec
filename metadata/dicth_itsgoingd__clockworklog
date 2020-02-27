@@ -1,0 +1,8 @@
+1	git://github.com/itsgoingd/clockworklog.git
+2	#DEP#devtool
+3	#DEP#chrome
+4	#DEP#firefox
+5	#DEP#laravel
+6	#DEP#profil
+7	#DEP#debug
+8	#DEP#php

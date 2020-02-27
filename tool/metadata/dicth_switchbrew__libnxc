@@ -1,0 +1,9 @@
+1	git://github.com/switchbrew/libnxc
+2	#DEP#arm64
+3	#DEP#aarch64
+4	#DEP#develop
+5	#DEP#nx
+6	#DEP#switch
+7	#DEP#nintendo
+8	#DEP#homebrew
+9	#DEP#libnx

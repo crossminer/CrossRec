@@ -1,0 +1,9 @@
+1	git://github.com/FarGroup/FarManagershell
+2	#DEP#plugin
+3	#DEP#commandlin
+4	#DEP#color
+5	#DEP#window
+6	#DEP#editor
+7	#DEP#lua
+8	#DEP#filemanag
+9	#DEP#cpp

@@ -1,0 +1,8 @@
+1	git://github.com/exyte/Macawanim
+2	#DEP#draw
+3	#DEP#transit
+4	#DEP#graphic
+5	#DEP#svg
+6	#DEP#ui
+7	#DEP#io
+8	#DEP#swift

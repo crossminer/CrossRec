@@ -1,0 +1,9 @@
+1	git://github.com/kee-org/browser-addonkeepass.git
+2	#DEP#webextens
+3	#DEP#firefox
+4	#DEP#firefoxexten
+5	#DEP#chrome
+6	#DEP#chromeexten
+7	#DEP#edgexten
+8	#DEP#passwordmanag
+9	#DEP#firefoxaddon

@@ -1,0 +1,8 @@
+1	git://github.com/liangfengbo/nodejs-koa-blognodej.git
+2	#DEP#sequel
+3	#DEP#jwt
+4	#DEP#vuej
+5	#DEP#mysql
+6	#DEP#koa2
+7	#DEP#koa
+8	#DEP#vuex

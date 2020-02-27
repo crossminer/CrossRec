@@ -1,0 +1,8 @@
+1	git://github.com/fnproject/fnserverless
+2	#DEP#serverlessfunct
+3	#DEP#swarm
+4	#DEP#contain
+5	#DEP#kubernet
+6	#DEP#docker
+7	#DEP#faa
+8	#DEP#lambda

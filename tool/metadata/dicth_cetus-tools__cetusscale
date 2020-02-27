@@ -1,0 +1,7 @@
+1	git://github.com/cetus-tools/cetusscale
+2	#DEP#databas
+3	#DEP#distribut
+4	#DEP#perform
+5	#DEP#shard
+6	#DEP#middlewar
+7	#DEP#mysql

@@ -1,0 +1,6 @@
+7	#DEP#ssh
+8	#DEP#vagrant
+9	#DEP#mysql
+10	#DEP#go
+11	#DEP#zsh
+12	#DEP#bash

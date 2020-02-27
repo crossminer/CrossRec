@@ -1,0 +1,12 @@
+1	git://github.com/ruslo/hunterpackagmanag.git
+2	#DEP#osx
+3	#DEP#c
+4	#DEP#raspberripi
+5	#DEP#cpluplu
+6	#DEP#cmake
+7	#DEP#window
+8	#DEP#linux
+9	#DEP#android
+10	#DEP#io
+11	#DEP#cplusplu
+12	#DEP#cpp

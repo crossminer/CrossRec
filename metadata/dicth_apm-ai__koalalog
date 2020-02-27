@@ -1,0 +1,7 @@
+1	git://github.com/apm-ai/koalalog.git
+2	#DEP#trace
+3	#DEP#ai
+4	#DEP#monitor
+5	#DEP#metric
+6	#DEP#apm
+7	#DEP#distributtrac

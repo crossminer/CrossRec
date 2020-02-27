@@ -1,0 +1,7 @@
+1	git://github.com/jiacai2050/gooreplacerfirefox
+2	#DEP#chrome
+3	#DEP#javascript
+4	#DEP#clojurescript
+5	#DEP#chromeexten
+6	#DEP#firefoxaddon
+7	#DEP#antd

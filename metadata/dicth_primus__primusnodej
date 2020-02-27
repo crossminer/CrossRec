@@ -1,0 +1,7 @@
+1	git://github.com/primus/primusnodej.git
+2	#DEP#node
+3	#DEP#http
+4	#DEP#realtim
+5	#DEP#websocket
+6	#DEP#javascript
+7	#DEP#framework

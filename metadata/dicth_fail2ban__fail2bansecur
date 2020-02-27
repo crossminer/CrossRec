@@ -1,0 +1,8 @@
+1	git://github.com/fail2ban/fail2bansecur.git
+2	#DEP#securtool
+3	#DEP#hid
+4	#DEP#linux
+5	#DEP#python
+6	#DEP#maco
+7	#DEP#monitor
+8	#DEP#bsd

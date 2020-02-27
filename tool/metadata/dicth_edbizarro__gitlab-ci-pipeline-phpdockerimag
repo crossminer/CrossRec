@@ -1,0 +1,9 @@
+1	git://github.com/edbizarro/gitlab-ci-pipeline-phpdockerimag
+2	#DEP#ci
+3	#DEP#continuintegr
+4	#DEP#gitlab
+5	#DEP#gitlabci
+6	#DEP#cd
+7	#DEP#continudeliveri
+8	#DEP#docker
+9	#DEP#php

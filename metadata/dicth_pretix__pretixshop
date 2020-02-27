@@ -1,0 +1,8 @@
+1	git://github.com/pretix/pretixshop.git
+2	#DEP#web
+3	#DEP#python
+4	#DEP#javascript
+5	#DEP#django
+6	#DEP#html
+7	#DEP#ticket
+8	#DEP#event

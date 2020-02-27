@@ -1,0 +1,9 @@
+1	git://github.com/yinqiwen/ardbredi.git
+2	#DEP#nosql
+3	#DEP#databas
+4	#DEP#cpluplu
+5	#DEP#server
+6	#DEP#nosqldataba
+7	#DEP#lua
+8	#DEP#persist
+9	#DEP#keyvalu

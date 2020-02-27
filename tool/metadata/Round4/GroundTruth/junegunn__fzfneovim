@@ -1,0 +1,4 @@
+5	#DEP#unix
+6	#DEP#go
+7	#DEP#zsh
+8	#DEP#bash

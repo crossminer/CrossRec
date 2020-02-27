@@ -1,3 +1,0 @@
-5	#DEP#ch.qos.logback:logback-classic
-6	#DEP#org.hamcrest:hamcrest-all
-7	#DEP#junit:junit

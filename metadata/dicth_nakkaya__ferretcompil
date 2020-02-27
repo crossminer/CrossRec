@@ -1,0 +1,7 @@
+1	git://github.com/nakkaya/ferretcompil.git
+2	#DEP#arduino
+3	#DEP#lisp
+4	#DEP#baremet
+5	#DEP#clojur
+6	#DEP#microcontrol
+7	#DEP#arm

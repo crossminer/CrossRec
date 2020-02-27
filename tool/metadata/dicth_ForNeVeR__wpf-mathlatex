@@ -1,0 +1,7 @@
+1	git://github.com/ForNeVeR/wpf-mathlatex
+2	#DEP#render
+3	#DEP#svg
+4	#DEP#tex
+5	#DEP#dotnet
+6	#DEP#wpf
+7	#DEP#math

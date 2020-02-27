@@ -1,0 +1,9 @@
+1	git://github.com/solo-io/glooapimanag
+2	#DEP#cloudnativ
+3	#DEP#apigateway
+4	#DEP#grpc
+5	#DEP#serverless
+6	#DEP#kubernet
+7	#DEP#envoy
+8	#DEP#microservic
+9	#DEP#hybridapp

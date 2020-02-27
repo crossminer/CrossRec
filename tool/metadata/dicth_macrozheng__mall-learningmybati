@@ -1,0 +1,9 @@
+1	git://github.com/macrozheng/mall-learningmybati
+2	#DEP#springboot
+3	#DEP#mongodb
+4	#DEP#docker
+5	#DEP#springcloud
+6	#DEP#rabbitmq
+7	#DEP#mysql
+8	#DEP#elasticsearch
+9	#DEP#redi

@@ -1,0 +1,8 @@
+1	git://github.com/ansible-community/arapython.git
+2	#DEP#gui
+3	#DEP#django
+4	#DEP#api
+5	#DEP#djangorestframework
+6	#DEP#report
+7	#DEP#ansibl
+8	#DEP#interfac

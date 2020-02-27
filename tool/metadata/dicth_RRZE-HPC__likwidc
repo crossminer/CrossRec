@@ -1,0 +1,10 @@
+1	git://github.com/RRZE-HPC/likwidc
+2	#DEP#x86
+3	#DEP#benchmark
+4	#DEP#thread
+5	#DEP#instrument
+6	#DEP#profil
+7	#DEP#linux
+8	#DEP#lua
+9	#DEP#assembl
+10	#DEP#performanalysi

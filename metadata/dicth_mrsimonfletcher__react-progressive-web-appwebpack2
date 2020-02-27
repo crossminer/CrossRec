@@ -1,0 +1,9 @@
+1	git://github.com/mrsimonfletcher/react-progressive-web-appwebpack2.git
+2	#DEP#chai
+3	#DEP#mocha
+4	#DEP#flow
+5	#DEP#pwa
+6	#DEP#reactj
+7	#DEP#react
+8	#DEP#progresswebapp
+9	#DEP#webpack

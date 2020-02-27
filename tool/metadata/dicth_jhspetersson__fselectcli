@@ -1,0 +1,8 @@
+1	git://github.com/jhspetersson/fselectcli
+2	#DEP#queri
+3	#DEP#tool
+4	#DEP#sql
+5	#DEP#util
+6	#DEP#filesystem
+7	#DEP#file
+8	#DEP#rust

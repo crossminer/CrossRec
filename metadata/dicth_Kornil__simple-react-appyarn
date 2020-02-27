@@ -1,0 +1,9 @@
+1	git://github.com/Kornil/simple-react-appyarn.git
+2	#DEP#react
+3	#DEP#hotreload
+4	#DEP#reactrouterv4
+5	#DEP#jest
+6	#DEP#eslint
+7	#DEP#enzym
+8	#DEP#boilerpl
+9	#DEP#sas

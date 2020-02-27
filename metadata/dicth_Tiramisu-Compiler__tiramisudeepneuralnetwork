@@ -1,0 +1,8 @@
+1	git://github.com/Tiramisu-Compiler/tiramisudeepneuralnetwork.git
+2	#DEP#tensor
+3	#DEP#compil
+4	#DEP#optim
+5	#DEP#machinlearn
+6	#DEP#librari
+7	#DEP#linearalgebra
+8	#DEP#codegen

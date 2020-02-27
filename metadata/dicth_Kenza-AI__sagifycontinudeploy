@@ -1,0 +1,14 @@
+1	git://github.com/Kenza-AI/sagifycontinudeploy.git
+2	#DEP#cli
+3	#DEP#continuintegr
+4	#DEP#python
+5	#DEP#deeplearn
+6	#DEP#cntk
+7	#DEP#machinlearn
+8	#DEP#aw
+9	#DEP#tensorflow
+10	#DEP#datascienc
+11	#DEP#gensim
+12	#DEP#scikitlearn
+13	#DEP#kera
+14	#DEP#pytorch

@@ -1,0 +1,8 @@
+1	git://github.com/fagongzi/gatewayapigateway.git
+2	#DEP#proxi
+3	#DEP#golang
+4	#DEP#gateway
+5	#DEP#api
+6	#DEP#etcd
+7	#DEP#go
+8	#DEP#microservic

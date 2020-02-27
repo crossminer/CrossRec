@@ -1,0 +1,9 @@
+1	git://github.com/easy-tensorflow/easy-tensorflowrecurrneuralnetwork.git
+2	#DEP#neuralnetwork
+3	#DEP#python
+4	#DEP#deeplearn
+5	#DEP#objectdetect
+6	#DEP#reinforclearn
+7	#DEP#machinlearn
+8	#DEP#tensorflow
+9	#DEP#convolutneuralnetwork

@@ -1,0 +1,7 @@
+1	git://github.com/izhangzhihao/intellij-rainbow-bracketsintellij.git
+2	#DEP#java
+3	#DEP#kotlin
+4	#DEP#intellijplugin
+5	#DEP#androidstudio
+6	#DEP#clojur
+7	#DEP#scala

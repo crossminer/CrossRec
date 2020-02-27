@@ -1,0 +1,8 @@
+1	git://github.com/reactide/reactidenodej
+2	#DEP#node
+3	#DEP#devtool
+4	#DEP#javascript
+5	#DEP#electron
+6	#DEP#react
+7	#DEP#redux
+8	#DEP#desktopapp

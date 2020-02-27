@@ -1,0 +1,9 @@
+1	git://github.com/GameFoundry/BansheeEnginegameengin.git
+2	#DEP#opengl
+3	#DEP#engin
+4	#DEP#cpluplu
+5	#DEP#graphic
+6	#DEP#directx
+7	#DEP#window
+8	#DEP#vulkan
+9	#DEP#gamedev

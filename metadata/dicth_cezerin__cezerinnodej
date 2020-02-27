@@ -1,0 +1,10 @@
+1	git://github.com/cezerin/cezerinnodej.git
+2	#DEP#mongodb
+3	#DEP#cm
+4	#DEP#javascript
+5	#DEP#pwa
+6	#DEP#ecommerc
+7	#DEP#react
+8	#DEP#redux
+9	#DEP#spa
+10	#DEP#shopcart

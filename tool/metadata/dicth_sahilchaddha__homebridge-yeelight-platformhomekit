@@ -1,0 +1,8 @@
+1	git://github.com/sahilchaddha/homebridge-yeelight-platformhomekit
+2	#DEP#homebridg
+3	#DEP#siri
+4	#DEP#color
+5	#DEP#xiaomi
+6	#DEP#flow
+7	#DEP#scene
+8	#DEP#homebridgplugin

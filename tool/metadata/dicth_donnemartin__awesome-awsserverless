@@ -1,0 +1,14 @@
+1	git://github.com/donnemartin/awesome-awsserverless
+2	#DEP#cloudform
+3	#DEP#redshift
+4	#DEP#iam
+5	#DEP#s3
+6	#DEP#elasticsearch
+7	#DEP#machinlearn
+8	#DEP#dynamodb
+9	#DEP#ec2
+10	#DEP#aw
+11	#DEP#ec
+12	#DEP#awcli
+13	#DEP#cloud
+14	#DEP#lambda

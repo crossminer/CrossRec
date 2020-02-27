@@ -1,0 +1,11 @@
+1	git://github.com/RaRe-Technologies/gensimnaturlanguagprocess.git
+2	#DEP#word2vec
+3	#DEP#nlp
+4	#DEP#neuralnetwork
+5	#DEP#gensim
+6	#DEP#wordemb
+7	#DEP#machinlearn
+8	#DEP#datamin
+9	#DEP#python
+10	#DEP#datascienc
+11	#DEP#fasttext

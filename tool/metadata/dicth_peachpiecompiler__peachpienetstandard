@@ -1,0 +1,7 @@
+1	git://github.com/peachpiecompiler/peachpienetstandard
+2	#DEP#dotnet
+3	#DEP#dotnetcor
+4	#DEP#opensourc
+5	#DEP#php
+6	#DEP#aspnetcor
+7	#DEP#microsoft

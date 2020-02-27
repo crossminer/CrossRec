@@ -1,0 +1,11 @@
+1	git://github.com/toniblyx/prowlerci
+2	#DEP#secur
+3	#DEP#complianc
+4	#DEP#securtool
+5	#DEP#securaudit
+6	#DEP#harden
+7	#DEP#securharden
+8	#DEP#aw
+9	#DEP#forens
+10	#DEP#awcli
+11	#DEP#cloud

@@ -1,0 +1,9 @@
+1	git://github.com/AtsushiSakai/PythonRoboticsanim.git
+2	#DEP#autonomvehicl
+3	#DEP#algorithm
+4	#DEP#map
+5	#DEP#python
+6	#DEP#robot
+7	#DEP#control
+8	#DEP#slam
+9	#DEP#local

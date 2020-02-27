@@ -1,0 +1,7 @@
+1	git://github.com/wazuh/wazuhsecur.git
+2	#DEP#complianc
+3	#DEP#monitor
+4	#DEP#pcid
+5	#DEP#securharden
+6	#DEP#elasticsearch
+7	#DEP#vulnerdetect

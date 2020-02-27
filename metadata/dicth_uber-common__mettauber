@@ -1,0 +1,11 @@
+1	git://github.com/uber-common/mettauber.git
+2	#DEP#vagrant
+3	#DEP#secur
+4	#DEP#celeri
+5	#DEP#python
+6	#DEP#network
+7	#DEP#simul
+8	#DEP#yaml
+9	#DEP#infosec
+10	#DEP#redi
+11	#DEP#virtualbox

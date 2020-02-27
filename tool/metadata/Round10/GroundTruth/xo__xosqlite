@@ -1,0 +1,4 @@
+5	#DEP#golang
+6	#DEP#mysql
+7	#DEP#orm
+8	#DEP#codegen

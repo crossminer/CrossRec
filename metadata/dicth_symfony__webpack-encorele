@@ -1,0 +1,7 @@
+1	git://github.com/symfony/webpack-encorele.git
+2	#DEP#react
+3	#DEP#babel
+4	#DEP#postcss
+5	#DEP#symfoni
+6	#DEP#webpack
+7	#DEP#sas

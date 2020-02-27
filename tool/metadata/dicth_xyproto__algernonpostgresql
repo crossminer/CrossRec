@@ -1,0 +1,7 @@
+1	git://github.com/xyproto/algernonpostgresql
+2	#DEP#go
+3	#DEP#mysql
+4	#DEP#lua
+5	#DEP#http2
+6	#DEP#redi
+7	#DEP#sse

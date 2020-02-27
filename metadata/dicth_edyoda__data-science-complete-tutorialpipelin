@@ -1,0 +1,7 @@
+1	git://github.com/edyoda/data-science-complete-tutorialpipelin.git
+2	#DEP#numpi
+3	#DEP#machinlearn
+4	#DEP#decistre
+5	#DEP#linearregress
+6	#DEP#scikitlearn
+7	#DEP#panda

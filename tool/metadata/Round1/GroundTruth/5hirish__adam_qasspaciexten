@@ -1,0 +1,4 @@
+5	#DEP#elasticsearch
+6	#DEP#gensim
+7	#DEP#scikitlearn
+8	#DEP#panda

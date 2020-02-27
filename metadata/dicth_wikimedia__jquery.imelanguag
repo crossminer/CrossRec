@@ -1,0 +1,7 @@
+1	git://github.com/wikimedia/jquery.imelanguag.git
+2	#DEP#intl
+3	#DEP#javascript
+4	#DEP#internation
+5	#DEP#jqueri
+6	#DEP#i18n
+7	#DEP#local

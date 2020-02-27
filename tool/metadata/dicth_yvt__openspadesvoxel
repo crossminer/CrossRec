@@ -1,0 +1,13 @@
+1	git://github.com/yvt/openspadesvoxel
+2	#DEP#sdl2
+3	#DEP#opengl
+4	#DEP#cpluplu
+5	#DEP#network
+6	#DEP#cmake
+7	#DEP#multiplatform
+8	#DEP#game
+9	#DEP#linux
+10	#DEP#window
+11	#DEP#maco
+12	#DEP#multiplay
+13	#DEP#onlin

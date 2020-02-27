@@ -1,0 +1,8 @@
+1	git://github.com/biezhi/java-biblejava.git
+2	#DEP#aop
+3	#DEP#designpattern
+4	#DEP#linux
+5	#DEP#orm
+6	#DEP#mvc
+7	#DEP#ioc
+8	#DEP#java8

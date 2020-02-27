@@ -1,0 +1,8 @@
+1	git://github.com/ultralytics/yolov3onnx
+2	#DEP#deeplearn
+3	#DEP#objectdetect
+4	#DEP#coreml
+5	#DEP#train
+6	#DEP#io
+7	#DEP#pytorch
+8	#DEP#infer

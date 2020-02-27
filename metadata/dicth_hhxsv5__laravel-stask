@@ -1,0 +1,13 @@
+1	git://github.com/hhxsv5/laravel-stask.git
+2	#DEP#http
+3	#DEP#websocket
+4	#DEP#tcp
+5	#DEP#swool
+6	#DEP#process
+7	#DEP#timer
+8	#DEP#server
+9	#DEP#laravel
+10	#DEP#perform
+11	#DEP#udp
+12	#DEP#async
+13	#DEP#lumen

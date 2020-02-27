@@ -1,0 +1,8 @@
+1	git://github.com/Ma63d/kov-blogvue.git
+2	#DEP#mongo
+3	#DEP#vuerout
+4	#DEP#webpack
+5	#DEP#koa
+6	#DEP#mongoos
+7	#DEP#highlight
+8	#DEP#vuex

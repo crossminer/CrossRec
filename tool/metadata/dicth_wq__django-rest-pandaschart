@@ -1,0 +1,9 @@
+1	git://github.com/wq/django-rest-pandaschart
+2	#DEP#restapi
+3	#DEP#spreadsheet
+4	#DEP#dataviz
+5	#DEP#django
+6	#DEP#excel
+7	#DEP#djangorestframework
+8	#DEP#csv
+9	#DEP#panda

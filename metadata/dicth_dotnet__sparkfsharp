@@ -1,0 +1,13 @@
+1	git://github.com/dotnet/sparkfsharp.git
+2	#DEP#bigdata
+3	#DEP#dotnetstandard
+4	#DEP#stream
+5	#DEP#apachspark
+6	#DEP#azur
+7	#DEP#machinlearn
+8	#DEP#dotnetcor
+9	#DEP#csharp
+10	#DEP#dotnet
+11	#DEP#spark
+12	#DEP#analyt
+13	#DEP#microsoft

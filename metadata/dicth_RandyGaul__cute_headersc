@@ -1,0 +1,11 @@
+1	git://github.com/RandyGaul/cute_headersc.git
+2	#DEP#opengl
+3	#DEP#network
+4	#DEP#compress
+5	#DEP#header
+6	#DEP#librari
+7	#DEP#game
+8	#DEP#audio
+9	#DEP#png
+10	#DEP#math
+11	#DEP#crossplatform

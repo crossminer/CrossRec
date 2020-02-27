@@ -1,0 +1,8 @@
+1	git://github.com/iridakos/duckrailsdevelop.git
+2	#DEP#product
+3	#DEP#api
+4	#DEP#developtool
+5	#DEP#webdev
+6	#DEP#docker
+7	#DEP#apiserv
+8	#DEP#mock

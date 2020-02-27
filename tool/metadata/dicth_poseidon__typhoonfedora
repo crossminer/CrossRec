@@ -1,0 +1,8 @@
+1	git://github.com/poseidon/typhoonfedora
+2	#DEP#baremet
+3	#DEP#digitalocean
+4	#DEP#azur
+5	#DEP#googlcloud
+6	#DEP#terraform
+7	#DEP#aw
+8	#DEP#kubernet

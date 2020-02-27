@@ -1,0 +1,11 @@
+1	git://github.com/geerlingguy/ansible-role-securitysetup
+2	#DEP#secur
+3	#DEP#debian
+4	#DEP#fedora
+5	#DEP#ssh
+6	#DEP#rhel
+7	#DEP#role
+8	#DEP#ubuntu
+9	#DEP#cento
+10	#DEP#linux
+11	#DEP#ansibl

@@ -1,0 +1,8 @@
+1	git://github.com/yixianle/google-translatenodej.git
+2	#DEP#googl
+3	#DEP#react
+4	#DEP#api
+5	#DEP#koa2
+6	#DEP#translat
+7	#DEP#page
+8	#DEP#webpack

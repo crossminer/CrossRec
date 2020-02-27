@@ -1,0 +1,8 @@
+1	git://github.com/windows-toolkit/WindowsCommunityToolkitxaml.git
+2	#DEP#uwp
+3	#DEP#winform
+4	#DEP#window
+5	#DEP#csharp
+6	#DEP#visualstudio
+7	#DEP#wpf
+8	#DEP#window10

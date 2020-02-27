@@ -1,0 +1,8 @@
+1	git://github.com/Molunerfinn/vue-koa-demovue.git
+2	#DEP#jest
+3	#DEP#koa
+4	#DEP#dockercompo
+5	#DEP#mysql
+6	#DEP#koa2
+7	#DEP#vue2
+8	#DEP#docker

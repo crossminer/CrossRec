@@ -1,0 +1,11 @@
+1	git://github.com/junneyang/xxprojectoauth2.git
+2	#DEP#zuul
+3	#DEP#zipkin
+4	#DEP#hystrix
+5	#DEP#eureka
+6	#DEP#ansibl
+7	#DEP#springcloud
+8	#DEP#dockercompo
+9	#DEP#docker
+10	#DEP#elk
+11	#DEP#config

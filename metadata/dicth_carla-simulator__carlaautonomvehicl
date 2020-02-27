@@ -1,0 +1,11 @@
+1	git://github.com/carla-simulator/carlaautonomvehicl.git
+2	#DEP#ai
+3	#DEP#deeplearn
+4	#DEP#simul
+5	#DEP#selfdrivecar
+6	#DEP#research
+7	#DEP#computvis
+8	#DEP#ro
+9	#DEP#artificiintellig
+10	#DEP#deepreinforclearn
+11	#DEP#crossplatform

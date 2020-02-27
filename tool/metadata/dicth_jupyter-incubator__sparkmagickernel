@@ -1,0 +1,8 @@
+1	git://github.com/jupyter-incubator/sparkmagickernel
+2	#DEP#sqlqueri
+3	#DEP#jupytnotebook
+4	#DEP#jupyt
+5	#DEP#pandadatafram
+6	#DEP#notebook
+7	#DEP#spark
+8	#DEP#cluster

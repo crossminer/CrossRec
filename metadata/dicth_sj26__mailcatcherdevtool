@@ -1,0 +1,8 @@
+1	git://github.com/sj26/mailcatcherdevtool.git
+2	#DEP#develop
+3	#DEP#rail
+4	#DEP#server
+5	#DEP#smtp
+6	#DEP#rubi
+7	#DEP#mail
+8	#DEP#rubygem

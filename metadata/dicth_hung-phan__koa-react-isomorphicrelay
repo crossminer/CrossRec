@@ -1,0 +1,8 @@
+1	git://github.com/hung-phan/koa-react-isomorphicrelay.git
+2	#DEP#ssr
+3	#DEP#webpack
+4	#DEP#react
+5	#DEP#redux
+6	#DEP#koa
+7	#DEP#immutablej
+8	#DEP#boilerpl

@@ -1,0 +1,10 @@
+1	git://github.com/jsnomad/koa-restful-boilerplatenodej
+2	#DEP#mongodb
+3	#DEP#mongoos
+4	#DEP#restapi
+5	#DEP#es6
+6	#DEP#babel
+7	#DEP#rest
+8	#DEP#koa2
+9	#DEP#asyncawait
+10	#DEP#boilerpl

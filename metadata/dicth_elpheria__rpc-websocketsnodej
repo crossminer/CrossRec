@@ -1,0 +1,15 @@
+1	git://github.com/elpheria/rpc-websocketsnodej.git
+2	#DEP#serverless
+3	#DEP#multiplay
+4	#DEP#gcp
+5	#DEP#scalabl
+6	#DEP#chat
+7	#DEP#iot
+8	#DEP#azur
+9	#DEP#messag
+10	#DEP#pushnotif
+11	#DEP#websocketserv
+12	#DEP#rpc
+13	#DEP#aw
+14	#DEP#distributsystem
+15	#DEP#event

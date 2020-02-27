@@ -1,0 +1,7 @@
+1	git://github.com/vapor/fluentnosql
+2	#DEP#databas
+3	#DEP#serversideswift
+4	#DEP#sql
+5	#DEP#orm
+6	#DEP#vapor
+7	#DEP#swift

@@ -1,0 +1,8 @@
+1	git://github.com/vchaptsev/cookiecutter-django-vuevue.git
+2	#DEP#vuecli
+3	#DEP#django
+4	#DEP#pwa
+5	#DEP#dockercompo
+6	#DEP#apollo
+7	#DEP#graphql
+8	#DEP#webpack

@@ -1,0 +1,11 @@
+1	git://github.com/pocoproject/pocopoco
+2	#DEP#log
+3	#DEP#xml
+4	#DEP#cpluplu
+5	#DEP#network
+6	#DEP#httpserver
+7	#DEP#sql
+8	#DEP#json
+9	#DEP#configur
+10	#DEP#httpclient
+11	#DEP#crossplatform

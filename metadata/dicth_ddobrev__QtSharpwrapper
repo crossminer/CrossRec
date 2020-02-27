@@ -1,0 +1,9 @@
+1	git://github.com/ddobrev/QtSharpwrapper.git
+2	#DEP#qt
+3	#DEP#mono
+4	#DEP#gui
+5	#DEP#bridg
+6	#DEP#bind
+7	#DEP#csharp
+8	#DEP#dotnet
+9	#DEP#crossplatform

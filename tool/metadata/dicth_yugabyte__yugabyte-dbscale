@@ -1,0 +1,8 @@
+1	git://github.com/yugabyte/yugabyte-dbscale
+2	#DEP#databas
+3	#DEP#cloudnativ
+4	#DEP#highperform
+5	#DEP#sql
+6	#DEP#kubernet
+7	#DEP#distributdataba
+8	#DEP#cpp

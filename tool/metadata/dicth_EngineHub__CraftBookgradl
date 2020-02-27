@@ -1,0 +1,8 @@
+1	git://github.com/EngineHub/CraftBookgradl
+2	#DEP#java
+3	#DEP#plugin
+4	#DEP#bukkit
+5	#DEP#spigot
+6	#DEP#server
+7	#DEP#spong
+8	#DEP#minecraft

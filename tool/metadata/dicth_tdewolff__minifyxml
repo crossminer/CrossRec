@@ -1,0 +1,8 @@
+1	git://github.com/tdewolff/minifyxml
+2	#DEP#j
+3	#DEP#svg
+4	#DEP#html
+5	#DEP#json
+6	#DEP#minifi
+7	#DEP#cs
+8	#DEP#go

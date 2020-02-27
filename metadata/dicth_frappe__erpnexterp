@@ -1,0 +1,10 @@
+1	git://github.com/frappe/erpnexterp.git
+2	#DEP#support
+3	#DEP#inventori
+4	#DEP#ecommerc
+5	#DEP#assetmanag
+6	#DEP#mariadb
+7	#DEP#crm
+8	#DEP#integr
+9	#DEP#email
+10	#DEP#local

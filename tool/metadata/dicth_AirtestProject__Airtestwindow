@@ -1,0 +1,8 @@
+1	git://github.com/AirtestProject/Airtestwindow
+2	#DEP#testframework
+3	#DEP#autom
+4	#DEP#unity3d
+5	#DEP#game
+6	#DEP#testautom
+7	#DEP#android
+8	#DEP#io

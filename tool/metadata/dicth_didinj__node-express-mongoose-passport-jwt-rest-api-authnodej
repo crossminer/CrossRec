@@ -1,0 +1,12 @@
+1	git://github.com/didinj/node-express-mongoose-passport-jwt-rest-api-authnodej
+2	#DEP#node
+3	#DEP#express
+4	#DEP#restapi
+5	#DEP#expressj
+6	#DEP#api
+7	#DEP#jwt
+8	#DEP#rest
+9	#DEP#jwttoken
+10	#DEP#mongoos
+11	#DEP#passport
+12	#DEP#jwtauthent

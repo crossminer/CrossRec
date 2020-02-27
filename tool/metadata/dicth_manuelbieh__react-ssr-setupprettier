@@ -1,0 +1,13 @@
+1	git://github.com/manuelbieh/react-ssr-setupprettier
+2	#DEP#csmodul
+3	#DEP#express
+4	#DEP#hmr
+5	#DEP#babel
+6	#DEP#typescript
+7	#DEP#react
+8	#DEP#eslint
+9	#DEP#reactrout
+10	#DEP#redux
+11	#DEP#i18n
+12	#DEP#postcss
+13	#DEP#webpack

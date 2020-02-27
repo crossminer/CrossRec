@@ -1,0 +1,5 @@
+6	#DEP#nginx
+7	#DEP#mysql
+8	#DEP#vue2
+9	#DEP#express
+10	#DEP#vuex

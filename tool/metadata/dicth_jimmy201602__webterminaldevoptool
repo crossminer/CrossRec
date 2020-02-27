@@ -1,0 +1,12 @@
+1	git://github.com/jimmy201602/webterminaldevoptool
+2	#DEP#realtim
+3	#DEP#terminemul
+4	#DEP#monitor
+5	#DEP#autom
+6	#DEP#django
+7	#DEP#ssh
+8	#DEP#audit
+9	#DEP#sftp
+10	#DEP#termin
+11	#DEP#filemanag
+12	#DEP#devop

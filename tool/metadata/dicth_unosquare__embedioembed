@@ -1,0 +1,11 @@
+1	git://github.com/unosquare/embedioembed
+2	#DEP#httpserver
+3	#DEP#http
+4	#DEP#websocket
+5	#DEP#mono
+6	#DEP#webserv
+7	#DEP#raspberripi
+8	#DEP#dotnetcor
+9	#DEP#dotnet
+10	#DEP#raspberripi3
+11	#DEP#tini

@@ -1,0 +1,8 @@
+1	git://github.com/no5no6/questionnairenodej.git
+2	#DEP#elementui
+3	#DEP#mongodb
+4	#DEP#vuerout
+5	#DEP#express
+6	#DEP#mongoos
+7	#DEP#vue
+8	#DEP#vuex

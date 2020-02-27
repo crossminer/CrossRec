@@ -1,0 +1,14 @@
+1	git://github.com/alexellis/k3supedg.git
+2	#DEP#devtool
+3	#DEP#cloudnativ
+4	#DEP#raspberripi
+5	#DEP#vm
+6	#DEP#autom
+7	#DEP#helm
+8	#DEP#devop
+9	#DEP#kubernetclust
+10	#DEP#app
+11	#DEP#go
+12	#DEP#kubernet
+13	#DEP#k8
+14	#DEP#cloud

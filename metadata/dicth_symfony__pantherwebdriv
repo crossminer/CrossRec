@@ -1,0 +1,7 @@
+1	git://github.com/symfony/pantherwebdriv.git
+2	#DEP#selenium
+3	#DEP#scrape
+4	#DEP#e2etest
+5	#DEP#seleniumwebdriv
+6	#DEP#php
+7	#DEP#symfoni

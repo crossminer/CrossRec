@@ -72,7 +72,7 @@ public class Runner {
 	
 	public void tenFoldCrossValidation() {
 		
-		numOfProjects = 1200;		
+		numOfProjects = 2778;		
 		numOfNeighbours = 10;
 		
 		int step = (int)numOfProjects/10;								

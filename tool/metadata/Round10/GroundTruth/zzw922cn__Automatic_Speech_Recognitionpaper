@@ -1,0 +1,4 @@
+6	#DEP#tensorflow
+7	#DEP#lstm
+8	#DEP#speechrecognit
+9	#DEP#cnn

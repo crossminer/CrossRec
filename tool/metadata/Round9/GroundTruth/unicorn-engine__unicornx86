@@ -1,0 +1,5 @@
+6	#DEP#x8664
+7	#DEP#arm64
+8	#DEP#cpu
+9	#DEP#arm
+10	#DEP#mip

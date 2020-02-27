@@ -1,0 +1,7 @@
+8	#DEP#postgr
+9	#DEP#prometheu
+10	#DEP#mysql
+11	#DEP#dashboard
+12	#DEP#elasticsearch
+13	#DEP#go
+14	#DEP#analyt

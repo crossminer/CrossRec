@@ -1,0 +1,7 @@
+1	git://github.com/sqlectron/sqlectron-guidatabas.git
+2	#DEP#react
+3	#DEP#javascript
+4	#DEP#gui
+5	#DEP#electron
+6	#DEP#electronapp
+7	#DEP#crossplatform

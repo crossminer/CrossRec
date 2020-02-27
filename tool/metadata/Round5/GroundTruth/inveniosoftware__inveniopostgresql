@@ -1,0 +1,4 @@
+5	#DEP#rabbitmq
+6	#DEP#jsonschema
+7	#DEP#elasticsearch
+8	#DEP#redi

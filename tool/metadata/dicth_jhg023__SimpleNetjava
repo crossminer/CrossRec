@@ -1,0 +1,10 @@
+1	git://github.com/jhg023/SimpleNetjava
+2	#DEP#tcp
+3	#DEP#network
+4	#DEP#gradl
+5	#DEP#client
+6	#DEP#maven
+7	#DEP#server
+8	#DEP#asynchron
+9	#DEP#tcpserver
+10	#DEP#java8

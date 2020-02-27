@@ -1,0 +1,14 @@
+1	git://github.com/grab/front-end-guidecsmodul.git
+2	#DEP#frontend
+3	#DEP#stylelint
+4	#DEP#engin
+5	#DEP#javascript
+6	#DEP#webpack
+7	#DEP#flowtyp
+8	#DEP#react
+9	#DEP#eslint
+10	#DEP#jest
+11	#DEP#redux
+12	#DEP#cs
+13	#DEP#yarn
+14	#DEP#babel

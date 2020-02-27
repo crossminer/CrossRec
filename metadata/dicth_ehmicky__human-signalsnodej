@@ -1,0 +1,9 @@
+1	git://github.com/ehmicky/human-signalsnodej.git
+2	#DEP#es6
+3	#DEP#process
+4	#DEP#opersystem
+5	#DEP#javascript
+6	#DEP#errorhandl
+7	#DEP#window
+8	#DEP#maco
+9	#DEP#linux

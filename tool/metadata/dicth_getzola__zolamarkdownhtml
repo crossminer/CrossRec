@@ -1,0 +1,9 @@
+1	git://github.com/getzola/zolamarkdownhtml
+2	#DEP#markdown
+3	#DEP#documenttool
+4	#DEP#cm
+5	#DEP#staticsitegen
+6	#DEP#contentmanagsystem
+7	#DEP#static
+8	#DEP#blogengin
+9	#DEP#rust

@@ -1,0 +1,8 @@
+1	git://github.com/rqlite/rqlitesqlite.git
+2	#DEP#databas
+3	#DEP#consensu
+4	#DEP#distributsystem
+5	#DEP#sql
+6	#DEP#raft
+7	#DEP#go
+8	#DEP#distributdataba

@@ -1,0 +1,7 @@
+1	git://github.com/theforeman/foremanvirtual.git
+2	#DEP#rubi
+3	#DEP#rail
+4	#DEP#puppet
+5	#DEP#infrastructur
+6	#DEP#cloud
+7	#DEP#provis

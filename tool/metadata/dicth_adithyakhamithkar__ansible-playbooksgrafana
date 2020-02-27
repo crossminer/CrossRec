@@ -1,0 +1,14 @@
+1	git://github.com/adithyakhamithkar/ansible-playbooksgrafana
+2	#DEP#aws3
+3	#DEP#ldap
+4	#DEP#jenkin
+5	#DEP#gitlab
+6	#DEP#digitalocean
+7	#DEP#nginx
+8	#DEP#vagrant
+9	#DEP#mysql
+10	#DEP#meso
+11	#DEP#ubuntu
+12	#DEP#elasticsearch
+13	#DEP#ansiblplaybook
+14	#DEP#docker

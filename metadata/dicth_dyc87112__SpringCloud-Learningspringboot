@@ -1,0 +1,9 @@
+1	git://github.com/dyc87112/SpringCloud-Learningspringboot.git
+2	#DEP#zuul
+3	#DEP#zipkin
+4	#DEP#stream
+5	#DEP#hystrix
+6	#DEP#consul
+7	#DEP#springcloud
+8	#DEP#rabbitmq
+9	#DEP#eureka

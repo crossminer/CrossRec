@@ -1,0 +1,12 @@
+1	git://github.com/EQuimper/nodejs-api-boilerplatenodej.git
+2	#DEP#express
+3	#DEP#mongodb
+4	#DEP#es6
+5	#DEP#es7
+6	#DEP#javascript
+7	#DEP#eslint
+8	#DEP#prettier
+9	#DEP#mongoos
+10	#DEP#dockercompo
+11	#DEP#docker
+12	#DEP#boilerpl

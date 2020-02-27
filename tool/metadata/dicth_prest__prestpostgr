@@ -1,0 +1,8 @@
+1	git://github.com/prest/prestpostgr
+2	#DEP#postgresql
+3	#DEP#restapi
+4	#DEP#rest
+5	#DEP#golang
+6	#DEP#framework
+7	#DEP#databas
+8	#DEP#automatapi

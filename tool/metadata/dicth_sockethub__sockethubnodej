@@ -1,0 +1,10 @@
+1	git://github.com/sockethub/sockethubnodej
+2	#DEP#twitter
+3	#DEP#socketio
+4	#DEP#websocket
+5	#DEP#javascript
+6	#DEP#smtp
+7	#DEP#xmpp
+8	#DEP#facebook
+9	#DEP#redi
+10	#DEP#irc

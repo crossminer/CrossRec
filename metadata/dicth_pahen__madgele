@@ -1,0 +1,8 @@
+1	git://github.com/pahen/madgele.git
+2	#DEP#depend
+3	#DEP#es6
+4	#DEP#graph
+5	#DEP#stylu
+6	#DEP#commonj
+7	#DEP#amd
+8	#DEP#sas

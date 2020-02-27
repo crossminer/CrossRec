@@ -1,0 +1,7 @@
+1	git://github.com/influxdata/influxdbdatabas.git
+2	#DEP#timeseri
+3	#DEP#monitor
+4	#DEP#metric
+5	#DEP#influxdb
+6	#DEP#react
+7	#DEP#go

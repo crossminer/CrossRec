@@ -1,0 +1,9 @@
+1	git://github.com/ar5had/ecommerce-site-templatenode
+2	#DEP#express
+3	#DEP#mongodb
+4	#DEP#react
+5	#DEP#mongoos
+6	#DEP#passport
+7	#DEP#redux
+8	#DEP#reactrout
+9	#DEP#webpack

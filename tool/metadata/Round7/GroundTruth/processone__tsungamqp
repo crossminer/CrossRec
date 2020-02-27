@@ -1,0 +1,4 @@
+5	#DEP#mqtt
+6	#DEP#mysql
+7	#DEP#ldap
+8	#DEP#erlang

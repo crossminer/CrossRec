@@ -1,0 +1,7 @@
+1	git://github.com/webiny/webiny-jsnodej.git
+2	#DEP#serverless
+3	#DEP#cm
+4	#DEP#javascript
+5	#DEP#react
+6	#DEP#graphql
+7	#DEP#microservic

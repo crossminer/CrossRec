@@ -1,0 +1,8 @@
+1	git://github.com/nextcloud/vmhyper
+2	#DEP#hyperv
+3	#DEP#vm
+4	#DEP#ubuntu
+5	#DEP#vmware
+6	#DEP#nextcloud
+7	#DEP#cloud
+8	#DEP#virtualbox

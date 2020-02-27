@@ -1,0 +1,13 @@
+1	git://github.com/ctaylo21/jarvisneovim.git
+2	#DEP#typescript
+3	#DEP#dotfil
+4	#DEP#osx
+5	#DEP#vim
+6	#DEP#javascript
+7	#DEP#iterm2
+8	#DEP#tmux
+9	#DEP#react
+10	#DEP#homebrew
+11	#DEP#maco
+12	#DEP#zsh
+13	#DEP#ide

@@ -1,0 +1,12 @@
+1	git://github.com/qTox/qToxqt
+2	#DEP#tox
+3	#DEP#distribut
+4	#DEP#cpluplu
+5	#DEP#encrypt
+6	#DEP#messag
+7	#DEP#privaci
+8	#DEP#p2p
+9	#DEP#video
+10	#DEP#audio
+11	#DEP#commun
+12	#DEP#voip

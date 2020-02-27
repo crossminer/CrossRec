@@ -1,0 +1,15 @@
+1	git://github.com/CocoaDebug/CocoaDebuglog.git
+2	#DEP#debug
+3	#DEP#carthag
+4	#DEP#networkmonitor
+5	#DEP#network
+6	#DEP#cocoapod
+7	#DEP#objectc
+8	#DEP#debugtool
+9	#DEP#debugg
+10	#DEP#swift4
+11	#DEP#io
+12	#DEP#logger
+13	#DEP#sandbox
+14	#DEP#email
+15	#DEP#swift

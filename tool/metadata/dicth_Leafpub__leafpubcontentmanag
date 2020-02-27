@@ -1,0 +1,10 @@
+1	git://github.com/Leafpub/leafpubcontentmanag
+2	#DEP#databas
+3	#DEP#blog
+4	#DEP#pdo
+5	#DEP#compos
+6	#DEP#jqueri
+7	#DEP#mysql
+8	#DEP#blogengin
+9	#DEP#php
+10	#DEP#handlebar

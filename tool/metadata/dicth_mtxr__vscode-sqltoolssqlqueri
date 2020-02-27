@@ -1,0 +1,12 @@
+1	git://github.com/mtxr/vscode-sqltoolssqlqueri
+2	#DEP#postgr
+3	#DEP#sqlite
+4	#DEP#postgresql
+5	#DEP#vscode
+6	#DEP#azur
+7	#DEP#vscodeexten
+8	#DEP#databasmanag
+9	#DEP#sql
+10	#DEP#mysql
+11	#DEP#sqlite3
+12	#DEP#mssql

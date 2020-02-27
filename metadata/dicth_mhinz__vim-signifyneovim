@@ -1,0 +1,8 @@
+1	git://github.com/mhinz/vim-signifyneovim.git
+2	#DEP#vc
+3	#DEP#git
+4	#DEP#vim
+5	#DEP#vimplugin
+6	#DEP#sign
+7	#DEP#cv
+8	#DEP#async

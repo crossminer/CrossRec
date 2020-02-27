@@ -92,8 +92,9 @@ public class SimilarityCalculator {
 		Map<Integer, String> tmpDict = new HashMap<Integer, String>();	
 		
 		for(Integer keyTraining:keyTrainingProjects){		
-			trainingPro = trainingProjects.get(keyTraining);			
-			trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+			trainingPro = trainingProjects.get(keyTraining);
+			//trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+			trainingFilename = trainingPro.replace("git://github.com/", "").replace("/", "__");
 			trainingGraphFilename = this.srcDir  +"graph_" + trainingFilename;			
 			trainingDictFilename = this.srcDir +"dicth_" + trainingFilename;		
 			
@@ -135,7 +136,8 @@ public class SimilarityCalculator {
 				Graph combinedGraph = new Graph(graph);				
 				Map<String, Double> sim = new HashMap<String, Double>();			
 				testingPro = testingProjects.get(keyTesting);							
-				filename        = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+				filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+				//filename        = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
 				testingFilename = filename;			
 				testingGraphFilename = this.srcDir +"graph_" + testingFilename;			
 				testingDictFilename = this.srcDir +"dicth_" + testingFilename;
@@ -197,8 +199,8 @@ public class SimilarityCalculator {
 				
 				for(Integer keyTraining:keyTrainingProjects){									
 					trainingPro = trainingProjects.get(keyTraining);							
-					trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
-					
+					//trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+					trainingFilename = trainingPro.replace("git://github.com/", "").replace("/", "__");
 					trainingDictFilename = this.srcDir +"dicth_" + trainingFilename;					
 					/*read all libraries for each project*/
 					trainingLibs = reader.getLibraries(trainingDictFilename);
@@ -304,7 +306,8 @@ public class SimilarityCalculator {
 		
 		for(Integer keyTraining:keyTrainingProjects){		
 			trainingPro = trainingProjects.get(keyTraining);			
-			trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+			//trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+			trainingFilename = trainingPro.replace("git://github.com/", "").replace("/", "__");
 			trainingGraphFilename = this.srcDir  +"graph_" + trainingFilename;			
 			trainingDictFilename = this.srcDir +"dicth_" + trainingFilename;		
 			
@@ -346,7 +349,8 @@ public class SimilarityCalculator {
 				Graph combinedGraph = new Graph(graph);				
 				Map<String, Double> sim = new HashMap<String, Double>();			
 				testingPro = testingProjects.get(keyTesting);							
-				filename        = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+				//filename = testingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+				filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 				testingFilename = filename;			
 				testingGraphFilename = this.srcDir +"graph_" + testingFilename;			
 				testingDictFilename = this.srcDir +"dicth_" + testingFilename;
@@ -408,7 +412,8 @@ public class SimilarityCalculator {
 				
 				for(Integer keyTraining:keyTrainingProjects){									
 					trainingPro = trainingProjects.get(keyTraining);							
-					trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");			
+					//trainingFilename = trainingPro.replace("git://github.com/", "").replace(".git", "").replace("/", "__");
+					trainingFilename = trainingPro.replace("git://github.com/", "").replace("/", "__");
 					
 					trainingDictFilename = this.srcDir +"dicth_" + trainingFilename;					
 					/*read all libraries for each project*/

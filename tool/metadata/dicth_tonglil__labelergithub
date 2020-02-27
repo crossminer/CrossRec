@@ -1,0 +1,8 @@
+1	git://github.com/tonglil/labelergithub
+2	#DEP#tool
+3	#DEP#label
+4	#DEP#cli
+5	#DEP#githubapi
+6	#DEP#golang
+7	#DEP#opensourc
+8	#DEP#go

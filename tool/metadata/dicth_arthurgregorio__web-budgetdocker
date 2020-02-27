@@ -1,0 +1,8 @@
+1	git://github.com/arthurgregorio/web-budgetdocker
+2	#DEP#web
+3	#DEP#postgresql
+4	#DEP#control
+5	#DEP#html
+6	#DEP#maven
+7	#DEP#mariadb
+8	#DEP#java

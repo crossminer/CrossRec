@@ -1,0 +1,7 @@
+1	git://github.com/JBakamovic/yavidevim.git
+2	#DEP#python
+3	#DEP#clang
+4	#DEP#viml
+5	#DEP#editor
+6	#DEP#ide
+7	#DEP#cpp

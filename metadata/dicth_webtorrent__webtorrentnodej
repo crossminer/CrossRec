@@ -1,0 +1,9 @@
+1	git://github.com/webtorrent/webtorrentnodej.git
+2	#DEP#stream
+3	#DEP#javascript
+4	#DEP#torrent
+5	#DEP#browser
+6	#DEP#webtorr
+7	#DEP#p2p
+8	#DEP#bittorr
+9	#DEP#webrtc

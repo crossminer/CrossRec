@@ -1,0 +1,9 @@
+1	git://github.com/ptaoussanis/sentetransit.git
+2	#DEP#websocket
+3	#DEP#clojurescript
+4	#DEP#taoensso
+5	#DEP#ajax
+6	#DEP#clojur
+7	#DEP#epl
+8	#DEP#async
+9	#DEP#immut

@@ -1,0 +1,10 @@
+1	git://github.com/toggl-open-source/toggldesktopdesktop.git
+2	#DEP#qt
+3	#DEP#objectc
+4	#DEP#wpf
+5	#DEP#poco
+6	#DEP#window
+7	#DEP#linux
+8	#DEP#maco
+9	#DEP#visualstudio
+10	#DEP#swift

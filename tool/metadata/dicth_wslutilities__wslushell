@@ -1,0 +1,7 @@
+1	git://github.com/wslutilities/wslushell
+2	#DEP#wsl
+3	#DEP#kalilinux
+4	#DEP#ubuntu
+5	#DEP#opensus
+6	#DEP#debian
+7	#DEP#bash

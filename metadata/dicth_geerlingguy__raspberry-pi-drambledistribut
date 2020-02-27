@@ -1,0 +1,9 @@
+1	git://github.com/geerlingguy/raspberry-pi-drambledistribut.git
+2	#DEP#raspberripi
+3	#DEP#autom
+4	#DEP#devop
+5	#DEP#drupal
+6	#DEP#kubernet
+7	#DEP#docker
+8	#DEP#ansibl
+9	#DEP#cluster

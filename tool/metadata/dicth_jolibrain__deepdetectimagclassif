@@ -1,0 +1,11 @@
+1	git://github.com/jolibrain/deepdetectimagclassif
+2	#DEP#xgboost
+3	#DEP#restapi
+4	#DEP#deeplearn
+5	#DEP#objectdetect
+6	#DEP#server
+7	#DEP#machinlearn
+8	#DEP#caffe2
+9	#DEP#tensorflow
+10	#DEP#caff
+11	#DEP#gpu

@@ -1,0 +1,9 @@
+1	git://github.com/webextension-toolbox/webextension-toolboxedg
+2	#DEP#webextens
+3	#DEP#operaexten
+4	#DEP#chrome
+5	#DEP#firefox
+6	#DEP#firefoxexten
+7	#DEP#chromeexten
+8	#DEP#edgexten
+9	#DEP#webpack

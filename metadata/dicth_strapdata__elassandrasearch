@@ -1,0 +1,10 @@
+1	git://github.com/strapdata/elassandrasearch.git
+2	#DEP#nosql
+3	#DEP#restapi
+4	#DEP#logstash
+5	#DEP#kibana
+6	#DEP#complet
+7	#DEP#elasticsearch
+8	#DEP#fuzzisearch
+9	#DEP#spark
+10	#DEP#cassandra

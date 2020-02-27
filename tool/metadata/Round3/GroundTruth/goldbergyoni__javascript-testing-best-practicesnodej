@@ -1,0 +1,7 @@
+8	#DEP#mocha
+9	#DEP#e2etest
+10	#DEP#angular
+11	#DEP#react
+12	#DEP#jest
+13	#DEP#test
+14	#DEP#chai

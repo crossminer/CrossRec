@@ -442,7 +442,7 @@ public class Metrics {
 		Map<String, Double> Vals = new HashMap<String, Double>();
 
 		try {
-			tmp = this.resDir + name + "_Round" + Integer.toString(fold);
+			tmp = Paths.get(this.resDir, name + "_Round" + Integer.toString(fold)).toString();
 			String line = null;
 			int id = 1;
 

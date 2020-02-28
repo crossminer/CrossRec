@@ -38,25 +38,21 @@ public class Runner {
 		
 	}
 	
-	public void loadConfigurations(){		
+	public static String loadConfigurations() throws FileNotFoundException, IOException{		
 		Properties prop = new Properties();				
-		try {
-			prop.load(new FileInputStream("evaluation.properties"));		
-			this.srcDir=prop.getProperty("sourceDirectory");
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}	
-		return;
+		prop.load(new FileInputStream("evaluation.properties"));		
+		return prop.getProperty("sourceDirectory");
+			
 	}
 			
 	
-	public void run(){		
+	public void run(String srcDir){		
 		System.out.println("CrossRec: Recommender System!");
-		loadConfigurations();
+		this.srcDir = srcDir;
 		tenFoldCrossValidation();
 		System.out.println(System.currentTimeMillis());		
+		it.univaq.disim.CrossRec.validation.Runner runner = new it.univaq.disim.CrossRec.validation.Runner();
+		runner.run(this.srcDir);
 	}
 		
 	/*Ten-fold cross validation*/
@@ -109,7 +105,14 @@ public class Runner {
 	
 	public static void main(String[] args) {	
 		Runner runner = new Runner();			
-		runner.run();				    		    
+		try {
+			String srcDir = loadConfigurations();
+			runner.run(srcDir);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}				    		    
 		return;
 	}	
 	

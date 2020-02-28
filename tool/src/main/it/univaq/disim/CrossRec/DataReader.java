@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -614,7 +615,7 @@ public class DataReader {
 			String fname = filename.substring(pos+1,filename.length());		
 			fname = fname.replace("dicth_", "");
 			
-			BufferedWriter writer = new BufferedWriter(new FileWriter(groundTruthPath + fname));
+			BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(groundTruthPath, fname).toString()));
 					
 			/*Read a half of the dictionary and all users, the other half is put into the ground-truth data*/
 			

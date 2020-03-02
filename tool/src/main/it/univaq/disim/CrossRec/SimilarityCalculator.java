@@ -246,7 +246,7 @@ public class SimilarityCalculator {
 				sorted_map.putAll(sim);
 				Set<String> keySet2 = sorted_map.keySet();
 
-				BufferedWriter writer = new BufferedWriter(new FileWriter(this.simDir + filename));
+				BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(this.simDir, filename).toString()));
 				for (String key : keySet2) {
 					content = testingPro + "\t" + trainingProjects.get(Integer.parseInt(key)) + "\t" + sim.get(key);
 					writer.append(content);

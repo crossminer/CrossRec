@@ -74,10 +74,8 @@ public class Runner {
 			numOfLibraries = 20;
 			computeEvaluationMetrics(inputFile);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -168,10 +166,11 @@ public class Runner {
 //			System.out.println("==============Long tail==============");
 ////			metrics.LongTail();			
 //			metrics.nDCG();
-
+			metrics.SuccessRate();
 			metrics.PrecisionRecall();
 			recallRate += metrics.RecallRate();
 			metrics.computeAveragePrecisionRecall(inputFile);
+			metrics.computeAverageSuccessRate(inputFile);
 			System.out.println("Average success rate: " + recallRate / 10);
 
 			System.out.println("==============Catalog Coverage==============");

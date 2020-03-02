@@ -196,7 +196,7 @@ public class RecommendationEngine {
 			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 
 			try {
-				tmp = this.recDir + filename;
+				tmp = Paths.get(this.recDir, filename).toString();
 				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
 				for (String key : keySet2) {
 					String content = libSet.get(Integer.parseInt(key)) + "\t" + recommendations.get(key);

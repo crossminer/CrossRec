@@ -2,6 +2,7 @@ package it.univaq.disim.CrossRec.validation;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -23,6 +24,7 @@ public class Metrics {
 	private String recDir;
 	private String resDir;
 	private String prDir;
+	private String succesRateDir;
 	private String fsDir;
 
 	private int fold;
@@ -43,6 +45,7 @@ public class Metrics {
 		this.groundTruth = Paths.get(this.srcDir, subFolder, "GroundTruth").toString();
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.prDir = Paths.get(this.srcDir, subFolder, "PrecisionRecall").toString();
+		this.succesRateDir = Paths.get(this.srcDir, subFolder, "SuccesRate").toString();
 		this.fsDir = Paths.get(this.srcDir, subFolder, "FScore" + "/").toString();
 		this.resDir = Paths.get(this.srcDir, "Results").toString();
 
@@ -165,9 +168,97 @@ public class Metrics {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		try(BufferedWriter bw = new BufferedWriter(new FileWriter(tmp2))){
+			bw.write(Double.toHexString(recallRate));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		return recallRate;
 	}
 
+	/**
+	 * **/
+		public void SuccessRate() {
+		DataReader reader = new DataReader();
+
+		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
+		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
+				this.testingStartPos, this.testingEndPos);
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		/* Select top libraries */
+
+		Map<Integer, String> recommendationFile = null;
+		Set<String> groundTruthFile = null;
+		Set<String> temp = null;
+		Set<Integer> keySet = null;
+
+		int totalOfRelevant = 0;
+
+		for (Integer keyTesting : keyTestingProjects) {
+
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+			String groundTruthData = Paths.get(this.recDir, filename).toString();
+
+			recommendationFile = reader.readRecommendationFile(groundTruthData);
+			groundTruthData = Paths.get(this.groundTruth, filename).toString();
+			groundTruthFile = reader.readGroundTruthFile(groundTruthData);
+
+			totalOfRelevant = groundTruthFile.size();
+
+			keySet = recommendationFile.keySet();
+			int size = 0;
+			int count = 1;
+			double f_score = 0;
+
+			temp = new HashSet<String>();
+
+			try {
+				File successRateFolder = new File(this.succesRateDir);
+				if (! successRateFolder.exists()) successRateFolder.mkdir();
+				String successRatePath = Paths.get(this.succesRateDir, filename).toString();
+				BufferedWriter writer = new BufferedWriter(new FileWriter(successRatePath));
+//				BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
+
+				for (Integer key : keySet) {
+					temp.add(recommendationFile.get(key));
+
+					Set<String> common = Sets.intersection(temp, groundTruthFile);
+					size = common.size();
+					String content = key + "\t";
+					if(size == 0)
+						content = content + "0";
+					else
+						content = content + "1";
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					content = key + "\t" + f_score;
+//					writer2.append(content);							
+//					writer2.newLine();
+//					writer2.flush();
+					count++;
+					if (count > numLibs)
+						break;
+				}
+				writer.close();
+//				writer2.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+
+		return;
+	}
+	/*
+	 * 
+	 */
+	
+	
+	
+	
 	public void PrecisionRecall() {
 		DataReader reader = new DataReader();
 
@@ -327,6 +418,84 @@ public class Metrics {
 
 //				f_score = (2*recall*precision)/(recall+precision);
 				String content = key + "\t" + recall + "\t" + precision;
+				writer.append(content);
+				writer.newLine();
+				writer.flush();
+				content = key + "\t" + f_score;
+//				writer2.append(content);							
+//				writer2.newLine();
+//				writer2.flush();
+			}
+			writer.close();
+//			writer2.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		return;
+	}
+	
+	//TODO qui
+	public void computeAverageSuccessRate(String inputFile) {
+		DataReader reader = new DataReader();
+		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
+		testingProjects = reader.readProjectList(Paths.get(this.srcDir, inputFile).toString(), this.testingStartPos,
+				this.testingEndPos);
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		double successRate = 0;
+		double val1 = 0, val2 = 0;
+		String tmp = "", tmp2 = "";
+
+		Map<Integer, Double> successRateMap = new HashMap<Integer, Double>();
+
+		for (Integer keyTesting : keyTestingProjects) {
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+
+			try {
+
+				tmp = Paths.get(this.succesRateDir, filename).toString();
+				String line = null;
+				String[] vals = null;
+				int id = 1;
+				BufferedReader bufread = new BufferedReader(new FileReader(tmp));
+				while ((line = bufread.readLine()) != null) {
+					vals = line.split("\t");
+					successRate = Double.parseDouble(vals[1].trim());
+					if (successRateMap.containsKey(id))
+						val2 = successRateMap.get(id) + successRate;
+					else 
+						val1 = successRate;
+					successRateMap.put(id, val2);
+					id++;
+					if (id > numLibs)
+						break;
+				}
+
+				bufread.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+		double f_score = 0;
+		Set<Integer> keySet = successRateMap.keySet();
+		int size = testingProjects.size();
+		tmp = Paths.get(this.resDir, "SR" + "_Round" + Integer.toString(fold)).toString();
+
+		try {
+			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
+//			BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
+
+			for (Integer key : keySet) {
+				successRate = 0;
+				if (size != 0) {
+					successRate = successRateMap.get(key) / size;
+				}
+
+//				f_score = (2*recall*precision)/(recall+precision);
+				String content = key + "\t" + successRate + "\t";
 				writer.append(content);
 				writer.newLine();
 				writer.flush();

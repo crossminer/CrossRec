@@ -15,7 +15,6 @@ import java.util.TreeMap;
 public class RecommendationEngine {
 
 	private String srcDir;
-	private String groundTruth;
 	private String simDir;
 	private String recDir;
 	private String subFolder;
@@ -31,7 +30,6 @@ public class RecommendationEngine {
 		this.srcDir = sourceDir;
 		this.subFolder = suFolder;
 		this.numOfNeighbours = numOfNeighbours;
-		this.groundTruth = Paths.get(this.srcDir, subFolder, "GroundTruth").toString();
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.simDir = Paths.get(this.srcDir, subFolder, "Similarities").toString();
 		this.testingStartPos = teStartPos;

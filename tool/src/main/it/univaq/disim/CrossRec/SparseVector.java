@@ -1,8 +1,5 @@
 package it.univaq.disim.CrossRec;
 
-import java.util.Map;
-import java.util.Set;
-
 /*************************************************************************
  *  Compilation:  javac SparseVector.java
  *  Execution:    java SparseVector

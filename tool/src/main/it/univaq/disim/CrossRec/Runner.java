@@ -3,6 +3,7 @@ package it.univaq.disim.CrossRec;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.Comparator;
 import java.util.Map;
 import java.util.Properties;
@@ -32,45 +33,29 @@ public class Runner {
 	private String srcDir;	
 	private String subFolder;
 	private int numOfProjects;
-	private int numOfNeighbours;
-	
+	private static final int numOfNeighbours = 25;
+	private static String _propFile = "evaluation.properties";
 	public Runner(){
 		
 	}
 	
 	public static String loadConfigurations() throws FileNotFoundException, IOException{		
 		Properties prop = new Properties();				
-		prop.load(new FileInputStream("evaluation.properties"));		
+		prop.load(new FileInputStream(_propFile));		
 		return prop.getProperty("sourceDirectory");
-			
 	}
-			
 	
 	public void run(String srcDir){		
 		System.out.println("CrossRec: Recommender System!");
 		this.srcDir = srcDir;
+		DataReader dr = new DataReader();
+		numOfProjects = dr.getNumberOfProjects(Paths.get(this.srcDir, "projects.txt").toString());		
 		tenFoldCrossValidation();
 		System.out.println(System.currentTimeMillis());		
-		it.univaq.disim.CrossRec.validation.Runner runner = new it.univaq.disim.CrossRec.validation.Runner();
-		runner.run(this.srcDir);
+		it.univaq.disim.CrossRec.validation.Validator runner = new it.univaq.disim.CrossRec.validation.Validator();
+		runner.run();
 	}
-		
-	/*Ten-fold cross validation*/
-	
-	public void getProjectAlternativesWithSimilarAPIs(String inputProject) {
-		
-		
-				
-		
-		
-		return;
-	}
-	
 	public void tenFoldCrossValidation() {
-		
-		numOfProjects = 1805;		
-		numOfNeighbours = 25;
-		
 		int step = (int)numOfProjects/10;								
 								
 		for(int i=0;i<10;i++) {
@@ -85,15 +70,15 @@ public class Runner {
 			int k=i+1;
 			subFolder = "Round" + Integer.toString(k);			
 							
-//			SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
-//					trainingStartPos1,
-//					trainingEndPos1,
-//					trainingStartPos2,
-//					trainingEndPos2,
-//					testingStartPos,
-//					testingEndPos);
-//			
-//			calculator.ComputeWeightCosineSimilarity();
+			SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
+					trainingStartPos1,
+					trainingEndPos1,
+					trainingStartPos2,
+					trainingEndPos2,
+					testingStartPos,
+					testingEndPos);
+			
+			calculator.ComputeWeightCosineSimilarity();
 			
 			RecommendationEngine engine = new RecommendationEngine(this.srcDir,this.subFolder,numOfNeighbours,testingStartPos,testingEndPos);
 			

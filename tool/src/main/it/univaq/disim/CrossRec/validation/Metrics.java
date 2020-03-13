@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
+import it.univaq.disim.CrossRec.DataReader;
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
 
@@ -196,8 +196,6 @@ public class Metrics {
 		Set<String> temp = null;
 		Set<Integer> keySet = null;
 
-		int totalOfRelevant = 0;
-
 		for (Integer keyTesting : keyTestingProjects) {
 
 			String testingPro = testingProjects.get(keyTesting);
@@ -208,7 +206,6 @@ public class Metrics {
 			groundTruthData = Paths.get(this.groundTruth, filename).toString();
 			groundTruthFile = reader.readGroundTruthFile(groundTruthData);
 
-			totalOfRelevant = groundTruthFile.size();
 
 			keySet = recommendationFile.keySet();
 			int size = 0;
@@ -239,9 +236,6 @@ public class Metrics {
 					writer.newLine();
 					writer.flush();
 					content = key + "\t" + f_score;
-//					writer2.append(content);							
-//					writer2.newLine();
-//					writer2.flush();
 					count++;
 					if (count > numLibs)
 						break;
@@ -271,7 +265,6 @@ public class Metrics {
 		Set<String> temp = null;
 		Set<Integer> keySet = null;
 
-		int totalOfRelevant = 0;
 
 		for (Integer keyTesting : keyTestingProjects) {
 
@@ -282,8 +275,6 @@ public class Metrics {
 			recommendationFile = reader.readRecommendationFile(groundTruthData);
 			groundTruthData = Paths.get(this.groundTruth, filename).toString();
 			groundTruthFile = reader.readGroundTruthFile(groundTruthData);
-
-			totalOfRelevant = groundTruthFile.size();
 
 			keySet = recommendationFile.keySet();
 			int size = 0;
@@ -306,24 +297,16 @@ public class Metrics {
 					Set<String> common = Sets.intersection(temp, groundTruthFile);
 					size = common.size();
 					String content = key + "\t";
-//					if (size == 0)
-//						content = content + "0";
-//					else
-//						content = content + "1";
 					content = content + size;
 					writer.append(content);
 					writer.newLine();
 					writer.flush();
 					content = key + "\t" + f_score;
-//					writer2.append(content);							
-//					writer2.newLine();
-//					writer2.flush();
 					count++;
 					if (count > numLibs)
 						break;
 				}
 				writer.close();
-//				writer2.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -375,7 +358,6 @@ public class Metrics {
 
 			try {
 				tmp = Paths.get(this.prDir, filename).toString();
-				String tmp2 = Paths.get(this.fsDir, filename).toString();
 
 				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
 
@@ -407,15 +389,11 @@ public class Metrics {
 					writer.newLine();
 					writer.flush();
 					content = key + "\t" + f_score;
-//					writer2.append(content);							
-//					writer2.newLine();
-//					writer2.flush();
 					count++;
 					if (count > numLibs)
 						break;
 				}
 				writer.close();
-//				writer2.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -434,7 +412,7 @@ public class Metrics {
 
 		double precision = 0, recall = 0;
 		double val1 = 0, val2 = 0;
-		String tmp = "", tmp2 = "";
+		String tmp = "";
 
 		Map<Integer, Double> Precision = new HashMap<Integer, Double>();
 		Map<Integer, Double> Recall = new HashMap<Integer, Double>();
@@ -479,12 +457,8 @@ public class Metrics {
 		Set<Integer> keySet = Precision.keySet();
 		int size = testingProjects.size();
 		tmp = Paths.get(this.resDir, "PRC" + "_Round" + Integer.toString(fold)).toString();
-		tmp2 = Paths.get(this.resDir, "FScore" + "_Round" + Integer.toString(fold)).toString();
 
-		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
-//			BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
-
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))){
 			for (Integer key : keySet) {
 				precision = 0;
 				recall = 0;
@@ -493,18 +467,12 @@ public class Metrics {
 					precision = Precision.get(key) / size;
 				}
 
-//				f_score = (2*recall*precision)/(recall+precision);
 				String content = key + "\t" + recall + "\t" + precision;
 				writer.append(content);
 				writer.newLine();
 				writer.flush();
 				content = key + "\t" + f_score;
-//				writer2.append(content);							
-//				writer2.newLine();
-//				writer2.flush();
 			}
-			writer.close();
-//			writer2.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -537,14 +505,12 @@ public class Metrics {
 		for (Integer keyTesting : keyTestingProjects) {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
-
-			try {
-
-				tmp = Paths.get(this.succesRateDirN, filename).toString();
+			tmp = Paths.get(this.succesRateDirN, filename).toString();
+			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))){
 				String line = null;
 				String[] vals = null;
 				int id = 1;
-				BufferedReader bufread = new BufferedReader(new FileReader(tmp));
+				
 				while ((line = bufread.readLine()) != null) {
 					double sr1 = successRateMap1.get(id), sr2 = successRateMap2.get(id),
 							sr3 = successRateMap3.get(id), sr4 = successRateMap4.get(id);
@@ -552,7 +518,6 @@ public class Metrics {
 					vals = line.split("\t");
 					successRate1 = Double.parseDouble(vals[1].trim());
 					if (successRateMap1.containsKey(id)) {
-						//sr1 = successRateMap1.get(id) + successRate1;
 						if(successRate1 == 1)
 							sr1 = successRateMap1.get(id) + 1;
 						
@@ -582,8 +547,6 @@ public class Metrics {
 					if (id > numLibs)
 						break;
 				}
-
-				bufread.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -594,8 +557,8 @@ public class Metrics {
 		int size = testingProjects.size();
 		tmp = Paths.get(this.resDir, "SR_STAR" + "_Round" + Integer.toString(fold)).toString();
 
-		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))){
+			
 			for (Integer key : keySet) {
 				double successRate1 = 0;
 				double successRate2 = 0;
@@ -613,7 +576,6 @@ public class Metrics {
 				writer.flush();
 				content = key + "\t" + f_score;
 			}
-			writer.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -630,7 +592,7 @@ public class Metrics {
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		double successRate = 0;
-		double val1 = 0, val2 = 0;
+		double  val2 = 0;
 		String tmp = "";
 
 		Map<Integer, Double> successRateMap = new HashMap<Integer, Double>();
@@ -638,25 +600,22 @@ public class Metrics {
 		for (Integer keyTesting : keyTestingProjects) {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
-			try {
-				tmp = Paths.get(this.succesRateDir, filename).toString();
+			tmp = Paths.get(this.succesRateDir, filename).toString();
+			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))){
 				String line = null;
 				String[] vals = null;
 				int id = 1;
-				BufferedReader bufread = new BufferedReader(new FileReader(tmp));
+
 				while ((line = bufread.readLine()) != null) {
 					vals = line.split("\t");
 					successRate = Double.parseDouble(vals[1].trim());
 					if (successRateMap.containsKey(id))
 						val2 = successRateMap.get(id) + successRate;
-					else
-						val1 = successRate;
 					successRateMap.put(id, val2);
 					id++;
 					if (id > numLibs)
 						break;
 				}
-				bufread.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}

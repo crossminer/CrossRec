@@ -24,7 +24,7 @@ public class Graph {
 	
 	Map<String, Integer> dictionary = new HashMap<String, Integer>();
 		
-	private static SynchronizedCounter counter = new SynchronizedCounter();
+	
 	
 	public Graph () {		
 		OutLinks = new HashMap<Integer,Set<Integer>>();
@@ -50,53 +50,7 @@ public class Graph {
 	public Map<String, Integer> getDictionary(){
 		return this.dictionary;
 	}
-		
-	
-	/*
-	public Graph (File file) {
-		this();
-		
-		OutLinks = new HashMap<String, Set<String>>();
-		nodeCount = 0;
-		
-		BufferedReader reader = null;
-		String line;
-		String[] vals = null;
-		
-		Set<String> outlinks = new HashSet<String>();
-		Set<String> nodes = new HashSet<String>();
-				
-		try {
-			reader = new BufferedReader(new FileReader(file));			
-			while((line=reader.readLine())!=null) {				
-				vals = line.split("\t");	
-				String startNode = vals[0].trim();
-				String endNode = vals[1].trim();
-				nodes.add(startNode);
-				nodes.add(endNode);
-										
-				if(OutLinks.containsKey(startNode)){				
-					outlinks = OutLinks.get(startNode);
-					outlinks.add(endNode);
-					OutLinks.put(startNode, outlinks);					
-				} else {
-					outlinks = new HashSet<String>();
-					outlinks.add(endNode);
-					OutLinks.put(startNode, outlinks);
-				}							
-			}
-			reader.close();
-			nodeCount=nodes.size();		
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		
-	}
-	*/
-	
-	
+			
 	public Graph (String fileName) {
 		
 		OutLinks = new HashMap<Integer,Set<Integer>>();

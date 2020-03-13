@@ -2,6 +2,7 @@ package it.univaq.disim.CrossRec;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -117,7 +118,7 @@ public class DataReader {
 		String[] vals = null;
 		int half = 0;
 		int libCount = 0;
-		int pos = filename.lastIndexOf("/");
+		int pos = filename.lastIndexOf(File.separator);
 		String fname = filename.substring(pos + 1, filename.length());
 		fname = fname.replace("dicth_", "");
 		
@@ -138,11 +139,69 @@ public class DataReader {
 //			half = size > 1 ? 1 : size;
 			boolean enoughLib = false;
 			libCount = 0;
-			
-			/*
-			 * Read a half of the dictionary and all users, the other half is put into the
-			 * ground-truth data
-			 */
+
+			for (Integer key : keySet) {
+				String artifact = dict.get(key);
+				if (libCount == half)
+					enoughLib = true;
+				if (artifact.contains("#DEP#")) {
+					if (!enoughLib) {
+						ret.put(key, artifact);
+					} else {
+						String content = key + "\t" + artifact;
+						writer.append(content);
+						writer.newLine();
+						writer.flush();
+					}
+					libCount++;
+				} else {
+					/* put users into the dictionary */
+					if (getAlsoUsers || !artifact.contains("#DEP#"))
+						ret.put(key, artifact);
+				}
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return ret;
+	}
+	/**
+	 * Use the output from ESEM 
+	 * @param filename
+	 * @param groundTruthPath
+	 * @param getAlsoUsers
+	 * @return
+	 */
+	public Map<Integer, String> getOutputFromEASE(String filename, String groundTruthPath, boolean getAlsoUsers) {
+		Map<Integer, String> dict = new HashMap<Integer, String>();
+		Map<Integer, String> ret = new HashMap<Integer, String>();
+		String line = null;
+		String[] vals = null;
+		int half = 0;
+		int libCount = 0;
+		int pos = filename.lastIndexOf(File.separator);
+		String fname = filename.substring(pos + 1, filename.length());
+		fname = fname.replace("dicth_", "");
+		
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename));
+				BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(groundTruthPath, fname).toString()));){
+			while ((line = reader.readLine()) != null) {
+				vals = line.split("\t");
+				int ID = Integer.parseInt(vals[0].trim());
+				String artifact = vals[1].trim();
+				dict.put(ID, artifact);
+				if (artifact.contains("#DEP#"))
+					libCount++;
+			}
+			int size = libCount;
+			Set<Integer> keySet = dict.keySet();
+			// TODO half
+			half = Math.round(size / 2);
+//			half = size > 1 ? 1 : size;
+			boolean enoughLib = false;
+			libCount = 0;
 
 			for (Integer key : keySet) {
 				String artifact = dict.get(key);
@@ -172,46 +231,6 @@ public class DataReader {
 		return ret;
 	}
 
-	public Set<String> getHalfOfLibraries(String filename) {
-		Map<Integer, String> dict = new HashMap<Integer, String>();
-		Set<String> ret = new HashSet<String>();
-		String line = null;
-		String[] vals = null;
-		int libCount = 0, half = 0;
-
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
-			while ((line = reader.readLine()) != null) {
-				vals = line.split("\t");
-				int ID = Integer.parseInt(vals[0].trim());
-				String artifact = vals[1].trim();
-				dict.put(ID, artifact);
-				if (artifact.contains("#DEP#"))
-					libCount++;
-			}
-			int size = libCount;
-			Set<Integer> keySet = dict.keySet();
-			// TODO half
-			half = Math.round(size / 2);
-//			half = size > 1 ? 1 : size;
-			libCount = 0;
-			for (Integer key : keySet) {
-				String artifact = dict.get(key);
-				if (artifact.contains("#DEP#")) {
-					ret.add(artifact);
-					libCount++;
-				}
-				if (libCount == half)
-					break;
-			}
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return ret;
-	}
-
-	/* get the list of libraries for one project */
 
 	public Set<String> getLibraries(String filename) {
 		Set<String> vector = new HashSet<String>();
@@ -291,7 +310,6 @@ public class DataReader {
 	}
 	
 	/* read the whole file */
-	//TODO SI
 	public Map<Integer, String> readRecommendationFile(String filename) {
 		Map<Integer, String> ret = new HashMap<Integer, String>();
 		String line = null;
@@ -317,7 +335,6 @@ public class DataReader {
 	}
 
 	
-	//TODO SI
 	public Map<Integer, String> readAllRecommendations(String filename) {
 		Map<Integer, String> ret = new HashMap<Integer, String>();
 		String line = null;
@@ -343,7 +360,6 @@ public class DataReader {
 
 		return ret;
 	}
-	//TODO SI
 	public Set<String> readLongTailItems(String filename) {
 		Set<String> ret = new HashSet<String>();
 		String line = null;
@@ -364,7 +380,6 @@ public class DataReader {
 		return ret;
 	}
 
-	//TODO SI
 	public Set<String> readRecommendationFile(String filename, int size) {
 		Set<String> ret = new HashSet<String>();
 		String line = null;
@@ -389,7 +404,6 @@ public class DataReader {
 		return ret;
 	}
 
-	//TODO SI
 	public Map<String, Double> readRecommendationScores(String filename) {
 		Map<String, Double> ret = new HashMap<String, Double>();
 		String line = null;
@@ -412,7 +426,6 @@ public class DataReader {
 		return ret;
 	}
 
-	//TODO SI
 	public Set<String> readGroundTruthFile(String filename) {
 		Set<String> ret = new HashSet<String>();
 		String line = null;
@@ -436,7 +449,6 @@ public class DataReader {
 	/*
 	 * read ground-truth file including the rating given by users.
 	 */
-	//TODO SI
 	public Map<String, Double> readGroundTruthScore(String filename) {
 
 		Map<String, Double> ret = new HashMap<String, Double>();

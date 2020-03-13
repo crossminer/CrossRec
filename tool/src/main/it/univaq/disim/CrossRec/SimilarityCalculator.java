@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
+import java.util.stream.Collectors;
 
 import com.google.common.collect.Sets;
 
@@ -54,7 +55,7 @@ public class SimilarityCalculator {
 	 * using Cosine Similarity with Weight
 	 */
 
-	public void ComputeWeightCosineSimilarity() {
+	public void computeWeightCosineSimilarity() {
 
 		DataReader reader = new DataReader();
 
@@ -147,14 +148,19 @@ public class SimilarityCalculator {
 				testingGraphFilename = Paths.get(this.srcDir, "graph_" + testingFilename).toString();
 				testingDictFilename = Paths.get(this.srcDir, "dicth_" + testingFilename).toString();
 
+				
 				testingLibs = new HashSet<String>();
-				testingLibs = reader.getHalfOfLibraries(testingDictFilename);
-
-				allLibs.addAll(testingLibs);
-
 				testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers);
-
+				testingLibs = Sets.newHashSet(testingDictionary.values());
+				testingLibs = testingLibs.stream().filter(z -> z.startsWith("#DEP#")).collect(Collectors.toSet());
+				allLibs.addAll(testingLibs);
 				testingGraph = new Graph(testingGraphFilename, testingDictionary);
+
+//				testingLibs = new HashSet<String>();
+//				testingLibs = reader.getHalfOfLibraries(testingDictFilename);
+//				allLibs.addAll(testingLibs);
+//				testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers);
+//				testingGraph = new Graph(testingGraphFilename, testingDictionary);
 
 				combinedGraph.combine(testingGraph, testingDictionary);
 				combinedDictionary = combinedGraph.getDictionary();

@@ -11,6 +11,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
+import java.util.stream.Collectors;
+
+import com.google.common.collect.Sets;
 
 public class RecommendationEngine {
 
@@ -25,6 +28,7 @@ public class RecommendationEngine {
 	private int numOfNeighbours;
 	private int numOfRows;
 	private int numOfCols;
+	private String groundTruth;
 
 	public RecommendationEngine(String sourceDir, String suFolder, int numOfNeighbours, int teStartPos, int teEndPos) {
 		this.srcDir = sourceDir;
@@ -32,6 +36,8 @@ public class RecommendationEngine {
 		this.numOfNeighbours = numOfNeighbours;
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.simDir = Paths.get(this.srcDir, subFolder, "Similarities").toString();
+		this.groundTruth = Paths.get(this.srcDir, subFolder, "GroundTruth").toString();
+		
 		this.testingStartPos = teStartPos;
 		this.testingEndPos = teEndPos;
 	}
@@ -60,7 +66,13 @@ public class RecommendationEngine {
 		testingFilename = testingPro.replace("git://github.com/", "").replace("/", "__");
 		testingDictFilename = Paths.get(this.srcDir, "dicth_" + testingFilename).toString();
 		testingLibs = new HashSet<String>();
-		testingLibs = reader.getHalfOfLibraries(testingDictFilename);
+		
+		
+		Map<Integer, String> testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, false);
+//		Map<Integer, String> testingDictionary = reader.getOutputFromEASE(testingDictFilename, this.groundTruth, false);
+		testingLibs = Sets.newHashSet(testingDictionary.values());
+		testingLibs = testingLibs.stream().filter(z -> z.startsWith("#DEP#")).collect(Collectors.toSet());
+		
 
 		String tmp = Paths.get(this.simDir, filename).toString();
 		simProjects = reader.getMostSimilarProjects(tmp, numOfNeighbours);

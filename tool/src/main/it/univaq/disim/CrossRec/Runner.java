@@ -78,7 +78,7 @@ public class Runner {
 					testingStartPos,
 					testingEndPos);
 			
-			calculator.ComputeWeightCosineSimilarity();
+			calculator.computeWeightCosineSimilarity();
 			
 			RecommendationEngine engine = new RecommendationEngine(this.srcDir,this.subFolder,numOfNeighbours,testingStartPos,testingEndPos);
 			

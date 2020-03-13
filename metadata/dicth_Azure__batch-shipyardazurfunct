@@ -1,7 +1,0 @@
-1	git://github.com/Azure/batch-shipyardazurfunct.git
-2	#DEP#serverless
-3	#DEP#azur
-4	#DEP#contain
-5	#DEP#docker
-6	#DEP#gpu
-7	#DEP#hpc

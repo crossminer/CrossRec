@@ -1,8 +1,0 @@
-1	git://github.com/joscha/play-authenticateauthent.git
-2	#DEP#playframework
-3	#DEP#java
-4	#DEP#googl
-5	#DEP#plugin
-6	#DEP#linkedin
-7	#DEP#facebook
-8	#DEP#oauth

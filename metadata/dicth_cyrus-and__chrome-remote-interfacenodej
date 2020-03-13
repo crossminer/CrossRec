@@ -1,7 +1,0 @@
-1	git://github.com/cyrus-and/chrome-remote-interfacenodej.git
-2	#DEP#headless
-3	#DEP#firefox
-4	#DEP#javascript
-5	#DEP#opera
-6	#DEP#browser
-7	#DEP#googlchrom

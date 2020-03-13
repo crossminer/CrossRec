@@ -1,7 +1,0 @@
-1	git://github.com/Neko250/sublime-PICO-8snippet.git
-2	#DEP#syntaxhighlight
-3	#DEP#gamedev
-4	#DEP#sublimtext
-5	#DEP#font
-6	#DEP#pico8
-7	#DEP#autocomplet

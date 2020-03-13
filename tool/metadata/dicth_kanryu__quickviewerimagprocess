@@ -1,7 +1,0 @@
-1	git://github.com/kanryu/quickviewerimagprocess
-2	#DEP#qt
-3	#DEP#linuxapp
-4	#DEP#opengl
-5	#DEP#viewer
-6	#DEP#cpluplu
-7	#DEP#macapp

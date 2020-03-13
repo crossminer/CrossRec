@@ -1,7 +1,0 @@
-1	git://github.com/firefly-iii/firefly-iiimoney.git
-2	#DEP#heroku
-3	#DEP#linux
-4	#DEP#php7
-5	#DEP#docker
-6	#DEP#php
-7	#DEP#financ

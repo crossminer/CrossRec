@@ -1,9 +1,0 @@
-1	git://github.com/nebula-chat/chatenginetelegram
-2	#DEP#microservic
-3	#DEP#server
-4	#DEP#golang
-5	#DEP#grpc
-6	#DEP#im
-7	#DEP#chat
-8	#DEP#go
-9	#DEP#mtproto

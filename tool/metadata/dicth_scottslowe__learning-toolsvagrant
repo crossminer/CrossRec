@@ -1,8 +1,0 @@
-1	git://github.com/scottslowe/learning-toolsvagrant
-2	#DEP#consul
-3	#DEP#terraform
-4	#DEP#ubuntu
-5	#DEP#etcd
-6	#DEP#docker
-7	#DEP#ansibl
-8	#DEP#cento

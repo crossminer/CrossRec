@@ -1,7 +1,0 @@
-1	git://github.com/xujeff/tiantispringdatajpa.git
-2	#DEP#java
-3	#DEP#cm
-4	#DEP#springmvc
-5	#DEP#mysql
-6	#DEP#hibern
-7	#DEP#shiro

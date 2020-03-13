@@ -1,9 +1,0 @@
-1	git://github.com/nteract/papermillpublish.git
-2	#DEP#scala
-3	#DEP#python
-4	#DEP#nteract
-5	#DEP#jupyt
-6	#DEP#pipelin
-7	#DEP#julia
-8	#DEP#r
-9	#DEP#notebook

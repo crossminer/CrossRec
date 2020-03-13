@@ -1,7 +1,0 @@
-1	git://github.com/airbnb/streamalertserverless
-2	#DEP#secur
-3	#DEP#rule
-4	#DEP#terraform
-5	#DEP#aw
-6	#DEP#analysi
-7	#DEP#lambda

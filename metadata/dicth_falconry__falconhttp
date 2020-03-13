@@ -1,7 +1,0 @@
-1	git://github.com/falconry/falconhttp.git
-2	#DEP#web
-3	#DEP#python
-4	#DEP#rest
-5	#DEP#framework
-6	#DEP#api
-7	#DEP#microservic

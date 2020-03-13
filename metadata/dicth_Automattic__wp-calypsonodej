@@ -1,8 +1,0 @@
-1	git://github.com/Automattic/wp-calypsonodej.git
-2	#DEP#es6javascript
-3	#DEP#es6
-4	#DEP#javascript
-5	#DEP#wordpress
-6	#DEP#react
-7	#DEP#es2015
-8	#DEP#redux

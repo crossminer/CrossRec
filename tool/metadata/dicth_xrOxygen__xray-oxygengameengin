@@ -1,7 +1,0 @@
-1	git://github.com/xrOxygen/xray-oxygengameengin
-2	#DEP#cpp17
-3	#DEP#ai
-4	#DEP#csharp
-5	#DEP#cuda
-6	#DEP#opencl
-7	#DEP#3dengin

@@ -1,9 +1,0 @@
-1	git://github.com/huntsman-li/go-cachememori
-2	#DEP#postgr
-3	#DEP#postgresql
-4	#DEP#memcach
-5	#DEP#mysql
-6	#DEP#file
-7	#DEP#go
-8	#DEP#cach
-9	#DEP#nosql

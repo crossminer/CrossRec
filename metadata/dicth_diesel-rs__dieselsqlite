@@ -1,7 +1,0 @@
-1	git://github.com/diesel-rs/dieselsqlite.git
-2	#DEP#postgresql
-3	#DEP#queribuild
-4	#DEP#blockchain
-5	#DEP#mysql
-6	#DEP#orm
-7	#DEP#rust

@@ -1,7 +1,0 @@
-1	git://github.com/sysstat/sysstatc.git
-2	#DEP#performmonitor
-3	#DEP#memori
-4	#DEP#systemmonitor
-5	#DEP#monitor
-6	#DEP#cpu
-7	#DEP#linux

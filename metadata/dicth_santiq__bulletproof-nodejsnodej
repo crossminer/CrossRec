@@ -1,8 +1,0 @@
-1	git://github.com/santiq/bulletproof-nodejsnodej.git
-2	#DEP#node
-3	#DEP#typescript
-4	#DEP#express
-5	#DEP#mongodb
-6	#DEP#javascript
-7	#DEP#mongoos
-8	#DEP#boilerpl

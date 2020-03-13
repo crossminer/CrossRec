@@ -1,8 +1,0 @@
-1	git://github.com/LIKO-12/LIKO-12virtualmachin
-2	#DEP#luajit
-3	#DEP#osx
-4	#DEP#window
-5	#DEP#linux
-6	#DEP#lua
-7	#DEP#android
-8	#DEP#ide

@@ -1,8 +1,0 @@
-1	git://github.com/animir/node-rate-limiter-flexiblesecur
-2	#DEP#author
-3	#DEP#koa
-4	#DEP#rate
-5	#DEP#queue
-6	#DEP#express
-7	#DEP#auth
-8	#DEP#hapi

@@ -1,7 +1,0 @@
-1	git://github.com/REBOOTERS/AndroidAnimationExerciseanim.git
-2	#DEP#transform
-3	#DEP#gradlplugin
-4	#DEP#gradl
-5	#DEP#android
-6	#DEP#asm
-7	#DEP#view

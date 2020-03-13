@@ -1,7 +1,0 @@
-1	git://github.com/nextcloud/nextcloudpidockerimag
-2	#DEP#raspberripi
-3	#DEP#raspbian
-4	#DEP#arm
-5	#DEP#nextcloud
-6	#DEP#qemu
-7	#DEP#x8664

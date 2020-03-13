@@ -1,7 +1,0 @@
-1	git://github.com/xamarin/xamarin-maciosdotnet.git
-2	#DEP#xamarin
-3	#DEP#watcho
-4	#DEP#tvo
-5	#DEP#csharp
-6	#DEP#io
-7	#DEP#maco

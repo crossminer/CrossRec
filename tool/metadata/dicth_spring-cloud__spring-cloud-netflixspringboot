@@ -1,7 +1,0 @@
-1	git://github.com/spring-cloud/spring-cloud-netflixspringboot
-2	#DEP#java
-3	#DEP#cloudnativ
-4	#DEP#spring
-5	#DEP#springcloud
-6	#DEP#microservic
-7	#DEP#springcloudcor

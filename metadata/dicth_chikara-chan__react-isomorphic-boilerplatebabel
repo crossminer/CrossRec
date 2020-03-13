@@ -1,9 +1,0 @@
-1	git://github.com/chikara-chan/react-isomorphic-boilerplatebabel.git
-2	#DEP#serversiderend
-3	#DEP#react
-4	#DEP#eslint
-5	#DEP#isomorph
-6	#DEP#koa2
-7	#DEP#redux
-8	#DEP#webpack
-9	#DEP#boilerpl

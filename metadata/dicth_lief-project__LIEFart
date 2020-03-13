@@ -1,8 +1,0 @@
-1	git://github.com/lief-project/LIEFart.git
-2	#DEP#python
-3	#DEP#malwaranalysi
-4	#DEP#parser
-5	#DEP#sdk
-6	#DEP#android
-7	#DEP#reversengin
-8	#DEP#par

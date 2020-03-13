@@ -1,7 +1,0 @@
-1	git://github.com/begla/Intrinsicgameengin.git
-2	#DEP#render
-3	#DEP#renderengin
-4	#DEP#dataorientdesign
-5	#DEP#game
-6	#DEP#vulkan
-7	#DEP#crossplatform

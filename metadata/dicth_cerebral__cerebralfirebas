@@ -1,9 +1,0 @@
-1	git://github.com/cerebral/cerebralfirebas.git
-2	#DEP#statemanag
-3	#DEP#javascript
-4	#DEP#control
-5	#DEP#react
-6	#DEP#inferno
-7	#DEP#debugg
-8	#DEP#monorepo
-9	#DEP#npmmodul

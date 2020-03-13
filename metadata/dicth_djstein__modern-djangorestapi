@@ -1,8 +1,0 @@
-1	git://github.com/djstein/modern-djangorestapi.git
-2	#DEP#guidelin
-3	#DEP#python
-4	#DEP#django
-5	#DEP#python3
-6	#DEP#python36
-7	#DEP#djangorestframework
-8	#DEP#guid

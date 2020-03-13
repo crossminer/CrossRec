@@ -1,7 +1,0 @@
-1	git://github.com/kamon-io/Kamonscala.git
-2	#DEP#java
-3	#DEP#monitor
-4	#DEP#metric
-5	#DEP#time
-6	#DEP#distributtrac
-7	#DEP#trace

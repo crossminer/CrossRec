@@ -1,7 +1,0 @@
-1	git://github.com/taocpp/PEGTLparexpressgrammar.git
-2	#DEP#par
-3	#DEP#grammar
-4	#DEP#cpp17
-5	#DEP#headeronli
-6	#DEP#cpp11
-7	#DEP#cpp

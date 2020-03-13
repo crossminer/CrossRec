@@ -1,7 +1,0 @@
-1	git://github.com/sumory/loropenresti
-2	#DEP#web
-3	#DEP#rest
-4	#DEP#nginx
-5	#DEP#api
-6	#DEP#lua
-7	#DEP#sinatra

@@ -1,7 +1,0 @@
-1	git://github.com/trazyn/weweChatdesktop.git
-2	#DEP#electron
-3	#DEP#client
-4	#DEP#react
-5	#DEP#mobx
-6	#DEP#wechat
-7	#DEP#chat

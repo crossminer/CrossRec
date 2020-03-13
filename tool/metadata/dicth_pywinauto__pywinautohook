@@ -1,9 +1,0 @@
-1	git://github.com/pywinauto/pywinautohook
-2	#DEP#testtool
-3	#DEP#pythonlibrari
-4	#DEP#python
-5	#DEP#autom
-6	#DEP#gui
-7	#DEP#window
-8	#DEP#linux
-9	#DEP#test

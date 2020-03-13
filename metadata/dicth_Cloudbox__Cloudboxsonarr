@@ -1,8 +1,0 @@
-1	git://github.com/Cloudbox/Cloudboxsonarr.git
-2	#DEP#radarr
-3	#DEP#plex
-4	#DEP#nzbget
-5	#DEP#torrent
-6	#DEP#bittorr
-7	#DEP#docker
-8	#DEP#ansibl

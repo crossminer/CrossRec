@@ -1,9 +1,0 @@
-1	git://github.com/dan-v/rattlesnakeos-stacksecur.git
-2	#DEP#golang
-3	#DEP#awlambda
-4	#DEP#terraform
-5	#DEP#ec2
-6	#DEP#android
-7	#DEP#aw
-8	#DEP#privaci
-9	#DEP#chromium

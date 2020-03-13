@@ -1,8 +1,0 @@
-1	git://github.com/peterchenhdu/webbfmybati.git
-2	#DEP#restapi
-3	#DEP#es6
-4	#DEP#babel
-5	#DEP#springmvc
-6	#DEP#react
-7	#DEP#antdesign
-8	#DEP#webpack

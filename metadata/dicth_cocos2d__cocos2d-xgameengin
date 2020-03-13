@@ -1,7 +1,0 @@
-1	git://github.com/cocos2d/cocos2d-xgameengin.git
-2	#DEP#cpluplu
-3	#DEP#metal
-4	#DEP#window
-5	#DEP#android
-6	#DEP#lua
-7	#DEP#io

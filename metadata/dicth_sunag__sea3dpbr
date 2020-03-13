@@ -1,7 +1,0 @@
-1	git://github.com/sunag/sea3dpbr.git
-2	#DEP#gameengin
-3	#DEP#webgl
-4	#DEP#javascript
-5	#DEP#html5
-6	#DEP#threej
-7	#DEP#export

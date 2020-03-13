@@ -1,9 +1,0 @@
-1	git://github.com/backup/backupmongodb
-2	#DEP#databas
-3	#DEP#slack
-4	#DEP#s3
-5	#DEP#encrypt
-6	#DEP#rubi
-7	#DEP#mysql
-8	#DEP#backup
-9	#DEP#postgresql

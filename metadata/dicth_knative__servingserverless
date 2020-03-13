@@ -1,7 +1,0 @@
-1	git://github.com/knative/servingserverless.git
-2	#DEP#googl
-3	#DEP#function
-4	#DEP#app
-5	#DEP#istio
-6	#DEP#contain
-7	#DEP#kubernet

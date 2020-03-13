@@ -1,9 +1,0 @@
-1	git://github.com/microservices-demo/microservices-demonodej
-2	#DEP#springboot
-3	#DEP#java
-4	#DEP#ec
-5	#DEP#golang
-6	#DEP#meso
-7	#DEP#kubernet
-8	#DEP#docker
-9	#DEP#microservic

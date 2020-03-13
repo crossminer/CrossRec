@@ -1,8 +1,0 @@
-1	git://github.com/symfony/translationl10n
-2	#DEP#intl
-3	#DEP#compon
-4	#DEP#translat
-5	#DEP#i18n
-6	#DEP#symfoni
-7	#DEP#php
-8	#DEP#symfonicompon

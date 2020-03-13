@@ -1,9 +1,0 @@
-1	git://github.com/b-ryan/powerline-shellshell.git
-2	#DEP#bash
-3	#DEP#colorschem
-4	#DEP#python
-5	#DEP#fish
-6	#DEP#theme
-7	#DEP#developtool
-8	#DEP#zsh
-9	#DEP#powerlin

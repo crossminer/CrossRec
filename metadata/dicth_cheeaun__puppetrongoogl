@@ -1,8 +1,0 @@
-1	git://github.com/cheeaun/puppetrongoogl.git
-2	#DEP#screenshot
-3	#DEP#chrome
-4	#DEP#headless
-5	#DEP#puppet
-6	#DEP#docker
-7	#DEP#chromium
-8	#DEP#pdf

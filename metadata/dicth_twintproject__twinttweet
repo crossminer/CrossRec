@@ -1,7 +1,0 @@
-1	git://github.com/twintproject/twinttweet.git
-2	#DEP#twitter
-3	#DEP#python
-4	#DEP#osint
-5	#DEP#scrape
-6	#DEP#elasticsearch
-7	#DEP#kibana

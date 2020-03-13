@@ -1,9 +1,0 @@
-1	git://github.com/aws-samples/aws-mobile-react-native-starterserverless
-2	#DEP#apigateway
-3	#DEP#cognito
-4	#DEP#s3
-5	#DEP#reactnativ
-6	#DEP#dynamodb
-7	#DEP#aw
-8	#DEP#javascript
-9	#DEP#lambda

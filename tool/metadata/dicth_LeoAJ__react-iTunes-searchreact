@@ -1,9 +1,0 @@
-1	git://github.com/LeoAJ/react-iTunes-searchreact
-2	#DEP#webpack2
-3	#DEP#es6
-4	#DEP#babel
-5	#DEP#flow
-6	#DEP#reactj
-7	#DEP#postcss
-8	#DEP#eslint
-9	#DEP#asyncawait

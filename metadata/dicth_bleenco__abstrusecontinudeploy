@@ -1,9 +1,0 @@
-1	git://github.com/bleenco/abstrusecontinudeploy.git
-2	#DEP#ci
-3	#DEP#continuintegr
-4	#DEP#server
-5	#DEP#cd
-6	#DEP#test
-7	#DEP#continudeliveri
-8	#DEP#docker
-9	#DEP#continutest

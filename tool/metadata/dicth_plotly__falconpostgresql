@@ -1,7 +1,0 @@
-1	git://github.com/plotly/falconpostgresql
-2	#DEP#redshift
-3	#DEP#plotli
-4	#DEP#visual
-5	#DEP#sql
-6	#DEP#electron
-7	#DEP#falcon

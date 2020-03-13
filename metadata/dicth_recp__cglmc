@@ -1,9 +1,0 @@
-1	git://github.com/recp/cglmc.git
-2	#DEP#matrix
-3	#DEP#opengl
-4	#DEP#sse
-5	#DEP#neon
-6	#DEP#vector
-7	#DEP#simd
-8	#DEP#math
-9	#DEP#3d

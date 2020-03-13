@@ -1,9 +1,0 @@
-1	git://github.com/JasonKessler/scattertextnaturlanguagprocess.git
-2	#DEP#textmin
-3	#DEP#eda
-4	#DEP#word2vec
-5	#DEP#nlp
-6	#DEP#wordemb
-7	#DEP#machinlearn
-8	#DEP#visual
-9	#DEP#d3

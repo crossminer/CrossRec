@@ -1,9 +1,0 @@
-1	git://github.com/b00giZm/docker-compose-nodejs-examplesnodej
-2	#DEP#node
-3	#DEP#redi
-4	#DEP#express
-5	#DEP#javascript
-6	#DEP#gulp
-7	#DEP#dockercompo
-8	#DEP#grunt
-9	#DEP#docker

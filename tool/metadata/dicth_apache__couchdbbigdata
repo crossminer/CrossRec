@@ -1,9 +1,0 @@
-1	git://github.com/apache/couchdbbigdata
-2	#DEP#couchdb
-3	#DEP#http
-4	#DEP#databas
-5	#DEP#javascript
-6	#DEP#cplusplu
-7	#DEP#erlang
-8	#DEP#cloud
-9	#DEP#content

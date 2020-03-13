@@ -1,8 +1,0 @@
-1	git://github.com/yinqiwen/gsnovahttp
-2	#DEP#proxi
-3	#DEP#websocket
-4	#DEP#tcp
-5	#DEP#ssh
-6	#DEP#p2p
-7	#DEP#tl
-8	#DEP#http2

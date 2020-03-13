@@ -1,8 +1,0 @@
-1	git://github.com/timdonnelly/Advanceanim.git
-2	#DEP#spring
-3	#DEP#interact
-4	#DEP#motion
-5	#DEP#ui
-6	#DEP#io
-7	#DEP#swift
-8	#DEP#physic

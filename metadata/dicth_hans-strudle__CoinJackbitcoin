@@ -1,9 +1,0 @@
-1	git://github.com/hans-strudle/CoinJackbitcoin.git
-2	#DEP#firefox
-3	#DEP#hash
-4	#DEP#chrome
-5	#DEP#mine
-6	#DEP#chromeexten
-7	#DEP#webmin
-8	#DEP#cryptocurr
-9	#DEP#monero

@@ -1,7 +1,0 @@
-1	git://github.com/spacemeshos/go-spacemeshconsensu
-2	#DEP#blockchain
-3	#DEP#golang
-4	#DEP#p2p
-5	#DEP#decentr
-6	#DEP#cryptocurr
-7	#DEP#go

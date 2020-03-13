@@ -1,8 +1,0 @@
-1	git://github.com/lxdock/lxdockvagrant.git
-2	#DEP#orchestr
-3	#DEP#python
-4	#DEP#devoptool
-5	#DEP#devop
-6	#DEP#python3
-7	#DEP#linux
-8	#DEP#contain

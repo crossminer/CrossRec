@@ -1,9 +1,0 @@
-1	git://github.com/NodeBB/NodeBBnodej.git
-2	#DEP#node
-3	#DEP#forum
-4	#DEP#mongodb
-5	#DEP#websocket
-6	#DEP#javascript
-7	#DEP#socketio
-8	#DEP#commun
-9	#DEP#redi

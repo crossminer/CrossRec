@@ -1,8 +1,0 @@
-1	git://github.com/twosigma/beakerxscala.git
-2	#DEP#java
-3	#DEP#kotlin
-4	#DEP#jupyt
-5	#DEP#sql
-6	#DEP#groovi
-7	#DEP#notebook
-8	#DEP#clojur

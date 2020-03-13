@@ -1,7 +1,0 @@
-1	git://github.com/rflechner/ScrapySharpfsharp.git
-2	#DEP#scraper
-3	#DEP#par
-4	#DEP#scrape
-5	#DEP#html
-6	#DEP#csharp
-7	#DEP#dotnet

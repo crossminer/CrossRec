@@ -1,8 +1,0 @@
-1	git://github.com/redco/goose-parsernodej
-2	#DEP#crawler
-3	#DEP#scraper
-4	#DEP#parser
-5	#DEP#scrape
-6	#DEP#browser
-7	#DEP#docker
-8	#DEP#par

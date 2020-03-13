@@ -1,8 +1,0 @@
-1	git://github.com/albumentations-team/albumentationsimagprocess
-2	#DEP#detect
-3	#DEP#imagclassif
-4	#DEP#python
-5	#DEP#deeplearn
-6	#DEP#objectdetect
-7	#DEP#segment
-8	#DEP#machinlearn

@@ -1,8 +1,0 @@
-1	git://github.com/cdimascio/generator-express-no-stressopenapi.git
-2	#DEP#openapi3
-3	#DEP#express
-4	#DEP#expressj
-5	#DEP#babel
-6	#DEP#scaffold
-7	#DEP#yeomangen
-8	#DEP#swagger

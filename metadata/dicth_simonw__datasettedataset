@@ -1,8 +1,0 @@
-1	git://github.com/simonw/datasettedataset.git
-2	#DEP#sqlite
-3	#DEP#python
-4	#DEP#sql
-5	#DEP#json
-6	#DEP#automatapi
-7	#DEP#docker
-8	#DEP#csv

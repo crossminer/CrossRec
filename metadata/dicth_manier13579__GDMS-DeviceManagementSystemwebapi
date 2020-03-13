@@ -1,8 +1,0 @@
-1	git://github.com/manier13579/GDMS-DeviceManagementSystemwebapi.git
-2	#DEP#jwt
-3	#DEP#oracl
-4	#DEP#jqueri
-5	#DEP#ajax
-6	#DEP#csharp
-7	#DEP#javascript
-8	#DEP#aspnet

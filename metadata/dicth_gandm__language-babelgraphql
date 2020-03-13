@@ -1,9 +1,0 @@
-1	git://github.com/gandm/language-babelgraphql.git
-2	#DEP#es5
-3	#DEP#es6
-4	#DEP#es7
-5	#DEP#babel
-6	#DEP#stylecompon
-7	#DEP#react
-8	#DEP#atom
-9	#DEP#jsx

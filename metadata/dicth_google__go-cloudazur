@@ -1,8 +1,0 @@
-1	git://github.com/google/go-cloudazur.git
-2	#DEP#server
-3	#DEP#portabl
-4	#DEP#golang
-5	#DEP#gcp
-6	#DEP#aw
-7	#DEP#go
-8	#DEP#cloud

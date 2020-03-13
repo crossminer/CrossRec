@@ -1,7 +1,0 @@
-1	git://github.com/kbinani/colormap-shadersglsl
-2	#DEP#opengl
-3	#DEP#shader
-4	#DEP#chart
-5	#DEP#metal
-6	#DEP#matlab
-7	#DEP#cplusplu

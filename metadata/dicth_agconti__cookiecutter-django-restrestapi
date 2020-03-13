@@ -1,8 +1,0 @@
-1	git://github.com/agconti/cookiecutter-django-restrestapi.git
-2	#DEP#python
-3	#DEP#django
-4	#DEP#rest
-5	#DEP#python3
-6	#DEP#api
-7	#DEP#docker
-8	#DEP#boilerpl

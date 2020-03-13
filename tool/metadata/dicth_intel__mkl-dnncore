@@ -1,7 +1,0 @@
-1	git://github.com/intel/mkl-dnncore
-2	#DEP#deepneuralnetwork
-3	#DEP#cpluplu
-4	#DEP#deeplearn
-5	#DEP#perform
-6	#DEP#atom
-7	#DEP#simd

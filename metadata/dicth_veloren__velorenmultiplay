@@ -1,7 +1,0 @@
-1	git://github.com/veloren/velorenmultiplay.git
-2	#DEP#procedurgen
-3	#DEP#voxel
-4	#DEP#game
-5	#DEP#rpg
-6	#DEP#3d
-7	#DEP#rust

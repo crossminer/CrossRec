@@ -1,8 +1,0 @@
-1	git://github.com/ptaoussanis/towerl10n.git
-2	#DEP#taoensso
-3	#DEP#clojur
-4	#DEP#clojurescript
-5	#DEP#translat
-6	#DEP#epl
-7	#DEP#i18n
-8	#DEP#local

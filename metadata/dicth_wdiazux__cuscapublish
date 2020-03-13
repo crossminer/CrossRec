@@ -1,8 +1,0 @@
-1	git://github.com/wdiazux/cuscapublish.git
-2	#DEP#typescript
-3	#DEP#ghost
-4	#DEP#journal
-5	#DEP#blog
-6	#DEP#theme
-7	#DEP#webpack
-8	#DEP#sas

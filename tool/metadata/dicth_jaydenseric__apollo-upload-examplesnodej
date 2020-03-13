@@ -1,9 +1,0 @@
-1	git://github.com/jaydenseric/apollo-upload-examplesnodej
-2	#DEP#babel
-3	#DEP#nextj
-4	#DEP#koa
-5	#DEP#react
-6	#DEP#prettier
-7	#DEP#eslint
-8	#DEP#apollo
-9	#DEP#graphql

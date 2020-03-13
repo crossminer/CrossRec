@@ -1,8 +1,0 @@
-1	git://github.com/gongminmin/KlayGEgameengin
-2	#DEP#opengl
-3	#DEP#python
-4	#DEP#graphic
-5	#DEP#d3d11
-6	#DEP#d3d12
-7	#DEP#open
-8	#DEP#crossplatform

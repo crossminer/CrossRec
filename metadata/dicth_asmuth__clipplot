@@ -1,8 +1,0 @@
-1	git://github.com/asmuth/clipplot.git
-2	#DEP#datavisu
-3	#DEP#dataviz
-4	#DEP#graphic
-5	#DEP#chart
-6	#DEP#cpp17
-7	#DEP#csv
-8	#DEP#cpp

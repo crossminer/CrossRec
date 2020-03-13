@@ -1,8 +1,0 @@
-1	git://github.com/speedment/speedmentspringboot.git
-2	#DEP#java
-3	#DEP#databas
-4	#DEP#stream
-5	#DEP#spring
-6	#DEP#javafx
-7	#DEP#orm
-8	#DEP#codegen

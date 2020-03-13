@@ -1,8 +1,0 @@
-1	git://github.com/alexfru/SmallerCx86.git
-2	#DEP#c
-3	#DEP#selfhost
-4	#DEP#compil
-5	#DEP#window
-6	#DEP#linux
-7	#DEP#maco
-8	#DEP#mip

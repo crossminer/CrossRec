@@ -1,8 +1,0 @@
-1	git://github.com/rampatra/jbotspringboot.git
-2	#DEP#slack
-3	#DEP#botframework
-4	#DEP#convers
-5	#DEP#bot
-6	#DEP#facebook
-7	#DEP#java8
-8	#DEP#java

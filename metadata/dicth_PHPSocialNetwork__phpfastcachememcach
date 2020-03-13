@@ -1,9 +1,0 @@
-1	git://github.com/PHPSocialNetwork/phpfastcachememcach.git
-2	#DEP#cassandra
-3	#DEP#couchdb
-4	#DEP#mongodb
-5	#DEP#cach
-6	#DEP#driver
-7	#DEP#websit
-8	#DEP#redi
-9	#DEP#php

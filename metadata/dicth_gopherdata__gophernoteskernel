@@ -1,9 +1,0 @@
-1	git://github.com/gopherdata/gophernoteskernel.git
-2	#DEP#nteract
-3	#DEP#jupytnotebook
-4	#DEP#jupyt
-5	#DEP#machinlearn
-6	#DEP#golang
-7	#DEP#go
-8	#DEP#datascienc
-9	#DEP#artificiintellig

@@ -1,9 +1,0 @@
-1	git://github.com/mistio/mist-cedocker
-2	#DEP#python
-3	#DEP#monitor
-4	#DEP#devop
-5	#DEP#server
-6	#DEP#aw
-7	#DEP#contain
-8	#DEP#openstack
-9	#DEP#cloud

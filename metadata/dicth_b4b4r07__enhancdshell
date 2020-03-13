@@ -1,9 +1,0 @@
-1	git://github.com/b4b4r07/enhancdshell.git
-2	#DEP#shellexten
-3	#DEP#cli
-4	#DEP#cd
-5	#DEP#commandlinetool
-6	#DEP#shellscript
-7	#DEP#fuzzisearch
-8	#DEP#zsh
-9	#DEP#bash

@@ -1,7 +1,0 @@
-1	git://github.com/orientechnologies/orientdbnosql.git
-2	#DEP#graphdataba
-3	#DEP#databas
-4	#DEP#perform
-5	#DEP#documentdataba
-6	#DEP#sql
-7	#DEP#fast

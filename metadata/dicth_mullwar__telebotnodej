@@ -1,7 +1,0 @@
-1	git://github.com/mullwar/telebotnodej.git
-2	#DEP#node
-3	#DEP#npm
-4	#DEP#telegram
-5	#DEP#bot
-6	#DEP#telegrambotapi
-7	#DEP#telegrambot

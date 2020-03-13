@@ -1,7 +1,0 @@
-1	git://github.com/asyml/texarbert
-2	#DEP#naturlanguagprocess
-3	#DEP#machintranslat
-4	#DEP#python
-5	#DEP#deeplearn
-6	#DEP#machinlearn
-7	#DEP#tensorflow

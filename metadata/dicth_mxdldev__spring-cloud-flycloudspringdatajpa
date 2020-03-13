@@ -1,7 +1,0 @@
-1	git://github.com/mxdldev/spring-cloud-flycloudspringdatajpa.git
-2	#DEP#springboot
-3	#DEP#spring
-4	#DEP#springmvc
-5	#DEP#springcloud
-6	#DEP#springframework
-7	#DEP#springsecur

@@ -1,8 +1,0 @@
-1	git://github.com/Artemmkin/infrastructure-as-code-tutorialvagrant.git
-2	#DEP#packer
-3	#DEP#terraform
-4	#DEP#dockercompo
-5	#DEP#kubernet
-6	#DEP#docker
-7	#DEP#ansibl
-8	#DEP#infrastructurcod

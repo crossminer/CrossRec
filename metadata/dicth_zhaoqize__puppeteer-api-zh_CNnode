@@ -1,8 +1,0 @@
-1	git://github.com/zhaoqize/puppeteer-api-zh_CNnode.git
-2	#DEP#web
-3	#DEP#chrome
-4	#DEP#autom
-5	#DEP#headless
-6	#DEP#puppet
-7	#DEP#test
-8	#DEP#developtool

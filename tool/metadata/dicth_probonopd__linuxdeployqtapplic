@@ -1,7 +1,0 @@
-1	git://github.com/probonopd/linuxdeployqtapplic
-2	#DEP#qt5
-3	#DEP#deploy
-4	#DEP#packag
-5	#DEP#linux
-6	#DEP#qt
-7	#DEP#appimag

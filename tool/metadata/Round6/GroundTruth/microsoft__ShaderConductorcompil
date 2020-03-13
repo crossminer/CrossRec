@@ -1,5 +1,0 @@
-6	#DEP#shader
-7	#DEP#metal
-8	#DEP#d3d11
-9	#DEP#vulkan
-10	#DEP#d3d12

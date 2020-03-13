@@ -1,9 +1,0 @@
-1	git://github.com/appserver-io/appserverapplic
-2	#DEP#servic
-3	#DEP#timer
-4	#DEP#server
-5	#DEP#messag
-6	#DEP#contain
-7	#DEP#queue
-8	#DEP#persist
-9	#DEP#php

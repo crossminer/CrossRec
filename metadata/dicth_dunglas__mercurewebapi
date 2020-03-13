@@ -1,8 +1,0 @@
-1	git://github.com/dunglas/mercurewebapi.git
-2	#DEP#realtim
-3	#DEP#websocket
-4	#DEP#golang
-5	#DEP#api
-6	#DEP#push
-7	#DEP#subscript
-8	#DEP#graphql

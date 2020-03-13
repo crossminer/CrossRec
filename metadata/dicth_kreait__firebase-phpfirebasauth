@@ -1,8 +1,0 @@
-1	git://github.com/kreait/firebase-phpfirebasauth.git
-2	#DEP#firebas
-3	#DEP#firebascloudmessag
-4	#DEP#firestor
-5	#DEP#firebasadmin
-6	#DEP#firebasstorag
-7	#DEP#firebasdataba
-8	#DEP#php

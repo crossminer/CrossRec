@@ -1,7 +1,0 @@
-1	git://github.com/turanszkij/WickedEnginenetwork.git
-2	#DEP#entiticomponsystem
-3	#DEP#lua
-4	#DEP#audio
-5	#DEP#vulkan
-6	#DEP#input
-7	#DEP#gltf

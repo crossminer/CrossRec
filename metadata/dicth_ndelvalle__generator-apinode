@@ -1,8 +1,0 @@
-1	git://github.com/ndelvalle/generator-apinode.git
-2	#DEP#restapi
-3	#DEP#es6
-4	#DEP#expressj
-5	#DEP#yeomangen
-6	#DEP#api
-7	#DEP#mongoos
-8	#DEP#yeoman

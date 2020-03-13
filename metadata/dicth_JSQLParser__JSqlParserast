@@ -1,8 +1,0 @@
-1	git://github.com/JSQLParser/JSqlParserast.git
-2	#DEP#postgresql
-3	#DEP#parser
-4	#DEP#oracl
-5	#DEP#sql
-6	#DEP#mysql
-7	#DEP#sqlserver
-8	#DEP#java

@@ -1,7 +1,0 @@
-1	git://github.com/jgm/pandocpublish.git
-2	#DEP#markdown
-3	#DEP#pandoc
-4	#DEP#convert
-5	#DEP#haskel
-6	#DEP#present
-7	#DEP#document

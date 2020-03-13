@@ -1,7 +1,0 @@
-1	git://github.com/nhn/tui.calendartask.git
-2	#DEP#frontend
-3	#DEP#schedul
-4	#DEP#javascript
-5	#DEP#jqueriplugin
-6	#DEP#jqueri
-7	#DEP#calendar

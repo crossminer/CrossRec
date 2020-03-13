@@ -1,8 +1,0 @@
-1	git://github.com/sambaiz/puppeteer-lambda-starter-kitnodej.git
-2	#DEP#serverless
-3	#DEP#chrome
-4	#DEP#serverlessframework
-5	#DEP#awlambda
-6	#DEP#puppet
-7	#DEP#headlesschrom
-8	#DEP#lambda

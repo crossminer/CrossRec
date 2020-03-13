@@ -1,9 +1,0 @@
-1	git://github.com/joefitzgerald/go-plusbuild.git
-2	#DEP#lint
-3	#DEP#golang
-4	#DEP#editor
-5	#DEP#atom
-6	#DEP#test
-7	#DEP#go
-8	#DEP#ide
-9	#DEP#autocomplet

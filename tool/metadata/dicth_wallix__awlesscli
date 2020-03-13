@@ -1,7 +1,0 @@
-1	git://github.com/wallix/awlesscli
-2	#DEP#devoptool
-3	#DEP#devop
-4	#DEP#golang
-5	#DEP#aw
-6	#DEP#awcli
-7	#DEP#cloud

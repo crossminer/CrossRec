@@ -1,8 +1,0 @@
-1	git://github.com/NewLifeX/Xsecur
-2	#DEP#thread
-3	#DEP#network
-4	#DEP#servic
-5	#DEP#server
-6	#DEP#api
-7	#DEP#rpc
-8	#DEP#serial

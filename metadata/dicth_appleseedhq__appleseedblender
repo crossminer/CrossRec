@@ -1,7 +1,0 @@
-1	git://github.com/appleseedhq/appleseedblender.git
-2	#DEP#anim
-3	#DEP#qt
-4	#DEP#render
-5	#DEP#python
-6	#DEP#light
-7	#DEP#cpp

@@ -1,7 +1,0 @@
-1	git://github.com/reactos/reactoskernel.git
-2	#DEP#c
-3	#DEP#x86
-4	#DEP#osdev
-5	#DEP#driver
-6	#DEP#window
-7	#DEP#opersystem

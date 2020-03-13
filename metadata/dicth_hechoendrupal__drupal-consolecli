@@ -1,7 +1,0 @@
-1	git://github.com/hechoendrupal/drupal-consolecli.git
-2	#DEP#consol
-3	#DEP#drupal
-4	#DEP#scaffold
-5	#DEP#symfoni
-6	#DEP#php
-7	#DEP#codegen

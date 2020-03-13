@@ -1,9 +1,0 @@
-1	git://github.com/powerline/powerlineprompt.git
-2	#DEP#vim
-3	#DEP#python
-4	#DEP#fish
-5	#DEP#tmux
-6	#DEP#powerlin
-7	#DEP#ipython
-8	#DEP#zsh
-9	#DEP#bash

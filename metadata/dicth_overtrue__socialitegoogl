@@ -1,8 +1,0 @@
-1	git://github.com/overtrue/socialitegoogl.git
-2	#DEP#sociallogin
-3	#DEP#linkedin
-4	#DEP#laravel
-5	#DEP#facebook
-6	#DEP#login
-7	#DEP#oauth
-8	#DEP#wechat

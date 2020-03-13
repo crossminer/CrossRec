@@ -1,9 +1,0 @@
-1	git://github.com/stagemonitor/stagemonitorgrafana
-2	#DEP#java
-3	#DEP#perform
-4	#DEP#monitor
-5	#DEP#metric
-6	#DEP#kibana
-7	#DEP#apm
-8	#DEP#profil
-9	#DEP#trace

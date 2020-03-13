@@ -1,9 +1,0 @@
-1	git://github.com/intel-isl/Open3Dvoxel
-2	#DEP#opengl
-3	#DEP#python
-4	#DEP#mesh
-5	#DEP#visual
-6	#DEP#computgraph
-7	#DEP#pointcloud
-8	#DEP#cpp
-9	#DEP#computvis

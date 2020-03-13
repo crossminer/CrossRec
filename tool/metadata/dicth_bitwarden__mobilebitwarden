@@ -1,7 +1,0 @@
-1	git://github.com/bitwarden/mobilebitwarden
-2	#DEP#xaml
-3	#DEP#xamarin
-4	#DEP#android
-5	#DEP#csharp
-6	#DEP#io
-7	#DEP#dotnet

@@ -1,7 +1,0 @@
-1	git://github.com/justinmk/vim-sneakneovim.git
-2	#DEP#navig
-3	#DEP#plugin
-4	#DEP#vim
-5	#DEP#viml
-6	#DEP#motion
-7	#DEP#nvim

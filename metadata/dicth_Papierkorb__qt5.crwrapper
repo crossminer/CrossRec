@@ -1,7 +1,0 @@
-1	git://github.com/Papierkorb/qt5.crwrapper.git
-2	#DEP#desktopappl
-3	#DEP#qt5
-4	#DEP#bind
-5	#DEP#gui
-6	#DEP#qt
-7	#DEP#crystal

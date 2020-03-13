@@ -1,9 +1,0 @@
-1	git://github.com/pvdlg/env-cibitbucket.git
-2	#DEP#ci
-3	#DEP#circleci
-4	#DEP#continuintegr
-5	#DEP#jenkin
-6	#DEP#gitlab
-7	#DEP#appveyor
-8	#DEP#environ
-9	#DEP#travi

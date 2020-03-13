@@ -1,9 +1,0 @@
-1	git://github.com/cabinjs/cabinlog
-2	#DEP#inspect
-3	#DEP#express
-4	#DEP#servic
-5	#DEP#koa
-6	#DEP#reactnativ
-7	#DEP#util
-8	#DEP#react
-9	#DEP#debug

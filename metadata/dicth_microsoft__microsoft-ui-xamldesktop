@@ -1,7 +1,0 @@
-1	git://github.com/microsoft/microsoft-ui-xamldesktop.git
-2	#DEP#xaml
-3	#DEP#uwp
-4	#DEP#window
-5	#DEP#csharp
-6	#DEP#window10
-7	#DEP#cpp

@@ -1,8 +1,0 @@
-1	git://github.com/insane-adding-machines/frostedkernel
-2	#DEP#shell
-3	#DEP#tl
-4	#DEP#posix
-5	#DEP#embed
-6	#DEP#unix
-7	#DEP#arm
-8	#DEP#opersystem

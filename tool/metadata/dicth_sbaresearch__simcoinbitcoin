@@ -1,7 +1,0 @@
-1	git://github.com/sbaresearch/simcoinbitcoin
-2	#DEP#python3
-3	#DEP#rmarkdown
-4	#DEP#blockchain
-5	#DEP#ethereum
-6	#DEP#litecoin
-7	#DEP#docker

@@ -1,7 +1,0 @@
-1	git://github.com/LuxLang/luxprogramlanguag.git
-2	#DEP#lisp
-3	#DEP#macro
-4	#DEP#haskel
-5	#DEP#languag
-6	#DEP#clojur
-7	#DEP#functionprogram

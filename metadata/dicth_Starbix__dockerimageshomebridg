@@ -1,7 +1,0 @@
-1	git://github.com/Starbix/dockerimageshomebridg.git
-2	#DEP#nginx
-3	#DEP#plex
-4	#DEP#alpin
-5	#DEP#ldap
-6	#DEP#docker
-7	#DEP#nextcloud

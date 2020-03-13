@@ -1,7 +1,0 @@
-1	git://github.com/ezSQL/ezsqlpdo
-2	#DEP#sqlserver
-3	#DEP#sql
-4	#DEP#mysql
-5	#DEP#sqlite3
-6	#DEP#php
-7	#DEP#oracl

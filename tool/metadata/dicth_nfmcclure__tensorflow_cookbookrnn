@@ -1,9 +1,0 @@
-1	git://github.com/nfmcclure/tensorflow_cookbookrnn
-2	#DEP#nlp
-3	#DEP#neuralnetwork
-4	#DEP#classif
-5	#DEP#machinlearn
-6	#DEP#linearregress
-7	#DEP#regress
-8	#DEP#tensorflow
-9	#DEP#cnn

@@ -1,7 +1,0 @@
-1	git://github.com/RamblingCookieMonster/BuildHelperscontinudeploy
-2	#DEP#powershel
-3	#DEP#continuintegr
-4	#DEP#cicd
-5	#DEP#appveyor
-6	#DEP#buildautom
-7	#DEP#build

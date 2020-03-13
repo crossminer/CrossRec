@@ -1,9 +1,0 @@
-1	git://github.com/huginn/huginnwebscrap.git
-2	#DEP#feed
-3	#DEP#scraper
-4	#DEP#twitter
-5	#DEP#notif
-6	#DEP#monitor
-7	#DEP#autom
-8	#DEP#agent
-9	#DEP#r

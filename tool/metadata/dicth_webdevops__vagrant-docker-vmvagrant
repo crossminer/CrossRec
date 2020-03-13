@@ -1,7 +1,0 @@
-1	git://github.com/webdevops/vagrant-docker-vmvagrant
-2	#DEP#develop
-3	#DEP#vm
-4	#DEP#vmware
-5	#DEP#docker
-6	#DEP#parallel
-7	#DEP#virtualbox

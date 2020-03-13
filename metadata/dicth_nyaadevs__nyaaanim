@@ -1,7 +1,0 @@
-1	git://github.com/nyaadevs/nyaaanim.git
-2	#DEP#python
-3	#DEP#flask
-4	#DEP#torrent
-5	#DEP#bittorr
-6	#DEP#elasticsearch
-7	#DEP#tracker

@@ -1,7 +1,0 @@
-1	git://github.com/huggingface/neuralcorefnlp.git
-2	#DEP#neuralnetwork
-3	#DEP#spaci
-4	#DEP#python
-5	#DEP#machinlearn
-6	#DEP#spaciexten
-7	#DEP#pytorch

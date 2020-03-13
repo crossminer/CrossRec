@@ -1,8 +1,0 @@
-1	git://github.com/openfaas/faas-netesfunction.git
-2	#DEP#serverless
-3	#DEP#hacktoberfest
-4	#DEP#golang
-5	#DEP#kubernet
-6	#DEP#k8
-7	#DEP#docker
-8	#DEP#faa

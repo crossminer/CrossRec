@@ -1,8 +1,0 @@
-1	git://github.com/Celtoys/Remoteryc.git
-2	#DEP#opengl
-3	#DEP#metal
-4	#DEP#profil
-5	#DEP#cuda
-6	#DEP#d3d11
-7	#DEP#cpu
-8	#DEP#gpu

@@ -1,9 +1,0 @@
-1	git://github.com/sequelize/sequelizesqlite
-2	#DEP#postgresql
-3	#DEP#javascript
-4	#DEP#transact
-5	#DEP#mariadb
-6	#DEP#sql
-7	#DEP#mysql
-8	#DEP#orm
-9	#DEP#mssql

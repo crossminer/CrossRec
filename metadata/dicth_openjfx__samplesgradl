@@ -1,9 +1,0 @@
-1	git://github.com/openjfx/samplesgradl.git
-2	#DEP#intellij
-3	#DEP#javafx
-4	#DEP#exampl
-5	#DEP#maven
-6	#DEP#document
-7	#DEP#ide
-8	#DEP#modular
-9	#DEP#java

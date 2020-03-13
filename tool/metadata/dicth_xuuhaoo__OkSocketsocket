@@ -1,7 +1,0 @@
-1	git://github.com/xuuhaoo/OkSocketsocket
-2	#DEP#socketio
-3	#DEP#tcp
-4	#DEP#server
-5	#DEP#client
-6	#DEP#android
-7	#DEP#tcpserver

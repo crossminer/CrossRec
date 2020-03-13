@@ -1,8 +1,0 @@
-1	git://github.com/abraham/nutmegcli
-2	#DEP#javascript
-3	#DEP#typescript
-4	#DEP#webpack
-5	#DEP#karma
-6	#DEP#webcompon
-7	#DEP#shadowdom
-8	#DEP#customel

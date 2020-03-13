@@ -1,8 +1,0 @@
-1	git://github.com/mikekazakov/xmr-stak-cpu-iosmine
-2	#DEP#miner
-3	#DEP#io
-4	#DEP#cryptocurr
-5	#DEP#xmr
-6	#DEP#swift
-7	#DEP#monero
-8	#DEP#cpp

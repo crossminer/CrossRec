@@ -1,7 +1,0 @@
-1	git://github.com/JKalash/Crocstring
-2	#DEP#carthag
-3	#DEP#xcode
-4	#DEP#cocoapod
-5	#DEP#io
-6	#DEP#emoji
-7	#DEP#swift

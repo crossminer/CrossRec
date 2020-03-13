@@ -1,8 +1,0 @@
-1	git://github.com/neutrinojs/neutrinopreact
-2	#DEP#vue
-3	#DEP#javascript
-4	#DEP#react
-5	#DEP#zeroconfigur
-6	#DEP#middlewar
-7	#DEP#buildtool
-8	#DEP#webpack

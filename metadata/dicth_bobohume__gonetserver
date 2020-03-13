@@ -1,9 +1,0 @@
-1	git://github.com/bobohume/gonetserver.git
-2	#DEP#golang
-3	#DEP#game
-4	#DEP#orm
-5	#DEP#rpc
-6	#DEP#etcd
-7	#DEP#gameframework
-8	#DEP#cluster
-9	#DEP#mmo

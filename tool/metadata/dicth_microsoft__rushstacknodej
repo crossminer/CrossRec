@@ -1,8 +1,0 @@
-1	git://github.com/microsoft/rushstacknodej
-2	#DEP#typescript
-3	#DEP#orchestr
-4	#DEP#toolchain
-5	#DEP#api
-6	#DEP#build
-7	#DEP#eslint
-8	#DEP#monorepo

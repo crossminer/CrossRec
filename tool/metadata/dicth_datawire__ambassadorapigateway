@@ -1,7 +1,0 @@
-1	git://github.com/datawire/ambassadorapigateway
-2	#DEP#cloudnativ
-3	#DEP#apimanag
-4	#DEP#envoy
-5	#DEP#kubernet
-6	#DEP#docker
-7	#DEP#microservic

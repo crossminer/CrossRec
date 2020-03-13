@@ -1,7 +1,0 @@
-1	git://github.com/mapsplugin/cordova-plugin-googlemapsjava
-2	#DEP#googl
-3	#DEP#phonegap
-4	#DEP#googlmap
-5	#DEP#objectc
-6	#DEP#cordova
-7	#DEP#sdk

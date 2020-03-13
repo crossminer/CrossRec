@@ -1,7 +1,0 @@
-1	git://github.com/PabloSichert/concurrency-loggerlog.git
-2	#DEP#request
-3	#DEP#http
-4	#DEP#koa
-5	#DEP#logger
-6	#DEP#concurr
-7	#DEP#middlewar

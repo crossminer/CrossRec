@@ -1,8 +1,0 @@
-10	#DEP#pcid
-11	#DEP#unix
-12	#DEP#securharden
-13	#DEP#securscann
-14	#DEP#vulnerscann
-15	#DEP#linux
-16	#DEP#vulnerass
-17	#DEP#vulnerdetect

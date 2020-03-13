@@ -1,9 +1,0 @@
-1	git://github.com/ErnestOrt/Trampolinegradl.git
-2	#DEP#springboot
-3	#DEP#deploy
-4	#DEP#spring
-5	#DEP#maven
-6	#DEP#deploytool
-7	#DEP#microservic
-8	#DEP#cloud
-9	#DEP#java

@@ -1,7 +1,0 @@
-1	git://github.com/hypebeast/micro-authauthent
-2	#DEP#github
-3	#DEP#openresti
-4	#DEP#googl
-5	#DEP#nginx
-6	#DEP#dockercompo
-7	#DEP#docker

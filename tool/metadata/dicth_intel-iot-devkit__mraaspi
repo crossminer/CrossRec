@@ -1,7 +1,0 @@
-1	git://github.com/intel-iot-devkit/mraaspi
-2	#DEP#commun
-3	#DEP#raspberripi
-4	#DEP#io
-5	#DEP#gpio
-6	#DEP#linux
-7	#DEP#i2c

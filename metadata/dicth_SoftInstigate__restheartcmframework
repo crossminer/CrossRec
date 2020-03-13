@@ -1,7 +1,0 @@
-1	git://github.com/SoftInstigate/restheartcmframework.git
-2	#DEP#java
-3	#DEP#mongodb
-4	#DEP#rest
-5	#DEP#webdevelop
-6	#DEP#api
-7	#DEP#nosql

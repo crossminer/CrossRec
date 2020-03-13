@@ -1,8 +1,0 @@
-1	git://github.com/backup-manager/backup-managerdatabas.git
-2	#DEP#cloud
-3	#DEP#mysql
-4	#DEP#symfoni
-5	#DEP#laravel
-6	#DEP#php
-7	#DEP#backup
-8	#DEP#postgresql

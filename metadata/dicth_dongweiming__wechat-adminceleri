@@ -1,7 +1,0 @@
-1	git://github.com/dongweiming/wechat-adminceleri.git
-2	#DEP#vue
-3	#DEP#python3
-4	#DEP#flask
-5	#DEP#bot
-6	#DEP#wechat
-7	#DEP#sse

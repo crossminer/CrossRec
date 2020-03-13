@@ -1,7 +1,0 @@
-1	git://github.com/quantmind/pulsarhttpserver
-2	#DEP#http
-3	#DEP#python
-4	#DEP#testframework
-5	#DEP#asyncio
-6	#DEP#multiprocess
-7	#DEP#rpc

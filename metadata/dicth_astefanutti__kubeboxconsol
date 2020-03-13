@@ -1,8 +1,0 @@
-1	git://github.com/astefanutti/kubeboxconsol.git
-2	#DEP#monitor
-3	#DEP#gui
-4	#DEP#dashboard
-5	#DEP#termin
-6	#DEP#kubernet
-7	#DEP#tui
-8	#DEP#openshift

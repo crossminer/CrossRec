@@ -1,9 +1,0 @@
-1	git://github.com/dathlin/ClientServerProjectc.git
-2	#DEP#socket
-3	#DEP#network
-4	#DEP#json
-5	#DEP#server
-6	#DEP#client
-7	#DEP#csharp
-8	#DEP#winform
-9	#DEP#wpf

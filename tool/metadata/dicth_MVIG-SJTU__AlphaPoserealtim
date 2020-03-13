@@ -1,7 +1,0 @@
-1	git://github.com/MVIG-SJTU/AlphaPoserealtim
-2	#DEP#torch
-3	#DEP#track
-4	#DEP#machinlearn
-5	#DEP#computvis
-6	#DEP#pytorch
-7	#DEP#gpu

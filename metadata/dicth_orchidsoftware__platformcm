@@ -1,9 +1,0 @@
-1	git://github.com/orchidsoftware/platformcm.git
-2	#DEP#admin
-3	#DEP#crud
-4	#DEP#cmf
-5	#DEP#laravel
-6	#DEP#platform
-7	#DEP#laraveladmin
-8	#DEP#adminpanel
-9	#DEP#dashboard

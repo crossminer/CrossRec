@@ -1,8 +1,0 @@
-1	git://github.com/markstory/lint-reviewtslint
-2	#DEP#python
-3	#DEP#javascript
-4	#DEP#linter
-5	#DEP#rubi
-6	#DEP#eslint
-7	#DEP#lua
-8	#DEP#php

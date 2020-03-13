@@ -1,9 +1,0 @@
-1	git://github.com/tapwork/HeapInspector-for-iOSperformanalysi
-2	#DEP#carthag
-3	#DEP#perform
-4	#DEP#monitor
-5	#DEP#objectc
-6	#DEP#instrument
-7	#DEP#performvisu
-8	#DEP#cocoapod
-9	#DEP#io

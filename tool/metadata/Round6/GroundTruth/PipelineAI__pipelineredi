@@ -1,7 +1,0 @@
-8	#DEP#tensorflow
-9	#DEP#spark
-10	#DEP#artificiintellig
-11	#DEP#docker
-12	#DEP#cassandra
-13	#DEP#pytorch
-14	#DEP#gpu

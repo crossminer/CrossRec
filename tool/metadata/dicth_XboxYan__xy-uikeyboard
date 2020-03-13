@@ -1,7 +1,0 @@
-1	git://github.com/XboxYan/xy-uikeyboard
-2	#DEP#javascript
-3	#DEP#uicompon
-4	#DEP#html5
-5	#DEP#webcompon
-6	#DEP#shadowdom
-7	#DEP#customel

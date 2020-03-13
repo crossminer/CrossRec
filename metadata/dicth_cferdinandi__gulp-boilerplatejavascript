@@ -1,7 +1,0 @@
-1	git://github.com/cferdinandi/gulp-boilerplatejavascript.git
-2	#DEP#buildtool
-3	#DEP#gulp
-4	#DEP#minifi
-5	#DEP#cs
-6	#DEP#boilerpl
-7	#DEP#sas

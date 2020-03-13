@@ -1,8 +1,0 @@
-1	git://github.com/skywind3000/z.luashell.git
-2	#DEP#zsh
-3	#DEP#plugin
-4	#DEP#fish
-5	#DEP#cd
-6	#DEP#powershel
-7	#DEP#j
-8	#DEP#bash

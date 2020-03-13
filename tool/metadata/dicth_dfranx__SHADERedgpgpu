@@ -1,8 +1,0 @@
-1	git://github.com/dfranx/SHADERedgpgpu
-2	#DEP#hlsl
-3	#DEP#opengl
-4	#DEP#glsl
-5	#DEP#c
-6	#DEP#shader
-7	#DEP#editor
-8	#DEP#cplusplu

@@ -1,7 +1,0 @@
-1	git://github.com/jarulraj/sqlcheck-oldpostgresql
-2	#DEP#databas
-3	#DEP#commandlin
-4	#DEP#oracl
-5	#DEP#sql
-6	#DEP#mysql
-7	#DEP#sqlite3

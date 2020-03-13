@@ -1,8 +1,0 @@
-1	git://github.com/JamesRamm/longclawshop
-2	#DEP#python
-3	#DEP#django
-4	#DEP#python2
-5	#DEP#python3
-6	#DEP#ecommerc
-7	#DEP#wagtailcm
-8	#DEP#wagtail

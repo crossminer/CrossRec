@@ -1,8 +1,0 @@
-1	git://github.com/miniflux/minifluxfeed
-2	#DEP#postgresql
-3	#DEP#jsonfe
-4	#DEP#r
-5	#DEP#golang
-6	#DEP#letsencrypt
-7	#DEP#atom
-8	#DEP#go

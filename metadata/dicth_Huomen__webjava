@@ -1,8 +1,0 @@
-1	git://github.com/Huomen/webjava.git
-2	#DEP#tomcat
-3	#DEP#bootstrap
-4	#DEP#jqueri
-5	#DEP#ajax
-6	#DEP#mysql
-7	#DEP#servlet
-8	#DEP#postgresql

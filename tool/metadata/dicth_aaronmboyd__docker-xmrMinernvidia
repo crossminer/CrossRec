@@ -1,7 +1,0 @@
-1	git://github.com/aaronmboyd/docker-xmrMinernvidia
-2	#DEP#miner
-3	#DEP#cuda
-4	#DEP#ubuntu
-5	#DEP#xmr
-6	#DEP#docker
-7	#DEP#monero

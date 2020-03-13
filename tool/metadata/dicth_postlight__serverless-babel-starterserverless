@@ -1,8 +1,0 @@
-1	git://github.com/postlight/serverless-babel-starterserverless
-2	#DEP#starterkit
-3	#DEP#babel
-4	#DEP#aw
-5	#DEP#prettier
-6	#DEP#jest
-7	#DEP#eslint
-8	#DEP#webpack

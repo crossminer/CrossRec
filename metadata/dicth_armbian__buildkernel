@@ -1,8 +1,0 @@
-1	git://github.com/armbian/buildkernel.git
-2	#DEP#distribut
-3	#DEP#opersystem
-4	#DEP#lightweight
-5	#DEP#buildtool
-6	#DEP#ubuntu
-7	#DEP#arm
-8	#DEP#debian

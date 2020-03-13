@@ -1,7 +1,0 @@
-1	git://github.com/mpc-hc/mpc-hccpluplu
-2	#DEP#windowdesktop
-3	#DEP#player
-4	#DEP#window
-5	#DEP#video
-6	#DEP#audio
-7	#DEP#ffmpeg

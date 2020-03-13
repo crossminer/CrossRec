@@ -1,7 +1,0 @@
-1	git://github.com/EFPrefix/EFQRCodegener.git
-2	#DEP#maco
-3	#DEP#watcho
-4	#DEP#tvo
-5	#DEP#io
-6	#DEP#qrcode
-7	#DEP#swift

@@ -1,9 +1,0 @@
-1	git://github.com/PolymerX/polymer-skeletonskeleton.git
-2	#DEP#servicwork
-3	#DEP#postcss
-4	#DEP#polym
-5	#DEP#esnext
-6	#DEP#starterkit
-7	#DEP#webcompon
-8	#DEP#webpack
-9	#DEP#progresswebapp

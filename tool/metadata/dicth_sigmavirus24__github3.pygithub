@@ -1,7 +1,0 @@
-1	git://github.com/sigmavirus24/github3.pygithub
-2	#DEP#restclient
-3	#DEP#restapi
-4	#DEP#python
-5	#DEP#githubapi
-6	#DEP#rest
-7	#DEP#python36

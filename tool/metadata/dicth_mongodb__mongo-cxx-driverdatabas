@@ -1,7 +1,0 @@
-1	git://github.com/mongodb/mongo-cxx-driverdatabas
-2	#DEP#mongodb
-3	#DEP#cpluplu
-4	#DEP#network
-5	#DEP#driver
-6	#DEP#cpluplu11
-7	#DEP#nosql

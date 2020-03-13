@@ -1,8 +1,0 @@
-1	git://github.com/garrylachman/ElectroCRUDpostgr
-2	#DEP#postgresql
-3	#DEP#databas
-4	#DEP#crud
-5	#DEP#sql
-6	#DEP#electron
-7	#DEP#mysql
-8	#DEP#rdbm

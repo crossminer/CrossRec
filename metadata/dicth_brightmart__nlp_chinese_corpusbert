@@ -1,9 +1,0 @@
-1	git://github.com/brightmart/nlp_chinese_corpusbert.git
-2	#DEP#wiki
-3	#DEP#word2vec
-4	#DEP#nlp
-5	#DEP#textclassif
-6	#DEP#chine
-7	#DEP#dataset
-8	#DEP#news
-9	#DEP#languagmodel

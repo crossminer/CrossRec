@@ -1,8 +1,0 @@
-1	git://github.com/mono/SkiaSharpgraphic
-2	#DEP#xamarin
-3	#DEP#window
-4	#DEP#android
-5	#DEP#io
-6	#DEP#dotnet
-7	#DEP#crossplatform
-8	#DEP#maco

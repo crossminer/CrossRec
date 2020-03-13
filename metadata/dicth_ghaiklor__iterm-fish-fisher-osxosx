@@ -1,9 +1,0 @@
-1	git://github.com/ghaiklor/iterm-fish-fisher-osxosx.git
-2	#DEP#theme
-3	#DEP#fish
-4	#DEP#iterm2
-5	#DEP#commandlinetool
-6	#DEP#homebrew
-7	#DEP#brew
-8	#DEP#font
-9	#DEP#bash

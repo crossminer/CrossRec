@@ -1,7 +1,0 @@
-1	git://github.com/eykrehbein/strestnodej.git
-2	#DEP#cli
-3	#DEP#restapi
-4	#DEP#javascript
-5	#DEP#typescript
-6	#DEP#testautom
-7	#DEP#test

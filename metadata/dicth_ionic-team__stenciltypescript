@@ -1,8 +1,0 @@
-1	git://github.com/ionic-team/stenciltypescript.git
-2	#DEP#stencil
-3	#DEP#stencilj
-4	#DEP#pwa
-5	#DEP#progresswebapp
-6	#DEP#ionic
-7	#DEP#webcompon
-8	#DEP#customel

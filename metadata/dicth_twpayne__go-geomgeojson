@@ -1,9 +1,0 @@
-1	git://github.com/twpayne/go-geomgeojson.git
-2	#DEP#golang
-3	#DEP#geospati
-4	#DEP#encod
-5	#DEP#2d
-6	#DEP#decod
-7	#DEP#go
-8	#DEP#3d
-9	#DEP#gi

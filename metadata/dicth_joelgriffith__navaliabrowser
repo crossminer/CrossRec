@@ -1,7 +1,0 @@
-1	git://github.com/joelgriffith/navaliabrowser.git
-2	#DEP#typescript
-3	#DEP#chrome
-4	#DEP#autom
-5	#DEP#headless
-6	#DEP#headlesschrom
-7	#DEP#graphql

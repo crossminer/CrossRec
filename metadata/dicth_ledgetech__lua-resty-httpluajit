@@ -1,7 +1,0 @@
-1	git://github.com/ledgetech/lua-resty-httpluajit.git
-2	#DEP#openresti
-3	#DEP#stream
-4	#DEP#nginx
-5	#DEP#lua
-6	#DEP#httpclient
-7	#DEP#http

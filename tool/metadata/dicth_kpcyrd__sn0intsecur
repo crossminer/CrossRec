@@ -1,9 +1,0 @@
-1	git://github.com/kpcyrd/sn0intsecur
-2	#DEP#lua
-3	#DEP#reconnaiss
-4	#DEP#recon
-5	#DEP#securaudit
-6	#DEP#pentest
-7	#DEP#securscann
-8	#DEP#osint
-9	#DEP#rust

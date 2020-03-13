@@ -1,7 +1,0 @@
-1	git://github.com/tomav/docker-mailserverldap.git
-2	#DEP#smtp
-3	#DEP#ssl
-4	#DEP#letsencrypt
-5	#DEP#mail
-6	#DEP#docker
-7	#DEP#imap

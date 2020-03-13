@@ -1,9 +1,0 @@
-1	git://github.com/madhums/node-express-mongoose-demonode.git
-2	#DEP#express
-3	#DEP#mongodb
-4	#DEP#demo
-5	#DEP#pug
-6	#DEP#heroku
-7	#DEP#mongoos
-8	#DEP#passport
-9	#DEP#docker

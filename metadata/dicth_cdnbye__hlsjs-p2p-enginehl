@@ -1,9 +1,0 @@
-1	git://github.com/cdnbye/hlsjs-p2p-enginehl.git
-2	#DEP#cdn
-3	#DEP#player
-4	#DEP#p2p
-5	#DEP#live
-6	#DEP#html5
-7	#DEP#video
-8	#DEP#peer
-9	#DEP#webrtc

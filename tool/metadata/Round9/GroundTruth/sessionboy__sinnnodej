@@ -1,9 +1,0 @@
-10	#DEP#nginx
-11	#DEP#react
-12	#DEP#linux
-13	#DEP#koa2
-14	#DEP#redux
-15	#DEP#asyncawait
-16	#DEP#docker
-17	#DEP#fetch
-18	#DEP#webpack3

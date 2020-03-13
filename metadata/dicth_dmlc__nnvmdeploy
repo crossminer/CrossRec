@@ -1,7 +1,0 @@
-1	git://github.com/dmlc/nnvmdeploy.git
-2	#DEP#deeplearn
-3	#DEP#optim
-4	#DEP#metal
-5	#DEP#cuda
-6	#DEP#computgraph
-7	#DEP#opencl

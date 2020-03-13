@@ -1,7 +1,0 @@
-1	git://github.com/zalo/MathUtilitiesuniti.git
-2	#DEP#motion
-3	#DEP#unity3d
-4	#DEP#util
-5	#DEP#camera
-6	#DEP#math
-7	#DEP#physic

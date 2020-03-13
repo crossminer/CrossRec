@@ -1,8 +1,0 @@
-1	git://github.com/gocd/gocdcontinudeploy.git
-2	#DEP#ci
-3	#DEP#continuintegr
-4	#DEP#cicd
-5	#DEP#cd
-6	#DEP#continutest
-7	#DEP#continudeliveri
-8	#DEP#infrastructurcod

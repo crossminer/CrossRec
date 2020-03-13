@@ -1,9 +1,0 @@
-1	git://github.com/webdevops/Dockerfiledockerimag.git
-2	#DEP#dockerfil
-3	#DEP#debian
-4	#DEP#nginx
-5	#DEP#ubuntu
-6	#DEP#cento
-7	#DEP#alpin
-8	#DEP#docker
-9	#DEP#php

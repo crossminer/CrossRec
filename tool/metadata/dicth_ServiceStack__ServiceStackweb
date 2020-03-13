@@ -1,8 +1,0 @@
-1	git://github.com/ServiceStack/ServiceStackweb
-2	#DEP#xml
-3	#DEP#highperform
-4	#DEP#netcor
-5	#DEP#framework
-6	#DEP#json
-7	#DEP#csharp
-8	#DEP#csv

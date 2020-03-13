@@ -1,7 +1,0 @@
-1	git://github.com/douglascorrea/react-hot-redux-firebase-starterfirebas
-2	#DEP#mocha
-3	#DEP#enzym
-4	#DEP#react
-5	#DEP#eslint
-6	#DEP#redux
-7	#DEP#webpack

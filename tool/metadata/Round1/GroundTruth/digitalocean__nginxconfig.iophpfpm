@@ -1,6 +1,0 @@
-7	#DEP#nginx
-8	#DEP#http2
-9	#DEP#letsencrypt
-10	#DEP#ssl
-11	#DEP#wordpress
-12	#DEP#symfoni

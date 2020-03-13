@@ -1,7 +1,0 @@
-1	git://github.com/geerlingguy/ansible-role-phpphpfpm.git
-2	#DEP#ansibl
-3	#DEP#lamp
-4	#DEP#playbook
-5	#DEP#role
-6	#DEP#php
-7	#DEP#lemp

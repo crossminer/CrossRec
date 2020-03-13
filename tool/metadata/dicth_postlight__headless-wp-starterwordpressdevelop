@@ -1,8 +1,0 @@
-1	git://github.com/postlight/headless-wp-starterwordpressdevelop
-2	#DEP#starterkit
-3	#DEP#restapi
-4	#DEP#graphqlapi
-5	#DEP#nextj
-6	#DEP#react
-7	#DEP#wordpress
-8	#DEP#headlesscm

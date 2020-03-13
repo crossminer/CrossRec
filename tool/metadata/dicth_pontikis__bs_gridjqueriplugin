@@ -1,7 +1,0 @@
-1	git://github.com/pontikis/bs_gridjqueriplugin
-2	#DEP#jqueri
-3	#DEP#bootstrap
-4	#DEP#javascript
-5	#DEP#datagrid
-6	#DEP#ajax
-7	#DEP#grid

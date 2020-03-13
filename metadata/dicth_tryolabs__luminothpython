@@ -1,7 +1,0 @@
-1	git://github.com/tryolabs/luminothpython.git
-2	#DEP#deeplearn
-3	#DEP#toolkit
-4	#DEP#objectdetect
-5	#DEP#machinlearn
-6	#DEP#computvis
-7	#DEP#tensorflow

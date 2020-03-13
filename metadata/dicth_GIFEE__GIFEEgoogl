@@ -1,7 +1,0 @@
-1	git://github.com/GIFEE/GIFEEgoogl.git
-2	#DEP#grpc
-3	#DEP#distributsystem
-4	#DEP#gcp
-5	#DEP#kubernet
-6	#DEP#k8
-7	#DEP#cloud

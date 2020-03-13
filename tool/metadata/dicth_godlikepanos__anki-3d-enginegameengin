@@ -1,8 +1,0 @@
-1	git://github.com/godlikepanos/anki-3d-enginegameengin
-2	#DEP#opengl
-3	#DEP#cpluplu
-4	#DEP#graphic
-5	#DEP#window
-6	#DEP#linux
-7	#DEP#vulkan
-8	#DEP#3d

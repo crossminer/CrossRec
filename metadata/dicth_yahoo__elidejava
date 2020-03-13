@@ -1,7 +1,0 @@
-1	git://github.com/yahoo/elidejava.git
-2	#DEP#web
-3	#DEP#jsonapi
-4	#DEP#jpa
-5	#DEP#javalibrari
-6	#DEP#graphql
-7	#DEP#mobil

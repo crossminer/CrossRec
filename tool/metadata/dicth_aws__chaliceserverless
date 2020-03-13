@@ -1,8 +1,0 @@
-1	git://github.com/aws/chaliceserverless
-2	#DEP#python
-3	#DEP#serverlessframework
-4	#DEP#awlambda
-5	#DEP#python3
-6	#DEP#aw
-7	#DEP#cloud
-8	#DEP#lambda

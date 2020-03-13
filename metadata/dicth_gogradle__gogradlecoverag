@@ -1,9 +1,0 @@
-1	git://github.com/gogradle/gogradlecoverag.git
-2	#DEP#gradl
-3	#DEP#gradlplugin
-4	#DEP#golang
-5	#DEP#buildtool
-6	#DEP#build
-7	#DEP#go
-8	#DEP#test
-9	#DEP#ide

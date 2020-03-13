@@ -1,8 +1,0 @@
-9	#DEP#python3
-10	#DEP#json
-11	#DEP#jsonschema
-12	#DEP#letsencrypt
-13	#DEP#swagger
-14	#DEP#docker
-15	#DEP#vuex
-16	#DEP#frontend

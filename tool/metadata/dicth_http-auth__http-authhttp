@@ -1,7 +1,0 @@
-1	git://github.com/http-auth/http-authhttp
-2	#DEP#realm
-3	#DEP#httpproxi
-4	#DEP#protect
-5	#DEP#koa
-6	#DEP#passport
-7	#DEP#hapi

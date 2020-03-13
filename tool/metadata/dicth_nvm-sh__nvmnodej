@@ -1,7 +1,0 @@
-1	git://github.com/nvm-sh/nvmnodej
-2	#DEP#node
-3	#DEP#posix
-4	#DEP#instal
-5	#DEP#shell
-6	#DEP#zsh
-7	#DEP#bash

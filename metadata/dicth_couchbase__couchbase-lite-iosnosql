@@ -1,8 +1,0 @@
-1	git://github.com/couchbase/couchbase-lite-iosnosql.git
-2	#DEP#databas
-3	#DEP#sync
-4	#DEP#objectc
-5	#DEP#io
-6	#DEP#maco
-7	#DEP#mobil
-8	#DEP#swift

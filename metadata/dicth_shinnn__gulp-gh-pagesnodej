@@ -1,9 +1,0 @@
-1	git://github.com/shinnn/gulp-gh-pagesnodej.git
-2	#DEP#github
-3	#DEP#git
-4	#DEP#deploy
-5	#DEP#stream
-6	#DEP#javascript
-7	#DEP#releasautom
-8	#DEP#githubpag
-9	#DEP#gulpplugin

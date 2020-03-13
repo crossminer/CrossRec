@@ -1,7 +1,0 @@
-1	git://github.com/theos/theosmakefil
-2	#DEP#io
-3	#DEP#perl
-4	#DEP#window
-5	#DEP#linux
-6	#DEP#buildsystem
-7	#DEP#maco

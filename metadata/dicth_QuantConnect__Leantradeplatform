@@ -1,8 +1,0 @@
-1	git://github.com/QuantConnect/Leantradeplatform.git
-2	#DEP#algorithm
-3	#DEP#tradealgorithm
-4	#DEP#python
-5	#DEP#financ
-6	#DEP#tradebot
-7	#DEP#tradestrategi
-8	#DEP#csharp

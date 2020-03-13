@@ -1,7 +1,0 @@
-1	git://github.com/ropenscilabs/ticrstat
-2	#DEP#rpackag
-3	#DEP#deploy
-4	#DEP#continuintegr
-5	#DEP#appveyor
-6	#DEP#r
-7	#DEP#travici

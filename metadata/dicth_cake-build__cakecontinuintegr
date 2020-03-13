@@ -1,8 +1,0 @@
-1	git://github.com/cake-build/cakecontinuintegr.git
-2	#DEP#unittest
-3	#DEP#buildautom
-4	#DEP#nuget
-5	#DEP#dotnetcor
-6	#DEP#buildtool
-7	#DEP#csharp
-8	#DEP#dotnet

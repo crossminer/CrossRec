@@ -1,7 +1,0 @@
-1	git://github.com/oxyplot/oxyplotplot.git
-2	#DEP#chart
-3	#DEP#netcor
-4	#DEP#netstandard
-5	#DEP#csharp
-6	#DEP#dotnet
-7	#DEP#wpf

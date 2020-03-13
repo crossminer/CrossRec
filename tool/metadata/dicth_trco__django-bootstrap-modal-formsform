@@ -1,7 +1,0 @@
-1	git://github.com/trco/django-bootstrap-modal-formsform
-2	#DEP#django
-3	#DEP#jqueri
-4	#DEP#ajax
-5	#DEP#modal
-6	#DEP#bootstrap4
-7	#DEP#bootstrap3

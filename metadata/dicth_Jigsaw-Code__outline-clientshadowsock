@@ -1,7 +1,0 @@
-1	git://github.com/Jigsaw-Code/outline-clientshadowsock.git
-2	#DEP#electron
-3	#DEP#window
-4	#DEP#linux
-5	#DEP#android
-6	#DEP#io
-7	#DEP#maco

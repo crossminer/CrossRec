@@ -1,7 +1,0 @@
-1	git://github.com/dianping/catjava.git
-2	#DEP#realtim
-3	#DEP#monitor
-4	#DEP#metric
-5	#DEP#apm
-6	#DEP#distribut
-7	#DEP#trace

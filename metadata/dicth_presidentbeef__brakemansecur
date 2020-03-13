@@ -1,8 +1,0 @@
-1	git://github.com/presidentbeef/brakemansecur.git
-2	#DEP#securtool
-3	#DEP#staticanalysi
-4	#DEP#rubi
-5	#DEP#rail
-6	#DEP#securaudit
-7	#DEP#securvuln
-8	#DEP#vulner

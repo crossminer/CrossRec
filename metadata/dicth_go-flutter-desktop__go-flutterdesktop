@@ -1,9 +1,0 @@
-1	git://github.com/go-flutter-desktop/go-flutterdesktop.git
-2	#DEP#golang
-3	#DEP#flutter
-4	#DEP#window
-5	#DEP#linux
-6	#DEP#glfw
-7	#DEP#maco
-8	#DEP#go
-9	#DEP#ui

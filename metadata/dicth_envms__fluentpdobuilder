@@ -1,7 +1,0 @@
-1	git://github.com/envms/fluentpdobuilder.git
-2	#DEP#queri
-3	#DEP#sql
-4	#DEP#mysql
-5	#DEP#pdo
-6	#DEP#php
-7	#DEP#postgresql

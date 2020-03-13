@@ -1,7 +1,0 @@
-1	git://github.com/microg/android_packages_apps_GmsCoregoogl.git
-2	#DEP#java
-3	#DEP#map
-4	#DEP#pushnotif
-5	#DEP#androidapp
-6	#DEP#auth
-7	#DEP#android

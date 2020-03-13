@@ -1,8 +1,0 @@
-1	git://github.com/Kenshin/simpreadchrome.git
-2	#DEP#firefox
-3	#DEP#firefoxexten
-4	#DEP#crx
-5	#DEP#chromeexten
-6	#DEP#react
-7	#DEP#reader
-8	#DEP#firefoxaddon

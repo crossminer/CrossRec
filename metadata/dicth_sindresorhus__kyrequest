@@ -1,7 +1,0 @@
-1	git://github.com/sindresorhus/kyrequest.git
-2	#DEP#rest
-3	#DEP#npmpackag
-4	#DEP#json
-5	#DEP#fetch
-6	#DEP#httpclient
-7	#DEP#tini

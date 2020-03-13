@@ -1,8 +1,0 @@
-1	git://github.com/agrafix/Spockfunction.git
-2	#DEP#http
-3	#DEP#web
-4	#DEP#server
-5	#DEP#haskel
-6	#DEP#framework
-7	#DEP#api
-8	#DEP#webframework

@@ -1,7 +1,0 @@
-1	git://github.com/hobby-kube/provisioningsecur.git
-2	#DEP#setup
-3	#DEP#autom
-4	#DEP#terraform
-5	#DEP#kubernet
-6	#DEP#guid
-7	#DEP#provis

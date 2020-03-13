@@ -1,8 +1,0 @@
-1	git://github.com/lunet-io/markdigmarkdownhtml
-2	#DEP#markdown
-3	#DEP#commonmark
-4	#DEP#gfm
-5	#DEP#markdownpars
-6	#DEP#dotnetcor
-7	#DEP#csharp
-8	#DEP#dotnet

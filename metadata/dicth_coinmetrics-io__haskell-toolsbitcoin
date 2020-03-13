@@ -1,7 +1,0 @@
-1	git://github.com/coinmetrics-io/haskell-toolsbitcoin.git
-2	#DEP#blockchain
-3	#DEP#rippl
-4	#DEP#ethereum
-5	#DEP#haskel
-6	#DEP#iota
-7	#DEP#monero

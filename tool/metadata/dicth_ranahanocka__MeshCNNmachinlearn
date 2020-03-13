@@ -1,7 +1,0 @@
-1	git://github.com/ranahanocka/MeshCNNmachinlearn
-2	#DEP#mesh
-3	#DEP#segment
-4	#DEP#computgraph
-5	#DEP#convolutneuralnetwork
-6	#DEP#pytorch
-7	#DEP#3d

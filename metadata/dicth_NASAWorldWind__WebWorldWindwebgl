@@ -1,8 +1,0 @@
-1	git://github.com/NASAWorldWind/WebWorldWindwebgl.git
-2	#DEP#javascript
-3	#DEP#geospati
-4	#DEP#browser
-5	#DEP#nasa
-6	#DEP#html5
-7	#DEP#sdk
-8	#DEP#3d

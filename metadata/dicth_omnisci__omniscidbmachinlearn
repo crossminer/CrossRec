@@ -1,8 +1,0 @@
-1	git://github.com/omnisci/omniscidbmachinlearn.git
-2	#DEP#llvm
-3	#DEP#realtim
-4	#DEP#databas
-5	#DEP#interact
-6	#DEP#sql
-7	#DEP#visual
-8	#DEP#gpu

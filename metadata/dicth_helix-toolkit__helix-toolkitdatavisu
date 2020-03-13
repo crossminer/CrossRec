@@ -1,9 +1,0 @@
-1	git://github.com/helix-toolkit/helix-toolkitdatavisu.git
-2	#DEP#graphic
-3	#DEP#3dengin
-4	#DEP#uwp
-5	#DEP#directx
-6	#DEP#csharp
-7	#DEP#dotnet
-8	#DEP#wpf
-9	#DEP#3d

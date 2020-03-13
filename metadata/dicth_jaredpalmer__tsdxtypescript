@@ -1,8 +1,0 @@
-1	git://github.com/jaredpalmer/tsdxtypescript.git
-2	#DEP#npm
-3	#DEP#bundl
-4	#DEP#rollup
-5	#DEP#yarn
-6	#DEP#packag
-7	#DEP#react
-8	#DEP#jest

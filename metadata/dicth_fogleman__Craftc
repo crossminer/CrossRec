@@ -1,7 +1,0 @@
-1	git://github.com/fogleman/Craftc.git
-2	#DEP#sqlite
-3	#DEP#opengl
-4	#DEP#glsl
-5	#DEP#multiplay
-6	#DEP#game
-7	#DEP#minecraft

@@ -1,8 +1,0 @@
-1	git://github.com/bartonhammond/snowflakevalid.git
-2	#DEP#fastlan
-3	#DEP#i18n
-4	#DEP#reactnativ
-5	#DEP#eslint
-6	#DEP#jest
-7	#DEP#redux
-8	#DEP#immutablej

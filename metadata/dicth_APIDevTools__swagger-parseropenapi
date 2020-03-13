@@ -1,8 +1,0 @@
-1	git://github.com/APIDevTools/swagger-parseropenapi.git
-2	#DEP#nodej
-3	#DEP#restapi
-4	#DEP#parser
-5	#DEP#valid
-6	#DEP#jsonschema
-7	#DEP#swagger
-8	#DEP#javascript

@@ -1,7 +1,0 @@
-1	git://github.com/chaifeng/ufw-dockersecur.git
-2	#DEP#firewal
-3	#DEP#linux
-4	#DEP#ubuntu
-5	#DEP#dockerswarm
-6	#DEP#docker
-7	#DEP#debian

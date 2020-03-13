@@ -1,7 +1,0 @@
-1	git://github.com/JetBrains/xodusjava
-2	#DEP#databas
-3	#DEP#kotlin
-4	#DEP#transact
-5	#DEP#db
-6	#DEP#keyvalu
-7	#DEP#nosql

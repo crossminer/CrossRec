@@ -1,7 +1,0 @@
-1	git://github.com/gardener/gardenerazur.git
-2	#DEP#golang
-3	#DEP#gcp
-4	#DEP#aw
-5	#DEP#kubernet
-6	#DEP#openstack
-7	#DEP#cluster

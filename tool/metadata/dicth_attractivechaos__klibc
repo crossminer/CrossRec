@@ -1,7 +1,0 @@
-1	git://github.com/attractivechaos/klibc
-2	#DEP#algorithm
-3	#DEP#sort
-4	#DEP#gener
-5	#DEP#librari
-6	#DEP#btree
-7	#DEP#hashtabl

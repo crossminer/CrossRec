@@ -1,9 +1,0 @@
-1	git://github.com/ReSearchITEng/kubeadm-playbookkubernet
-2	#DEP#proxi
-3	#DEP#rhel
-4	#DEP#dashboard
-5	#DEP#cento
-6	#DEP#helm
-7	#DEP#ansibl
-8	#DEP#cluster
-9	#DEP#playbook

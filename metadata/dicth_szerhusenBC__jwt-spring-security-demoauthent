@@ -1,8 +1,0 @@
-1	git://github.com/szerhusenBC/jwt-spring-security-demoauthent.git
-2	#DEP#springboot
-3	#DEP#java
-4	#DEP#demo
-5	#DEP#jwt
-6	#DEP#springframework
-7	#DEP#springsecur
-8	#DEP#jwtauthent

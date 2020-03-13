@@ -1,9 +1,0 @@
-1	git://github.com/google/filamentpbr
-2	#DEP#realtim
-3	#DEP#opengl
-4	#DEP#webgl
-5	#DEP#graphic
-6	#DEP#android
-7	#DEP#vulkan
-8	#DEP#3dgraphic
-9	#DEP#wasm

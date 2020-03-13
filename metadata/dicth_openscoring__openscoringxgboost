@@ -1,7 +1,0 @@
-1	git://github.com/openscoring/openscoringxgboost.git
-2	#DEP#lightgbm
-3	#DEP#realtim
-4	#DEP#apachspark
-5	#DEP#r
-6	#DEP#api
-7	#DEP#scikitlearn

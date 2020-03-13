@@ -1,8 +1,0 @@
-1	git://github.com/PaulWoitaschek/Voicekotlinandroid
-2	#DEP#minim
-3	#DEP#mvp
-4	#DEP#kotlin
-5	#DEP#materidesign
-6	#DEP#android
-7	#DEP#rxjava
-8	#DEP#dagger2

@@ -1,7 +1,0 @@
-1	git://github.com/midwayjs/pandoranodej
-2	#DEP#bootstrap
-3	#DEP#monitor
-4	#DEP#metric
-5	#DEP#devop
-6	#DEP#apm
-7	#DEP#processmanag

@@ -1,8 +1,0 @@
-1	git://github.com/qoomon/maven-git-versioning-extensiongradl.git
-2	#DEP#git
-3	#DEP#gener
-4	#DEP#mavenplugin
-5	#DEP#gradlplugin
-6	#DEP#maven
-7	#DEP#tag
-8	#DEP#version

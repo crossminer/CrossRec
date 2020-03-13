@@ -1,7 +1,0 @@
-1	git://github.com/quotient-im/Quaternionqt.git
-2	#DEP#chatappl
-3	#DEP#cpluplu
-4	#DEP#qt5
-5	#DEP#client
-6	#DEP#chat
-7	#DEP#matrix

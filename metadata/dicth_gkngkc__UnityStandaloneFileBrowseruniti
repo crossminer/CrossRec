@@ -1,7 +1,0 @@
-1	git://github.com/gkngkc/UnityStandaloneFileBrowseruniti.git
-2	#DEP#webgl
-3	#DEP#gtk
-4	#DEP#unity3d
-5	#DEP#window
-6	#DEP#linux
-7	#DEP#maco

@@ -1,7 +1,0 @@
-1	git://github.com/arduino/arduino-clicli
-2	#DEP#builder
-3	#DEP#commandlin
-4	#DEP#arduino
-5	#DEP#cmake
-6	#DEP#golang
-7	#DEP#bash

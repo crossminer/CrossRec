@@ -1,9 +1,0 @@
-1	git://github.com/ni-ze/ssm-BookAppointmentmybati.git
-2	#DEP#java
-3	#DEP#spring
-4	#DEP#json
-5	#DEP#springmvc
-6	#DEP#ajax
-7	#DEP#mysql
-8	#DEP#ssm
-9	#DEP#javascript

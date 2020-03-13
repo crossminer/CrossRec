@@ -1,8 +1,0 @@
-1	git://github.com/citusdata/citusscale
-2	#DEP#postgr
-3	#DEP#postgresql
-4	#DEP#databas
-5	#DEP#shard
-6	#DEP#sql
-7	#DEP#multiten
-8	#DEP#distributdataba

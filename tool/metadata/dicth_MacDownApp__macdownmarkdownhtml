@@ -1,7 +1,0 @@
-1	git://github.com/MacDownApp/macdownmarkdownhtml
-2	#DEP#markdown
-3	#DEP#xcode
-4	#DEP#objectc
-5	#DEP#cocoa
-6	#DEP#markdowneditor
-7	#DEP#maco

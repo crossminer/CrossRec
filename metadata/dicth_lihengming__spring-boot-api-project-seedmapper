@@ -1,7 +1,0 @@
-1	git://github.com/lihengming/spring-boot-api-project-seedmapper.git
-2	#DEP#mybati
-3	#DEP#springboot
-4	#DEP#java
-5	#DEP#rest
-6	#DEP#seed
-7	#DEP#api

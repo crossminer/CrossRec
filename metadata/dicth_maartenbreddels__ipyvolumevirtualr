@@ -1,8 +1,0 @@
-1	git://github.com/maartenbreddels/ipyvolumevirtualr.git
-2	#DEP#dataviz
-3	#DEP#python
-4	#DEP#webgl
-5	#DEP#jupytnotebook
-6	#DEP#jupyt
-7	#DEP#threej
-8	#DEP#plot

@@ -1,8 +1,0 @@
-1	git://github.com/bitwarden/browserbitwarden
-2	#DEP#typescript
-3	#DEP#webextens
-4	#DEP#chrome
-5	#DEP#javascript
-6	#DEP#firefox
-7	#DEP#angular
-8	#DEP#safari

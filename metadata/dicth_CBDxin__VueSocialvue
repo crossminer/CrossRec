@@ -1,8 +1,0 @@
-1	git://github.com/CBDxin/VueSocialvue.git
-2	#DEP#socket
-3	#DEP#vuerout
-4	#DEP#socketio
-5	#DEP#axio
-6	#DEP#mongoos
-7	#DEP#express
-8	#DEP#vuex

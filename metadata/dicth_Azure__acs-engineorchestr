@@ -1,7 +1,0 @@
-1	git://github.com/Azure/acs-engineorchestr.git
-2	#DEP#azur
-3	#DEP#swarm
-4	#DEP#meso
-5	#DEP#contain
-6	#DEP#kubernet
-7	#DEP#docker

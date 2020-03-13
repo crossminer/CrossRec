@@ -1,8 +1,0 @@
-1	git://github.com/globocom/gitlab-ci-monitorcontinuintegr.git
-2	#DEP#javascript
-3	#DEP#gitlab
-4	#DEP#gitlabci
-5	#DEP#vuej
-6	#DEP#dashboard
-7	#DEP#continudeliveri
-8	#DEP#monitor

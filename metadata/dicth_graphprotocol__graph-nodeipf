@@ -1,8 +1,0 @@
-1	git://github.com/graphprotocol/graph-nodeipf.git
-2	#DEP#protocol
-3	#DEP#graphqlapi
-4	#DEP#blockchain
-5	#DEP#ethereum
-6	#DEP#graphqlserv
-7	#DEP#developtool
-8	#DEP#graphql

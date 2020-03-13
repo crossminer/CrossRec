@@ -1,8 +1,0 @@
-1	git://github.com/processone/tsungamqp
-2	#DEP#postgresql
-3	#DEP#xmpp
-4	#DEP#benchmark
-5	#DEP#mqtt
-6	#DEP#mysql
-7	#DEP#ldap
-8	#DEP#erlang

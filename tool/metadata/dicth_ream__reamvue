@@ -1,7 +1,0 @@
-1	git://github.com/ream/reamvue
-2	#DEP#univers
-3	#DEP#http
-4	#DEP#server
-5	#DEP#koa
-6	#DEP#express
-7	#DEP#webpack

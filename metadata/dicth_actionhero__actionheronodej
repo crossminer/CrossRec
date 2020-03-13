@@ -1,7 +1,0 @@
-1	git://github.com/actionhero/actionheronodej.git
-2	#DEP#http
-3	#DEP#websocket
-4	#DEP#tcp
-5	#DEP#javascript
-6	#DEP#server
-7	#DEP#framework

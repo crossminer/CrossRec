@@ -1,8 +1,0 @@
-1	git://github.com/apache/incubator-apisixapimanag
-2	#DEP#luajit
-3	#DEP#cloudnativ
-4	#DEP#apigateway
-5	#DEP#nginx
-6	#DEP#api
-7	#DEP#lua
-8	#DEP#microservic

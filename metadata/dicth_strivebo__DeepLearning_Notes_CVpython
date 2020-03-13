@@ -1,8 +1,0 @@
-1	git://github.com/strivebo/DeepLearning_Notes_CVpython.git
-2	#DEP#deeplearn
-3	#DEP#matplotlib
-4	#DEP#opencv
-5	#DEP#matlab
-6	#DEP#tensorflow
-7	#DEP#numpi
-8	#DEP#scikitlearn

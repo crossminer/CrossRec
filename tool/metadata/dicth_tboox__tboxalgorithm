@@ -1,8 +1,0 @@
-1	git://github.com/tboox/tboxalgorithm
-2	#DEP#stream
-3	#DEP#network
-4	#DEP#xml
-5	#DEP#coroutin
-6	#DEP#json
-7	#DEP#contain
-8	#DEP#crossplatform

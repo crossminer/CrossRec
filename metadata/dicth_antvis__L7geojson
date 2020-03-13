@@ -1,9 +1,0 @@
-1	git://github.com/antvis/L7geojson.git
-2	#DEP#datavisu
-3	#DEP#map
-4	#DEP#webgl
-5	#DEP#geospati
-6	#DEP#javascript
-7	#DEP#line
-8	#DEP#3d
-9	#DEP#gi

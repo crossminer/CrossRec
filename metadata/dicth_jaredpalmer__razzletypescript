@@ -1,8 +1,0 @@
-1	git://github.com/jaredpalmer/razzletypescript.git
-2	#DEP#univers
-3	#DEP#javascript
-4	#DEP#preact
-5	#DEP#react
-6	#DEP#inferno
-7	#DEP#webpack
-8	#DEP#isomorph

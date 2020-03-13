@@ -1,9 +1,0 @@
-1	git://github.com/rtfpessoa/dependency_spydepend.git
-2	#DEP#npm
-3	#DEP#scanner
-4	#DEP#compos
-5	#DEP#maven
-6	#DEP#bower
-7	#DEP#vulner
-8	#DEP#version
-9	#DEP#rubygem

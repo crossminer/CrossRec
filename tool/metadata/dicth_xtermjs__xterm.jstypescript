@@ -1,8 +1,0 @@
-1	git://github.com/xtermjs/xterm.jstypescript
-2	#DEP#consol
-3	#DEP#xterm
-4	#DEP#terminemul
-5	#DEP#develop
-6	#DEP#ssh
-7	#DEP#tti
-8	#DEP#termin

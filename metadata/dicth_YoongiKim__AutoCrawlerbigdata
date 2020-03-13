@@ -1,9 +1,0 @@
-1	git://github.com/YoongiKim/AutoCrawlerbigdata.git
-2	#DEP#multiprocess
-3	#DEP#customiz
-4	#DEP#googl
-5	#DEP#thread
-6	#DEP#python
-7	#DEP#deeplearn
-8	#DEP#selenium
-9	#DEP#crawler

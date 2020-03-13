@@ -1,9 +1,0 @@
-1	git://github.com/HashemKhalifa/webpack-react-boilerplatecsmodul
-2	#DEP#webpack4
-3	#DEP#babel
-4	#DEP#reactj
-5	#DEP#react
-6	#DEP#prettier
-7	#DEP#jest
-8	#DEP#eslint
-9	#DEP#enzym

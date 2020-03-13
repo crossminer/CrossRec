@@ -1,7 +1,0 @@
-1	git://github.com/mars-project/marstensor.git
-2	#DEP#python
-3	#DEP#numpi
-4	#DEP#machinlearn
-5	#DEP#scikitlearn
-6	#DEP#panda
-7	#DEP#datafram

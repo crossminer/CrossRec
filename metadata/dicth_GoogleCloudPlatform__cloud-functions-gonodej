@@ -1,7 +1,0 @@
-1	git://github.com/GoogleCloudPlatform/cloud-functions-gonodej.git
-2	#DEP#googl
-3	#DEP#node
-4	#DEP#googlcloud
-5	#DEP#golang
-6	#DEP#gcp
-7	#DEP#go

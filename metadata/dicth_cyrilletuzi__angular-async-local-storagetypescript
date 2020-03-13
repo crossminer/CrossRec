@@ -1,7 +1,0 @@
-1	git://github.com/cyrilletuzi/angular-async-local-storagetypescript.git
-2	#DEP#rxj
-3	#DEP#javascript
-4	#DEP#offlin
-5	#DEP#pwa
-6	#DEP#angular
-7	#DEP#localstorag

@@ -1,7 +1,0 @@
-1	git://github.com/firefox-devtools/profilerdevtool.git
-2	#DEP#perform
-3	#DEP#javascript
-4	#DEP#firefox
-5	#DEP#profil
-6	#DEP#react
-7	#DEP#redux

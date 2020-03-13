@@ -1,7 +1,0 @@
-1	git://github.com/fightbulc/moment.phppar.git
-2	#DEP#internation
-3	#DEP#time
-4	#DEP#i18n
-5	#DEP#calendar
-6	#DEP#php
-7	#DEP#formatt

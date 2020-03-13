@@ -1,8 +1,0 @@
-1	git://github.com/geerlingguy/ansible-role-gitlabvc
-2	#DEP#git
-3	#DEP#code
-4	#DEP#gitlab
-5	#DEP#rubi
-6	#DEP#host
-7	#DEP#role
-8	#DEP#ansibl

@@ -1,7 +1,0 @@
-8	#DEP#sql
-9	#DEP#mariadb
-10	#DEP#orm
-11	#DEP#elasticsearch
-12	#DEP#mysql
-13	#DEP#sqlserver
-14	#DEP#oracl

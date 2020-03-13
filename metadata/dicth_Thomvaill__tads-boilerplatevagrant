@@ -1,9 +1,0 @@
-1	git://github.com/Thomvaill/tads-boilerplatevagrant.git
-2	#DEP#bash
-3	#DEP#devop
-4	#DEP#terraform
-5	#DEP#dockerswarm
-6	#DEP#docker
-7	#DEP#ansibl
-8	#DEP#boilerpl
-9	#DEP#infrastructurcod

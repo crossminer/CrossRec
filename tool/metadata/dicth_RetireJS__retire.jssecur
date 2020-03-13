@@ -1,7 +1,0 @@
-1	git://github.com/RetireJS/retire.jssecur
-2	#DEP#scanner
-3	#DEP#firefoxexten
-4	#DEP#chromeexten
-5	#DEP#buildtool
-6	#DEP#vulner
-7	#DEP#javascript

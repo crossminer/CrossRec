@@ -1,7 +1,0 @@
-1	git://github.com/canelmas/letkotlinandroid.git
-2	#DEP#kotlin
-3	#DEP#gradlplugin
-4	#DEP#gradl
-5	#DEP#aop
-6	#DEP#librari
-7	#DEP#android

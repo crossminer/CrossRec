@@ -1,7 +1,0 @@
-1	git://github.com/tock/tockkernel
-2	#DEP#iot
-3	#DEP#microcontrol
-4	#DEP#embed
-5	#DEP#arm
-6	#DEP#opersystem
-7	#DEP#rust

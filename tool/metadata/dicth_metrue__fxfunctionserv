@@ -1,8 +1,0 @@
-1	git://github.com/metrue/fxfunctionserv
-2	#DEP#serverless
-3	#DEP#microservic
-4	#DEP#awlambda
-5	#DEP#kubernet
-6	#DEP#k8
-7	#DEP#docker
-8	#DEP#faa

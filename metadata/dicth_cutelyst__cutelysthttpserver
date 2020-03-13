@@ -1,7 +1,0 @@
-1	git://github.com/cutelyst/cutelysthttpserver.git
-2	#DEP#webframework
-3	#DEP#qt
-4	#DEP#json
-5	#DEP#cplusplu
-6	#DEP#crossplatform
-7	#DEP#cpp

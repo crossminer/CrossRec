@@ -1,7 +1,0 @@
-1	git://github.com/plotly/plotly-graphing-library-for-matlabdatavisu.git
-2	#DEP#plotli
-3	#DEP#webgl
-4	#DEP#d3j
-5	#DEP#matlab
-6	#DEP#datascienc
-7	#DEP#d3

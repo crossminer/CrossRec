@@ -1,7 +1,0 @@
-1	git://github.com/SwipeCellKit/SwipeCellKituikit
-2	#DEP#tableview
-3	#DEP#swipe
-4	#DEP#io
-5	#DEP#uitableview
-6	#DEP#drag
-7	#DEP#swift

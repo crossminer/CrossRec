@@ -1,8 +1,0 @@
-1	git://github.com/alibaba/coobjcc.git
-2	#DEP#arm64
-3	#DEP#gener
-4	#DEP#io
-5	#DEP#objectc
-6	#DEP#coroutin
-7	#DEP#asm
-8	#DEP#swift

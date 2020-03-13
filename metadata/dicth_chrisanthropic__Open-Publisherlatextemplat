@@ -1,8 +1,0 @@
-1	git://github.com/chrisanthropic/Open-Publisherlatextemplat.git
-2	#DEP#publish
-3	#DEP#latex
-4	#DEP#pandoc
-5	#DEP#ebook
-6	#DEP#jekyl
-7	#DEP#pdf
-8	#DEP#epub

@@ -1,7 +1,0 @@
-1	git://github.com/westonganger/spreadsheet_architectxlsx
-2	#DEP#activerecord
-3	#DEP#spreadsheet
-4	#DEP#rubi
-5	#DEP#rail
-6	#DEP#export
-7	#DEP#csv

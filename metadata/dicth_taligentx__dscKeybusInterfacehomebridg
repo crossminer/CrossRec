@@ -1,7 +1,0 @@
-1	git://github.com/taligentx/dscKeybusInterfacehomebridg.git
-2	#DEP#arduino
-3	#DEP#esp8266
-4	#DEP#homekit
-5	#DEP#iot
-6	#DEP#homeassist
-7	#DEP#homeautom

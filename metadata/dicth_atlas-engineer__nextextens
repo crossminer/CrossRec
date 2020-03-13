@@ -1,7 +1,0 @@
-1	git://github.com/atlas-engineer/nextextens.git
-2	#DEP#commonlisp
-3	#DEP#lisp
-4	#DEP#product
-5	#DEP#browser
-6	#DEP#vim
-7	#DEP#emac

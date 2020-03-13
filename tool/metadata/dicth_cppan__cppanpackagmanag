@@ -1,7 +1,0 @@
-1	git://github.com/cppan/cppanpackagmanag
-2	#DEP#c
-3	#DEP#cpluplu
-4	#DEP#dependmanag
-5	#DEP#cmake
-6	#DEP#buildsystem
-7	#DEP#crossplatform

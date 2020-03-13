@@ -1,8 +1,0 @@
-1	git://github.com/liamg/tfsecci.git
-2	#DEP#secur
-3	#DEP#complianc
-4	#DEP#scanner
-5	#DEP#staticanalysi
-6	#DEP#azur
-7	#DEP#terraform
-8	#DEP#aw

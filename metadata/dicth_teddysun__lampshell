@@ -1,9 +1,0 @@
-1	git://github.com/teddysun/lampshell.git
-2	#DEP#debian
-3	#DEP#apach
-4	#DEP#lamp
-5	#DEP#mysql
-6	#DEP#ubuntu
-7	#DEP#cento
-8	#DEP#mariadb
-9	#DEP#php

@@ -1,7 +1,0 @@
-1	git://github.com/prkumar/uplinkrequest.git
-2	#DEP#http
-3	#DEP#restapi
-4	#DEP#python
-5	#DEP#apicli
-6	#DEP#retrofit
-7	#DEP#httpclient

@@ -1,9 +1,0 @@
-1	git://github.com/PearInc/PearPlayer.jsjavascript
-2	#DEP#stream
-3	#DEP#cdn
-4	#DEP#browser
-5	#DEP#p2p
-6	#DEP#live
-7	#DEP#video
-8	#DEP#http2
-9	#DEP#webrtc

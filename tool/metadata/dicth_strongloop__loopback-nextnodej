@@ -1,9 +1,0 @@
-1	git://github.com/strongloop/loopback-nextnodej
-2	#DEP#openapi
-3	#DEP#typescript
-4	#DEP#dependinject
-5	#DEP#rest
-6	#DEP#framework
-7	#DEP#swagger
-8	#DEP#api
-9	#DEP#ioc

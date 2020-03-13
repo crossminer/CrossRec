@@ -1,8 +1,0 @@
-1	git://github.com/neurobin/shcshell
-2	#DEP#compil
-3	#DEP#perl
-4	#DEP#convert
-5	#DEP#binari
-6	#DEP#shellscript
-7	#DEP#zsh
-8	#DEP#bash

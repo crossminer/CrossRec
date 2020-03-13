@@ -1,8 +1,0 @@
-1	git://github.com/sl1pm4t/k2tftool.git
-2	#DEP#convert
-3	#DEP#commandlinetool
-4	#DEP#yaml
-5	#DEP#util
-6	#DEP#terraform
-7	#DEP#hcl
-8	#DEP#kubernet

@@ -1,8 +1,0 @@
-1	git://github.com/Alexloof/Next-GraphQL-Blogexpress.git
-2	#DEP#mongoos
-3	#DEP#mongodb
-4	#DEP#nextj
-5	#DEP#react
-6	#DEP#apollocli
-7	#DEP#apollo
-8	#DEP#graphql

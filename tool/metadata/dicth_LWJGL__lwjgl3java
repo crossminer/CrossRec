@@ -1,9 +1,0 @@
-1	git://github.com/LWJGL/lwjgl3java
-2	#DEP#opengl
-3	#DEP#kotlin
-4	#DEP#opencl
-5	#DEP#bind
-6	#DEP#vr
-7	#DEP#glfw
-8	#DEP#vulkan
-9	#DEP#open

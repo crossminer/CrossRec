@@ -1,7 +1,0 @@
-1	git://github.com/ronami/minipackmodul
-2	#DEP#javascript
-3	#DEP#browserifi
-4	#DEP#exampl
-5	#DEP#es2015
-6	#DEP#commonj
-7	#DEP#webpack

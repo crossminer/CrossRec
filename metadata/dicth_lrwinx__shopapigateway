@@ -1,7 +1,0 @@
-1	git://github.com/lrwinx/shopapigateway.git
-2	#DEP#eda
-3	#DEP#zuul
-4	#DEP#springcloud
-5	#DEP#maven
-6	#DEP#springboot
-7	#DEP#java8

@@ -1,7 +1,0 @@
-1	git://github.com/pipelinedb/pipelinedbstreamprocess
-2	#DEP#postgresql
-3	#DEP#realtim
-4	#DEP#timeseri
-5	#DEP#sql
-6	#DEP#push
-7	#DEP#analyt

@@ -1,9 +1,0 @@
-1	git://github.com/vespa-engine/vespabigdata.git
-2	#DEP#java
-3	#DEP#serv
-4	#DEP#ai
-5	#DEP#searchengin
-6	#DEP#machinlearn
-7	#DEP#server
-8	#DEP#tensorflow
-9	#DEP#cpp

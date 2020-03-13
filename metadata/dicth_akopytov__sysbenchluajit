@@ -1,9 +1,0 @@
-1	git://github.com/akopytov/sysbenchluajit.git
-2	#DEP#consol
-3	#DEP#benchmark
-4	#DEP#maco
-5	#DEP#mysql
-6	#DEP#lua
-7	#DEP#freebsd
-8	#DEP#linux
-9	#DEP#postgresql

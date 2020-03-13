@@ -1,7 +1,0 @@
-1	git://github.com/HaNdTriX/generator-chrome-extension-kickstartwebextens
-2	#DEP#webpack2
-3	#DEP#javascript
-4	#DEP#scaffold
-5	#DEP#chromeexten
-6	#DEP#gulp
-7	#DEP#yeomangen

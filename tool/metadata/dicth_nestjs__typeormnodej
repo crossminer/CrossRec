@@ -1,8 +1,0 @@
-1	git://github.com/nestjs/typeormnodej
-2	#DEP#typeorm
-3	#DEP#typescript
-4	#DEP#nosql
-5	#DEP#nestj
-6	#DEP#javascript
-7	#DEP#nest
-8	#DEP#sql

@@ -1,8 +1,0 @@
-1	git://github.com/giraffe-fsharp/Giraffefsharp
-2	#DEP#templatengin
-3	#DEP#middlewar
-4	#DEP#microframework
-5	#DEP#dotnetcor
-6	#DEP#dotnet
-7	#DEP#webframework
-8	#DEP#aspnetcor

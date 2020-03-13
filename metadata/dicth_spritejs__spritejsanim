@@ -1,7 +1,0 @@
-1	git://github.com/spritejs/spritejsanim.git
-2	#DEP#render
-3	#DEP#graphic
-4	#DEP#svg
-5	#DEP#react
-6	#DEP#vue
-7	#DEP#canva

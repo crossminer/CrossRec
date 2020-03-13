@@ -1,7 +1,0 @@
-1	git://github.com/quay/clairvulner
-2	#DEP#oci
-3	#DEP#staticanalysi
-4	#DEP#kubernet
-5	#DEP#contain
-6	#DEP#go
-7	#DEP#docker

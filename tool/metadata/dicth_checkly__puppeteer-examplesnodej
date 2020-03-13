@@ -1,8 +1,0 @@
-1	git://github.com/checkly/puppeteer-examplesnodej
-2	#DEP#node
-3	#DEP#monitor
-4	#DEP#puppet
-5	#DEP#jest
-6	#DEP#headlesschrom
-7	#DEP#test
-8	#DEP#developtool

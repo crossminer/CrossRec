@@ -1,9 +1,0 @@
-1	git://github.com/Wscats/gluple
-2	#DEP#babel
-3	#DEP#typescript
-4	#DEP#gulp
-5	#DEP#minifi
-6	#DEP#sc
-7	#DEP#sas
-8	#DEP#gulpplugin
-9	#DEP#clean

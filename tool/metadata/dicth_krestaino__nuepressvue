@@ -1,9 +1,0 @@
-1	git://github.com/krestaino/nuepressvue
-2	#DEP#frontend
-3	#DEP#restapi
-4	#DEP#ssr
-5	#DEP#javascript
-6	#DEP#wordpress
-7	#DEP#webapp
-8	#DEP#vuex
-9	#DEP#nuxt

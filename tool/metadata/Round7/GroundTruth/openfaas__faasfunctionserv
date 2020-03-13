@@ -1,7 +1,0 @@
-8	#DEP#swarm
-9	#DEP#prometheu
-10	#DEP#kubernet
-11	#DEP#k8
-12	#DEP#docker
-13	#DEP#faa
-14	#DEP#lambda

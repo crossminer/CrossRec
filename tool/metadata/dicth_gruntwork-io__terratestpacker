@@ -1,7 +1,0 @@
-1	git://github.com/gruntwork-io/terratestpacker
-2	#DEP#devop
-3	#DEP#golang
-4	#DEP#terraform
-5	#DEP#aw
-6	#DEP#test
-7	#DEP#docker

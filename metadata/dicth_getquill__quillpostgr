@@ -1,8 +1,0 @@
-1	git://github.com/getquill/quillpostgr.git
-2	#DEP#scala
-3	#DEP#databas
-4	#DEP#jdbc
-5	#DEP#linq
-6	#DEP#mysql
-7	#DEP#spark
-8	#DEP#cassandra

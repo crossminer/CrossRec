@@ -1,7 +1,0 @@
-1	git://github.com/LukasBanana/LLGLopengl
-2	#DEP#render
-3	#DEP#metal
-4	#DEP#directx
-5	#DEP#d3d11
-6	#DEP#d3d12
-7	#DEP#vulkan

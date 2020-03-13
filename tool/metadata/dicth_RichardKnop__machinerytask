@@ -1,9 +1,0 @@
-1	git://github.com/RichardKnop/machinerytask
-2	#DEP#amqp
-3	#DEP#mongodb
-4	#DEP#memcach
-5	#DEP#rabbitmq
-6	#DEP#golang
-7	#DEP#queue
-8	#DEP#go
-9	#DEP#redi

@@ -1,7 +1,0 @@
-1	git://github.com/Miserlou/NoDBserverless
-2	#DEP#nosql
-3	#DEP#python
-4	#DEP#aw
-5	#DEP#json
-6	#DEP#s3
-7	#DEP#lambda

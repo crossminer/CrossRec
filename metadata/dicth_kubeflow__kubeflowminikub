@@ -1,7 +1,0 @@
-1	git://github.com/kubeflow/kubeflowminikub.git
-2	#DEP#ml
-3	#DEP#jupyt
-4	#DEP#machinlearn
-5	#DEP#notebook
-6	#DEP#tensorflow
-7	#DEP#kubernet

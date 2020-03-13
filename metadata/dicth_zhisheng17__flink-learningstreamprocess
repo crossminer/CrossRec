@@ -1,9 +1,0 @@
-1	git://github.com/zhisheng17/flink-learningstreamprocess.git
-2	#DEP#stream
-3	#DEP#kafka
-4	#DEP#rabbitmq
-5	#DEP#mysql
-6	#DEP#elasticsearch
-7	#DEP#spark
-8	#DEP#redi
-9	#DEP#rocketmq

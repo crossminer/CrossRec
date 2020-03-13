@@ -1,8 +1,0 @@
-10	#DEP#linux
-11	#DEP#securscann
-12	#DEP#go
-13	#DEP#freebsd
-14	#DEP#vulner
-15	#DEP#vulnerass
-16	#DEP#vulnerdetect
-17	#DEP#securautom

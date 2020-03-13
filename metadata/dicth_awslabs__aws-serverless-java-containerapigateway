@@ -1,8 +1,0 @@
-1	git://github.com/awslabs/aws-serverless-java-containerapigateway.git
-2	#DEP#restapi
-3	#DEP#serverless
-4	#DEP#spring
-5	#DEP#awlambda
-6	#DEP#api
-7	#DEP#aw
-8	#DEP#apiserv

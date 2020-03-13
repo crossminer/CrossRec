@@ -1,9 +1,0 @@
-1	git://github.com/census-instrumentation/opencensus-gostat
-2	#DEP#trace
-3	#DEP#zipkin
-4	#DEP#monitor
-5	#DEP#golang
-6	#DEP#prometheu
-7	#DEP#distributtrac
-8	#DEP#go
-9	#DEP#cloud

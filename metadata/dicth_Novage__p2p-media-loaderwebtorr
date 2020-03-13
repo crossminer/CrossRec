@@ -1,9 +1,0 @@
-1	git://github.com/Novage/p2p-media-loaderwebtorr.git
-2	#DEP#hl
-3	#DEP#player
-4	#DEP#dash
-5	#DEP#p2p
-6	#DEP#bittorr
-7	#DEP#video
-8	#DEP#peer
-9	#DEP#webrtc

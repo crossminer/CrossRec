@@ -1,7 +1,0 @@
-1	git://github.com/crate/cratedatabas.git
-2	#DEP#distribut
-3	#DEP#iot
-4	#DEP#db
-5	#DEP#sql
-6	#DEP#cluster
-7	#DEP#java

@@ -1,7 +1,0 @@
-1	git://github.com/Greentube/localize-routertypescript.git
-2	#DEP#univers
-3	#DEP#angular
-4	#DEP#aot
-5	#DEP#router
-6	#DEP#i18n
-7	#DEP#local

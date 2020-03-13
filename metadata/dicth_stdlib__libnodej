@@ -1,8 +1,0 @@
-1	git://github.com/stdlib/libnodej.git
-2	#DEP#serverless
-3	#DEP#registri
-4	#DEP#node
-5	#DEP#awlambda
-6	#DEP#api
-7	#DEP#sdk
-8	#DEP#faa

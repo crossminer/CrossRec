@@ -1,8 +1,0 @@
-1	git://github.com/exceptionless/Exceptionlesslog.git
-2	#DEP#errorhandl
-3	#DEP#monitor
-4	#DEP#csharp
-5	#DEP#elasticsearch
-6	#DEP#redi
-7	#DEP#javascript
-8	#DEP#aspnet

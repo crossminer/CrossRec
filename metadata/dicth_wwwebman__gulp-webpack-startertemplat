@@ -1,7 +1,0 @@
-1	git://github.com/wwwebman/gulp-webpack-startertemplat.git
-2	#DEP#wordpressdevelop
-3	#DEP#staticsitegen
-4	#DEP#browsersync
-5	#DEP#yarn
-6	#DEP#gulp
-7	#DEP#webpack

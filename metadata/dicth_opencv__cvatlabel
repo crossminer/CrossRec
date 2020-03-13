@@ -1,7 +1,0 @@
-1	git://github.com/opencv/cvatlabel.git
-2	#DEP#dataset
-3	#DEP#imagclassif
-4	#DEP#deeplearn
-5	#DEP#annot
-6	#DEP#tensorflow
-7	#DEP#computvis

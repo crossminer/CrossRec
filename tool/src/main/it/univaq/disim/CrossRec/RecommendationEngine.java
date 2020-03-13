@@ -38,7 +38,7 @@ public class RecommendationEngine {
 		this.testingEndPos = teEndPos;
 	}
 
-	public double[][] BuildUserItemMatrix(String testingPro, List<String> libSet) {
+	public double[][] buildUserItemMatrix(String testingPro, List<String> libSet) {
 
 		double UserItemMatrix[][] = null;
 		DataReader reader = new DataReader();
@@ -165,7 +165,7 @@ public class RecommendationEngine {
 			String tmp = Paths.get(this.simDir, filename).toString();
 			similarities = reader.getSimilarityMatrix(tmp, numOfNeighbours);
 
-			double UserItemMatrix[][] = BuildUserItemMatrix(testingPro, libSet);
+			double UserItemMatrix[][] = buildUserItemMatrix(testingPro, libSet);
 			double avgRating = 1.0, tmpRating = 0.0;
 			for (int k = 0; k < numOfNeighbours; k++)
 				val1 += similarities.get(k);
@@ -234,7 +234,7 @@ public class RecommendationEngine {
 			Map<String, Double> recommendations = new HashMap<String, Double>();
 			List<String> libSet = new ArrayList<String>();
 			testingPro = testingProjects.get(keyTesting);
-			double UserItemMatrix[][] = BuildUserItemMatrix(testingPro, libSet);
+			double UserItemMatrix[][] = buildUserItemMatrix(testingPro, libSet);
 
 			/*
 			 * calculate the missing ratings using the item-based collaborative-filtering
@@ -355,7 +355,7 @@ public class RecommendationEngine {
 			Map<String, Double> recommendations = new HashMap<String, Double>();
 			List<String> libSet = new ArrayList<String>();
 			testingPro = testingProjects.get(keyTesting);
-			double UserItemMatrix[][] = BuildUserItemMatrix(testingPro, libSet);
+			double UserItemMatrix[][] = buildUserItemMatrix(testingPro, libSet);
 
 			/*
 			 * calculate the missing ratings using the item-based collaborative-filtering

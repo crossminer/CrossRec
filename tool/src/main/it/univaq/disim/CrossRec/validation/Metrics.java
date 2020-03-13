@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
 
 public class Metrics {
@@ -25,6 +26,7 @@ public class Metrics {
 	private String resDir;
 	private String prDir;
 	private String succesRateDir;
+	private String succesRateDirN;
 	private String fsDir;
 
 	private int fold;
@@ -46,6 +48,7 @@ public class Metrics {
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.prDir = Paths.get(this.srcDir, subFolder, "PrecisionRecall").toString();
 		this.succesRateDir = Paths.get(this.srcDir, subFolder, "SuccesRate").toString();
+		this.succesRateDirN = Paths.get(this.srcDir, subFolder, "SuccesRateN").toString();
 		this.fsDir = Paths.get(this.srcDir, subFolder, "FScore" + "/").toString();
 		this.resDir = Paths.get(this.srcDir, "Results").toString();
 
@@ -168,7 +171,7 @@ public class Metrics {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		try(BufferedWriter bw = new BufferedWriter(new FileWriter(tmp2))){
+		try (BufferedWriter bw = new BufferedWriter(new FileWriter(tmp2))) {
 			bw.write(Double.toHexString(recallRate));
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -178,7 +181,7 @@ public class Metrics {
 
 	/**
 	 * **/
-		public void SuccessRate() {
+	public void successRate() {
 		DataReader reader = new DataReader();
 
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
@@ -216,7 +219,8 @@ public class Metrics {
 
 			try {
 				File successRateFolder = new File(this.succesRateDir);
-				if (! successRateFolder.exists()) successRateFolder.mkdir();
+				if (!successRateFolder.exists())
+					successRateFolder.mkdir();
 				String successRatePath = Paths.get(this.succesRateDir, filename).toString();
 				BufferedWriter writer = new BufferedWriter(new FileWriter(successRatePath));
 //				BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
@@ -227,7 +231,7 @@ public class Metrics {
 					Set<String> common = Sets.intersection(temp, groundTruthFile);
 					size = common.size();
 					String content = key + "\t";
-					if(size == 0)
+					if (size == 0)
 						content = content + "0";
 					else
 						content = content + "1";
@@ -252,13 +256,86 @@ public class Metrics {
 
 		return;
 	}
+	public void successRateN() {
+		DataReader reader = new DataReader();
+
+		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
+		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
+				this.testingStartPos, this.testingEndPos);
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		/* Select top libraries */
+
+		Map<Integer, String> recommendationFile = null;
+		Set<String> groundTruthFile = null;
+		Set<String> temp = null;
+		Set<Integer> keySet = null;
+
+		int totalOfRelevant = 0;
+
+		for (Integer keyTesting : keyTestingProjects) {
+
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+			String groundTruthData = Paths.get(this.recDir, filename).toString();
+
+			recommendationFile = reader.readRecommendationFile(groundTruthData);
+			groundTruthData = Paths.get(this.groundTruth, filename).toString();
+			groundTruthFile = reader.readGroundTruthFile(groundTruthData);
+
+			totalOfRelevant = groundTruthFile.size();
+
+			keySet = recommendationFile.keySet();
+			int size = 0;
+			int count = 1;
+			double f_score = 0;
+
+			temp = new HashSet<String>();
+
+			try {
+				File successRateFolder = new File(this.succesRateDirN);
+				if (!successRateFolder.exists())
+					successRateFolder.mkdir();
+				String successRatePath = Paths.get(this.succesRateDirN, filename).toString();
+				BufferedWriter writer = new BufferedWriter(new FileWriter(successRatePath));
+//				BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
+
+				for (Integer key : keySet) {
+					temp.add(recommendationFile.get(key));
+
+					Set<String> common = Sets.intersection(temp, groundTruthFile);
+					size = common.size();
+					String content = key + "\t";
+//					if (size == 0)
+//						content = content + "0";
+//					else
+//						content = content + "1";
+					content = content + size;
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					content = key + "\t" + f_score;
+//					writer2.append(content);							
+//					writer2.newLine();
+//					writer2.flush();
+					count++;
+					if (count > numLibs)
+						break;
+				}
+				writer.close();
+//				writer2.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+
+		return;
+	}
 	/*
 	 * 
 	 */
-	
-	
-	
-	
+
 	public void PrecisionRecall() {
 		DataReader reader = new DataReader();
 
@@ -435,7 +512,116 @@ public class Metrics {
 		return;
 	}
 	
-	//TODO qui
+	private Map<Integer, Double> initSRMap() {
+		Map<Integer,Double> result = Maps.newHashMap();
+		for (int i=1; i<21; i++) {
+			result.put(i, 0.0);
+		}
+		return result;
+	}
+	public void computeAverageSuccessRateN(String inputFile) {
+		DataReader reader = new DataReader();
+		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
+		testingProjects = reader.readProjectList(Paths.get(this.srcDir, inputFile).toString(), this.testingStartPos,
+				this.testingEndPos);
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+
+		String tmp = "";
+
+		Map<Integer, Double> successRateMap1 = initSRMap();
+		Map<Integer, Double> successRateMap2 = initSRMap();
+		Map<Integer, Double> successRateMap3 = initSRMap();
+		Map<Integer, Double> successRateMap4 = initSRMap();
+
+		for (Integer keyTesting : keyTestingProjects) {
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+
+			try {
+
+				tmp = Paths.get(this.succesRateDirN, filename).toString();
+				String line = null;
+				String[] vals = null;
+				int id = 1;
+				BufferedReader bufread = new BufferedReader(new FileReader(tmp));
+				while ((line = bufread.readLine()) != null) {
+					double sr1 = successRateMap1.get(id), sr2 = successRateMap2.get(id),
+							sr3 = successRateMap3.get(id), sr4 = successRateMap4.get(id);
+					double successRate1 = 0;
+					vals = line.split("\t");
+					successRate1 = Double.parseDouble(vals[1].trim());
+					if (successRateMap1.containsKey(id)) {
+						//sr1 = successRateMap1.get(id) + successRate1;
+						if(successRate1 == 1)
+							sr1 = successRateMap1.get(id) + 1;
+						
+						if(successRate1>1 & successRate1 < 3) {
+							sr1 = successRateMap1.get(id) + 1;
+							sr2 = successRateMap2.get(id) + 1;
+							
+						}
+						if(successRate1>2 & successRate1 < 4) {
+							sr1 = successRateMap1.get(id) + 1;
+							sr2 = successRateMap2.get(id) + 1;
+							sr3 = successRateMap3.get(id) + 1;
+						}
+						if(successRate1>3) {
+							sr1 = successRateMap1.get(id) + 1;
+							sr2 = successRateMap2.get(id) + 1;
+							sr3 = successRateMap3.get(id) + 1;
+							sr4 = successRateMap4.get(id) + 1;
+						}
+						
+					}
+					successRateMap1.put(id, sr1);
+					successRateMap2.put(id, sr2);
+					successRateMap3.put(id, sr3);
+					successRateMap4.put(id, sr4);
+					id++;
+					if (id > numLibs)
+						break;
+				}
+
+				bufread.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+		double f_score = 0;
+		Set<Integer> keySet = successRateMap1.keySet();
+		int size = testingProjects.size();
+		tmp = Paths.get(this.resDir, "SR_STAR" + "_Round" + Integer.toString(fold)).toString();
+
+		try {
+			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
+			for (Integer key : keySet) {
+				double successRate1 = 0;
+				double successRate2 = 0;
+				double successRate3 = 0;
+				double successRate4 = 0;
+				if (size != 0) {
+					successRate1 = successRateMap1.get(key) / size;
+					successRate2 = successRateMap2.get(key) / size;
+					successRate3 = successRateMap3.get(key) / size;
+					successRate4 = successRateMap4.get(key) / size;
+				}
+				String content = String.format("%s\t%.03f\t%.03f\t%.03f\t%.03f	", key , successRate1, successRate2, successRate3, successRate4);
+				writer.append(content);
+				writer.newLine();
+				writer.flush();
+				content = key + "\t" + f_score;
+			}
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		return;
+	}
+
+
 	public void computeAverageSuccessRate(String inputFile) {
 		DataReader reader = new DataReader();
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
@@ -445,16 +631,14 @@ public class Metrics {
 
 		double successRate = 0;
 		double val1 = 0, val2 = 0;
-		String tmp = "", tmp2 = "";
+		String tmp = "";
 
 		Map<Integer, Double> successRateMap = new HashMap<Integer, Double>();
 
 		for (Integer keyTesting : keyTestingProjects) {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
-
 			try {
-
 				tmp = Paths.get(this.succesRateDir, filename).toString();
 				String line = null;
 				String[] vals = null;
@@ -465,14 +649,13 @@ public class Metrics {
 					successRate = Double.parseDouble(vals[1].trim());
 					if (successRateMap.containsKey(id))
 						val2 = successRateMap.get(id) + successRate;
-					else 
+					else
 						val1 = successRate;
 					successRateMap.put(id, val2);
 					id++;
 					if (id > numLibs)
 						break;
 				}
-
 				bufread.close();
 			} catch (IOException e) {
 				e.printStackTrace();
@@ -486,26 +669,19 @@ public class Metrics {
 
 		try {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
-//			BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
-
 			for (Integer key : keySet) {
 				successRate = 0;
 				if (size != 0) {
 					successRate = successRateMap.get(key) / size;
 				}
 
-//				f_score = (2*recall*precision)/(recall+precision);
 				String content = key + "\t" + successRate + "\t";
 				writer.append(content);
 				writer.newLine();
 				writer.flush();
 				content = key + "\t" + f_score;
-//				writer2.append(content);							
-//				writer2.newLine();
-//				writer2.flush();
 			}
 			writer.close();
-//			writer2.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

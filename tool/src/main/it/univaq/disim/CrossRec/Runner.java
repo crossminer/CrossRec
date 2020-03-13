@@ -68,8 +68,8 @@ public class Runner {
 	
 	public void tenFoldCrossValidation() {
 		
-		numOfProjects = 2778;		
-		numOfNeighbours = 10;
+		numOfProjects = 1805;		
+		numOfNeighbours = 25;
 		
 		int step = (int)numOfProjects/10;								
 								
@@ -85,15 +85,15 @@ public class Runner {
 			int k=i+1;
 			subFolder = "Round" + Integer.toString(k);			
 							
-			SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
-					trainingStartPos1,
-					trainingEndPos1,
-					trainingStartPos2,
-					trainingEndPos2,
-					testingStartPos,
-					testingEndPos);
-			
-			calculator.ComputeWeightCosineSimilarity();
+//			SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
+//					trainingStartPos1,
+//					trainingEndPos1,
+//					trainingStartPos2,
+//					trainingEndPos2,
+//					testingStartPos,
+//					testingEndPos);
+//			
+//			calculator.ComputeWeightCosineSimilarity();
 			
 			RecommendationEngine engine = new RecommendationEngine(this.srcDir,this.subFolder,numOfNeighbours,testingStartPos,testingEndPos);
 			

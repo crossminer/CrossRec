@@ -166,10 +166,12 @@ public class Runner {
 //			System.out.println("==============Long tail==============");
 ////			metrics.LongTail();			
 //			metrics.nDCG();
-			metrics.SuccessRate();
+			metrics.successRate();
+			metrics.successRateN();
 			metrics.PrecisionRecall();
 			recallRate += metrics.RecallRate();
 			metrics.computeAveragePrecisionRecall(inputFile);
+			metrics.computeAverageSuccessRateN(inputFile);
 			metrics.computeAverageSuccessRate(inputFile);
 			System.out.println("Average success rate: " + recallRate / 10);
 

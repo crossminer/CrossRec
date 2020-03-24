@@ -1,12 +1,16 @@
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
 
-import java.io.FileInputStream;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.Comparator;
 import java.util.Map;
 import java.util.Properties;
+
+import org.apache.log4j.Logger;
+
+import it.univaq.disim.crossrec.validation.Validator;
 
 
 class ValueComparator implements Comparator<String> {
@@ -35,27 +39,30 @@ public class Runner {
 	private int numOfProjects;
 	private static final int numOfNeighbours = 25;
 	private static String _propFile = "evaluation.properties";
+	final static Logger logger = Logger.getLogger(Runner.class);
 	public Runner(){
 		
 	}
 	
-	public static String loadConfigurations() throws FileNotFoundException, IOException{		
+	public String loadConfigurations() throws FileNotFoundException, IOException{		
 		Properties prop = new Properties();				
-		prop.load(new FileInputStream(_propFile));		
+		prop.load(getClass().getClassLoader().getResourceAsStream(_propFile));		
 		return prop.getProperty("sourceDirectory");
 	}
 	
-	public void run(String srcDir){		
-		System.out.println("CrossRec: Recommender System!");
+	public void run(boolean bayesian) throws FileNotFoundException, IOException{
+		
+		logger.info("CrossRec: Recommender System!");
+		String srcDir = loadConfigurations();
 		this.srcDir = srcDir;
-		DataReader dr = new DataReader();
+		DataReader dr = new DataReader(srcDir);
 		numOfProjects = dr.getNumberOfProjects(Paths.get(this.srcDir, "projects.txt").toString());		
-		tenFoldCrossValidation();
-		System.out.println(System.currentTimeMillis());		
-		it.univaq.disim.CrossRec.validation.Validator runner = new it.univaq.disim.CrossRec.validation.Validator();
-		runner.run();
+//		tenFoldCrossValidation(bayesian);
+		logger.info(System.currentTimeMillis());		
+		Validator validator = new Validator(srcDir, bayesian);
+		validator.run();
 	}
-	public void tenFoldCrossValidation() {
+	public void tenFoldCrossValidation(boolean bayesian) {
 		int step = (int)numOfProjects/10;								
 								
 		for(int i=0;i<10;i++) {
@@ -69,21 +76,24 @@ public class Runner {
 			
 			int k=i+1;
 			subFolder = "Round" + Integer.toString(k);			
-							
+	
+			logger.info("Computing similarities fold " + i);
 			SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
 					trainingStartPos1,
 					trainingEndPos1,
 					trainingStartPos2,
 					trainingEndPos2,
 					testingStartPos,
-					testingEndPos);
+					testingEndPos,
+					bayesian);
 			
 			calculator.computeWeightCosineSimilarity();
-			
-			RecommendationEngine engine = new RecommendationEngine(this.srcDir,this.subFolder,numOfNeighbours,testingStartPos,testingEndPos);
-			
+			logger.info("\tComputed similarities fold " + i);
+			logger.info("Computing recommendations fold " + i);
+			RecommendationEngine engine = new RecommendationEngine(this.srcDir,this.subFolder,numOfNeighbours,testingStartPos,testingEndPos, bayesian);
 //		    engine.ItemBasedRecommendation();					   		    
-			engine.UserBasedRecommendation();							
+			engine.userBasedRecommendation();	
+			logger.info("\tComputed recommendations fold " + i);
 		}
 		
 	}
@@ -91,8 +101,7 @@ public class Runner {
 	public static void main(String[] args) {	
 		Runner runner = new Runner();			
 		try {
-			String srcDir = loadConfigurations();
-			runner.run(srcDir);
+			runner.run(true);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

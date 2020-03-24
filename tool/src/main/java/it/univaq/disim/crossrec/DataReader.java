@@ -1,4 +1,4 @@
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,21 +8,34 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.stream.Collectors;
+
+import org.apache.log4j.Logger;
+
+import com.google.common.collect.ArrayListMultimap;
+import com.google.common.collect.Multimap;
+import com.google.common.collect.Sets;
 
 public class DataReader {
+	final static Logger logger = Logger.getLogger(DataReader.class);
 
-	public DataReader() {
+	private String srcDir;
 
+	public DataReader(String srcDir) {
+		this.srcDir = srcDir;
 	}
-	
+
 	public int getNumberOfProjects(String filename) {
 		int count = 0;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
-			while (reader.readLine() != null) count++;
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
+			while (reader.readLine() != null)
+				count++;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -37,8 +50,8 @@ public class DataReader {
 		String[] vals = null;
 		String line = "", uri = "";
 		int id = 0;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename));){
-			
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename));) {
+
 			while ((line = reader.readLine()) != null) {
 				line = line.trim();
 				vals = line.split("\t");
@@ -55,7 +68,7 @@ public class DataReader {
 
 		return ret;
 	}
-	
+
 	public Map<Integer, String> readProjectList(String filename, int startPos, int endPos) {
 		Map<Integer, String> ret = new HashMap<Integer, String>();
 		String line = "", repo = "";
@@ -89,12 +102,12 @@ public class DataReader {
 
 		return ret;
 	}
-	
+
 	public Map<Integer, String> readDictionary(String filename) {
 		Map<Integer, String> vector = new HashMap<Integer, String>();
 		String line = null;
 		String[] vals = null;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				int ID = Integer.parseInt(vals[0].trim());
@@ -121,9 +134,10 @@ public class DataReader {
 		int pos = filename.lastIndexOf(File.separator);
 		String fname = filename.substring(pos + 1, filename.length());
 		fname = fname.replace("dicth_", "");
-		
+
 		try (BufferedReader reader = new BufferedReader(new FileReader(filename));
-				BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(groundTruthPath, fname).toString()));){
+				BufferedWriter writer = new BufferedWriter(
+						new FileWriter(Paths.get(groundTruthPath, fname).toString()));) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				int ID = Integer.parseInt(vals[0].trim());
@@ -167,61 +181,80 @@ public class DataReader {
 		}
 		return ret;
 	}
+
+	private Multimap<String, String> eASEOutput = ArrayListMultimap.create();
+	public List<String> getEASETopic(String projectName, int n) {
+		if (eASEOutput.size()==0)
+			loadEASEOutput();
+		return eASEOutput.get(projectName).stream().limit(n).collect(Collectors.toList());
+	}
+	public void loadEASEOutput() {
+		String filename = Paths.get(this.srcDir, "training_data2.csv").toString();
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
+			String line;
+			while ((line = reader.readLine()) != null) {
+				String[] values = line.split(",");
+				String repoName = values[0].replace(".txt", "");
+				Arrays.asList(Arrays.copyOfRange(values, 1, values.length)).forEach(z -> eASEOutput.put(repoName, "#DEP#" + z.trim()));
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public Multimap<String, String> getEASEOutput(){
+		if (eASEOutput.size()==0)
+			loadEASEOutput();
+		return eASEOutput;
+	}
+
 	/**
-	 * Use the output from ESEM 
+	 * Use the output from ESEM
+	 * 
 	 * @param filename
 	 * @param groundTruthPath
 	 * @param getAlsoUsers
 	 * @return
 	 */
-	public Map<Integer, String> getOutputFromEASE(String filename, String groundTruthPath, boolean getAlsoUsers) {
+	public Map<Integer, String> extractEASEDictionary(String filename, int numberOfTopic, String groundTruthPath) {
+		if (eASEOutput.size()==0)
+			loadEASEOutput();
 		Map<Integer, String> dict = new HashMap<Integer, String>();
 		Map<Integer, String> ret = new HashMap<Integer, String>();
+		String reponame = filename.substring(filename.lastIndexOf(File.separator) + 1, filename.length())
+				.replace("dicth_", "").replace("__", "/");
+		List<String> topics = eASEOutput.get(reponame).stream().limit(numberOfTopic).collect(Collectors.toList());
+		reponame = "git://github.com/" + reponame;
+		ret.put(1, reponame);
+		int i = 2;
+		for (String topic : topics) {
+			ret.put(i, "#DEP#" + topic.trim());
+			i++;
+		}
 		String line = null;
 		String[] vals = null;
-		int half = 0;
-		int libCount = 0;
 		int pos = filename.lastIndexOf(File.separator);
 		String fname = filename.substring(pos + 1, filename.length());
 		fname = fname.replace("dicth_", "");
-		
 		try (BufferedReader reader = new BufferedReader(new FileReader(filename));
-				BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(groundTruthPath, fname).toString()));){
+				BufferedWriter writer = new BufferedWriter(new FileWriter(
+						Paths.get(groundTruthPath, fname).toString()))) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				int ID = Integer.parseInt(vals[0].trim());
 				String artifact = vals[1].trim();
-				dict.put(ID, artifact);
-				if (artifact.contains("#DEP#"))
-					libCount++;
+				if(artifact.startsWith("#DEP#"))
+						dict.put(ID, artifact);
 			}
-			int size = libCount;
 			Set<Integer> keySet = dict.keySet();
-			// TODO half
-			half = Math.round(size / 2);
-//			half = size > 1 ? 1 : size;
-			boolean enoughLib = false;
-			libCount = 0;
-
 			for (Integer key : keySet) {
 				String artifact = dict.get(key);
-				if (libCount == half)
-					enoughLib = true;
-				if (artifact.contains("#DEP#")) {
-					if (!enoughLib) {
-						ret.put(key, artifact);
-					} else {
-						String content = key + "\t" + artifact;
-						writer.append(content);
-						writer.newLine();
-						writer.flush();
-					}
-					libCount++;
-				} else {
-					/* put users into the dictionary */
-					if (getAlsoUsers || !artifact.contains("#DEP#"))
-						ret.put(key, artifact);
-				}
+				String content = key + "\t" + artifact;
+				writer.append(content);
+				writer.newLine();
+				writer.flush();
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -231,13 +264,12 @@ public class DataReader {
 		return ret;
 	}
 
-
 	public Set<String> getLibraries(String filename) {
-		Set<String> vector = new HashSet<String>();
+		Set<String> vector = Sets.newHashSet();
 		String line = null;
 		String[] vals = null;
 
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String library = vals[1].trim();
@@ -245,7 +277,7 @@ public class DataReader {
 					vector.add(library);
 			}
 		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+//			logger.error("File not found: " + filename);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -254,17 +286,14 @@ public class DataReader {
 
 	/* read the whole file */
 
-
-
-
 	public Map<Integer, String> getMostSimilarProjects(String filename, int size) {
 		Map<Integer, String> projects = new HashMap<Integer, String>();
 		String line = null;
 		String[] vals = null;
 		int count = 0;
 
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
-			
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
+
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String URI = vals[1].trim();
@@ -281,7 +310,6 @@ public class DataReader {
 
 		return projects;
 	}
-	
 
 	public Map<Integer, Double> getSimilarityMatrix(String filename, int size) {
 		Map<Integer, Double> sim = new HashMap<Integer, Double>();
@@ -308,14 +336,14 @@ public class DataReader {
 
 		return sim;
 	}
-	
+
 	/* read the whole file */
 	public Map<Integer, String> readRecommendationFile(String filename) {
 		Map<Integer, String> ret = new HashMap<Integer, String>();
 		String line = null;
 		String[] vals = null;
 		int id = 1;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String library = vals[0].trim();
@@ -334,7 +362,6 @@ public class DataReader {
 		return ret;
 	}
 
-	
 	public Map<Integer, String> readAllRecommendations(String filename) {
 		Map<Integer, String> ret = new HashMap<Integer, String>();
 		String line = null;
@@ -360,6 +387,7 @@ public class DataReader {
 
 		return ret;
 	}
+
 	public Set<String> readLongTailItems(String filename) {
 		Set<String> ret = new HashSet<String>();
 		String line = null;
@@ -385,8 +413,8 @@ public class DataReader {
 		String line = null;
 		String[] vals = null;
 		int count = 0;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename));){
-			
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename));) {
+
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String library = vals[0].trim();
@@ -409,8 +437,8 @@ public class DataReader {
 		String line = null;
 		String[] vals = null;
 
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename));){
-			
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename));) {
+
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String item = vals[0].trim();
@@ -430,7 +458,7 @@ public class DataReader {
 		Set<String> ret = new HashSet<String>();
 		String line = null;
 		String[] vals = null;
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename));){
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename));) {
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String library = vals[1].trim();
@@ -444,8 +472,6 @@ public class DataReader {
 		return ret;
 	}
 
-
-
 	/*
 	 * read ground-truth file including the rating given by users.
 	 */
@@ -456,8 +482,8 @@ public class DataReader {
 		String line = null;
 		String[] vals = null;
 
-		try (BufferedReader reader = new BufferedReader(new FileReader(filename))){
-			
+		try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
+
 			while ((line = reader.readLine()) != null) {
 				vals = line.split("\t");
 				String[] temp = vals[1].trim().split("%");
@@ -472,6 +498,5 @@ public class DataReader {
 		}
 		return ret;
 	}
-
 
 }

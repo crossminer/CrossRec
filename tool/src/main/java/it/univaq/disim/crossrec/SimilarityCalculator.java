@@ -1,4 +1,4 @@
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -13,6 +13,8 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
+import org.apache.log4j.Logger;
+
 import com.google.common.collect.Sets;
 
 public class SimilarityCalculator {
@@ -26,16 +28,18 @@ public class SimilarityCalculator {
 	private String groundTruth;
 	private String simDir;
 	private String subFolder;
-
+	final static Logger logger = Logger.getLogger(SimilarityCalculator.class);
 	private int trainingStartPos1;
 	private int trainingEndPos1;
 	private int trainingStartPos2;
 	private int trainingEndPos2;
 	private int testingStartPos;
 	private int testingEndPos;
+	private boolean bayesian;
+	private int numOfEASEInput = 5;
 
 	public SimilarityCalculator(String sourceDir, String subFolder, int trStartPos1, int trEndPos1, int trStartPos2,
-			int trEndPos2, int teStartPos, int teEndPos) {
+			int trEndPos2, int teStartPos, int teEndPos, boolean bayesian) {
 		this.srcDir = sourceDir;
 		this.subFolder = subFolder;
 		this.groundTruth = Paths.get(this.srcDir, this.subFolder, "GroundTruth").toString();
@@ -47,7 +51,7 @@ public class SimilarityCalculator {
 		this.trainingEndPos2 = trEndPos2;
 		this.testingStartPos = teStartPos;
 		this.testingEndPos = teEndPos;
-
+		this.bayesian = bayesian;
 	}
 
 	/*
@@ -57,7 +61,7 @@ public class SimilarityCalculator {
 
 	public void computeWeightCosineSimilarity() {
 
-		DataReader reader = new DataReader();
+		DataReader reader = new DataReader(this.srcDir);
 
 		Map<Integer, String> trainingProjects = new HashMap<Integer, String>();
 
@@ -134,38 +138,32 @@ public class SimilarityCalculator {
 
 		for (Integer keyTesting : keyTestingProjects) {
 			try {
-				/* reset the buffer */
 				allLibs = new HashSet<String>();
-				/* add all libraries from the training set */
 				allLibs.addAll(allTrainingLibs);
 				Graph combinedGraph = new Graph(graph);
 				Map<String, Double> sim = new HashMap<String, Double>();
 				testingPro = testingProjects.get(keyTesting);
 				filename = testingPro.replace("git://github.com/", "").replace("/", "__");
-				// filename = testingPro.replace("git://github.com/", "").replace(".git",
-				// "").replace("/", "__");
+
 				testingFilename = filename;
 				testingGraphFilename = Paths.get(this.srcDir, "graph_" + testingFilename).toString();
 				testingDictFilename = Paths.get(this.srcDir, "dicth_" + testingFilename).toString();
 
-				
 				testingLibs = new HashSet<String>();
-				testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers);
+
+				// TODO NOUVA INPUT FUNZIONE
+				testingDictionary = bayesian
+						? reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers)
+						: reader.extractEASEDictionary(testingDictFilename, this.numOfEASEInput, this.groundTruth);
+
 				testingLibs = Sets.newHashSet(testingDictionary.values());
 				testingLibs = testingLibs.stream().filter(z -> z.startsWith("#DEP#")).collect(Collectors.toSet());
 				allLibs.addAll(testingLibs);
 				testingGraph = new Graph(testingGraphFilename, testingDictionary);
 
-//				testingLibs = new HashSet<String>();
-//				testingLibs = reader.getHalfOfLibraries(testingDictFilename);
-//				allLibs.addAll(testingLibs);
-//				testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers);
-//				testingGraph = new Graph(testingGraphFilename, testingDictionary);
-
 				combinedGraph.combine(testingGraph, testingDictionary);
 				combinedDictionary = combinedGraph.getDictionary();
 
-				System.out.println("Similarity computation for " + testingPro);
 
 				graphEdges = combinedGraph.getOutLinks();
 				keySet = graphEdges.keySet();
@@ -199,8 +197,6 @@ public class SimilarityCalculator {
 
 				for (Integer keyTraining : keyTrainingProjects) {
 					trainingPro = trainingProjects.get(keyTraining);
-					// trainingFilename = trainingPro.replace("git://github.com/",
-					// "").replace(".git", "").replace("/", "__");
 					trainingFilename = trainingPro.replace("git://github.com/", "").replace("/", "__");
 					trainingDictFilename = Paths.get(this.srcDir, "dicth_" + trainingFilename).toString();
 					/* read all libraries for each project */
@@ -214,7 +210,7 @@ public class SimilarityCalculator {
 						libSet.add(lib);
 					int size = union.size();
 					if (size != libSet.size())
-						System.out.println("Something went wrong!");
+						logger.info("Something went wrong!");
 
 					/* Using Cosine Similarity */
 					double vector1[] = new double[size];
@@ -225,7 +221,7 @@ public class SimilarityCalculator {
 						String lib = libSet.get(i);
 						if (testingLibs.contains(lib)) {
 
-							// System.out.println("lib is: " + lib);
+							// logger.info("lib is: " + lib);
 
 							int libID = combinedDictionary.get(lib);
 							vector1[i] = libWeight.get(libID);
@@ -237,7 +233,7 @@ public class SimilarityCalculator {
 							vector2[i] = libWeight.get(libID);
 						} else
 							vector2[i] = 0;
-//						System.out.println(vector1[i] + ":" + vector2[i]);
+//						logger.info(vector1[i] + ":" + vector2[i]);
 					}
 					val = CosineSimilarity(vector1, vector2);
 					sim.put(keyTraining.toString(), val);

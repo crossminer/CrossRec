@@ -9,7 +9,8 @@
  *
  *************************************************************************/
 
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
+
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

@@ -1,17 +1,17 @@
-package it.univaq.disim.CrossRec.validation;
+package it.univaq.disim.crossrec.validation;
 
 import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Properties;
 import java.util.Set;
-import it.univaq.disim.CrossRec.DataReader;
+
+import org.apache.log4j.Logger;
+
+import it.univaq.disim.crossrec.DataReader;
 
 class ValueComparator implements Comparator<String> {
 
@@ -32,51 +32,34 @@ class ValueComparator implements Comparator<String> {
 }
 
 public class Validator {
+	final static Logger logger = Logger.getLogger(Validator.class);
 
 	private String srcDir;
 	private String subFolder;
 	private int numOfProjects;
 	private int numOfLibraries;
-	private static String _propFile = "evaluation.properties";
-	public Validator() {
-
-	}
-
-	private String loadConfigurations() throws FileNotFoundException, IOException {
-		Properties prop = new Properties();
-
-		prop.load(new FileInputStream(_propFile));
-		this.srcDir = prop.getProperty("sourceDirectory");
-
-		return this.srcDir;
+	private int numOfEASEInput;
+	private boolean bayesian;
+	public Validator(String srcDir, boolean bayesian) {
+		this.srcDir = srcDir;
+		this.bayesian = bayesian;
+		this.numOfLibraries = 20;
+		this.numOfEASEInput = 5;
 	}
 
 	public void run() {
-		System.out.println("Ten-fold cross validation");
-		try {
-			this.srcDir = loadConfigurations();;
-			DataReader reader = new DataReader();
-			String inputFile = "projects.txt";
-			numOfProjects = reader.getNumberOfProjects(Paths.get(this.srcDir, inputFile).toString());
-			numOfLibraries = 20;
-			computeEvaluationMetrics(inputFile);
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
+		logger.info("Ten-fold cross validation");
+		DataReader reader = new DataReader(this.srcDir);
+		String inputFile = "projects.txt";
+		numOfProjects = reader.getNumberOfProjects(Paths.get(this.srcDir, inputFile).toString());
+		computeEvaluationMetrics(inputFile);
 	}
-
 
 	public void computeEvaluationMetrics(String inputFile) {
 
 		int step = (int) numOfProjects / 10;
-
 		int cutOffValue = numOfLibraries;
-
 		double recallRate = 0;
-		
 		Map<String, Double> Vals = new HashMap<String, Double>();
 		String name = "EPC";
 
@@ -102,38 +85,45 @@ public class Validator {
 
 //			int numberOfNeighbours = 20;
 
-//			System.out.println("==============Catalog Coverage==============");					
+//			logger.info("==============Catalog Coverage==============");					
 //			metrics.CatalogCoverage();	
 //						
-//			System.out.println("==============Entropy==============");
+//			logger.info("==============Entropy==============");
 //			metrics.Entropy();
 //			
 //			
-//			System.out.println("==============EPC==============");
+//			logger.info("==============EPC==============");
 //			metrics.EPC();
 //
-//			System.out.println("==============Long tail==============");
+//			logger.info("==============Long tail==============");
 ////			metrics.LongTail();			
 //			metrics.nDCG();
+			if (this.bayesian) {
+				metrics.successRateB(numOfEASEInput);
+				metrics.computeAverageSuccessRateB();
+				metrics.precisionRecallB(numOfEASEInput);
+				metrics.computeAveragePrecisionRecallB();
+			}
+			
 			metrics.successRate();
 			metrics.successRateN();
-			metrics.PrecisionRecall();
-			recallRate += metrics.RecallRate();
-			metrics.computeAveragePrecisionRecall(inputFile);
-			metrics.computeAverageSuccessRateN(inputFile);
-			metrics.computeAverageSuccessRate(inputFile);
-			System.out.println("Average success rate: " + recallRate / 10);
+			metrics.precisionRecall();
+			recallRate += metrics.recallRate();
+			metrics.computeAveragePrecisionRecall();
+			metrics.computeAverageSuccessRateN();
+			metrics.computeAverageSuccessRate();
+			logger.info("Average success rate: " + recallRate / 10);
 
-			System.out.println("==============Catalog Coverage==============");
+			logger.info("==============Catalog Coverage==============");
 			metrics.CatalogCoverage();
 
-			System.out.println("==============Entropy==============");
-			metrics.Entropy();
+			logger.info("==============Entropy==============");
+			metrics.entropy();
 
-			System.out.println("==============EPC==============");
+			logger.info("==============EPC==============");
 			metrics.EPC();
 //
-			System.out.println("==============Long tail==============");
+			logger.info("==============Long tail==============");
 ////			metrics.LongTail();			
 			metrics.nDCG();
 
@@ -148,7 +138,7 @@ public class Validator {
 			name = "Entropy";
 			Vals.putAll(metrics.getSomeScores(cutOffValue, name));
 
-//			System.out.println("==============Entropy-based Novelty==============");
+//			logger.info("==============Entropy-based Novelty==============");
 //			EBN(testingStartPos, testingEndPos);
 
 		}
@@ -173,14 +163,6 @@ public class Validator {
 			e.printStackTrace();
 		}
 
-
 		return;
 	}
-
-
-	public static void main(String[] args) {
-		Validator runner = new Validator();
-		runner.run();
-	}
-
 }

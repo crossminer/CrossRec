@@ -1,4 +1,4 @@
-package it.univaq.disim.CrossRec.validation;
+package it.univaq.disim.crossrec.validation;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -14,18 +14,25 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import it.univaq.disim.CrossRec.DataReader;
+
+import org.apache.log4j.Logger;
+
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
 
+import it.univaq.disim.crossrec.DataReader;
+
 public class Metrics {
+	final static Logger logger = Logger.getLogger(Metrics.class);
 
 	private String srcDir;
 	private String groundTruth;
 	private String recDir;
 	private String resDir;
 	private String prDir;
+	private String prDirB;
 	private String succesRateDir;
+	private String succesRateDirB;
 	private String succesRateDirN;
 	private String fsDir;
 
@@ -37,6 +44,8 @@ public class Metrics {
 	private int trainingEndPos2;
 	private int testingStartPos;
 	private int testingEndPos;
+	private DataReader reader;
+	private Map<Integer, String> testingProjects;
 
 	public Metrics(int k, int numLibs, String srcDir, String subFolder, int trStartPos1, int trEndPos1, int trStartPos2,
 			int trEndPos2, int teStartPos, int teEndPos) {
@@ -47,26 +56,25 @@ public class Metrics {
 		this.groundTruth = Paths.get(this.srcDir, subFolder, "GroundTruth").toString();
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.prDir = Paths.get(this.srcDir, subFolder, "PrecisionRecall").toString();
+		this.prDirB = Paths.get(this.srcDir, subFolder, "PrecisionRecallB").toString();
 		this.succesRateDir = Paths.get(this.srcDir, subFolder, "SuccesRate").toString();
+		this.succesRateDirB = Paths.get(this.srcDir, subFolder, "SuccesRateB").toString();
 		this.succesRateDirN = Paths.get(this.srcDir, subFolder, "SuccesRateN").toString();
 		this.fsDir = Paths.get(this.srcDir, subFolder, "FScore" + "/").toString();
 		this.resDir = Paths.get(this.srcDir, "Results").toString();
-
+		this.reader = new DataReader(this.srcDir);
 		this.trainingStartPos1 = trStartPos1;
 		this.trainingEndPos1 = trEndPos1;
 		this.trainingStartPos2 = trStartPos2;
 		this.trainingEndPos2 = trEndPos2;
 		this.testingStartPos = teStartPos;
 		this.testingEndPos = teEndPos;
+		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
+				this.testingStartPos, this.testingEndPos);
 	}
 
-	public void MeanAbsoluteError() {
+	public void meanAbsoluteError() {
 
-		DataReader reader = new DataReader();
-
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(this.srcDir + "projects.txt", this.testingStartPos,
-				this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		Map<String, Double> recommendations = new HashMap<String, Double>();
@@ -104,7 +112,7 @@ public class Metrics {
 			if (groundtruth.size() != 0) {
 				Score = (double) Score / groundtruth.size();
 				results.put(Integer.toString(keyTesting), Score);
-				System.out.println(testingPro + " \t" + Score);
+				logger.info(testingPro + " \t" + Score);
 			}
 
 		}
@@ -128,13 +136,8 @@ public class Metrics {
 		return;
 	}
 
-	public double RecallRate() {
+	public double recallRate() {
 
-		DataReader reader = new DataReader();
-
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		/* Select top libraries */
@@ -163,7 +166,7 @@ public class Metrics {
 
 		try {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp2));
-			System.out.println(recallRate);
+			logger.info(recallRate);
 			writer.append(Double.toString(recallRate));
 			writer.newLine();
 			writer.flush();
@@ -179,14 +182,8 @@ public class Metrics {
 		return recallRate;
 	}
 
-	/**
-	 * **/
 	public void successRate() {
-		DataReader reader = new DataReader();
 
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		/* Select top libraries */
@@ -205,7 +202,6 @@ public class Metrics {
 			recommendationFile = reader.readRecommendationFile(groundTruthData);
 			groundTruthData = Paths.get(this.groundTruth, filename).toString();
 			groundTruthFile = reader.readGroundTruthFile(groundTruthData);
-
 
 			keySet = recommendationFile.keySet();
 			int size = 0;
@@ -250,12 +246,86 @@ public class Metrics {
 
 		return;
 	}
-	public void successRateN() {
-		DataReader reader = new DataReader();
 
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
+	public void successRateB(int numberOfTopicsFromEASE) {
+
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		/* Select top libraries */
+
+		Map<Integer, String> recommendationData = null;
+		Set<String> groundTruthData = null;
+		Set<Integer> keySet = null;
+
+		for (Integer keyTesting : keyTestingProjects) {
+
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+			String recFile = Paths.get(this.recDir, filename).toString();
+			List<String> eASETopic = reader.getEASETopic(testingPro, numberOfTopicsFromEASE);
+			recommendationData = reader.readRecommendationFile(recFile);
+			String groundTruthFile = Paths.get(this.groundTruth, filename).toString();
+			groundTruthData = reader.readGroundTruthFile(groundTruthFile);
+
+			keySet = recommendationData.keySet();
+			int size = 0;
+			int count = 1;
+			double f_score = 0;
+
+			Set<String> temp = new HashSet<String>();
+			eASETopic.forEach(z -> temp.add(z));
+			File successRateFolder = new File(this.succesRateDirB);
+			if (!successRateFolder.exists())
+				successRateFolder.mkdir();
+			String successRatePath = Paths.get(this.succesRateDirB, filename).toString();
+			try (BufferedWriter writer = new BufferedWriter(new FileWriter(successRatePath))) {
+				int i = 1;
+				Set<String> tempissiomo = Sets.newHashSet();
+				for (String element : eASETopic) {
+					tempissiomo.add(element);
+					Set<String> common = Sets.intersection(tempissiomo, groundTruthData);
+					size = common.size();
+					String content = i + "\t";
+					if (size == 0)
+						content = content + "0";
+					else
+						content = content + "1";
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					i++;
+
+				}
+
+				for (Integer key : keySet) {
+					temp.add(recommendationData.get(key));
+
+					Set<String> common = Sets.intersection(temp, groundTruthData);
+					size = common.size();
+					String content = (key + numberOfTopicsFromEASE) + "\t";
+					if (size == 0)
+						content = content + "0";
+					else
+						content = content + "1";
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					content = key + "\t" + f_score;
+					count++;
+					if (count > numLibs - numberOfTopicsFromEASE)
+						break;
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+
+		return;
+	}
+
+	public void successRateN() {
+
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		/* Select top libraries */
@@ -264,7 +334,6 @@ public class Metrics {
 		Set<String> groundTruthFile = null;
 		Set<String> temp = null;
 		Set<Integer> keySet = null;
-
 
 		for (Integer keyTesting : keyTestingProjects) {
 
@@ -289,8 +358,6 @@ public class Metrics {
 					successRateFolder.mkdir();
 				String successRatePath = Paths.get(this.succesRateDirN, filename).toString();
 				BufferedWriter writer = new BufferedWriter(new FileWriter(successRatePath));
-//				BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
-
 				for (Integer key : keySet) {
 					temp.add(recommendationFile.get(key));
 
@@ -319,50 +386,31 @@ public class Metrics {
 	 * 
 	 */
 
-	public void PrecisionRecall() {
-		DataReader reader = new DataReader();
-
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
+	public void precisionRecall() {
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
-
 		/* Select top libraries */
-
 		Map<Integer, String> recommendationFile = null;
 		Set<String> groundTruthFile = null;
 		Set<String> temp = null;
 		Set<Integer> keySet = null;
-
 		double precision = 0, recall = 0;
 		int totalOfRelevant = 0;
-
 		for (Integer keyTesting : keyTestingProjects) {
-
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			String tmp = Paths.get(this.recDir, filename).toString();
-
 			recommendationFile = reader.readRecommendationFile(tmp);
 			tmp = Paths.get(this.groundTruth, filename).toString();
 			groundTruthFile = reader.readGroundTruthFile(tmp);
-
 			totalOfRelevant = groundTruthFile.size();
-
 			keySet = recommendationFile.keySet();
 			int size = 0;
 			int count = 1;
 			double f_score = 0;
-
 			temp = new HashSet<String>();
-
 			try {
 				tmp = Paths.get(this.prDir, filename).toString();
-
 				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
-
-//				BufferedWriter writer2 = new BufferedWriter(new FileWriter(tmp2));
-
 				for (Integer key : keySet) {
 					temp.add(recommendationFile.get(key));
 
@@ -376,14 +424,12 @@ public class Metrics {
 					if (totalOfRelevant != 0) {
 						recall = (double) size / totalOfRelevant;
 					}
-
 					double val1 = 2 * recall * precision;
 					double val2 = recall + precision;
 					if (val1 != 0 && val2 != 0)
 						f_score = (2 * recall * precision) / (recall + precision);
 					else
 						f_score = 0;
-
 					String content = key + "\t" + recall + "\t" + precision;
 					writer.append(content);
 					writer.newLine();
@@ -397,17 +443,98 @@ public class Metrics {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
+		}
 
+		return;
+	}
+	
+	public void precisionRecallB(int numberOfTopicsFromEASE) {
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+		/* Select top libraries */
+		Map<Integer, String> recommendationFile = null;
+		Set<String> groundTruthData = null;
+		Set<Integer> keySet = null;
+		double precision = 0, recall = 0;
+		int totalOfRelevant = 0;
+		for (Integer keyTesting : keyTestingProjects) {
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+			String tmp = Paths.get(this.recDir, filename).toString();
+			recommendationFile = reader.readRecommendationFile(tmp);
+			tmp = Paths.get(this.groundTruth, filename).toString();
+			groundTruthData = reader.readGroundTruthFile(tmp);
+			totalOfRelevant = groundTruthData.size();
+			List<String> eASETopic = reader.getEASETopic(testingPro, numberOfTopicsFromEASE);
+			keySet = recommendationFile.keySet();
+			int size = 0;
+			int count = 1;
+			Set<String> temp = Sets.newHashSet();
+			eASETopic.forEach(z -> temp.add(z));
+			tmp = Paths.get(this.prDirB, filename).toString();
+			File successRateFolder = new File(this.prDirB);
+			if (!successRateFolder.exists())
+				successRateFolder.mkdir();
+			try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))){
+				/*
+				 * 
+				 */
+				int i = 1;
+				Set<String> tempissiomo = Sets.newHashSet();
+				for (String element : eASETopic) {
+					tempissiomo.add(element);
+					Set<String> common = Sets.intersection(tempissiomo, groundTruthData);
+					size = common.size();
+					precision = 0;
+					recall = 0;
+					if (i != 0) {
+						precision = (double) size / i;
+					}
+					if (totalOfRelevant != 0) {
+						recall = (double) size / totalOfRelevant;
+					}
+					String content = i + "\t" + recall + "\t" + precision;
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					i++;
+
+				}
+				
+				/*
+				 * 
+				 */
+				
+				for (Integer key : keySet) {
+					temp.add(recommendationFile.get(key));
+
+					Set<String> common = Sets.intersection(temp, groundTruthData);
+					size = common.size();
+					precision = 0;
+					recall = 0;
+					if (key != 0) {
+						precision = (double) size / (key + numberOfTopicsFromEASE);
+					}
+					if (totalOfRelevant != 0) {
+						recall = (double) size / totalOfRelevant;
+					}
+					String content = (key + numberOfTopicsFromEASE) + "\t" + recall + "\t" + precision;
+					writer.append(content);
+					writer.newLine();
+					writer.flush();
+					count++;
+					if (count > numLibs - numberOfTopicsFromEASE)
+						break;
+				}
+				writer.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 
 		return;
 	}
 
-	public void computeAveragePrecisionRecall(String inputFile) {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, inputFile).toString(), this.testingStartPos,
-				this.testingEndPos);
+	public void computeAveragePrecisionRecall() {
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		double precision = 0, recall = 0;
@@ -458,7 +585,7 @@ public class Metrics {
 		int size = testingProjects.size();
 		tmp = Paths.get(this.resDir, "PRC" + "_Round" + Integer.toString(fold)).toString();
 
-		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))){
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))) {
 			for (Integer key : keySet) {
 				precision = 0;
 				recall = 0;
@@ -479,21 +606,87 @@ public class Metrics {
 
 		return;
 	}
+
 	
+	public void computeAveragePrecisionRecallB() {
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		double precision = 0, recall = 0;
+		double val1 = 0, val2 = 0;
+		String tmp = "";
+
+		Map<Integer, Double> Precision = new HashMap<Integer, Double>();
+		Map<Integer, Double> Recall = new HashMap<Integer, Double>();
+
+		for (Integer keyTesting : keyTestingProjects) {
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+
+			tmp = Paths.get(this.prDirB, filename).toString();
+			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))){
+				String line = null;
+				String[] vals = null;
+				int id = 1;
+				while ((line = bufread.readLine()) != null) {
+					vals = line.split("\t");
+					recall = Double.parseDouble(vals[1].trim());
+					precision = Double.parseDouble(vals[2].trim());
+					if (Precision.containsKey(id)) {
+						val1 = Recall.get(id) + recall;
+						val2 = Precision.get(id) + precision;
+					} else {
+						val1 = recall;
+						val2 = precision;
+					}
+					Recall.put(id, val1);
+					Precision.put(id, val2);
+					id++;
+					if (id > numLibs)
+						break;
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+		double f_score = 0;
+		Set<Integer> keySet = Precision.keySet();
+		int size = testingProjects.size();
+		tmp = Paths.get(this.resDir, "PRCB" + "_Round" + Integer.toString(fold)).toString();
+
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))) {
+			for (Integer key : keySet) {
+				precision = 0;
+				recall = 0;
+				if (size != 0) {
+					recall = Recall.get(key) / size;
+					precision = Precision.get(key) / size;
+				}
+
+				String content = key + "\t" + recall + "\t" + precision;
+				writer.append(content);
+				writer.newLine();
+				writer.flush();
+				content = key + "\t" + f_score;
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		return;
+	}
+
 	private Map<Integer, Double> initSRMap() {
-		Map<Integer,Double> result = Maps.newHashMap();
-		for (int i=1; i<21; i++) {
+		Map<Integer, Double> result = Maps.newHashMap();
+		for (int i = 1; i < 21; i++) {
 			result.put(i, 0.0);
 		}
 		return result;
 	}
-	public void computeAverageSuccessRateN(String inputFile) {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, inputFile).toString(), this.testingStartPos,
-				this.testingEndPos);
-		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
+	public void computeAverageSuccessRateN() {
+		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		String tmp = "";
 
@@ -506,38 +699,38 @@ public class Metrics {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			tmp = Paths.get(this.succesRateDirN, filename).toString();
-			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))){
+			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))) {
 				String line = null;
 				String[] vals = null;
 				int id = 1;
-				
+
 				while ((line = bufread.readLine()) != null) {
-					double sr1 = successRateMap1.get(id), sr2 = successRateMap2.get(id),
-							sr3 = successRateMap3.get(id), sr4 = successRateMap4.get(id);
+					double sr1 = successRateMap1.get(id), sr2 = successRateMap2.get(id), sr3 = successRateMap3.get(id),
+							sr4 = successRateMap4.get(id);
 					double successRate1 = 0;
 					vals = line.split("\t");
 					successRate1 = Double.parseDouble(vals[1].trim());
 					if (successRateMap1.containsKey(id)) {
-						if(successRate1 == 1)
+						if (successRate1 == 1)
 							sr1 = successRateMap1.get(id) + 1;
-						
-						if(successRate1>1 & successRate1 < 3) {
+
+						if (successRate1 > 1 & successRate1 < 3) {
 							sr1 = successRateMap1.get(id) + 1;
 							sr2 = successRateMap2.get(id) + 1;
-							
+
 						}
-						if(successRate1>2 & successRate1 < 4) {
+						if (successRate1 > 2 & successRate1 < 4) {
 							sr1 = successRateMap1.get(id) + 1;
 							sr2 = successRateMap2.get(id) + 1;
 							sr3 = successRateMap3.get(id) + 1;
 						}
-						if(successRate1>3) {
+						if (successRate1 > 3) {
 							sr1 = successRateMap1.get(id) + 1;
 							sr2 = successRateMap2.get(id) + 1;
 							sr3 = successRateMap3.get(id) + 1;
 							sr4 = successRateMap4.get(id) + 1;
 						}
-						
+
 					}
 					successRateMap1.put(id, sr1);
 					successRateMap2.put(id, sr2);
@@ -557,8 +750,8 @@ public class Metrics {
 		int size = testingProjects.size();
 		tmp = Paths.get(this.resDir, "SR_STAR" + "_Round" + Integer.toString(fold)).toString();
 
-		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))){
-			
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))) {
+
 			for (Integer key : keySet) {
 				double successRate1 = 0;
 				double successRate2 = 0;
@@ -570,7 +763,8 @@ public class Metrics {
 					successRate3 = successRateMap3.get(key) / size;
 					successRate4 = successRateMap4.get(key) / size;
 				}
-				String content = String.format("%s\t%.03f\t%.03f\t%.03f\t%.03f	", key , successRate1, successRate2, successRate3, successRate4);
+				String content = String.format("%s\t%.03f\t%.03f\t%.03f\t%.03f	", key, successRate1, successRate2,
+						successRate3, successRate4);
 				writer.append(content);
 				writer.newLine();
 				writer.flush();
@@ -582,17 +776,73 @@ public class Metrics {
 
 		return;
 	}
-
-
-	public void computeAverageSuccessRate(String inputFile) {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, inputFile).toString(), this.testingStartPos,
-				this.testingEndPos);
+	
+	public void computeAverageSuccessRateB() {
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		double successRate = 0;
-		double  val2 = 0;
+		double val2 = 0;
+
+		Map<Integer, Double> successRateMap = new HashMap<Integer, Double>();
+
+		for (Integer keyTesting : keyTestingProjects) {
+
+			String testingPro = testingProjects.get(keyTesting);
+			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
+			String successRateFile = Paths.get(this.succesRateDirB, filename).toString();
+			try (BufferedReader bufread = new BufferedReader(new FileReader(successRateFile))) {
+				String line = null;
+				String[] vals = null;
+				int id = 1;
+
+				while ((line = bufread.readLine()) != null) {
+					vals = line.split("\t");
+					successRate = Double.parseDouble(vals[1].trim());
+					if (successRateMap.containsKey(id))
+						val2 = successRateMap.get(id) + successRate;
+					else val2 = successRate;
+					successRateMap.put(id, val2);
+					id++;
+					if (id > numLibs)
+						break;
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+		}
+		double f_score = 0;
+		Set<Integer> keySet = successRateMap.keySet();
+		int size = testingProjects.size();
+		String successRateAgrregatedResult = Paths.get(this.resDir, "SRB" + "_Round" + Integer.toString(fold)).toString();
+
+		try {
+			BufferedWriter writer = new BufferedWriter(new FileWriter(successRateAgrregatedResult));
+			for (Integer key : keySet) {
+				successRate = 0;
+				if (size != 0) {
+					successRate = successRateMap.get(key) / size;
+				}
+
+				String content = key + "\t" + successRate + "\t";
+				writer.append(content);
+				writer.newLine();
+				writer.flush();
+				content = key + "\t" + f_score;
+			}
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		return;
+	}
+
+	public void computeAverageSuccessRate() {
+		Set<Integer> keyTestingProjects = testingProjects.keySet();
+
+		double successRate = 0;
+		double val2 = 0;
 		String tmp = "";
 
 		Map<Integer, Double> successRateMap = new HashMap<Integer, Double>();
@@ -601,7 +851,7 @@ public class Metrics {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 			tmp = Paths.get(this.succesRateDir, filename).toString();
-			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))){
+			try (BufferedReader bufread = new BufferedReader(new FileReader(tmp))) {
 				String line = null;
 				String[] vals = null;
 				int id = 1;
@@ -649,10 +899,6 @@ public class Metrics {
 	}
 
 	public Map<String, Double> getFScores(int cutOffValue) {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(this.srcDir + "projects.txt", this.testingStartPos,
-				this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		double f_score = 0;
@@ -694,10 +940,6 @@ public class Metrics {
 	}
 
 	public void getPrecisionRecallScores(int cutOffValue, Map<String, Double> Recall, Map<String, Double> Precision) {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(this.srcDir + "projects.txt", this.testingStartPos,
-				this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		double precision = 0, recall = 0;
@@ -754,7 +996,7 @@ public class Metrics {
 			while ((line = bufread.readLine()) != null) {
 				if (id == cutOffValue) {
 					val = Double.parseDouble(line.trim());
-					System.out.println(val);
+					logger.info(val);
 					Vals.put(tmp, val);
 					break;
 				}
@@ -770,7 +1012,6 @@ public class Metrics {
 
 	public Set<String> getAllItems() {
 		Set<String> allItems = new HashSet<String>();
-		DataReader reader = new DataReader();
 		String trainingDictFilename = "";
 		String trainingPro = "", filename = "";
 
@@ -793,12 +1034,8 @@ public class Metrics {
 
 	public void CatalogCoverage() {
 
-		DataReader reader = new DataReader();
 		Map<Integer, Map<Integer, String>> map = new HashMap<Integer, Map<Integer, String>>();
 
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(), testingStartPos,
-				testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		Set<String> allItems = new HashSet<String>();
 
@@ -859,14 +1096,14 @@ public class Metrics {
 		}
 
 		int size2 = allItems.size();
-		System.out.println("The number of items available: " + size2);
+		logger.info("The number of items available: " + size2);
 		String tmp2 = Paths.get(this.resDir, "Catalog" + "_Round" + Integer.toString(fold)).toString();
 		try {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp2));
 			for (int i = 0; i < size; i++) {
 				int index = sortedList.get(i);
 				double coverage = (double) 100 * topN.get(index).size() / size2;
-				System.out.println(coverage);
+				logger.info(coverage);
 				writer.append(Double.toString(coverage));
 				writer.newLine();
 				writer.flush();
@@ -882,7 +1119,7 @@ public class Metrics {
 
 	/* Compute the long tail items */
 
-	public double LongTail(int N, Set<String> longTailItems, Map<String, Map<Integer, String>> rec) {
+	public double longTail(int N, Set<String> longTailItems, Map<String, Map<Integer, String>> rec) {
 
 		Set<String> testPros = rec.keySet();
 		Map<String, Integer> allRecs = new HashMap<String, Integer>();
@@ -911,7 +1148,7 @@ public class Metrics {
 			}
 		}
 
-		System.out.println("total is: " + total);
+		logger.info("total is: " + total);
 
 		int count = 0;
 		Set<String> keySet2 = allRecs.keySet();
@@ -923,11 +1160,8 @@ public class Metrics {
 		return longtail;
 	}
 
-	public void LongTail() {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
+	public void longTail() {
+
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		Set<String> longTailItems = reader.readLongTailItems("/home/utente/Documents/Journals/EMSE/Longtail.txt");
 
@@ -951,7 +1185,7 @@ public class Metrics {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
 
 			for (int i = 1; i <= numLibs; i++) {
-				double longtail = LongTail(i, longTailItems, rec);
+				double longtail = longTail(i, longTailItems, rec);
 				writer.append(Double.toString(longtail));
 				writer.newLine();
 				writer.flush();
@@ -983,7 +1217,6 @@ public class Metrics {
 			for (int i = 1; i <= N; i++) {
 				if (groundTruth.contains(tmp.get(i))) {
 					relevances.put(i, 1);
-//					System.out.println(tmp.get(i));
 				} else
 					relevances.put(i, 0);
 			}
@@ -1009,24 +1242,18 @@ public class Metrics {
 			for (int i = 1; i <= N; i++) {
 				int rel = idealRelevances.get(i);
 				double val = Math.log(i + 1) / Math.log(2);
-//				System.out.println("val is: "+ val);
 				if (rel != 0 && val != 0)
 					iDCG += (double) rel / val;
 			}
-			//
 			double ret = 0;
 			if (nDCG != 0 && iDCG != 0)
 				ret = (double) nDCG / iDCG;
 			else
 				ret = 0;
-
-//			System.out.println("nDCG " + nDCG + " iDCG " + iDCG + " result: " + ret);
-
 			NDCG += (double) ret;
 		}
 
 		/* get the average nDCG score for all testing projects */
-//		System.out.println("the nDCG values is: " + NDCG);
 		return (double) NDCG / testPros.size();
 	}
 
@@ -1034,10 +1261,6 @@ public class Metrics {
 
 	public void nDCG() {
 
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		/* Select top libraries */
@@ -1065,7 +1288,6 @@ public class Metrics {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
 
 			for (int i = 1; i <= numLibs; i++) {
-//				System.out.println("i is: "+i);
 				double ndcg = nDCG(i, rec, gt);
 				writer.append(Double.toString(ndcg));
 				writer.newLine();
@@ -1079,7 +1301,7 @@ public class Metrics {
 		return;
 	}
 
-	public double Entropy(Set<String> allItems, Map<Integer, Map<Integer, String>> rec, int N) {
+	public double entropy(Set<String> allItems, Map<Integer, Map<Integer, String>> rec, int N) {
 
 		Map<Integer, String> recommendations = null;
 		Set<Integer> keySet = rec.keySet();
@@ -1094,9 +1316,7 @@ public class Metrics {
 
 			Set<Integer> keySet2 = recommendations.keySet();
 			Set<String> set = new HashSet<String>();
-
 			int count2 = 0;
-
 			for (Integer key2 : keySet2) {
 				set.add(recommendations.get(key2));
 				count2++;
@@ -1132,22 +1352,13 @@ public class Metrics {
 
 	/* Entropy: Main function */
 
-	public void Entropy() {
+	public void entropy() {
 
-		DataReader reader = new DataReader();
-
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(), testingStartPos,
-				testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		Set<String> allItems = getAllItems();
-
 		String filename = "";
-
 		Map<Integer, String> recommendations = null;
-
 		/* the overall number of top-N recommendations across all users */
-
 		Map<Integer, Map<Integer, String>> rec = new HashMap<Integer, Map<Integer, String>>();
 
 		for (Integer keyTesting : keyTestingProjects) {
@@ -1167,12 +1378,12 @@ public class Metrics {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(tmp2));
 
 			for (int i = 1; i <= numLibs; i++) {
-				entropy = Entropy(allItems, rec, i);
+				entropy = entropy(allItems, rec, i);
 				content = Double.toString(entropy);
 				writer.append(content);
 				writer.newLine();
 				writer.flush();
-				System.out.println(entropy);
+				logger.info(entropy);
 			}
 			writer.close();
 		} catch (IOException e) {
@@ -1180,26 +1391,16 @@ public class Metrics {
 		}
 
 		// entropy = Entropy(allItems, rec, 50, total);
-		// System.out.println("Entropy: " + entropy);
 
 		return;
 	}
 
 	public void EPC() {
-		DataReader reader = new DataReader();
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
-		// Set<String> longTailItems =
-		// reader.readLongTailItems("/home/utente/Documents/Journals/EMSE/Longtail.txt");
-
 		/* Select top libraries */
 		Map<Integer, String> recommendations = null;
 		Map<String, Map<Integer, String>> rec = new HashMap<String, Map<Integer, String>>();
-
 		/* Read all files here and provide input for the LongTail() function */
-
 		for (Integer keyTesting : keyTestingProjects) {
 			String testingPro = testingProjects.get(keyTesting);
 			String filename = testingPro.replace("git://github.com/", "").replace("/", "__");
@@ -1228,7 +1429,6 @@ public class Metrics {
 	}
 
 	public double EPC(int N, Map<String, Map<Integer, String>> rec) {
-		DataReader reader = new DataReader();
 
 		Set<String> groundTruthFile = null;
 		double val1 = 0, val2 = 0;
@@ -1274,11 +1474,7 @@ public class Metrics {
 	public Map<String, Double> popularity() {
 
 		Map<String, Double> pop = new HashMap<String, Double>();
-		DataReader reader = new DataReader();
 
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		Map<Integer, String> recommendations = null;
 		Set<Integer> keySet = null;
@@ -1293,7 +1489,6 @@ public class Metrics {
 			for (Integer key : keySet) {
 				double val = 0;
 				String lib = recommendations.get(key);
-				/* count the number of occurrence of a library */
 				if (pop.containsKey(lib))
 					val = pop.get(lib) + 1;
 				else
@@ -1310,7 +1505,6 @@ public class Metrics {
 
 		for (String lib : libraries) {
 			double val = pop.get(lib) / max;
-//			System.out.println(lib + "\t" + pop.get(lib) + "\t" + max);
 			pop.put(lib, val);
 		}
 
@@ -1320,11 +1514,7 @@ public class Metrics {
 	public Map<String, Double> frequency() {
 
 		Map<String, Double> pop = new HashMap<String, Double>();
-		DataReader reader = new DataReader();
 
-		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
-		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
-				this.testingStartPos, this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		Map<Integer, String> recommendations = null;
 		Set<Integer> keySet = null;
@@ -1356,15 +1546,11 @@ public class Metrics {
 //			double val = pop.get(lib);			
 //			pop.put(lib, val);			
 //		}	
-
 		return pop;
 	}
 
 	/* Novelty: Entropy-based Novelty EBN@N */
-
 	public double EBN(int startPos, int endPos) {
-
-		DataReader reader = new DataReader();
 
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
 		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(), startPos, endPos);
@@ -1402,11 +1588,7 @@ public class Metrics {
 			sortedList = new ArrayList<Integer>(keySet);
 			Collections.sort(sortedList);
 			size = sortedList.size();
-
-//			System.out.println("Size is: " + allRecs.size());
-
 			double tmp1 = 0;
-
 			for (int i = 0; i < size; i++) {
 				int index = sortedList.get(i);
 				String lib = recommendations.get(index);
@@ -1421,16 +1603,14 @@ public class Metrics {
 				}
 
 				tmp2 = (double) tmp2 / testingProjects.size();
-//				System.out.println("tmp2: " + tmp2);				
 				if (tmp2 != 0)
 					tmp1 += (0 - 1) * tmp2 * Math.log(tmp2) / Math.log(2);
 			}
 			ebn += tmp1;
-//			System.out.println(tmp1);
 		}
 
 		double ret = (double) ebn / keyTestingProjects.size();
-		System.out.println("EBN is: " + ret);
+		logger.info("EBN is: " + ret);
 		return ret;
 	}
 

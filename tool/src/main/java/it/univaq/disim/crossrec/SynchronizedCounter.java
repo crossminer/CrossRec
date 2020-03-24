@@ -1,4 +1,5 @@
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
+
 
 public class SynchronizedCounter {
     private int c = -1;

@@ -1,4 +1,4 @@
-package it.univaq.disim.CrossRec;
+package it.univaq.disim.crossrec;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -13,6 +13,8 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
+import org.apache.log4j.Logger;
+
 import com.google.common.collect.Sets;
 
 public class RecommendationEngine {
@@ -21,7 +23,7 @@ public class RecommendationEngine {
 	private String simDir;
 	private String recDir;
 	private String subFolder;
-
+	private boolean baesyan;
 	private int testingStartPos;
 	private int testingEndPos;
 
@@ -29,23 +31,28 @@ public class RecommendationEngine {
 	private int numOfRows;
 	private int numOfCols;
 	private String groundTruth;
+	private DataReader reader;
+	private int numOfEASEInput = 5;
+	final static Logger logger = Logger.getLogger(RecommendationEngine.class);
 
-	public RecommendationEngine(String sourceDir, String suFolder, int numOfNeighbours, int teStartPos, int teEndPos) {
+	public RecommendationEngine(String sourceDir, String suFolder, int numOfNeighbours, int teStartPos, int teEndPos,
+			boolean baesyan) {
 		this.srcDir = sourceDir;
 		this.subFolder = suFolder;
 		this.numOfNeighbours = numOfNeighbours;
 		this.recDir = Paths.get(this.srcDir, subFolder, "Recommendations").toString();
 		this.simDir = Paths.get(this.srcDir, subFolder, "Similarities").toString();
 		this.groundTruth = Paths.get(this.srcDir, subFolder, "GroundTruth").toString();
-		
+		reader = new DataReader(srcDir);
 		this.testingStartPos = teStartPos;
 		this.testingEndPos = teEndPos;
+		this.baesyan = baesyan;
+		
 	}
 
 	public double[][] buildUserItemMatrix(String testingPro, List<String> libSet) {
 
-		double UserItemMatrix[][] = null;
-		DataReader reader = new DataReader();
+		double userItemMatrix[][] = null;
 
 		String testingFilename = "";
 		Set<String> testingLibs = null;
@@ -57,7 +64,6 @@ public class RecommendationEngine {
 		Set<String> libs = new HashSet<String>();
 		Map<Integer, String> simProjects = new HashMap<Integer, String>();
 
-		System.out.println("CrossRec is computing recommendations for " + testingPro);
 		// filename = testingPro.replace("git://github.com/", "").replace(".git",
 		// "").replace("/", "__");
 		filename = testingPro.replace("git://github.com/", "").replace("/", "__");
@@ -66,13 +72,13 @@ public class RecommendationEngine {
 		testingFilename = testingPro.replace("git://github.com/", "").replace("/", "__");
 		testingDictFilename = Paths.get(this.srcDir, "dicth_" + testingFilename).toString();
 		testingLibs = new HashSet<String>();
-		
-		
-		Map<Integer, String> testingDictionary = reader.extractHalfDictionary(testingDictFilename, this.groundTruth, false);
-//		Map<Integer, String> testingDictionary = reader.getOutputFromEASE(testingDictFilename, this.groundTruth, false);
+
+		// TODO NOUVA INPUT FUNZIONE
+		Map<Integer, String> testingDictionary = !this.baesyan
+				? reader.extractHalfDictionary(testingDictFilename, this.groundTruth, false)
+				: reader.extractEASEDictionary(testingDictFilename, numOfEASEInput, this.groundTruth);
 		testingLibs = Sets.newHashSet(testingDictionary.values());
 		testingLibs = testingLibs.stream().filter(z -> z.startsWith("#DEP#")).collect(Collectors.toSet());
-		
 
 		String tmp = Paths.get(this.simDir, filename).toString();
 		simProjects = reader.getMostSimilarProjects(tmp, numOfNeighbours);
@@ -106,16 +112,16 @@ public class RecommendationEngine {
 		/* Number of libraries */
 		this.numOfCols = libraries.size();
 
-		UserItemMatrix = new double[this.numOfRows][this.numOfCols];
+		userItemMatrix = new double[this.numOfRows][this.numOfCols];
 
 		/* assign the user-item matrix */
 		for (int i = 0; i < numOfNeighbours; i++) {
 			Set<String> tmpLibs = allNeighbourLibs.get(i);
 			for (int j = 0; j < this.numOfCols; j++) {
 				if (tmpLibs.contains(libSet.get(j))) {
-					UserItemMatrix[i][j] = 1.0;
+					userItemMatrix[i][j] = 1.0;
 				} else
-					UserItemMatrix[i][j] = 0;
+					userItemMatrix[i][j] = 0;
 			}
 		}
 
@@ -128,9 +134,9 @@ public class RecommendationEngine {
 		for (int j = 0; j < this.numOfCols; j++) {
 			String str = libSet.get(j);
 			if (tmpLibs.contains(str))
-				UserItemMatrix[numOfNeighbours][j] = 1.0;
+				userItemMatrix[numOfNeighbours][j] = 1.0;
 			else
-				UserItemMatrix[numOfNeighbours][j] = -1.0;
+				userItemMatrix[numOfNeighbours][j] = -1.0;
 
 		}
 
@@ -143,7 +149,7 @@ public class RecommendationEngine {
 		 * library set, so it is 1
 		 */
 
-		return UserItemMatrix;
+		return userItemMatrix;
 	}
 
 	/*
@@ -151,9 +157,8 @@ public class RecommendationEngine {
 	 * collaborative-filtering techniques
 	 */
 
-	public void UserBasedRecommendation() {
+	public void userBasedRecommendation() {
 
-		DataReader reader = new DataReader();
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
 		testingProjects = reader.readProjectList(Paths.get(this.srcDir, "projects.txt").toString(),
 				this.testingStartPos, this.testingEndPos);
@@ -192,7 +197,7 @@ public class RecommendationEngine {
 						val2 += (UserItemMatrix[k][j] - tmpRating) * similarities.get(k);
 					}
 					recommendations.put(Integer.toString(j), avgRating + val2 / val1);
-//					System.out.println(val2 + "\t" + val1);
+//					logger.info(val2 + "\t" + val1);
 				}
 			}
 
@@ -230,7 +235,6 @@ public class RecommendationEngine {
 
 	public void newItemBasedRecommendation() {
 
-		DataReader reader = new DataReader();
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
 		testingProjects = reader.readProjectList(this.srcDir + "projects.txt", testingStartPos, testingEndPos);
 
@@ -275,7 +279,7 @@ public class RecommendationEngine {
 
 					avgItemRating = (double) avgItemRating / count;
 
-//					System.out.println("avg Item rating is: " + avgItemRating);
+//					logger.info("avg Item rating is: " + avgItemRating);
 
 					for (int k = 0; k < N; k++) {
 						if ((k != j) && UserItemMatrix[numOfNeighbours][k] != -1) {
@@ -298,14 +302,14 @@ public class RecommendationEngine {
 
 							sim = (double) Math.sqrt(v1) / (Math.sqrt(v2) + Math.sqrt(v3));
 
-							System.out.println("Sim is: " + UserItemMatrix[numOfNeighbours][k]);
+							logger.info("Sim is: " + UserItemMatrix[numOfNeighbours][k]);
 
 							tmp1 += sim * (UserItemMatrix[numOfNeighbours][k] - avgUserRating);
 							tmp2 += sim;
 
 						}
 					}
-//					System.out.println(tmp1 + "\t" + tmp2);
+//					logger.info(tmp1 + "\t" + tmp2);
 
 					double val = 0;
 					if (tmp1 != 0 && tmp2 != 0)
@@ -351,7 +355,6 @@ public class RecommendationEngine {
 
 	public void ItemBasedRecommendation() {
 
-		DataReader reader = new DataReader();
 		Map<Integer, String> testingProjects = new HashMap<Integer, String>();
 		testingProjects = reader.readProjectList(this.srcDir + "projects.txt", testingStartPos, testingEndPos);
 
@@ -399,7 +402,7 @@ public class RecommendationEngine {
 							/* calculate the similarity between two items */
 							sim = CosineSimilarity(vector1, vector2);
 							tmp1 += sim * (UserItemMatrix[numOfNeighbours][k] - avgUserRating);
-//							System.out.println("average user rating: " + avgUserRating);
+//							logger.info("average user rating: " + avgUserRating);
 							tmp2 += sim;
 						}
 					}
@@ -409,7 +412,7 @@ public class RecommendationEngine {
 					else
 						val = 0;
 
-//					System.out.println(tmp1 + "\t" + tmp2);
+//					logger.info(tmp1 + "\t" + tmp2);
 
 					val += avgItemRating;
 					recommendations.put(Integer.toString(j), val);

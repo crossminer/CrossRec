@@ -47,7 +47,7 @@ public class RecommendationEngine {
 		this.testingStartPos = teStartPos;
 		this.testingEndPos = teEndPos;
 		this.baesyan = baesyan;
-		
+
 	}
 
 	public double[][] buildUserItemMatrix(String testingPro, List<String> libSet) {
@@ -209,17 +209,26 @@ public class RecommendationEngine {
 			// filename = testingPro.replace("git://github.com/", "").replace(".git",
 			// "").replace("/", "__");
 			filename = testingPro.replace("git://github.com/", "").replace("/", "__");
-
-			try {
-				tmp = Paths.get(this.recDir, filename).toString();
-				BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
+			tmp = Paths.get(this.recDir, filename).toString();
+			try (BufferedWriter writer = new BufferedWriter(new FileWriter(tmp))) {
+				if (baesyan) {
+					Map<Integer, String> easeTopic = reader.extractEASEDictionary(
+							Paths.get(this.srcDir, "dicth_" + filename).toString(), this.numOfEASEInput,
+							this.groundTruth);
+					easeTopic.remove(1);
+					for(String v : easeTopic.values()) {
+						String content = v + "\t2";
+						writer.write(content);
+						writer.newLine();
+						writer.flush();
+					}
+				}
 				for (String key : keySet2) {
 					String content = libSet.get(Integer.parseInt(key)) + "\t" + recommendations.get(key);
-					writer.append(content);
+					writer.write(content);
 					writer.newLine();
 					writer.flush();
 				}
-				writer.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}

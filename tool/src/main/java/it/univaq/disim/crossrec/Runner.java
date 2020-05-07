@@ -57,7 +57,7 @@ public class Runner {
 		this.srcDir = srcDir;
 		DataReader dr = new DataReader(srcDir);
 		numOfProjects = dr.getNumberOfProjects(Paths.get(this.srcDir, "projects.txt").toString());		
-//		tenFoldCrossValidation(bayesian);
+		tenFoldCrossValidation(bayesian);
 		logger.info(System.currentTimeMillis());		
 		Validator validator = new Validator(srcDir, bayesian);
 		validator.run();
@@ -101,7 +101,7 @@ public class Runner {
 	public static void main(String[] args) {	
 		Runner runner = new Runner();			
 		try {
-			runner.run(true);
+			runner.run(false);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

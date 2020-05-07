@@ -1032,7 +1032,7 @@ public class Metrics {
 		return allItems;
 	}
 
-	public void CatalogCoverage() {
+	public void catalogCoverage() {
 
 		Map<Integer, Map<Integer, String>> map = new HashMap<Integer, Map<Integer, String>>();
 
@@ -1104,7 +1104,7 @@ public class Metrics {
 				int index = sortedList.get(i);
 				double coverage = (double) 100 * topN.get(index).size() / size2;
 				logger.info(coverage);
-				writer.append(Double.toString(coverage));
+				writer.append(i+1 + "\t" + Double.toString(coverage));
 				writer.newLine();
 				writer.flush();
 				if (i == numLibs)

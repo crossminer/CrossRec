@@ -23,7 +23,7 @@ public class TestClass {
 	@Test
 	public void bayesianValidator() {
 		BayeisanValidator be = new BayeisanValidator(path);
-		be.precision();
+		be.coverage();
 		
 	}
 	

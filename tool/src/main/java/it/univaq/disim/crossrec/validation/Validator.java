@@ -40,6 +40,7 @@ public class Validator {
 	private int numOfLibraries;
 	private int numOfEASEInput;
 	private boolean bayesian;
+	private static final String inputFile = "projects.txt";
 	public Validator(String srcDir, boolean bayesian) {
 		this.srcDir = srcDir;
 		this.bayesian = bayesian;
@@ -50,7 +51,6 @@ public class Validator {
 	public void run() {
 		logger.info("Ten-fold cross validation");
 		DataReader reader = new DataReader(this.srcDir);
-		String inputFile = "projects.txt";
 		numOfProjects = reader.getNumberOfProjects(Paths.get(this.srcDir, inputFile).toString());
 		computeEvaluationMetrics(inputFile);
 	}
@@ -115,7 +115,7 @@ public class Validator {
 			logger.info("Average success rate: " + recallRate / 10);
 
 			logger.info("==============Catalog Coverage==============");
-			metrics.CatalogCoverage();
+			metrics.catalogCoverage();
 
 			logger.info("==============Entropy==============");
 			metrics.entropy();

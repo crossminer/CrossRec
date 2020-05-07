@@ -83,7 +83,6 @@ public class SimilarityCalculator {
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 
 		String trainingPro = "", testingPro = "", content = "";
-		String testingFilename = "";
 		String trainingFilename = "";
 
 		Set<String> testingLibs = null;
@@ -145,14 +144,13 @@ public class SimilarityCalculator {
 				testingPro = testingProjects.get(keyTesting);
 				filename = testingPro.replace("git://github.com/", "").replace("/", "__");
 
-				testingFilename = filename;
-				testingGraphFilename = Paths.get(this.srcDir, "graph_" + testingFilename).toString();
-				testingDictFilename = Paths.get(this.srcDir, "dicth_" + testingFilename).toString();
+				testingGraphFilename = Paths.get(this.srcDir, "graph_" + filename).toString();
+				testingDictFilename = Paths.get(this.srcDir, "dicth_" + filename).toString();
 
 				testingLibs = new HashSet<String>();
 
 				// TODO NOUVA INPUT FUNZIONE
-				testingDictionary = bayesian
+				testingDictionary = !bayesian
 						? reader.extractHalfDictionary(testingDictFilename, this.groundTruth, getAlsoUsers)
 						: reader.extractEASEDictionary(testingDictFilename, this.numOfEASEInput, this.groundTruth);
 

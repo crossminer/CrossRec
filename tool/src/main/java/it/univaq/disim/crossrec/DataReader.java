@@ -230,7 +230,7 @@ public class DataReader {
 		ret.put(1, reponame);
 		int i = 2;
 		for (String topic : topics) {
-			ret.put(i, "#DEP#" + topic.trim());
+			ret.put(i, topic.trim());
 			i++;
 		}
 		String line = null;

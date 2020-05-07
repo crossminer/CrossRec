@@ -56,18 +56,39 @@ public class BayeisanValidator {
 				SetView<String> intersec = Sets.intersection(iList, realTopics);
 				precision.put(i, precision.get(i) + intersec.size() / (i * 1.0));
 				recall.put(i, recall.get(i) + (intersec.size() / (1.0 * realTopics.size())));
-				successRate.put(i, successRate.get(i) + (intersec.size()>0?1:0));
+				successRate.put(i, successRate.get(i) + (intersec.size() > 0 ? 1 : 0));
 			}
 		}
 		for (int i = 1; i < 21; i++) {
-			precision.put(i, precision.get(i)/real.keySet().size());
-			recall.put(i, recall.get(i)/real.keySet().size());
-			successRate.put(i, successRate.get(i)/real.keySet().size());
+			precision.put(i, precision.get(i) / real.keySet().size());
+			recall.put(i, recall.get(i) / real.keySet().size());
+			successRate.put(i, successRate.get(i) / real.keySet().size());
 		}
-		for(int i = 1; i < 21; i++) logger.info("PR: " + precision.get(i));
-		for(int i = 1; i < 21; i++) logger.info("REC: " + recall.get(i));
-		for(int i = 1; i < 21; i++) logger.info("SR: " + successRate.get(i));
+		for (int i = 1; i < 21; i++)
+			logger.info("PR: " + precision.get(i));
+		for (int i = 1; i < 21; i++)
+			logger.info("REC: " + recall.get(i));
+		for (int i = 1; i < 21; i++)
+			logger.info("SR: " + successRate.get(i));
 
+	}
+
+	public void coverage() {
+		Set<String> allTopics = Sets.newHashSet();
+		Multimap<Integer, String> coverage = HashMultimap.create();
+		Multimap<String, String> realTopic = getRealRepoTopic();
+		Multimap<String, String> eASEResult = reader.getEASEOutput();
+		realTopic.keySet().forEach(z -> allTopics.addAll(realTopic.get(z)));
+		for (String reponame : realTopic.keySet()) {
+			List<String> reporesult = Lists.newArrayList(eASEResult.get(reponame));
+			for (int i = 1; i < 21; i++) {
+				Set<String> iList = Sets.newHashSet(reporesult.subList(0, i));
+				coverage.putAll(i, iList);
+			}
+		}
+		for (int i = 1; i < 21; i++)
+			logger.info("COVERAGE " + i + ": " + (coverage.get(i).size() / (allTopics.size() * 1.0)) * 100);
+		return;
 	}
 
 	private Map<Integer, Double> initMap() {
